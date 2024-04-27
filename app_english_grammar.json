@@ -1,0 +1,274 @@
+{
+  "version": "1",
+  "lang": "kr",
+  "categories": [
+    {
+      "id": "1",
+      "title": "to 부정사 / ing를 취하는 동사",
+      "list": [
+        {
+          "id": "1",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quiz": "She enjoys <!--!> (read) books in her free time.",
+          "quizType": "type1",
+          "options": ["to read", "reading", "read", "reads"],
+          "correct": "reading"
+        },
+        {
+          "id": "2",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quiz": "I decided <!--!> (go) to the store before it closes.",
+          "quizType": "type1",
+          "options": ["going", "to go", "go", "goes"],
+          "correct": "to go",
+          "description": "문제 설명이 들어갑니다."
+        },
+        {
+          "id": "3",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quiz": "They avoid <!--!> (talk) about politics.",
+          "quizType": "type1",
+          "options": ["to talk", "talking", "talk", "talks"],
+          "correct": "talking",
+          "description": "문제 설명이 들어갑니다. 문제 설명이 들어갑니다."
+        },
+        {
+          "id": "4",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quiz": "He managed <!--!> (finish) the project on time.",
+          "quizType": "type1",
+          "options": ["to finish", "finishing", "finish", "finishes"],
+          "correct": "to finish",
+          "description": "문제 설명이 들어갑니다. 문제 설명이 들어갑니다. 문제 설명이 들어갑니다. 문제 설명이 들어갑니다."
+        },
+        {
+          "id": "5",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quiz": "We discussed <!--!> (visit) our grandparents next weekend.",
+          "quizType": "type1",
+          "options": ["to visit", "visiting", "visit", "visits"],
+          "correct": "visiting"
+        },
+        {
+          "id": "6",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quiz": "She suggested <!--!> (meet) earlier than usual.",
+          "quizType": "type1",
+          "options": ["to meet", "meeting", "meet", "meets"],
+          "correct": "meeting",
+          "description": "문제 설명이 들어갑니다."
+        },
+        {
+          "id": "7",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quiz": "They considered <!--!> (move) to a new city.",
+          "quizType": "type1",
+          "options": ["to move", "moving", "move", "moves"],
+          "correct": "moving",
+          "description": "문제 설명이 들어갑니다. 문제 설명이 들어갑니다."
+        },
+        {
+          "id": "8",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quiz": "I hope <!--!> (see) you at the party.",
+          "quizType": "type1",
+          "options": ["to see", "seeing", "see", "sees"],
+          "correct": "to see",
+          "description": "문제 설명이 들어갑니다. 문제 설명이 들어갑니다. 문제 설명이 들어갑니다. 문제 설명이 들어갑니다."
+        },
+        {
+          "id": "9",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quiz": "He agreed <!--!> (help) us with the project.",
+          "quizType": "type1",
+          "options": ["to help", "helping", "help", "helps"],
+          "correct": "to help"
+        },
+        {
+          "id": "10",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quiz": "She plans <!--!> (travel) to Europe next year.",
+          "quizType": "type1",
+          "options": ["to travel", "traveling", "travel", "travels"],
+          "correct": "to travel",
+          "description": "문제 설명이 들어갑니다."
+        },
+        {
+          "id": "11",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quiz": "They admitted <!--!> (be) wrong.",
+          "quizType": "type1",
+          "options": ["to be", "being", "be", "is"],
+          "correct": "being",
+          "description": "문제 설명이 들어갑니다. 문제 설명이 들어갑니다."
+        },
+        {
+          "id": "12",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quiz": "I can't stand <!--!> (wait) in long lines.",
+          "quizType": "type1",
+          "options": ["to wait", "waiting", "wait", "waits"],
+          "correct": "waiting",
+          "description": "문제 설명이 들어갑니다. 문제 설명이 들어갑니다. 문제 설명이 들어갑니다. 문제 설명이 들어갑니다."
+        },
+        {
+          "id": "13",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quiz": "She offered <!--!> (cook) dinner tonight.",
+          "quizType": "type1",
+          "options": ["to cook", "cooking", "cook", "cooks"],
+          "correct": "to cook"
+        },
+        {
+          "id": "14",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quiz": "We began <!--!> (feel) better after the medicine.",
+          "quizType": "type1",
+          "options": ["to feel", "feeling", "feel", "feels"],
+          "correct": "feeling",
+          "description": "문제 설명이 들어갑니다."
+        },
+        {
+          "id": "15",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quiz": "He appears <!--!> (be) the best candidate for the job.",
+          "quizType": "type1",
+          "options": ["to be", "being", "be", "is"],
+          "correct": "to be",
+          "description": "문제 설명이 들어갑니다. 문제 설명이 들어갑니다."
+        },
+        {
+          "id": "16",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quiz": "They prefer <!--!> (study) at the library.",
+          "quizType": "type1",
+          "options": ["to study", "studying", "study", "studies"],
+          "correct": "studying",
+          "description": "문제 설명이 들어갑니다. 문제 설명이 들어갑니다. 문제 설명이 들어갑니다. 문제 설명이 들어갑니다."
+        },
+        {
+          "id": "17",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quiz": "I enjoy <!--!> (listen) to music while working.",
+          "quizType": "type1",
+          "options": ["to listen", "listening", "listen", "listens"],
+          "correct": "listening"
+        },
+        {
+          "id": "18",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quiz": "She expects <!--!> (arrive) early.",
+          "quizType": "type1",
+          "options": ["to arrive", "arriving", "arrive", "arrives"],
+          "correct": "to arrive",
+          "description": "문제 설명이 들어갑니다."
+        },
+        {
+          "id": "19",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quiz": "They chose <!--!> (take) the longer route.",
+          "quizType": "type1",
+          "options": ["to take", "taking", "take", "takes"],
+          "correct": "to take",
+          "description": "문제 설명이 들어갑니다. 문제 설명이 들어갑니다."
+        },
+        {
+          "id": "20",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quiz": "I need <!--!> (finish) this by tomorrow.",
+          "quizType": "type1",
+          "options": ["to finish", "finishing", "finish", "finishes"],
+          "correct": "to finish",
+          "description": "문제 설명이 들어갑니다. 문제 설명이 들어갑니다. 문제 설명이 들어갑니다. 문제 설명이 들어갑니다."
+        },
+        {
+          "id": "21",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quiz": "He failed <!--!> (pass) the exam.",
+          "quizType": "type1",
+          "options": ["to pass", "passing", "pass", "passes"],
+          "correct": "to pass"
+        },
+        {
+          "id": "22",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quiz": "We attempted <!--!> (solve) the problem.",
+          "quizType": "type1",
+          "options": ["to solve", "solving", "solve", "solves"],
+          "correct": "to solve",
+          "description": "문제 설명이 들어갑니다."
+        },
+        {
+          "id": "23",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quiz": "She tends <!--!> (be) very punctual.",
+          "quizType": "type1",
+          "options": ["to be", "being", "be", "is"],
+          "correct": "to be",
+          "description": "문제 설명이 들어갑니다. 문제 설명이 들어갑니다."
+        },
+        {
+          "id": "24",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quiz": "They began <!--!> (cry) during the movie.",
+          "quizType": "type1",
+          "options": ["to cry", "crying", "cry", "cries"],
+          "correct": "crying",
+          "description": "문제 설명이 들어갑니다. 문제 설명이 들어갑니다. 문제 설명이 들어갑니다. 문제 설명이 들어갑니다."
+        },
+        {
+          "id": "25",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quiz": "I promised <!--!> (not tell) anyone.",
+          "quizType": "type1",
+          "options": ["to not tell", "not telling", "not tell", "not tells"],
+          "correct": "to not tell"
+        },
+        {
+          "id": "26",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quiz": "He avoided <!--!> (answer) the question directly.",
+          "quizType": "type1",
+          "options": ["to answer", "answering", "answer", "answers"],
+          "correct": "answering",
+          "description": "문제 설명이 들어갑니다."
+        },
+        {
+          "id": "27",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quiz": "We discussed <!--!> (not go) to the beach because of the rain.",
+          "quizType": "type1",
+          "options": ["to not go", "not going", "not go", "not goes"],
+          "correct": "not going",
+          "description": "문제 설명이 들어갑니다. 문제 설명이 들어갑니다."
+        },
+        {
+          "id": "28",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quiz": "She regrets <!--!> (tell) him the truth.",
+          "quizType": "type1",
+          "options": ["to tell", "telling", "tell", "tells"],
+          "correct": "telling",
+          "description": "문제 설명이 들어갑니다. 문제 설명이 들어갑니다. 문제 설명이 들어갑니다. 문제 설명이 들어갑니다."
+        },
+        {
+          "id": "29",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quiz": "I suggest <!--!> (start) the meeting without him.",
+          "quizType": "type1",
+          "options": ["to start", "starting", "start", "starts"],
+          "correct": "starting"
+        },
+        {
+          "id": "30",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quiz": "He can't bear <!--!> (see) animals in pain.",
+          "quizType": "type1",
+          "options": ["to see", "seeing", "see", "sees"],
+          "correct": "seeing",
+          "description": "문제 설명이 들어갑니다."
+        }
+      ]
+    }
+  ]
+}

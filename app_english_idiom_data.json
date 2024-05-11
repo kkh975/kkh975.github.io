@@ -1,0 +1,63 @@
+{
+  "version": "1",
+  "lang": "kr",
+  "categories": [
+    {
+      "id": "1",
+      "title": "away",
+      "wordList": [
+        {
+          "id": "1",
+          "enWord": "go away",
+          "transWord": ["떠나다", "나가다"],
+          "enExample": ["We'll go away for the weekend"],
+          "koExample": ["우리는 주말에는 나갈 거예요."]
+        },
+        {
+          "id": "2",
+          "enWord": "drive away",
+          "transWord": ["차로 떠나다"],
+          "enExample": ["I heard a car drive away."],
+          "koExample": ["나는 차가 떠나는 소리를 들었다."]
+        },
+        {
+          "id": "3",
+          "enWord": "melt away",
+          "transWord": [
+            "녹다.",
+            "녹아서 점차없어지다.",
+            "(군중이）서서히 물러가다."
+          ],
+          "enExample": ["The snowman melted away."],
+          "koExample": ["눈 사람이 녹아서 없어졌다."]
+        }
+      ],
+      "quizList": [
+        {
+          "id": "1",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1",
+          "quiz": "They <!-(problem area)-!> football every weekend.",
+          "options": ["playing", "plays", "play"],
+          "correct": "play"
+        },
+        {
+          "id": "2",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1",
+          "quiz": "She <!-(problem area)-!> a cup of tea now.",
+          "options": ["drinks", "is drinking", "drink", "drinking"],
+          "correct": "is drinking"
+        },
+        {
+          "id": "3",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1",
+          "quiz": "You <!-(problem area)-!> kind.",
+          "options": ["is", "are", "am"],
+          "correct": "are"
+        }
+      ]
+    }
+  ]
+}

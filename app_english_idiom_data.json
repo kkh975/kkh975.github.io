@@ -56,6 +56,366 @@
           "quiz": "You <!-(problem area)-!> kind.",
           "options": ["is", "are", "am"],
           "correct": "are"
+        },
+        {
+          "id": "4",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1",
+          "quiz": "I <!-(problem area)-!> a bit tired.",
+          "options": ["am", "is", "are"],
+          "correct": "am"
+        },
+        {
+          "id": "5",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1",
+          "quiz": "He <!-(problem area)-!> her secrets.",
+          "options": ["knows", "is knowing", "know"],
+          "correct": "knows"
+        },
+        {
+          "id": "6",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1",
+          "quiz": "We <!-(problem area)-!> the movie at the moment.",
+          "options": ["watches", "watch", "are watching"],
+          "correct": "are watching"
+        },
+        {
+          "id": "7",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1",
+          "quiz": "It often <!-(problem area)-!> in Ireland.",
+          "options": ["rains", "is raining", "rain", "raining"],
+          "correct": "rains"
+        },
+        {
+          "id": "8",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1",
+          "quiz": "She <!-(problem area)-!> upset today.",
+          "options": ["is", "are", "am"],
+          "correct": "is"
+        },
+        {
+          "id": "9",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1",
+          "quiz": "My dog <!-(problem area)-!> after the ball.",
+          "options": ["chases", "is chasing", "chase", "chasing"],
+          "correct": "is chasing"
+        },
+        {
+          "id": "10",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1",
+          "quiz": "He always <!-(problem area)-!> a tie to work.",
+          "options": ["wears", "is wearing", "wear", "wearing"],
+          "correct": "wears"
+        },
+        {
+          "id": "11",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1",
+          "quiz": "My mother <!-(problem area)-!> in a school.",
+          "options": ["works", "is working", "work", "working"],
+          "correct": "works"
+        },
+        {
+          "id": "12",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1",
+          "quiz": "My friend <!-(problem area)-!> German fluently.",
+          "options": ["speaks", "is speaking", "speak", "speaking"],
+          "correct": "speaks"
+        },
+        {
+          "id": "13",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1",
+          "quiz": "They <!-(problem area)-!> here at this moment.",
+          "options": ["is", "are", "am"],
+          "correct": "are"
+        },
+        {
+          "id": "14",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1",
+          "quiz": "I <!-(problem area)-!> a new car.",
+          "options": ["buy", "am buying", "buys", "buying"],
+          "correct": "am buying"
+        },
+        {
+          "id": "15",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1",
+          "quiz": "She <!-(problem area)-!> the truth.",
+          "options": ["knows", "is knowing", "know"],
+          "correct": "knows"
+        },
+        {
+          "id": "16",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1",
+          "quiz": "James <!-(problem area)-!> to Japan two times a year.",
+          "options": ["travels", "is traveling", "travel", "traveling"],
+          "correct": "travels"
+        },
+        {
+          "id": "17",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1",
+          "quiz": "She <!-(problem area)-!> a book in the library now.",
+          "options": ["reads", "is reading", "read", "reading"],
+          "correct": "is reading"
+        },
+        {
+          "id": "18",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1",
+          "quiz": "I <!-(problem area)-!> his attitude lately.",
+          "options": ["likes", "am liking", "like", "liking"],
+          "correct": "like"
+        },
+        {
+          "id": "19",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1",
+          "quiz": "They <!-(problem area)-!> loud music every weekend.",
+          "options": ["plays", "is playing", "play"],
+          "correct": "play"
+        },
+        {
+          "id": "20",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1",
+          "quiz": "She <!-(problem area)-!> to finish her project.",
+          "options": ["tries", "is trying", "try", "trying"],
+          "correct": "is trying"
+        },
+        {
+          "id": "21",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1",
+          "quiz": "It <!-(problem area)-!> hot in summer.",
+          "options": ["gets", "is getting", "get", "getting"],
+          "correct": "gets"
+        },
+        {
+          "id": "22",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1",
+          "quiz": "The baby <!-(problem area)-!> for his mother.",
+          "options": ["cries", "is crying", "cry", "crying"],
+          "correct": "is crying"
+        },
+        {
+          "id": "23",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1",
+          "quiz": "She usually <!-(problem area)-!> milk for breakfast.",
+          "options": ["drinks", "is drinking", "drink", "drinking"],
+          "correct": "drinks"
+        },
+        {
+          "id": "24",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1",
+          "quiz": "Students <!-(problem area)-!> hard for exams.",
+          "options": ["studies", "are studying", "study", "studying"],
+          "correct": "study"
+        },
+        {
+          "id": "25",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1",
+          "quiz": "I always <!-(problem area)-!> early to work.",
+          "options": ["arrives", "am arriving", "arrive", "arriving"],
+          "correct": "arrive"
+        },
+        {
+          "id": "26",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1",
+          "quiz": "My sister <!-(problem area)-!> in Paris.",
+          "options": ["lives", "is living", "live", "living"],
+          "correct": "lives"
+        },
+        {
+          "id": "27",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1",
+          "quiz": "He <!-(problem area)-!> the bus to work every day.",
+          "options": ["takes", "is taking", "take", "taking"],
+          "correct": "takes"
+        },
+        {
+          "id": "28",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1",
+          "quiz": "I <!-(problem area)-!> a shower now.",
+          "options": ["takes", "is taking", "take", "taking"],
+          "correct": "am taking"
+        },
+        {
+          "id": "29",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1",
+          "quiz": "Jack <!-(problem area)-!> to music while working.",
+          "options": ["listens", "is listening", "listen", "listening"],
+          "correct": "listens"
+        },
+        {
+          "id": "30",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1",
+          "quiz": "Sara and I <!-(problem area)-!> to the new restaurant for dinner.",
+          "options": ["goes", "are going", "go", "going"],
+          "correct": "are going"
+        },
+        {
+          "id": "31",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1",
+          "quiz": "Mary <!-(problem area)-!> beautiful.",
+          "options": ["are", "is", "am"],
+          "correct": "is"
+        },
+        {
+          "id": "32",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1",
+          "quiz": "They <!-(problem area)-!> on a project.",
+          "options": ["works", "is working", "work", "working"],
+          "correct": "are working"
+        },
+        {
+          "id": "33",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1",
+          "quiz": "It <!-(problem area)-!> today.",
+          "options": ["rains", "is raining", "rain", "raining"],
+          "correct": "is raining"
+        },
+        {
+          "id": "34",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1",
+          "quiz": "She <!-(problem area)-!> very hard these days.",
+          "options": ["works", "is working", "work", "working"],
+          "correct": "is working"
+        },
+        {
+          "id": "35",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1",
+          "quiz": "The children <!-(problem area)-!> soccer after school.",
+          "options": ["plays", "are playing", "play", "playing"],
+          "correct": "play"
+        },
+        {
+          "id": "36",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1",
+          "quiz": "She always <!-(problem area)-!> her keys.",
+          "options": ["loses", "is losing", "lose", "losing"],
+          "correct": "loses"
+        },
+        {
+          "id": "37",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1",
+          "quiz": "I <!-(problem area)-!> my homework right now.",
+          "options": ["does", "am doing", "do", "doing"],
+          "correct": "am doing"
+        },
+        {
+          "id": "38",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1",
+          "quiz": "They <!-(problem area)-!> in New York.",
+          "options": ["lives", "is living", "live", "living"],
+          "correct": "live"
+        },
+        {
+          "id": "39",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1",
+          "quiz": "My father <!-(problem area)-!> a newspaper every morning.",
+          "options": ["reads", "is reading", "read", "reading"],
+          "correct": "reads"
+        },
+        {
+          "id": "40",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1",
+          "quiz": "I <!-(problem area)-!> him very well.",
+          "options": ["knows", "am knowing", "know", "knowing"],
+          "correct": "know"
+        },
+        {
+          "id": "41",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1",
+          "quiz": "My brother <!-(problem area)-!> to the gym three times a week.",
+          "options": ["goes", "is going", "go", "going"],
+          "correct": "goes"
+        },
+        {
+          "id": "42",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1",
+          "quiz": "Jane <!-(problem area)-!> English and French.",
+          "options": ["speaks", "is speaking", "speak", "speaking"],
+          "correct": "speaks"
+        },
+        {
+          "id": "43",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1",
+          "quiz": "They <!-(problem area)-!> TV right now.",
+          "options": ["watches", "are watching", "watch", "watching"],
+          "correct": "are watching"
+        },
+        {
+          "id": "44",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1",
+          "quiz": "Peter usually <!-(problem area)-!> to work by car.",
+          "options": ["goes", "is going", "go", "going"],
+          "correct": "goes"
+        },
+        {
+          "id": "45",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1",
+          "quiz": "I <!-(problem area)-!> here with my friends.",
+          "options": ["is", "am", "are"],
+          "correct": "am"
+        },
+        {
+          "id": "46",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1",
+          "quiz": "We often <!-(problem area)-!> dinner at home.",
+          "options": ["cooks", "is cooking", "cook", "cooking"],
+          "correct": "cook"
+        },
+        {
+          "id": "47",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1",
+          "quiz": "He <!-(problem area)-!> a suit to work.",
+          "options": ["wears", "is wearing", "wear", "wearing"],
+          "correct": "wears"
+        },
+        {
+          "id": "48",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1",
+          "quiz": "She <!-(problem area)-!> on her new painting at the moment.",
+          "options": ["works", "is working", "work", "working"],
+          "correct": "is working"
         }
       ]
     }

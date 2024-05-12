@@ -11,14 +11,14 @@
           "enWord": "go away",
           "transWord": ["떠나다", "나가다"],
           "enExample": ["We'll go away for the weekend"],
-          "koExample": ["우리는 주말에는 나갈 거예요."]
+          "transExample": ["우리는 주말에는 나갈 거예요."]
         },
         {
           "id": "2",
           "enWord": "drive away",
           "transWord": ["차로 떠나다"],
           "enExample": ["I heard a car drive away."],
-          "koExample": ["나는 차가 떠나는 소리를 들었다."]
+          "transExample": ["나는 차가 떠나는 소리를 들었다."]
         },
         {
           "id": "3",
@@ -29,7 +29,7 @@
             "(군중이）서서히 물러가다."
           ],
           "enExample": ["The snowman melted away."],
-          "koExample": ["눈 사람이 녹아서 없어졌다."]
+          "transExample": ["눈 사람이 녹아서 없어졌다."]
         }
       ],
       "quizList": [

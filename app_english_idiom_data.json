@@ -9,7 +9,7 @@
         {
           "id": "1",
           "enWord": "go away",
-          "transWord": ["떠나다", "나가다"],
+          "transWord": ["떠나다"],
           "enExample": ["We'll go away for the weekend"],
           "transExample": ["우리는 주말에는 나갈 거예요."]
         },
@@ -23,11 +23,7 @@
         {
           "id": "3",
           "enWord": "melt away",
-          "transWord": [
-            "녹다.",
-            "녹아서 점차없어지다.",
-            "(군중이）서서히 물러가다."
-          ],
+          "transWord": ["녹다."],
           "enExample": ["The snowman melted away."],
           "transExample": ["눈 사람이 녹아서 없어졌다."]
         }

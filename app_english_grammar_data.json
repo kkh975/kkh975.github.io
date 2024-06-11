@@ -1,5 +1,5 @@
 {
-  "version": "1",
+  "version": "2",
   "lang": "kr",
   "categories": [
     {
@@ -1651,6 +1651,438 @@
           "quiz": "John was upset last night, <!-(problem area)-!>?",
           "options": ["wasn't he", "was he", "does he", "doesn't he"],
           "correct": "wasn't he"
+        },
+        {
+          "quiz": "Is he <!-(problem area)-!> the presentation now?",
+          "options": ["giving", "give", "gave", "gives"],
+          "correct": "giving",
+          "description": "Present continuous tense requires the -ing form.",
+          "id": "11",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "Which book <!-(problem area)-!> she prefer?",
+          "options": ["does", "do", "did", "done"],
+          "correct": "does",
+          "description": "Third person singular requires 'does'.",
+          "id": "12",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "Could you tell me <!-(problem area)-!> he went last night?",
+          "options": ["where", "what", "which", "who"],
+          "correct": "where",
+          "description": "Indirect questions require 'where'.",
+          "id": "13",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "You are coming to the party, <!-(problem area)-!> you?",
+          "options": ["aren't", "don't", "won't", "are"],
+          "correct": "aren't",
+          "description": "Tag questions require a negative form for a positive statement.",
+          "id": "14",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "<!-(problem area)-!> you like ice cream?",
+          "options": ["Do", "Does", "Did", "Done"],
+          "correct": "Do",
+          "description": "Present simple questions require 'Do' for 'you'.",
+          "id": "15",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "What time <!-(problem area)-!> the movie start?",
+          "options": ["does", "do", "did", "done"],
+          "correct": "does",
+          "description": "Third person singular requires 'does'.",
+          "id": "16",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "She asked me <!-(problem area)-!> the keys were.",
+          "options": ["where", "what", "which", "who"],
+          "correct": "where",
+          "description": "Indirect questions require 'where'.",
+          "id": "17",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "Your brother has a new job, <!-(problem area)-!> he?",
+          "options": ["doesn't", "does", "isn't", "is"],
+          "correct": "doesn't",
+          "description": "Tag questions require a negative form for a positive statement.",
+          "id": "18",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "<!-(problem area)-!> they playing football?",
+          "options": ["Are", "Is", "Does", "Do"],
+          "correct": "Are",
+          "description": "Present continuous questions require 'Are' for 'they'.",
+          "id": "19",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "Who <!-(problem area)-!> going to the meeting?",
+          "options": ["is", "are", "do", "does"],
+          "correct": "is",
+          "description": "Third person singular requires 'is'.",
+          "id": "20",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "She wants to know <!-(problem area)-!> the store opens.",
+          "options": ["when", "what", "where", "who"],
+          "correct": "when",
+          "description": "Indirect questions require 'when'.",
+          "id": "21",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "They were at the concert, <!-(problem area)-!> they?",
+          "options": ["weren't", "wasn't", "aren't", "don't"],
+          "correct": "weren't",
+          "description": "Tag questions require a negative form for a positive statement.",
+          "id": "22",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "<!-(problem area)-!> you know the answer?",
+          "options": ["Do", "Does", "Did", "Done"],
+          "correct": "Do",
+          "description": "Present simple questions require 'Do' for 'you'.",
+          "id": "23",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "What <!-(problem area)-!> they doing now?",
+          "options": ["are", "is", "does", "do"],
+          "correct": "are",
+          "description": "Present continuous questions require 'are' for 'they'.",
+          "id": "24",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "Can you tell me <!-(problem area)-!> she wants?",
+          "options": ["what", "who", "where", "when"],
+          "correct": "what",
+          "description": "Indirect questions require 'what'.",
+          "id": "25",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "He finished the project on time, <!-(problem area)-!> he?",
+          "options": ["didn't", "doesn't", "isn't", "aren't"],
+          "correct": "didn't",
+          "description": "Tag questions require a negative form for a positive statement.",
+          "id": "26",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "<!-(problem area)-!> she attend the meeting?",
+          "options": ["Did", "Do", "Does", "Done"],
+          "correct": "Did",
+          "description": "Past simple questions require 'Did'.",
+          "id": "27",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "Which <!-(problem area)-!> your favorite color?",
+          "options": ["is", "are", "does", "do"],
+          "correct": "is",
+          "description": "Third person singular requires 'is'.",
+          "id": "28",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "Do you know <!-(problem area)-!> he is coming?",
+          "options": ["if", "who", "what", "when"],
+          "correct": "if",
+          "description": "Indirect questions require 'if' for yes/no questions.",
+          "id": "29",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "She can drive a car, <!-(problem area)-!> she?",
+          "options": ["can't", "can", "isn't", "doesn't"],
+          "correct": "can't",
+          "description": "Tag questions require a negative form for a positive statement.",
+          "id": "30",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "<!-(problem area)-!> they finished the assignment?",
+          "options": ["Have", "Has", "Did", "Do"],
+          "correct": "Have",
+          "description": "Present perfect questions require 'Have' for 'they'.",
+          "id": "31",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "What <!-(problem area)-!> you want for dinner?",
+          "options": ["do", "does", "did", "done"],
+          "correct": "do",
+          "description": "Present simple questions require 'do' for 'you'.",
+          "id": "32",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "I wonder <!-(problem area)-!> she likes ice cream.",
+          "options": ["if", "who", "what", "when"],
+          "correct": "if",
+          "description": "Indirect questions require 'if' for yes/no questions.",
+          "id": "33",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "She should finish her work, <!-(problem area)-!> she?",
+          "options": ["shouldn't", "should", "doesn't", "isn't"],
+          "correct": "shouldn't",
+          "description": "Tag questions require a negative form for a positive statement.",
+          "id": "34",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "<!-(problem area)-!> he been to Paris?",
+          "options": ["Has", "Have", "Did", "Do"],
+          "correct": "Has",
+          "description": "Present perfect questions require 'Has' for 'he'.",
+          "id": "35",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "Who <!-(problem area)-!> coming to the party?",
+          "options": ["is", "are", "does", "do"],
+          "correct": "is",
+          "description": "Third person singular requires 'is'.",
+          "id": "36",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "Can you tell me <!-(problem area)-!> the meeting is?",
+          "options": ["when", "who", "what", "where"],
+          "correct": "when",
+          "description": "Indirect questions require 'when'.",
+          "id": "37",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "They weren't at the game, <!-(problem area)-!> they?",
+          "options": ["were", "was", "are", "is"],
+          "correct": "were",
+          "description": "Tag questions require a positive form for a negative statement.",
+          "id": "38",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "<!-(problem area)-!> you speak Spanish?",
+          "options": ["Can", "Does", "Do", "Did"],
+          "correct": "Can",
+          "description": "Questions about ability require 'Can'.",
+          "id": "39",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "What <!-(problem area)-!> your plans for the weekend?",
+          "options": ["are", "is", "does", "do"],
+          "correct": "are",
+          "description": "Plural subjects require 'are'.",
+          "id": "40",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "I don't know <!-(problem area)-!> he lives.",
+          "options": ["where", "what", "which", "who"],
+          "correct": "where",
+          "description": "Indirect questions require 'where'.",
+          "id": "41",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "She plays the piano, <!-(problem area)-!> she?",
+          "options": ["doesn't", "isn't", "don't", "didn't"],
+          "correct": "doesn't",
+          "description": "Tag questions require a negative form for a positive statement.",
+          "id": "42",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "<!-(problem area)-!> they been to the museum?",
+          "options": ["Have", "Has", "Did", "Do"],
+          "correct": "Have",
+          "description": "Present perfect questions require 'Have' for 'they'.",
+          "id": "43",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "Which movie <!-(problem area)-!> you want to watch?",
+          "options": ["do", "does", "did", "done"],
+          "correct": "do",
+          "description": "Present simple questions require 'do' for 'you'.",
+          "id": "44",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "Do you know <!-(problem area)-!> she will arrive?",
+          "options": ["when", "who", "what", "where"],
+          "correct": "when",
+          "description": "Indirect questions require 'when'.",
+          "id": "45",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "He didn't eat breakfast, <!-(problem area)-!> he?",
+          "options": ["did", "does", "is", "are"],
+          "correct": "did",
+          "description": "Tag questions require a positive form for a negative statement.",
+          "id": "46",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "<!-(problem area)-!> she read that book?",
+          "options": ["Has", "Have", "Did", "Do"],
+          "correct": "Has",
+          "description": "Present perfect questions require 'Has' for 'she'.",
+          "id": "47",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "What <!-(problem area)-!> your favorite subject?",
+          "options": ["is", "are", "does", "do"],
+          "correct": "is",
+          "description": "Third person singular requires 'is'.",
+          "id": "48",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "Can you tell me <!-(problem area)-!> she said?",
+          "options": ["what", "who", "when", "where"],
+          "correct": "what",
+          "description": "Indirect questions require 'what'.",
+          "id": "49",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "They weren't at the party, <!-(problem area)-!> they?",
+          "options": ["were", "was", "are", "is"],
+          "correct": "were",
+          "description": "Tag questions require a positive form for a negative statement.",
+          "id": "50",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "<!-(problem area)-!> you know how to swim?",
+          "options": ["Do", "Does", "Did", "Done"],
+          "correct": "Do",
+          "description": "Present simple questions require 'Do' for 'you'.",
+          "id": "51",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "Which song <!-(problem area)-!> you like the most?",
+          "options": ["do", "does", "did", "done"],
+          "correct": "do",
+          "description": "Present simple questions require 'do' for 'you'.",
+          "id": "52",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "Do you know <!-(problem area)-!> she is talking about?",
+          "options": ["what", "who", "when", "where"],
+          "correct": "what",
+          "description": "Indirect questions require 'what'.",
+          "id": "53",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "She didn't bring her lunch, <!-(problem area)-!> she?",
+          "options": ["did", "does", "is", "are"],
+          "correct": "did",
+          "description": "Tag questions require a positive form for a negative statement.",
+          "id": "54",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "<!-(problem area)-!> he visited the new mall?",
+          "options": ["Has", "Have", "Did", "Do"],
+          "correct": "Has",
+          "description": "Present perfect questions require 'Has' for 'he'.",
+          "id": "55",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "What <!-(problem area)-!> the time?",
+          "options": ["is", "are", "does", "do"],
+          "correct": "is",
+          "description": "Third person singular requires 'is'.",
+          "id": "56",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "Can you tell me <!-(problem area)-!> she went?",
+          "options": ["where", "who", "when", "what"],
+          "correct": "where",
+          "description": "Indirect questions require 'where'.",
+          "id": "57",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "They have finished the project, <!-(problem area)-!> they?",
+          "options": ["haven't", "hasn't", "don't", "aren't"],
+          "correct": "haven't",
+          "description": "Tag questions require a negative form for a positive statement.",
+          "id": "58",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
         }
       ]
     },
@@ -2265,6 +2697,500 @@
           "quiz": "She has <!-(problem area)-!> of fish in the tank.",
           "options": ["plenty", "plenties", "a plenty", "plenty of"],
           "correct": "plenty"
+        },
+        {
+          "quiz": "Can you pass me those <!-(problem area)-!>?",
+          "options": ["scissors", "scissor", "scissers", "sciss"],
+          "correct": "scissors",
+          "description": "The noun 'scissors' is plural.",
+          "id": "11",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "She bought <!-(problem area)-!> for her new apartment.",
+          "options": [
+            "furniture",
+            "furnitures",
+            "a furniture",
+            "some furnitures"
+          ],
+          "correct": "furniture",
+          "description": "'Furniture' is an uncountable noun.",
+          "id": "12",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "There's a <!-(problem area)-!> on the table.",
+          "options": ["cup", "cups", "a cups", "cupes"],
+          "correct": "cup",
+          "description": "A single 'cup' is a countable noun.",
+          "id": "13",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "We bought some <!-(problem area)-!> apples at the market.",
+          "options": ["fresh", "freshed", "freshes", "fres"],
+          "correct": "fresh",
+          "description": "'Fresh' is an adjective describing the countable noun 'apples'.",
+          "id": "14",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "This <!-(problem area)-!> has cheese in it.",
+          "options": ["bread", "breads", "a bread", "breeds"],
+          "correct": "bread",
+          "description": "'Bread' is an uncountable noun.",
+          "id": "15",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "Can you pass me that pair of <!-(problem area)-!>?",
+          "options": ["scissors", "scissor", "scissers", "sciss"],
+          "correct": "scissors",
+          "description": "The noun 'scissors' is plural.",
+          "id": "16",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "There are three <!-(problem area)-!> in the bag.",
+          "options": ["apples", "apple", "a apple", "appless"],
+          "correct": "apples",
+          "description": "'Apples' is the plural form of the countable noun 'apple'.",
+          "id": "17",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "I need to buy some <!-(problem area)-!> for dinner.",
+          "options": ["bread", "breads", "a bread", "breeds"],
+          "correct": "bread",
+          "description": "'Bread' is an uncountable noun.",
+          "id": "18",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "Could you give me a <!-(problem area)-!> of information?",
+          "options": ["piece", "pieces", "piece of", "pieces of"],
+          "correct": "piece",
+          "description": "'Piece of information' is a way to count uncountable 'information'.",
+          "id": "19",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "We need to buy some <!-(problem area)-!> for the new house.",
+          "options": [
+            "furniture",
+            "furnitures",
+            "a furniture",
+            "some furnitures"
+          ],
+          "correct": "furniture",
+          "description": "'Furniture' is an uncountable noun.",
+          "id": "20",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "There's a <!-(problem area)-!> of cheese on the table.",
+          "options": ["block", "blocks", "block of", "blocks of"],
+          "correct": "block",
+          "description": "'Block of cheese' is a way to count uncountable 'cheese'.",
+          "id": "21",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "I saw a flock of <!-(problem area)-!> flying south.",
+          "options": ["birds", "bird", "a bird", "birdes"],
+          "correct": "birds",
+          "description": "'Birds' is the plural form of the countable noun 'bird'.",
+          "id": "22",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "We bought several <!-(problem area)-!> of fruit.",
+          "options": ["pieces", "piece", "piece of", "pieces of"],
+          "correct": "pieces",
+          "description": "'Pieces of fruit' is a way to count uncountable 'fruit'.",
+          "id": "23",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "I need to buy a new <!-(problem area)-!> for the living room.",
+          "options": [
+            "piece of furniture",
+            "furnitures",
+            "furniture",
+            "a furniture"
+          ],
+          "correct": "piece of furniture",
+          "description": "'Piece of furniture' is a way to count uncountable 'furniture'.",
+          "id": "24",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "There are many <!-(problem area)-!> in the sky.",
+          "options": ["stars", "star", "a star", "stares"],
+          "correct": "stars",
+          "description": "'Stars' is the plural form of the countable noun 'star'.",
+          "id": "25",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "She gave me some <!-(problem area)-!> advice.",
+          "options": ["good", "goods", "goods of", "good of"],
+          "correct": "good",
+          "description": "'Good advice' uses 'good' as an adjective for uncountable 'advice'.",
+          "id": "26",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "Can you hand me a pair of <!-(problem area)-!>?",
+          "options": ["scissors", "scissor", "scissers", "sciss"],
+          "correct": "scissors",
+          "description": "The noun 'scissors' is plural.",
+          "id": "27",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "There is a <!-(problem area)-!> on the counter.",
+          "options": ["loaf of bread", "loaves of bread", "bread", "breads"],
+          "correct": "loaf of bread",
+          "description": "'Loaf of bread' is a way to count uncountable 'bread'.",
+          "id": "28",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "Can you give me some <!-(problem area)-!>?",
+          "options": ["water", "waters", "water of", "a water"],
+          "correct": "water",
+          "description": "'Water' is an uncountable noun.",
+          "id": "29",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "There are several <!-(problem area)-!> on the table.",
+          "options": ["books", "book", "a book", "bookes"],
+          "correct": "books",
+          "description": "'Books' is the plural form of the countable noun 'book'.",
+          "id": "30",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "I need a <!-(problem area)-!> of paper.",
+          "options": ["sheet", "sheets", "sheet of", "sheets of"],
+          "correct": "sheet",
+          "description": "'Sheet of paper' is a way to count uncountable 'paper'.",
+          "id": "31",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "Can you buy a <!-(problem area)-!> of milk?",
+          "options": ["carton", "cartons", "carton of", "cartons of"],
+          "correct": "carton",
+          "description": "'Carton of milk' is a way to count uncountable 'milk'.",
+          "id": "32",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "There is a lot of <!-(problem area)-!> in the garden.",
+          "options": ["grass", "grasses", "grasse", "grass of"],
+          "correct": "grass",
+          "description": "'Grass' is an uncountable noun.",
+          "id": "33",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "We have many <!-(problem area)-!> to complete.",
+          "options": ["tasks", "task", "a task", "taskes"],
+          "correct": "tasks",
+          "description": "'Tasks' is the plural form of the countable noun 'task'.",
+          "id": "34",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "I need to buy a <!-(problem area)-!> eggs.",
+          "options": ["dozen", "dozens", "dozen of", "dozens of"],
+          "correct": "dozen",
+          "description": "'Dozen of eggs' is a way to count the plural noun 'eggs'.",
+          "id": "35",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "There are some <!-(problem area)-!> on the floor.",
+          "options": ["papers", "paper", "a paper", "papers of"],
+          "correct": "papers",
+          "description": "'Papers' is the plural form of the countable noun 'paper'.",
+          "id": "36",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "Can you buy a <!-(problem area)-!> of rice?",
+          "options": ["bag", "bags", "bag of", "bags of"],
+          "correct": "bag",
+          "description": "'Bag of rice' is a way to count uncountable 'rice'.",
+          "id": "37",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "There are several <!-(problem area)-!> on the shelf.",
+          "options": ["bottles", "bottle", "a bottle", "bottles of"],
+          "correct": "bottles",
+          "description": "'Bottles' is the plural form of the countable noun 'bottle'.",
+          "id": "38",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "He gave me some useful <!-(problem area)-!>.",
+          "options": [
+            "information",
+            "informations",
+            "information of",
+            "a information"
+          ],
+          "correct": "information",
+          "description": "'Information' is an uncountable noun.",
+          "id": "39",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "There is a lot of <!-(problem area)-!> in the refrigerator.",
+          "options": ["food", "foods", "food of", "a food"],
+          "correct": "food",
+          "description": "'Food' is an uncountable noun.",
+          "id": "40",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "I need a <!-(problem area)-!> of advice.",
+          "options": ["piece", "pieces", "piece of", "pieces of"],
+          "correct": "piece",
+          "description": "'Piece of advice' is a way to count uncountable 'advice'.",
+          "id": "41",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "There are many <!-(problem area)-!> in the library.",
+          "options": ["books", "book", "a book", "bookes"],
+          "correct": "books",
+          "description": "'Books' is the plural form of the countable noun 'book'.",
+          "id": "42",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "We need to buy some <!-(problem area)-!> for breakfast.",
+          "options": ["bread", "breads", "a bread", "breeds"],
+          "correct": "bread",
+          "description": "'Bread' is an uncountable noun.",
+          "id": "43",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "Can you pass me those <!-(problem area)-!>?",
+          "options": ["scissors", "scissor", "scissers", "sciss"],
+          "correct": "scissors",
+          "description": "The noun 'scissors' is plural.",
+          "id": "44",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "She bought <!-(problem area)-!> for her new apartment.",
+          "options": [
+            "furniture",
+            "furnitures",
+            "a furniture",
+            "some furnitures"
+          ],
+          "correct": "furniture",
+          "description": "'Furniture' is an uncountable noun.",
+          "id": "45",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "There's a <!-(problem area)-!> on the table.",
+          "options": ["cup", "cups", "a cups", "cupes"],
+          "correct": "cup",
+          "description": "A single 'cup' is a countable noun.",
+          "id": "46",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "We bought some <!-(problem area)-!> apples at the market.",
+          "options": ["fresh", "freshed", "freshes", "fres"],
+          "correct": "fresh",
+          "description": "'Fresh' is an adjective describing the countable noun 'apples'.",
+          "id": "47",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "This <!-(problem area)-!> has cheese in it.",
+          "options": ["bread", "breads", "a bread", "breeds"],
+          "correct": "bread",
+          "description": "'Bread' is an uncountable noun.",
+          "id": "48",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "Can you pass me that pair of <!-(problem area)-!>?",
+          "options": ["scissors", "scissor", "scissers", "sciss"],
+          "correct": "scissors",
+          "description": "The noun 'scissors' is plural.",
+          "id": "49",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "There are three <!-(problem area)-!> in the bag.",
+          "options": ["apples", "apple", "a apple", "appless"],
+          "correct": "apples",
+          "description": "'Apples' is the plural form of the countable noun 'apple'.",
+          "id": "50",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "I need to buy some <!-(problem area)-!> for dinner.",
+          "options": ["bread", "breads", "a bread", "breeds"],
+          "correct": "bread",
+          "description": "'Bread' is an uncountable noun.",
+          "id": "51",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "Could you give me a <!-(problem area)-!> of information?",
+          "options": ["piece", "pieces", "piece of", "pieces of"],
+          "correct": "piece",
+          "description": "'Piece of information' is a way to count uncountable 'information'.",
+          "id": "52",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "We need to buy some <!-(problem area)-!> for the new house.",
+          "options": [
+            "furniture",
+            "furnitures",
+            "a furniture",
+            "some furnitures"
+          ],
+          "correct": "furniture",
+          "description": "'Furniture' is an uncountable noun.",
+          "id": "53",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "There's a <!-(problem area)-!> of cheese on the table.",
+          "options": ["block", "blocks", "block of", "blocks of"],
+          "correct": "block",
+          "description": "'Block of cheese' is a way to count uncountable 'cheese'.",
+          "id": "54",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "I saw a flock of <!-(problem area)-!> flying south.",
+          "options": ["birds", "bird", "a bird", "birdes"],
+          "correct": "birds",
+          "description": "'Birds' is the plural form of the countable noun 'bird'.",
+          "id": "55",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "We bought several <!-(problem area)-!> of fruit.",
+          "options": ["pieces", "piece", "piece of", "pieces of"],
+          "correct": "pieces",
+          "description": "'Pieces of fruit' is a way to count uncountable 'fruit'.",
+          "id": "56",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "I need to buy a new <!-(problem area)-!> for the living room.",
+          "options": [
+            "piece of furniture",
+            "furnitures",
+            "furniture",
+            "a furniture"
+          ],
+          "correct": "piece of furniture",
+          "description": "'Piece of furniture' is a way to count uncountable 'furniture'.",
+          "id": "57",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "There are many <!-(problem area)-!> in the sky.",
+          "options": ["stars", "star", "a star", "stares"],
+          "correct": "stars",
+          "description": "'Stars' is the plural form of the countable noun 'star'.",
+          "id": "58",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "She gave me some <!-(problem area)-!> advice.",
+          "options": ["good", "goods", "goods of", "good of"],
+          "correct": "good",
+          "description": "'Good advice' uses 'good' as an adjective for uncountable 'advice'.",
+          "id": "59",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "Can you hand me a pair of <!-(problem area)-!>?",
+          "options": ["scissors", "scissor", "scissers", "sciss"],
+          "correct": "scissors",
+          "description": "The noun 'scissors' is plural.",
+          "id": "60",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "There is a <!-(problem area)-!> on the counter.",
+          "options": ["loaf of bread", "loaves of bread", "bread", "breads"],
+          "correct": "loaf of bread",
+          "description": "'Loaf of bread' is a way to count uncountable 'bread'.",
+          "id": "61",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
         }
       ]
     },
@@ -2709,6 +3635,411 @@
           "quiz": "If the red shirt is not available, I will take the blue <!-(problem area)-!>.",
           "options": ["one", "this", "it", "that"],
           "correct": "one"
+        },
+        {
+          "quiz": "She met <!-(problem area)-!> at the park.",
+          "options": ["him", "he", "his", "her"],
+          "correct": "him",
+          "description": "'Him' is the correct object pronoun referring to a male person.",
+          "id": "11",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "This is <!-(problem area)-!> book.",
+          "options": ["my", "I", "me", "mine"],
+          "correct": "my",
+          "description": "'My' is the correct possessive adjective.",
+          "id": "12",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "Let me introduce <!-(problem area)-!>.",
+          "options": ["myself", "me", "my", "I"],
+          "correct": "myself",
+          "description": "'Myself' is the correct reflexive pronoun.",
+          "id": "13",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "My friend has a car, but I don't have <!-(problem area)-!>.",
+          "options": ["one", "ones", "some", "any"],
+          "correct": "one",
+          "description": "'One' is the correct pronoun to avoid repetition.",
+          "id": "14",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "That is <!-(problem area)-!> bike.",
+          "options": ["her", "she", "hers", "herself"],
+          "correct": "her",
+          "description": "'Her' is the correct possessive adjective.",
+          "id": "15",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "He did it all by <!-(problem area)-!>.",
+          "options": ["himself", "him", "he", "his"],
+          "correct": "himself",
+          "description": "'Himself' is the correct reflexive pronoun.",
+          "id": "16",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "Is this <!-(problem area)-!> pen?",
+          "options": ["your", "you", "yours", "yourself"],
+          "correct": "your",
+          "description": "'Your' is the correct possessive adjective.",
+          "id": "17",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "This is my book, and that is <!-(problem area)-!>.",
+          "options": ["hers", "her", "she", "herself"],
+          "correct": "hers",
+          "description": "'Hers' is the correct possessive pronoun.",
+          "id": "18",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "Whose coat is this? Is it <!-(problem area)-!>?",
+          "options": ["yours", "your", "you", "yourself"],
+          "correct": "yours",
+          "description": "'Yours' is the correct possessive pronoun.",
+          "id": "19",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "I hurt <!-(problem area)-!> while cooking.",
+          "options": ["myself", "me", "I", "mine"],
+          "correct": "myself",
+          "description": "'Myself' is the correct reflexive pronoun.",
+          "id": "20",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "He lent me <!-(problem area)-!> book.",
+          "options": ["his", "him", "he", "himself"],
+          "correct": "his",
+          "description": "'His' is the correct possessive adjective.",
+          "id": "21",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "The dog wagged <!-(problem area)-!> tail.",
+          "options": ["its", "it's", "it", "itself"],
+          "correct": "its",
+          "description": "'Its' is the correct possessive adjective.",
+          "id": "22",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "This is my seat, and that is <!-(problem area)-!>.",
+          "options": ["theirs", "their", "them", "they"],
+          "correct": "theirs",
+          "description": "'Theirs' is the correct possessive pronoun.",
+          "id": "23",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "I will wash the car <!-(problem area)-!>.",
+          "options": ["myself", "me", "I", "mine"],
+          "correct": "myself",
+          "description": "'Myself' is the correct reflexive pronoun.",
+          "id": "24",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "Jane found <!-(problem area)-!> keys.",
+          "options": ["her", "hers", "she", "herself"],
+          "correct": "her",
+          "description": "'Her' is the correct possessive adjective.",
+          "id": "25",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "The cat cleaned <!-(problem area)-!> fur.",
+          "options": ["its", "it's", "it", "itself"],
+          "correct": "its",
+          "description": "'Its' is the correct possessive adjective.",
+          "id": "26",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "The students must do it <!-(problem area)-!>.",
+          "options": ["themselves", "them", "they", "their"],
+          "correct": "themselves",
+          "description": "'Themselves' is the correct reflexive pronoun.",
+          "id": "27",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "Can you give <!-(problem area)-!> a hand?",
+          "options": ["me", "my", "mine", "myself"],
+          "correct": "me",
+          "description": "'Me' is the correct object pronoun.",
+          "id": "28",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "This laptop is <!-(problem area)-!>.",
+          "options": ["mine", "my", "me", "myself"],
+          "correct": "mine",
+          "description": "'Mine' is the correct possessive pronoun.",
+          "id": "29",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "I saw <!-(problem area)-!> at the store.",
+          "options": ["them", "they", "their", "theirs"],
+          "correct": "them",
+          "description": "'Them' is the correct object pronoun.",
+          "id": "30",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "Is this <!-(problem area)-!> car?",
+          "options": ["your", "you", "yours", "yourself"],
+          "correct": "your",
+          "description": "'Your' is the correct possessive adjective.",
+          "id": "31",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "That is <!-(problem area)-!> book on the table.",
+          "options": ["her", "hers", "she", "herself"],
+          "correct": "her",
+          "description": "'Her' is the correct possessive adjective.",
+          "id": "32",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "He finished the project by <!-(problem area)-!>.",
+          "options": ["himself", "him", "he", "his"],
+          "correct": "himself",
+          "description": "'Himself' is the correct reflexive pronoun.",
+          "id": "33",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "I would like to introduce <!-(problem area)-!>.",
+          "options": ["myself", "me", "I", "mine"],
+          "correct": "myself",
+          "description": "'Myself' is the correct reflexive pronoun.",
+          "id": "34",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "This is <!-(problem area)-!> house.",
+          "options": ["their", "theirs", "them", "they"],
+          "correct": "their",
+          "description": "'Their' is the correct possessive adjective.",
+          "id": "35",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "She found <!-(problem area)-!> in the garden.",
+          "options": ["it", "its", "it's", "itself"],
+          "correct": "it",
+          "description": "'It' is the correct object pronoun.",
+          "id": "36",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "The responsibility is <!-(problem area)-!>.",
+          "options": ["yours", "your", "you", "yourself"],
+          "correct": "yours",
+          "description": "'Yours' is the correct possessive pronoun.",
+          "id": "37",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "They did it by <!-(problem area)-!>.",
+          "options": ["themselves", "them", "they", "their"],
+          "correct": "themselves",
+          "description": "'Themselves' is the correct reflexive pronoun.",
+          "id": "38",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "She gave <!-(problem area)-!> a gift.",
+          "options": ["him", "he", "his", "himself"],
+          "correct": "him",
+          "description": "'Him' is the correct object pronoun.",
+          "id": "39",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "This is <!-(problem area)-!> cat.",
+          "options": ["my", "mine", "me", "myself"],
+          "correct": "my",
+          "description": "'My' is the correct possessive adjective.",
+          "id": "40",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "They love <!-(problem area)-!> dog.",
+          "options": ["their", "theirs", "them", "they"],
+          "correct": "their",
+          "description": "'Their' is the correct possessive adjective.",
+          "id": "41",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "This is our house, and that is <!-(problem area)-!>.",
+          "options": ["theirs", "their", "them", "they"],
+          "correct": "theirs",
+          "description": "'Theirs' is the correct possessive pronoun.",
+          "id": "42",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "She did it <!-(problem area)-!>.",
+          "options": ["herself", "her", "she", "hers"],
+          "correct": "herself",
+          "description": "'Herself' is the correct reflexive pronoun.",
+          "id": "43",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "Is this book <!-(problem area)-!>?",
+          "options": ["yours", "your", "you", "yourself"],
+          "correct": "yours",
+          "description": "'Yours' is the correct possessive pronoun.",
+          "id": "44",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "He told <!-(problem area)-!> the news.",
+          "options": ["me", "my", "mine", "myself"],
+          "correct": "me",
+          "description": "'Me' is the correct object pronoun.",
+          "id": "45",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "That car is <!-(problem area)-!>.",
+          "options": ["hers", "her", "she", "herself"],
+          "correct": "hers",
+          "description": "'Hers' is the correct possessive pronoun.",
+          "id": "46",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "The decision is <!-(problem area)-!>.",
+          "options": ["his", "him", "he", "himself"],
+          "correct": "his",
+          "description": "'His' is the correct possessive pronoun.",
+          "id": "47",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "She cooked dinner by <!-(problem area)-!>.",
+          "options": ["herself", "her", "she", "hers"],
+          "correct": "herself",
+          "description": "'Herself' is the correct reflexive pronoun.",
+          "id": "48",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "He met <!-(problem area)-!> at the station.",
+          "options": ["her", "she", "hers", "herself"],
+          "correct": "her",
+          "description": "'Her' is the correct object pronoun.",
+          "id": "49",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "This is our home, and that is <!-(problem area)-!>.",
+          "options": ["theirs", "their", "them", "they"],
+          "correct": "theirs",
+          "description": "'Theirs' is the correct possessive pronoun.",
+          "id": "50",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "She helped <!-(problem area)-!> to some cake.",
+          "options": ["herself", "her", "she", "hers"],
+          "correct": "herself",
+          "description": "'Herself' is the correct reflexive pronoun.",
+          "id": "51",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "Is this <!-(problem area)-!> notebook?",
+          "options": ["your", "you", "yours", "yourself"],
+          "correct": "your",
+          "description": "'Your' is the correct possessive adjective.",
+          "id": "52",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "He hurt <!-(problem area)-!> with a knife.",
+          "options": ["himself", "him", "he", "his"],
+          "correct": "himself",
+          "description": "'Himself' is the correct reflexive pronoun.",
+          "id": "53",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "This cat is <!-(problem area)-!>.",
+          "options": ["theirs", "their", "them", "they"],
+          "correct": "theirs",
+          "description": "'Theirs' is the correct possessive pronoun.",
+          "id": "54",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "She called <!-(problem area)-!> yesterday.",
+          "options": ["him", "he", "his", "himself"],
+          "correct": "him",
+          "description": "'Him' is the correct object pronoun.",
+          "id": "55",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
         }
       ]
     },
@@ -3563,6 +4894,505 @@
           "quiz": "My brother is <!-(problem area)-!> me.",
           "options": ["taller than", "the tallest", "tall", "as tall as"],
           "correct": "taller than"
+        },
+        {
+          "quiz": "This problem is much <!-(problem area)-!> than the last one.",
+          "options": ["harder", "hard", "hardest", "more hard"],
+          "correct": "harder",
+          "description": "Comparative form for 'hard' is 'harder'.",
+          "id": "11",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "She is the <!-(problem area)-!> student in the class.",
+          "options": ["smartest", "smarter", "most smart", "smart"],
+          "correct": "smartest",
+          "description": "Superlative form for 'smart' is 'smartest'.",
+          "id": "12",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "This cake is as <!-(problem area)-!> as that one.",
+          "options": [
+            "delicious",
+            "more delicious",
+            "deliciouser",
+            "most delicious"
+          ],
+          "correct": "delicious",
+          "description": "'As ~ as' requires the adjective 'delicious' in its base form.",
+          "id": "13",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "Her dress is <!-(problem area)-!> than mine.",
+          "options": ["prettier", "pretty", "prettiest", "more pretty"],
+          "correct": "prettier",
+          "description": "Comparative form for 'pretty' is 'prettier'.",
+          "id": "14",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "He is the <!-(problem area)-!> player on the team.",
+          "options": ["best", "better", "good", "most good"],
+          "correct": "best",
+          "description": "Superlative form for 'good' is 'best'.",
+          "id": "15",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "This task is as <!-(problem area)-!> as the last one.",
+          "options": [
+            "difficult",
+            "more difficult",
+            "difficulter",
+            "most difficult"
+          ],
+          "correct": "difficult",
+          "description": "'As ~ as' requires the adjective 'difficult' in its base form.",
+          "id": "16",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "This movie is <!-(problem area)-!> than the previous one.",
+          "options": ["better", "best", "good", "most good"],
+          "correct": "better",
+          "description": "Comparative form for 'good' is 'better'.",
+          "id": "17",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "She is the <!-(problem area)-!> dancer I've ever seen.",
+          "options": [
+            "most graceful",
+            "gracefuler",
+            "more graceful",
+            "graceful"
+          ],
+          "correct": "most graceful",
+          "description": "Superlative form for 'graceful' is 'most graceful'.",
+          "id": "18",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "The test was <!-(problem area)-!> than I expected.",
+          "options": ["easier", "easy", "easiest", "more easy"],
+          "correct": "easier",
+          "description": "Comparative form for 'easy' is 'easier'.",
+          "id": "19",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "Her voice is as <!-(problem area)-!> as a nightingale's.",
+          "options": [
+            "melodious",
+            "more melodious",
+            "melodiousest",
+            "most melodious"
+          ],
+          "correct": "melodious",
+          "description": "'As ~ as' requires the adjective 'melodious' in its base form.",
+          "id": "20",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "This book is <!-(problem area)-!> than that one.",
+          "options": ["thicker", "thick", "thickest", "more thick"],
+          "correct": "thicker",
+          "description": "Comparative form for 'thick' is 'thicker'.",
+          "id": "21",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "She is the <!-(problem area)-!> of all the siblings.",
+          "options": ["youngest", "younger", "young", "most young"],
+          "correct": "youngest",
+          "description": "Superlative form for 'young' is 'youngest'.",
+          "id": "22",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "This puzzle is as <!-(problem area)-!> as the last one.",
+          "options": [
+            "challenging",
+            "more challenging",
+            "challenginger",
+            "most challenging"
+          ],
+          "correct": "challenging",
+          "description": "'As ~ as' requires the adjective 'challenging' in its base form.",
+          "id": "23",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "Her bag is <!-(problem area)-!> than mine.",
+          "options": ["heavier", "heavy", "heaviest", "more heavy"],
+          "correct": "heavier",
+          "description": "Comparative form for 'heavy' is 'heavier'.",
+          "id": "24",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "He is the <!-(problem area)-!> runner in the team.",
+          "options": ["fastest", "faster", "fast", "most fast"],
+          "correct": "fastest",
+          "description": "Superlative form for 'fast' is 'fastest'.",
+          "id": "25",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "The weather today is as <!-(problem area)-!> as yesterday.",
+          "options": ["cold", "colder", "coldest", "more cold"],
+          "correct": "cold",
+          "description": "'As ~ as' requires the adjective 'cold' in its base form.",
+          "id": "26",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "This road is <!-(problem area)-!> than the highway.",
+          "options": ["narrower", "narrow", "narrowest", "more narrow"],
+          "correct": "narrower",
+          "description": "Comparative form for 'narrow' is 'narrower'.",
+          "id": "27",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "She is the <!-(problem area)-!> in the group.",
+          "options": [
+            "most talented",
+            "talentedest",
+            "talented",
+            "more talented"
+          ],
+          "correct": "most talented",
+          "description": "Superlative form for 'talented' is 'most talented'.",
+          "id": "28",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "The painting is as <!-(problem area)-!> as a photograph.",
+          "options": [
+            "realistic",
+            "more realistic",
+            "realisticest",
+            "most realistic"
+          ],
+          "correct": "realistic",
+          "description": "'As ~ as' requires the adjective 'realistic' in its base form.",
+          "id": "29",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "His performance was <!-(problem area)-!> than last time.",
+          "options": ["better", "best", "good", "most good"],
+          "correct": "better",
+          "description": "Comparative form for 'good' is 'better'.",
+          "id": "30",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "She is the <!-(problem area)-!> singer in the choir.",
+          "options": ["best", "better", "good", "most good"],
+          "correct": "best",
+          "description": "Superlative form for 'good' is 'best'.",
+          "id": "31",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "His explanation is as <!-(problem area)-!> as the teacher's.",
+          "options": ["clear", "clearer", "clearest", "more clear"],
+          "correct": "clear",
+          "description": "'As ~ as' requires the adjective 'clear' in its base form.",
+          "id": "32",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "This path is <!-(problem area)-!> than the other one.",
+          "options": ["steeper", "steep", "steepest", "more steep"],
+          "correct": "steeper",
+          "description": "Comparative form for 'steep' is 'steeper'.",
+          "id": "33",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "She is the <!-(problem area)-!> artist in the class.",
+          "options": [
+            "most creative",
+            "creativest",
+            "creative",
+            "more creative"
+          ],
+          "correct": "most creative",
+          "description": "Superlative form for 'creative' is 'most creative'.",
+          "id": "34",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "His idea is as <!-(problem area)-!> as hers.",
+          "options": [
+            "innovative",
+            "more innovative",
+            "innovativer",
+            "most innovative"
+          ],
+          "correct": "innovative",
+          "description": "'As ~ as' requires the adjective 'innovative' in its base form.",
+          "id": "35",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "This route is <!-(problem area)-!> than the highway.",
+          "options": ["shorter", "short", "shortest", "more short"],
+          "correct": "shorter",
+          "description": "Comparative form for 'short' is 'shorter'.",
+          "id": "36",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "She is the <!-(problem area)-!> player on the team.",
+          "options": ["tallest", "taller", "tall", "most tall"],
+          "correct": "tallest",
+          "description": "Superlative form for 'tall' is 'tallest'.",
+          "id": "37",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "The coffee is as <!-(problem area)-!> as tea.",
+          "options": ["hot", "hotter", "hottest", "more hot"],
+          "correct": "hot",
+          "description": "'As ~ as' requires the adjective 'hot' in its base form.",
+          "id": "38",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "This game is <!-(problem area)-!> than that one.",
+          "options": [
+            "more exciting",
+            "exciting",
+            "excitinger",
+            "most exciting"
+          ],
+          "correct": "more exciting",
+          "description": "Comparative form for 'exciting' is 'more exciting'.",
+          "id": "39",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "She is the <!-(problem area)-!> speaker at the conference.",
+          "options": [
+            "most eloquent",
+            "eloquenter",
+            "eloquent",
+            "more eloquent"
+          ],
+          "correct": "most eloquent",
+          "description": "Superlative form for 'eloquent' is 'most eloquent'.",
+          "id": "40",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "This problem is as <!-(problem area)-!> as the previous one.",
+          "options": ["complex", "more complex", "complexer", "most complex"],
+          "correct": "complex",
+          "description": "'As ~ as' requires the adjective 'complex' in its base form.",
+          "id": "41",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "His story is <!-(problem area)-!> than hers.",
+          "options": [
+            "more believable",
+            "believable",
+            "believabler",
+            "most believable"
+          ],
+          "correct": "more believable",
+          "description": "Comparative form for 'believable' is 'more believable'.",
+          "id": "42",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "She is the <!-(problem area)-!> writer in the class.",
+          "options": [
+            "most talented",
+            "talentedest",
+            "talented",
+            "more talented"
+          ],
+          "correct": "most talented",
+          "description": "Superlative form for 'talented' is 'most talented'.",
+          "id": "43",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "The weather today is as <!-(problem area)-!> as it was yesterday.",
+          "options": ["cold", "colder", "coldest", "more cold"],
+          "correct": "cold",
+          "description": "'As ~ as' requires the adjective 'cold' in its base form.",
+          "id": "44",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "This path is <!-(problem area)-!> than the other one.",
+          "options": ["steeper", "steep", "steepest", "more steep"],
+          "correct": "steeper",
+          "description": "Comparative form for 'steep' is 'steeper'.",
+          "id": "45",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "She is the <!-(problem area)-!> student in her class.",
+          "options": ["smartest", "smarter", "most smart", "smart"],
+          "correct": "smartest",
+          "description": "Superlative form for 'smart' is 'smartest'.",
+          "id": "46",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "His voice is as <!-(problem area)-!> as a radio announcer's.",
+          "options": ["clear", "clearer", "clearest", "more clear"],
+          "correct": "clear",
+          "description": "'As ~ as' requires the adjective 'clear' in its base form.",
+          "id": "47",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "This soup is <!-(problem area)-!> than the last one.",
+          "options": ["spicier", "spicy", "spiciest", "more spicy"],
+          "correct": "spicier",
+          "description": "Comparative form for 'spicy' is 'spicier'.",
+          "id": "48",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "She is the <!-(problem area)-!> athlete in the school.",
+          "options": ["strongest", "stronger", "strong", "most strong"],
+          "correct": "strongest",
+          "description": "Superlative form for 'strong' is 'strongest'.",
+          "id": "49",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "This novel is as <!-(problem area)-!> as that one.",
+          "options": [
+            "interesting",
+            "more interesting",
+            "interestinger",
+            "most interesting"
+          ],
+          "correct": "interesting",
+          "description": "'As ~ as' requires the adjective 'interesting' in its base form.",
+          "id": "50",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "His car is <!-(problem area)-!> than mine.",
+          "options": ["faster", "fast", "fastest", "more fast"],
+          "correct": "faster",
+          "description": "Comparative form for 'fast' is 'faster'.",
+          "id": "51",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "She is the <!-(problem area)-!> dancer in the group.",
+          "options": ["best", "better", "good", "most good"],
+          "correct": "best",
+          "description": "Superlative form for 'good' is 'best'.",
+          "id": "52",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "Her garden is as <!-(problem area)-!> as a park.",
+          "options": [
+            "beautiful",
+            "more beautiful",
+            "beautifuller",
+            "most beautiful"
+          ],
+          "correct": "beautiful",
+          "description": "'As ~ as' requires the adjective 'beautiful' in its base form.",
+          "id": "53",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "This dress is <!-(problem area)-!> than that one.",
+          "options": [
+            "more expensive",
+            "expensiver",
+            "expensive",
+            "most expensive"
+          ],
+          "correct": "more expensive",
+          "description": "Comparative form for 'expensive' is 'more expensive'.",
+          "id": "54",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "She is the <!-(problem area)-!> member of the team.",
+          "options": [
+            "most dedicated",
+            "dedicatedest",
+            "dedicated",
+            "more dedicated"
+          ],
+          "correct": "most dedicated",
+          "description": "Superlative form for 'dedicated' is 'most dedicated'.",
+          "id": "55",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
+        },
+        {
+          "quiz": "The sky is as <!-(problem area)-!> as the ocean.",
+          "options": ["blue", "bluer", "bluest", "more blue"],
+          "correct": "blue",
+          "description": "'As ~ as' requires the adjective 'blue' in its base form.",
+          "id": "56",
+          "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+          "quizType": "type1"
         }
       ]
     },

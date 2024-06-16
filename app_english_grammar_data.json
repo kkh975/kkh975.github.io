@@ -1,5 +1,5 @@
 {
-  "version": "2",
+  "version": "3",
   "lang": "kr",
   "categories": [
     {
@@ -3203,7 +3203,7 @@
           "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
           "quizType": "type1",
           "quiz": "I have <!-(problem area)-!> unique collection of stamps.",
-          "options": ["a", "an", "the", ""],
+          "options": ["a", "an", "the"],
           "correct": "a"
         },
         {
@@ -3211,7 +3211,7 @@
           "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
           "quizType": "type1",
           "quiz": "She is <!-(problem area)-!> ESL teacher.",
-          "options": ["a", "an", "the", ""],
+          "options": ["a", "an", "the"],
           "correct": "an"
         },
         {
@@ -3219,7 +3219,7 @@
           "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
           "quizType": "type1",
           "quiz": "I saw <!-(problem area)-!> unicorn in my dream.",
-          "options": ["a", "an", "the", ""],
+          "options": ["a", "an", "the"],
           "correct": "a"
         },
         {
@@ -3227,7 +3227,7 @@
           "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
           "quizType": "type1",
           "quiz": "<!-(problem area)-!> Sun rises in the east.",
-          "options": ["A", "An", "The", ""],
+          "options": ["A", "An", "The"],
           "correct": "The"
         },
         {
@@ -3235,7 +3235,7 @@
           "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
           "quizType": "type1",
           "quiz": "Did you feed <!-(problem area)-!> dog?",
-          "options": ["a", "an", "the", ""],
+          "options": ["a", "an", "the"],
           "correct": "the"
         },
         {
@@ -3243,7 +3243,7 @@
           "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
           "quizType": "type1",
           "quiz": "He is <!-(problem area)-!> honest man.",
-          "options": ["a", "an", "the", ""],
+          "options": ["a", "an", "the"],
           "correct": "an"
         },
         {
@@ -3259,7 +3259,7 @@
           "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
           "quizType": "type1",
           "quiz": "I heard <!-(problem area)-!> amazing song on the radio.",
-          "options": ["an", "a", "the", ""],
+          "options": ["an", "a", "the"],
           "correct": "an"
         },
         {
@@ -3267,7 +3267,7 @@
           "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
           "quizType": "type1",
           "quiz": "My brother is <!-(problem area)-!> engineer.",
-          "options": ["an", "a", "the", ""],
+          "options": ["an", "a", "the"],
           "correct": "an"
         },
         {
@@ -3275,7 +3275,7 @@
           "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
           "quizType": "type1",
           "quiz": "Can you pass me <!-(problem area)-!> orange, please?",
-          "options": ["an", "a", "the", ""],
+          "options": ["an", "a", "the"],
           "correct": "an"
         },
         {
@@ -3283,7 +3283,7 @@
           "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
           "quizType": "type1",
           "quiz": "<!-(problem area)-!> apple a day keeps the doctor away.",
-          "options": ["an", "a", "the", ""],
+          "options": ["an", "a", "the"],
           "correct": "an"
         },
         {
@@ -3291,7 +3291,7 @@
           "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
           "quizType": "type1",
           "quiz": "She saw <!-(problem area)-!> old friend at the party.",
-          "options": ["a", "an", "the", ""],
+          "options": ["a", "an", "the"],
           "correct": "an"
         },
         {
@@ -3299,7 +3299,7 @@
           "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
           "quizType": "type1",
           "quiz": "Do you have <!-(problem area)-!> pen I could borrow?",
-          "options": ["a", "an", "the", ""],
+          "options": ["a", "an", "the"],
           "correct": "a"
         },
         {
@@ -3307,7 +3307,7 @@
           "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
           "quizType": "type1",
           "quiz": "There's <!-(problem area)-!> cat in the garden.",
-          "options": ["a", "an", "the", ""],
+          "options": ["a", "an", "the"],
           "correct": "a"
         },
         {
@@ -3315,7 +3315,7 @@
           "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
           "quizType": "type1",
           "quiz": "I'd like to book <!-(problem area)-!> room, please.",
-          "options": ["a", "an", "the", ""],
+          "options": ["a", "an", "the"],
           "correct": "a"
         },
         {
@@ -3323,7 +3323,7 @@
           "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
           "quizType": "type1",
           "quiz": "Please pass me <!-(problem area)-!> scissors.",
-          "options": ["a", "an", "the", ""],
+          "options": ["a", "an", "the"],
           "correct": "the"
         },
         {
@@ -3331,7 +3331,7 @@
           "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
           "quizType": "type1",
           "quiz": "Her father is <!-(problem area)-!> police officer.",
-          "options": ["a", "an", "the", ""],
+          "options": ["a", "an", "the"],
           "correct": "a"
         },
         {
@@ -3339,7 +3339,7 @@
           "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
           "quizType": "type1",
           "quiz": "Can you close <!-(problem area)-!> door, please?",
-          "options": ["a", "an", "the", ""],
+          "options": ["a", "an", "the"],
           "correct": "the"
         },
         {
@@ -3347,7 +3347,7 @@
           "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
           "quizType": "type1",
           "quiz": "She's reading <!-(problem area)-!> book that I recommended.",
-          "options": ["a", "an", "the", ""],
+          "options": ["a", "an", "the"],
           "correct": "the"
         },
         {
@@ -3355,7 +3355,7 @@
           "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
           "quizType": "type1",
           "quiz": "There is <!-(problem area)-!> university in the middle of the city.",
-          "options": ["a", "an", "the", ""],
+          "options": ["a", "an", "the"],
           "correct": "a"
         },
         {
@@ -3363,7 +3363,7 @@
           "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
           "quizType": "type1",
           "quiz": "I need to buy <!-(problem area)-!> new car.",
-          "options": ["a", "an", "the", ""],
+          "options": ["a", "an", "the"],
           "correct": "a"
         },
         {
@@ -3371,7 +3371,7 @@
           "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
           "quizType": "type1",
           "quiz": "She's going to <!-(problem area)-!> hospital to visit her mother.",
-          "options": ["a", "an", "the", ""],
+          "options": ["a", "an", "the"],
           "correct": "the"
         },
         {
@@ -3379,7 +3379,7 @@
           "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
           "quizType": "type1",
           "quiz": "You can see <!-(problem area)-!> Eiffel Tower from here.",
-          "options": ["a", "an", "the", ""],
+          "options": ["a", "an", "the"],
           "correct": "the"
         },
         {
@@ -3387,7 +3387,7 @@
           "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
           "quizType": "type1",
           "quiz": "Can you give me <!-(problem area)-!> glass of water?",
-          "options": ["a", "an", "the", ""],
+          "options": ["a", "an", "the"],
           "correct": "a"
         },
         {
@@ -3395,7 +3395,7 @@
           "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
           "quizType": "type1",
           "quiz": "Look at <!-(problem area)-!> sky. It's beautiful today.",
-          "options": ["a", "an", "the", ""],
+          "options": ["a", "an", "the"],
           "correct": "the"
         },
         {
@@ -3403,7 +3403,7 @@
           "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
           "quizType": "type1",
           "quiz": "He's <!-(problem area)-!> best player in the team.",
-          "options": ["a", "an", "the", ""],
+          "options": ["a", "an", "the"],
           "correct": "the"
         },
         {
@@ -3411,7 +3411,7 @@
           "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
           "quizType": "type1",
           "quiz": "He gave her <!-(problem area)-!> beautiful ring.",
-          "options": ["a", "an", "the", ""],
+          "options": ["a", "an", "the"],
           "correct": "a"
         },
         {
@@ -3419,7 +3419,7 @@
           "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
           "quizType": "type1",
           "quiz": "I saw <!-(problem area)-!> shooting star last night.",
-          "options": ["a", "an", "the", ""],
+          "options": ["a", "an", "the"],
           "correct": "a"
         },
         {
@@ -3427,7 +3427,7 @@
           "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
           "quizType": "type1",
           "quiz": "She offered him <!-(problem area)-!> apple.",
-          "options": ["a", "an", "the", ""],
+          "options": ["a", "an", "the"],
           "correct": "an"
         },
         {
@@ -3435,7 +3435,7 @@
           "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
           "quizType": "type1",
           "quiz": "I would like to order <!-(problem area)-!> steak, please.",
-          "options": ["a", "an", "the", ""],
+          "options": ["a", "an", "the"],
           "correct": "a"
         },
         {
@@ -3443,7 +3443,7 @@
           "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
           "quizType": "type1",
           "quiz": "I need to visit <!-(problem area)-!> doctor.",
-          "options": ["a", "an", "the", ""],
+          "options": ["a", "an", "the"],
           "correct": "the"
         },
         {
@@ -3451,7 +3451,7 @@
           "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
           "quizType": "type1",
           "quiz": "They have <!-(problem area)-!> daughter and two sons.",
-          "options": ["a", "an", "the", ""],
+          "options": ["a", "an", "the"],
           "correct": "a"
         },
         {
@@ -3459,7 +3459,7 @@
           "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
           "quizType": "type1",
           "quiz": "She is <!-(problem area)-!> only person who can help us.",
-          "options": ["a", "an", "the", ""],
+          "options": ["a", "an", "the"],
           "correct": "the"
         },
         {
@@ -3467,7 +3467,7 @@
           "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
           "quizType": "type1",
           "quiz": "I have <!-(problem area)-!> idea for a new project.",
-          "options": ["a", "an", "the", ""],
+          "options": ["a", "an", "the"],
           "correct": "an"
         },
         {
@@ -3475,7 +3475,7 @@
           "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
           "quizType": "type1",
           "quiz": "I saw <!-(problem area)-!> great movie last night.",
-          "options": ["a", "an", "the", ""],
+          "options": ["a", "an", "the"],
           "correct": "a"
         },
         {
@@ -3483,7 +3483,7 @@
           "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
           "quizType": "type1",
           "quiz": "I'd like <!-(problem area)-!> cup of tea, please.",
-          "options": ["a", "an", "the", ""],
+          "options": ["a", "an", "the"],
           "correct": "a"
         },
         {
@@ -3491,7 +3491,7 @@
           "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
           "quizType": "type1",
           "quiz": "Would you like <!-(problem area)-!> orange?",
-          "options": ["a", "an", "the", ""],
+          "options": ["a", "an", "the"],
           "correct": "an"
         },
         {
@@ -3499,7 +3499,7 @@
           "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
           "quizType": "type1",
           "quiz": "He'll be staying at <!-(problem area)-!> hotel while he's in town.",
-          "options": ["a", "an", "the", ""],
+          "options": ["a", "an", "the"],
           "correct": "a"
         },
         {
@@ -3507,7 +3507,7 @@
           "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
           "quizType": "type1",
           "quiz": "This is <!-(problem area)-!> best day of my life.",
-          "options": ["a", "an", "the", ""],
+          "options": ["a", "an", "the"],
           "correct": "the"
         },
         {
@@ -3515,7 +3515,7 @@
           "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
           "quizType": "type1",
           "quiz": "I have <!-(problem area)-!> apple for you.",
-          "options": ["a", "an", "the", ""],
+          "options": ["a", "an", "the"],
           "correct": "an"
         },
         {
@@ -3523,7 +3523,7 @@
           "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
           "quizType": "type1",
           "quiz": "Please give me <!-(problem area)-!> water bottle.",
-          "options": ["a", "an", "the", ""],
+          "options": ["a", "an", "the"],
           "correct": "the"
         },
         {
@@ -3531,7 +3531,7 @@
           "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
           "quizType": "type1",
           "quiz": "I saw <!-(problem area)-!> accident on my way to work.",
-          "options": ["a", "an", "the", ""],
+          "options": ["a", "an", "the"],
           "correct": "an"
         },
         {
@@ -3539,7 +3539,7 @@
           "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
           "quizType": "type1",
           "quiz": "There's <!-(problem area)-!> fly in my soup!",
-          "options": ["a", "an", "the", ""],
+          "options": ["a", "an", "the"],
           "correct": "a"
         },
         {
@@ -3547,7 +3547,7 @@
           "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
           "quizType": "type1",
           "quiz": "I'd like <!-(problem area)-!> vanilla ice cream cone, please.",
-          "options": ["a", "an", "the", ""],
+          "options": ["a", "an", "the"],
           "correct": "a"
         }
       ]

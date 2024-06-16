@@ -1,5 +1,5 @@
 {
-  "version": "3",
+  "version": "4",
   "lang": "kr",
   "categories": [
     {
@@ -6599,11 +6599,12 @@
         },
         {
           "id": "6",
+          "quiz": "I have a friend <!-(problem area)-!> plays the guitar.",
+          "options": ["who", "which", "whose", "whom"],
+          "correct": "who",
+          "description": "The correct answer is 'who' because it is used as a relative pronoun for people.",
           "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
-          "quizType": "type1",
-          "quiz": "Here is the book <!-(problem area)-!> you wanted and <!-(problem area)-!> is now available for collection.",
-          "options": ["which, it", "it, which", "whom, that", "who, that"],
-          "correct": "that, it"
+          "quizType": "type1"
         },
         {
           "id": "7",

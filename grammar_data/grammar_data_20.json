@@ -1,0 +1,376 @@
+{
+  "version": "4",
+  "lang": "kr",
+  "id": "20",
+  "title": "기타",
+  "list": [
+    {
+      "id": "1",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "There are <!-(problem area)-!> people in the park.",
+      "options": ["much", "many", "plenty", "lots"],
+      "correct": "many"
+    },
+    {
+      "id": "2",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "She believes that I <!-(problem area)-!> the truth.",
+      "options": ["have told", "told", "am told", "tell"],
+      "correct": "have told"
+    },
+    {
+      "id": "3",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "She also <!-(problem area)-!> likes to play basketball.",
+      "options": ["does", "has", "likes", "plays"],
+      "correct": "does"
+    },
+    {
+      "id": "4",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "Unfortunately, I <!-(problem area)-!> have a car.",
+      "options": ["do", "doesn't", "don't", "does"],
+      "correct": "don't"
+    },
+    {
+      "id": "5",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "They don't think it's right, and <!-(problem area)-!> do I.",
+      "options": ["neither", "so", "not", "nether"],
+      "correct": "neither"
+    },
+    {
+      "id": "6",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "He wants that she <!-(problem area)-!>",
+      "options": ["cooks", "cook", "cooked", "cooking"],
+      "correct": "cook"
+    },
+    {
+      "id": "7",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "She knows that he <!-(problem area)-!> her.",
+      "options": ["does love", "love does", "love", "loving"],
+      "correct": "does love"
+    },
+    {
+      "id": "8",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "There <!-(problem area)-!> a lot of food in the fridge.",
+      "options": ["is", "are", "has", "have"],
+      "correct": "is"
+    },
+    {
+      "id": "9",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "My brother just left, and so <!-(problem area)-!> my sister.",
+      "options": ["did", "do", "does", "don't"],
+      "correct": "did"
+    },
+    {
+      "id": "10",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "I think not, and <!-(problem area)-!> does she.",
+      "options": ["neither", "so", "not", "nother"],
+      "correct": "neither"
+    },
+    {
+      "id": "11",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "They predicted that it <!-(problem area)-!> rain tomorrow.",
+      "options": ["will", "would", "should", "could"],
+      "correct": "will"
+    },
+    {
+      "id": "12",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "There <!-(problem area)-!> cookies on the table.",
+      "options": ["is", "are", "were", "have been"],
+      "correct": "are"
+    },
+    {
+      "id": "13",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "He saw her at the party, and <!-(problem area)-!> did I.",
+      "options": ["so", "neither", "either", "too"],
+      "correct": "so"
+    },
+    {
+      "id": "14",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "She suggested that they <!-(problem area)-!> to the movies.",
+      "options": ["go", "goes", "going", "gone"],
+      "correct": "go"
+    },
+    {
+      "id": "15",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "I like cats, and <!-(problem area)-!> does she.",
+      "options": ["so", "neither", "either", "no"],
+      "correct": "so"
+    },
+    {
+      "id": "16",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "There <!-(problem area)-!> many books on the shelf.",
+      "options": ["is", "are", "has", "have"],
+      "correct": "are"
+    },
+    {
+      "id": "17",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "I'm not going to the party and <!-(problem area)-!> is he.",
+      "options": ["neither", "so", "either", "too"],
+      "correct": "neither"
+    },
+    {
+      "id": "18",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "She's afraid that she <!-(problem area)-!> miss the train.",
+      "options": ["will", "would", "could", "must"],
+      "correct": "will"
+    },
+    {
+      "id": "19",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "I didn't like the movie, and <!-(problem area)-!> did she.",
+      "options": ["neither", "so", "either", "too"],
+      "correct": "neither"
+    },
+    {
+      "id": "20",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "There <!-(problem area)-!> any milk left in the fridge.",
+      "options": ["isn't", "aren't", "hasn't", "haven't"],
+      "correct": "isn't"
+    },
+    {
+      "id": "21",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "She said that she <!-(problem area)-!> on vacation next week.",
+      "options": ["will go", "go", "went", "going"],
+      "correct": "will go"
+    },
+    {
+      "id": "22",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "I can swim, and <!-(problem area)-!> can he.",
+      "options": ["so", "neither", "either", "no"],
+      "correct": "so"
+    },
+    {
+      "id": "23",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "There <!-(problem area)-!> a lot of people at the concert.",
+      "options": ["was", "were", "has been", "have been"],
+      "correct": "were"
+    },
+    {
+      "id": "24",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "He doesn't drink coffee, and <!-(problem area)-!> do I.",
+      "options": ["neither", "so", "not", "none"],
+      "correct": "neither"
+    },
+    {
+      "id": "25",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "I don't eat meat, and <!-(problem area)-!> does he.",
+      "options": ["neither", "so", "either", "too"],
+      "correct": "neither"
+    },
+    {
+      "id": "26",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "They believe that she <!-(problem area)-!> win the competition.",
+      "options": ["will", "would", "can", "might"],
+      "correct": "will"
+    },
+    {
+      "id": "27",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "There <!-(problem area)-!> a bird in the tree.",
+      "options": ["is", "are", "has", "have"],
+      "correct": "is"
+    },
+    {
+      "id": "28",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "You like basketball, and <!-(problem area)-!> do I.",
+      "options": ["so", "neither", "either", "too"],
+      "correct": "so"
+    },
+    {
+      "id": "29",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "He doesn't like sushi, and <!-(problem area)-!> do I.",
+      "options": ["neither", "so", "either", "too"],
+      "correct": "neither"
+    },
+    {
+      "id": "30",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "She expects that he <!-(problem area)-!> propose tonight.",
+      "options": ["will", "would", "can", "may"],
+      "correct": "will"
+    },
+    {
+      "id": "31",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "There <!-(problem area)-!> many stars in the sky.",
+      "options": ["is", "are", "has", "have"],
+      "correct": "are"
+    },
+    {
+      "id": "32",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "I love chocolate, and <!-(problem area)-!> does she.",
+      "options": ["so", "neither", "either", "too"],
+      "correct": "so"
+    },
+    {
+      "id": "33",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "She didn't pass the test, and <!-(problem area)-!> did he.",
+      "options": ["neither", "so", "either", "too"],
+      "correct": "neither"
+    },
+    {
+      "id": "34",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "He hopes that it <!-(problem area)-!> rain tomorrow.",
+      "options": ["will", "would", "can", "might"],
+      "correct": "will"
+    },
+    {
+      "id": "35",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "There <!-(problem area)-!> a cat on the roof.",
+      "options": ["is", "are", "has", "have"],
+      "correct": "is"
+    },
+    {
+      "id": "36",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "I can play piano, and <!-(problem area)-!> can he.",
+      "options": ["so", "neither", "either", "too"],
+      "correct": "so"
+    },
+    {
+      "id": "37",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "She doesn't drink alcohol, and <!-(problem area)-!> do I.",
+      "options": ["neither", "so", "either", "too"],
+      "correct": "neither"
+    },
+    {
+      "id": "38",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "He believes that she <!-(problem area)-!> the truth.",
+      "options": ["will tell", "tell", "tells", "telling"],
+      "correct": "will tell"
+    },
+    {
+      "id": "39",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "There <!-(problem area)-!> three cups on the table.",
+      "options": ["is", "are", "has", "have"],
+      "correct": "are"
+    },
+    {
+      "id": "40",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "I exercise daily, and <!-(problem area)-!> does she.",
+      "options": ["so", "neither", "either", "too"],
+      "correct": "so"
+    },
+    {
+      "id": "41",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "He didn't try his best, and <!-(problem area)-!> did she.",
+      "options": ["neither", "so", "either", "too"],
+      "correct": "neither"
+    },
+    {
+      "id": "42",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "She knows that he <!-(problem area)-!> late.",
+      "options": ["will come", "come", "comes", "coming"],
+      "correct": "will come"
+    },
+    {
+      "id": "43",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "There <!-(problem area)-!> a lot of books in the library.",
+      "options": ["is", "are", "has", "have"],
+      "correct": "are"
+    },
+    {
+      "id": "44",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "He reads books, and <!-(problem area)-!> do I.",
+      "options": ["so", "neither", "either", "too"],
+      "correct": "so"
+    },
+    {
+      "id": "45",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "She doesn't speak French, and <!-(problem area)-!> do I.",
+      "options": ["neither", "so", "either", "too"],
+      "correct": "neither"
+    },
+    {
+      "id": "46",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "They think that she <!-(problem area)-!> soon.",
+      "options": ["will arrive", "arrive", "arrives", "arriving"],
+      "correct": "will arrive"
+    }
+  ]
+}

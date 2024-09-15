@@ -1,0 +1,360 @@
+{
+  "version": "4",
+  "lang": "kr",
+  "id": "10",
+  "title": "관사",
+  "list": [
+    {
+      "id": "1",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "I have <!-(problem area)-!> unique collection of stamps.",
+      "options": ["a", "an", "the"],
+      "correct": "a"
+    },
+    {
+      "id": "2",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "She is <!-(problem area)-!> ESL teacher.",
+      "options": ["a", "an", "the"],
+      "correct": "an"
+    },
+    {
+      "id": "3",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "I saw <!-(problem area)-!> unicorn in my dream.",
+      "options": ["a", "an", "the"],
+      "correct": "a"
+    },
+    {
+      "id": "4",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "<!-(problem area)-!> Sun rises in the east.",
+      "options": ["A", "An", "The"],
+      "correct": "The"
+    },
+    {
+      "id": "5",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "Did you feed <!-(problem area)-!> dog?",
+      "options": ["a", "an", "the"],
+      "correct": "the"
+    },
+    {
+      "id": "6",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "He is <!-(problem area)-!> honest man.",
+      "options": ["a", "an", "the"],
+      "correct": "an"
+    },
+    {
+      "id": "7",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "You should see <!-(problem area)-!> movie. It's very good.",
+      "options": ["a", "an", "the", " "],
+      "correct": "the"
+    },
+    {
+      "id": "8",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "I heard <!-(problem area)-!> amazing song on the radio.",
+      "options": ["an", "a", "the"],
+      "correct": "an"
+    },
+    {
+      "id": "9",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "My brother is <!-(problem area)-!> engineer.",
+      "options": ["an", "a", "the"],
+      "correct": "an"
+    },
+    {
+      "id": "10",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "Can you pass me <!-(problem area)-!> orange, please?",
+      "options": ["an", "a", "the"],
+      "correct": "an"
+    },
+    {
+      "id": "11",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "<!-(problem area)-!> apple a day keeps the doctor away.",
+      "options": ["an", "a", "the"],
+      "correct": "an"
+    },
+    {
+      "id": "12",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "She saw <!-(problem area)-!> old friend at the party.",
+      "options": ["a", "an", "the"],
+      "correct": "an"
+    },
+    {
+      "id": "13",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "Do you have <!-(problem area)-!> pen I could borrow?",
+      "options": ["a", "an", "the"],
+      "correct": "a"
+    },
+    {
+      "id": "14",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "There's <!-(problem area)-!> cat in the garden.",
+      "options": ["a", "an", "the"],
+      "correct": "a"
+    },
+    {
+      "id": "15",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "I'd like to book <!-(problem area)-!> room, please.",
+      "options": ["a", "an", "the"],
+      "correct": "a"
+    },
+    {
+      "id": "16",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "Please pass me <!-(problem area)-!> scissors.",
+      "options": ["a", "an", "the"],
+      "correct": "the"
+    },
+    {
+      "id": "17",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "Her father is <!-(problem area)-!> police officer.",
+      "options": ["a", "an", "the"],
+      "correct": "a"
+    },
+    {
+      "id": "18",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "Can you close <!-(problem area)-!> door, please?",
+      "options": ["a", "an", "the"],
+      "correct": "the"
+    },
+    {
+      "id": "19",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "She's reading <!-(problem area)-!> book that I recommended.",
+      "options": ["a", "an", "the"],
+      "correct": "the"
+    },
+    {
+      "id": "20",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "There is <!-(problem area)-!> university in the middle of the city.",
+      "options": ["a", "an", "the"],
+      "correct": "a"
+    },
+    {
+      "id": "21",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "I need to buy <!-(problem area)-!> new car.",
+      "options": ["a", "an", "the"],
+      "correct": "a"
+    },
+    {
+      "id": "22",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "She's going to <!-(problem area)-!> hospital to visit her mother.",
+      "options": ["a", "an", "the"],
+      "correct": "the"
+    },
+    {
+      "id": "23",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "You can see <!-(problem area)-!> Eiffel Tower from here.",
+      "options": ["a", "an", "the"],
+      "correct": "the"
+    },
+    {
+      "id": "24",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "Can you give me <!-(problem area)-!> glass of water?",
+      "options": ["a", "an", "the"],
+      "correct": "a"
+    },
+    {
+      "id": "25",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "Look at <!-(problem area)-!> sky. It's beautiful today.",
+      "options": ["a", "an", "the"],
+      "correct": "the"
+    },
+    {
+      "id": "26",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "He's <!-(problem area)-!> best player in the team.",
+      "options": ["a", "an", "the"],
+      "correct": "the"
+    },
+    {
+      "id": "27",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "He gave her <!-(problem area)-!> beautiful ring.",
+      "options": ["a", "an", "the"],
+      "correct": "a"
+    },
+    {
+      "id": "28",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "I saw <!-(problem area)-!> shooting star last night.",
+      "options": ["a", "an", "the"],
+      "correct": "a"
+    },
+    {
+      "id": "29",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "She offered him <!-(problem area)-!> apple.",
+      "options": ["a", "an", "the"],
+      "correct": "an"
+    },
+    {
+      "id": "30",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "I would like to order <!-(problem area)-!> steak, please.",
+      "options": ["a", "an", "the"],
+      "correct": "a"
+    },
+    {
+      "id": "31",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "I need to visit <!-(problem area)-!> doctor.",
+      "options": ["a", "an", "the"],
+      "correct": "the"
+    },
+    {
+      "id": "32",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "They have <!-(problem area)-!> daughter and two sons.",
+      "options": ["a", "an", "the"],
+      "correct": "a"
+    },
+    {
+      "id": "33",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "She is <!-(problem area)-!> only person who can help us.",
+      "options": ["a", "an", "the"],
+      "correct": "the"
+    },
+    {
+      "id": "34",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "I have <!-(problem area)-!> idea for a new project.",
+      "options": ["a", "an", "the"],
+      "correct": "an"
+    },
+    {
+      "id": "35",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "I saw <!-(problem area)-!> great movie last night.",
+      "options": ["a", "an", "the"],
+      "correct": "a"
+    },
+    {
+      "id": "36",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "I'd like <!-(problem area)-!> cup of tea, please.",
+      "options": ["a", "an", "the"],
+      "correct": "a"
+    },
+    {
+      "id": "37",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "Would you like <!-(problem area)-!> orange?",
+      "options": ["a", "an", "the"],
+      "correct": "an"
+    },
+    {
+      "id": "38",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "He'll be staying at <!-(problem area)-!> hotel while he's in town.",
+      "options": ["a", "an", "the"],
+      "correct": "a"
+    },
+    {
+      "id": "39",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "This is <!-(problem area)-!> best day of my life.",
+      "options": ["a", "an", "the"],
+      "correct": "the"
+    },
+    {
+      "id": "40",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "I have <!-(problem area)-!> apple for you.",
+      "options": ["a", "an", "the"],
+      "correct": "an"
+    },
+    {
+      "id": "41",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "Please give me <!-(problem area)-!> water bottle.",
+      "options": ["a", "an", "the"],
+      "correct": "the"
+    },
+    {
+      "id": "42",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "I saw <!-(problem area)-!> accident on my way to work.",
+      "options": ["a", "an", "the"],
+      "correct": "an"
+    },
+    {
+      "id": "43",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "There's <!-(problem area)-!> fly in my soup!",
+      "options": ["a", "an", "the"],
+      "correct": "a"
+    },
+    {
+      "id": "44",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "I'd like <!-(problem area)-!> vanilla ice cream cone, please.",
+      "options": ["a", "an", "the"],
+      "correct": "a"
+    }
+  ]
+}

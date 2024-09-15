@@ -1,0 +1,345 @@
+{
+  "version": "4",
+  "lang": "kr",
+  "id": "18",
+  "title": "관계절",
+  "list": [
+    {
+      "id": "1",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "That's the guy <!-(problem area)-!> helped me.",
+      "options": ["whom", "which", "who", "where"],
+      "correct": "who"
+    },
+    {
+      "id": "2",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "That's the guy <!-(problem area)-!> I helped.",
+      "options": ["whom", "which", "who", "where"],
+      "correct": "whom"
+    },
+    {
+      "id": "3",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "That's the house <!-(problem area)-!> she lives in.",
+      "options": ["whom", "which", "who", "where"],
+      "correct": "where"
+    },
+    {
+      "id": "4",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "That's the house <!-(problem area)-!> has a pool.",
+      "options": ["whom", "which", "who", "where"],
+      "correct": "which"
+    },
+    {
+      "id": "5",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "That's the car <!-(problem area)-!> he bought.",
+      "options": ["whom", "which", "who", "where"],
+      "correct": "that"
+    },
+    {
+      "id": "6",
+      "quiz": "I have a friend <!-(problem area)-!> plays the guitar.",
+      "options": ["who", "which", "whose", "whom"],
+      "correct": "who",
+      "description": "The correct answer is 'who' because it is used as a relative pronoun for people.",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1"
+    },
+    {
+      "id": "7",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "This is the boy <!-(problem area)-!> bike was stolen.",
+      "options": ["who's", "whose", "whom", "which"],
+      "correct": "whose"
+    },
+    {
+      "id": "8",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "I recall the time <!-(problem area)-!> we went to Disneyland.",
+      "options": ["where", "when", "which", "who"],
+      "correct": "when"
+    },
+    {
+      "id": "9",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "I'll never forget the place <!-(problem area)-!> I met you.",
+      "options": ["where", "when", "which", "who"],
+      "correct": "where"
+    },
+    {
+      "id": "10",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "I don't understand the reason <!-(problem area)-!> he left.",
+      "options": ["when", "where", "which", "why"],
+      "correct": "why"
+    },
+    {
+      "id": "11",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "Sarah, <!-(problem area)-!> is a doctor, is my best friend.",
+      "options": ["which", "who", "whom", "whose"],
+      "correct": "who"
+    },
+    {
+      "id": "12",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "My car, <!-(problem area)-!> is blue, needs to be washed.",
+      "options": ["which", "who", "whom", "whose"],
+      "correct": "which"
+    },
+    {
+      "id": "13",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "My friend, <!-(problem area)-!> I went on holiday with, is getting married.",
+      "options": ["who", "whom", "whose", "which"],
+      "correct": "whom"
+    },
+    {
+      "id": "14",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "The movie, <!-(problem area)-!> was very long, was enjoyable.",
+      "options": ["which", "who", "when", "where"],
+      "correct": "which"
+    },
+    {
+      "id": "15",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "The dog, <!-(problem area)-!> tail was wagging, seemed friendly.",
+      "options": ["who", "whom", "whose", "which"],
+      "correct": "whose"
+    },
+    {
+      "id": "16",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "This is the man <!-(problem area)-!> you were asking about.",
+      "options": ["who", "whom", "whose", "which"],
+      "correct": "whom"
+    },
+    {
+      "id": "17",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "These are the shoes <!-(problem area)-!> I want to buy.",
+      "options": ["who", "whom", "whose", "which"],
+      "correct": "which"
+    },
+    {
+      "id": "18",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "There’s the woman <!-(problem area)-!> husband works with me.",
+      "options": ["who", "whom", "whose", "which"],
+      "correct": "whose"
+    },
+    {
+      "id": "19",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "I remember the day <!-(problem area)-!> we first met.",
+      "options": ["where", "when", "which", "who"],
+      "correct": "when"
+    },
+    {
+      "id": "20",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "I can’t recall the reason <!-(problem area)-!> he left school.",
+      "options": ["when", "where", "which", "why"],
+      "correct": "why"
+    },
+    {
+      "id": "21",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "Let’s go to the place <!-(problem area)-!> we first met.",
+      "options": ["where", "when", "which", "who"],
+      "correct": "where"
+    },
+    {
+      "id": "22",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "This is the city <!-(problem area)-!> I was born in.",
+      "options": ["where", "when", "which", "who"],
+      "correct": "where"
+    },
+    {
+      "id": "23",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "That was a day <!-(problem area)-!> I’ll never forget.",
+      "options": ["where", "when", "which", "who"],
+      "correct": "when"
+    },
+    {
+      "id": "24",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "I still wonder about the reason <!-(problem area)-!> he decided to leave.",
+      "options": ["when", "where", "which", "why"],
+      "correct": "why"
+    },
+    {
+      "id": "25",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "She’s the woman <!-(problem area)-!> husband works in the bank.",
+      "options": ["who's", "whose", "whom", "which"],
+      "correct": "whose"
+    },
+    {
+      "id": "26",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "This is the restaurant <!-(problem area)-!> they serve the best tacos.",
+      "options": ["when", "where", "which", "that"],
+      "correct": "where"
+    },
+    {
+      "id": "27",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "He's the man <!-(problem area)-!> lives next door.",
+      "options": ["who", "whom", "whom's", "that"],
+      "correct": "who"
+    },
+    {
+      "id": "28",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "They're the parents <!-(problem area)-!> daughter is in my class.",
+      "options": ["who's", "whose", "whom", "which"],
+      "correct": "whose"
+    },
+    {
+      "id": "29",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "She's the woman <!-(problem area)-!> he married.",
+      "options": ["who", "whom", "whom's", "that"],
+      "correct": "whom"
+    },
+    {
+      "id": "30",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "These are the shoes <!-(problem area)-!> were on sale.",
+      "options": ["who", "whom", "whom's", "that"],
+      "correct": "that"
+    },
+    {
+      "id": "31",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "She still remembers the day <!-(problem area)-!> she moved to New York.",
+      "options": ["when", "where", "why", "which"],
+      "correct": "when"
+    },
+    {
+      "id": "32",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "This is the city <!-(problem area)-!> we first met.",
+      "options": ["when", "where", "why", "which"],
+      "correct": "where"
+    },
+    {
+      "id": "33",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "Nobody knows the reason <!-(problem area)-!> she quit her job.",
+      "options": ["when", "where", "why", "which"],
+      "correct": "why"
+    },
+    {
+      "id": "34",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "Then was the time <!-(problem area)-!> I felt most alive.",
+      "options": ["when", "where", "why", "which"],
+      "correct": "when"
+    },
+    {
+      "id": "35",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "That’s the kid <!-(problem area)-!> backpack was stolen.",
+      "options": ["who's", "whom's", "whose", "that"],
+      "correct": "whose"
+    },
+    {
+      "id": "36",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "That's the teacher <!-(problem area)-!> teaches English.",
+      "options": ["who", "whom", "who's", "that"],
+      "correct": "who"
+    },
+    {
+      "id": "37",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "This is the man <!-(problem area)-!> she married.",
+      "options": ["who", "whom", "who's", "that"],
+      "correct": "whom"
+    },
+    {
+      "id": "38",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "This is the shirt <!-(problem area)-!> I bought yesterday.",
+      "options": ["who", "whom", "who's", "that"],
+      "correct": "that"
+    },
+    {
+      "id": "39",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "Mary is the girl <!-(problem area)-!> hair is always perfect.",
+      "options": ["who's", "whom's", "whose", "that"],
+      "correct": "whose"
+    },
+    {
+      "id": "40",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "It was in Paris <!-(problem area)-!> I proposed to my wife.",
+      "options": ["when", "where", "why", "which"],
+      "correct": "where"
+    },
+    {
+      "id": "41",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "I won't forget the day <!-(problem area)-!> I graduated from college.",
+      "options": ["when", "where", "why", "which"],
+      "correct": "when"
+    },
+    {
+      "id": "42",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "Can you explain the reason <!-(problem area)-!> you weren't at the meeting?",
+      "options": ["when", "where", "why", "which"],
+      "correct": "why"
+    }
+  ]
+}

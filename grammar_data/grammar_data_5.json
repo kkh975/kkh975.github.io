@@ -1,0 +1,408 @@
+{
+  "version": "4",
+  "lang": "kr",
+  "id": "5",
+  "title": "조동사",
+  "list": [
+    {
+      "id": "1",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "They <!-(problem area)-!> swim across the lake.",
+      "options": ["must", "can", "might", "having to"],
+      "correct": "can"
+    },
+    {
+      "id": "2",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "He <!-(problem area)-!> be sleeping at the moment.",
+      "options": ["is", "may", "have to", "should"],
+      "correct": "may"
+    },
+    {
+      "id": "3",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "I <!-(problem area)-!> follow the rules or face consequences.",
+      "options": ["has to", "could", "might", "must"],
+      "correct": "must"
+    },
+    {
+      "id": "4",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "We <!-(problem area)-!> better leave early to avoid traffic.",
+      "options": ["could", "might", "had", "should"],
+      "correct": "had"
+    },
+    {
+      "id": "5",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "She <!-(problem area)-!> be in her room.",
+      "options": ["might", "have to", "should", "could"],
+      "correct": "might"
+    },
+    {
+      "id": "6",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "She <!-(problem area)-!> practice daily to improve her skills.",
+      "options": ["can", "should", "must", "having"],
+      "correct": "should"
+    },
+    {
+      "id": "7",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "They <!-(problem area)-!> forgotten it at the party.",
+      "options": ["may have", "should have", "can", "might have"],
+      "correct": "may have"
+    },
+    {
+      "id": "8",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "I <!-(problem area)-!> lost the keys.",
+      "options": ["should have", "could have", "must have", "can have"],
+      "correct": "could have"
+    },
+    {
+      "id": "9",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "She <!-(problem area)-!> be at the library.",
+      "options": ["can't", "shouldn't", "wouldn't", "hadn't"],
+      "correct": "can't"
+    },
+    {
+      "id": "10",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "You <!-(problem area)-!> better study for the exam.",
+      "options": ["would", "should", "could", "had"],
+      "correct": "had"
+    },
+    {
+      "id": "11",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "She <!-(problem area)-!> be tired after all that work.",
+      "options": ["must", "would", "could", "should"],
+      "correct": "must"
+    },
+    {
+      "id": "12",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "He <!-(problem area)-!> play the piano very well.",
+      "options": ["should", "would", "could", "can"],
+      "correct": "can"
+    },
+    {
+      "id": "13",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "You <!-(problem area)-!> better avoid that route.",
+      "options": ["would", "could", "should", "had"],
+      "correct": "had"
+    },
+    {
+      "id": "14",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "They <!-(problem area)-!> have taken the wrong turn.",
+      "options": ["should", "would", "could", "might"],
+      "correct": "could"
+    },
+    {
+      "id": "15",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "You <!-(problem area)-!> try this new restaurant.",
+      "options": ["must", "should", "could", "might"],
+      "correct": "should"
+    },
+    {
+      "id": "16",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "They <!-(problem area)-!> have understood the instructions.",
+      "options": ["must", "should", "could", "can"],
+      "correct": "must"
+    },
+    {
+      "id": "17",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "He <!-(problem area)-!> have noticed us there.",
+      "options": ["can", "might", "must", "would"],
+      "correct": "might"
+    },
+    {
+      "id": "18",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "We <!-(problem area)-!> have checked the weather.",
+      "options": ["should", "would", "could", "might"],
+      "correct": "should"
+    },
+    {
+      "id": "19",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "She <!-(problem area)-!> be going to the concert tonight.",
+      "options": ["must", "can", "might", "should"],
+      "correct": "might"
+    },
+    {
+      "id": "20",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "You <!-(problem area)-!> wear a jacket. It's cold outside.",
+      "options": ["can", "might", "must", "should"],
+      "correct": "should"
+    },
+    {
+      "id": "21",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "They <!-(problem area)-!> have already reached the destination.",
+      "options": ["must", "might", "could", "should"],
+      "correct": "must"
+    },
+    {
+      "id": "22",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "He <!-(problem area)-!> understand the procedure if he reads the manual.",
+      "options": ["might", "can", "must", "should"],
+      "correct": "can"
+    },
+    {
+      "id": "23",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "She <!-(problem area)-!> be home by now.",
+      "options": ["can", "must", "should", "might"],
+      "correct": "must"
+    },
+    {
+      "id": "24",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "We <!-(problem area)-!> start the project without him.",
+      "options": ["should", "can", "must", "might"],
+      "correct": "can"
+    },
+    {
+      "id": "25",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "I <!-(problem area)-!> have paid attention to the lecture.",
+      "options": ["must", "should", "could", "can"],
+      "correct": "should"
+    },
+    {
+      "id": "26",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "I <!-(problem area)-!> help you with your project.",
+      "options": ["might", "can", "must", "should"],
+      "correct": "can"
+    },
+    {
+      "id": "27",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "She <!-(problem area)-!> be new to this city.",
+      "options": ["might", "could", "must", "should"],
+      "correct": "might"
+    },
+    {
+      "id": "28",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "We <!-(problem area)-!> be late if we don't leave now.",
+      "options": ["might", "could", "should", "must"],
+      "correct": "might"
+    },
+    {
+      "id": "29",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "You <!-(problem area)-!> definitely visit Italy, it's beautiful.",
+      "options": ["should", "can", "could", "might"],
+      "correct": "should"
+    },
+    {
+      "id": "30",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "He <!-(problem area)-!> have arrived by now.",
+      "options": ["should", "could", "might", "must"],
+      "correct": "must"
+    },
+    {
+      "id": "31",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "I <!-(problem area)-!> remember to take my medication.",
+      "options": ["should", "could", "can", "must"],
+      "correct": "must"
+    },
+    {
+      "id": "32",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "You <!-(problem area)-!> exercise regularly to stay fit.",
+      "options": ["should", "could", "can", "must"],
+      "correct": "should"
+    },
+    {
+      "id": "33",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "She <!-(problem area)-!> have taken the wrong bus.",
+      "options": ["must", "should", "could", "might"],
+      "correct": "could"
+    },
+    {
+      "id": "34",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "He <!-(problem area)-!> have known the answer.",
+      "options": ["can", "should", "might", "must"],
+      "correct": "must"
+    },
+    {
+      "id": "35",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "We <!-(problem area)-!> better start packing.",
+      "options": ["can", "might", "should", "had"],
+      "correct": "had"
+    },
+    {
+      "id": "36",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "She <!-(problem area)-!> better get a good result.",
+      "options": ["would", "should", "could", "had"],
+      "correct": "had"
+    },
+    {
+      "id": "37",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "He <!-(problem area)-!> have finished his meal.",
+      "options": ["could", "should", "would", "must"],
+      "correct": "must"
+    },
+    {
+      "id": "38",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "You <!-(problem area)-!> forgotten your keys at home.",
+      "options": ["can", "might have", "would", "should"],
+      "correct": "might have"
+    },
+    {
+      "id": "39",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "They <!-(problem area)-!> be enjoying their vacation.",
+      "options": ["must", "would", "might", "can"],
+      "correct": "must"
+    },
+    {
+      "id": "40",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "I <!-(problem area)-!> see the car in the parking lot.",
+      "options": ["must", "can't", "should", "might"],
+      "correct": "can't"
+    },
+    {
+      "id": "41",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "We <!-(problem area)-!> better take an umbrella. It looks like it's going to rain.",
+      "options": ["should", "could", "would", "had"],
+      "correct": "had"
+    },
+    {
+      "id": "42",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "He <!-(problem area)-!> play soccer very well.",
+      "options": ["can", "might", "should", "would"],
+      "correct": "can"
+    },
+    {
+      "id": "43",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "She <!-(problem area)-!> have missed the bus. That's why she is late.",
+      "options": ["must", "could", "might", "should"],
+      "correct": "must"
+    },
+    {
+      "id": "44",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "I <!-(problem area)-!> have been more careful.",
+      "options": ["should", "could", "might", "must"],
+      "correct": "should"
+    },
+    {
+      "id": "45",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "They <!-(problem area)-!> be celebrating their victory.",
+      "options": ["must", "can", "should", "might"],
+      "correct": "must"
+    },
+    {
+      "id": "46",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "We <!-(problem area)-!> reach there by evening if we leave now.",
+      "options": ["can", "should", "could", "must"],
+      "correct": "can"
+    },
+    {
+      "id": "47",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "I <!-(problem area)-!> visit my grandparents this weekend.",
+      "options": ["should", "can", "could", "might"],
+      "correct": "should"
+    },
+    {
+      "id": "48",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "They <!-(problem area)-!> have left the city by now.",
+      "options": ["must", "could", "should", "can"],
+      "correct": "must"
+    },
+    {
+      "id": "49",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "You <!-(problem area)-!> confuse them with too much information.",
+      "options": ["can", "might", "must", "should"],
+      "correct": "might"
+    },
+    {
+      "id": "50",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "We <!-(problem area)-!> better book the tickets in advance.",
+      "options": ["should", "can", "would", "had"],
+      "correct": "had"
+    }
+  ]
+}

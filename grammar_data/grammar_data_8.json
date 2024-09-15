@@ -1,0 +1,344 @@
+{
+  "version": "4",
+  "lang": "kr",
+  "id": "8",
+  "title": "~ing와 to 동사원형",
+  "list": [
+    {
+      "id": "1",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "Playing chess is <!-(problem area)-!>.",
+      "options": ["difficult", "difficulting", "to difficult", "difficulties"],
+      "correct": "difficult"
+    },
+    {
+      "id": "2",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "They enjoyed <!-(problem area)-!> the game.",
+      "options": ["to watch", "watch", "watched", "watching"],
+      "correct": "watching"
+    },
+    {
+      "id": "3",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "She wants <!-(problem area)-!> some coffee.",
+      "options": ["to drink", "drink", "drinking", "drinks"],
+      "correct": "to drink"
+    },
+    {
+      "id": "4",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "Hannah likes <!-(problem area)-!> in the garden.",
+      "options": ["work", "worked", "to working", "working"],
+      "correct": "working"
+    },
+    {
+      "id": "5",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "He wants the clerk <!-(problem area)-!> the book.",
+      "options": ["to find", "finds", "finde", "finding"],
+      "correct": "to find"
+    },
+    {
+      "id": "6",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "He made her <!-(problem area)-!>.",
+      "options": ["laughing", "to laugh", "laughs", "laugh"],
+      "correct": "laugh"
+    },
+    {
+      "id": "7",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "He boiled some water <!-(problem area)-!> make spaghetti.",
+      "options": ["to", "in to", "into", "for"],
+      "correct": "to"
+    },
+    {
+      "id": "8",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "I’m happy <!-(problem area)-!> be back.",
+      "options": ["in", "on", "to", "for"],
+      "correct": "to"
+    },
+    {
+      "id": "9",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "I don't know what <!-(problem area)-!> do during my vacation.",
+      "options": ["to", "for", "on", "in"],
+      "correct": "to"
+    },
+    {
+      "id": "10",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "I’m thinking about <!-(problem area)-!> to a bigger apartment.",
+      "options": ["move", "moving", "moved", "moves"],
+      "correct": "moving"
+    },
+    {
+      "id": "11",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "She spent two hours <!-(problem area)-!> ready.",
+      "options": ["get", "getting", "gotten", "got"],
+      "correct": "getting"
+    },
+    {
+      "id": "12",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "He is fond of <!-(problem area)-!> puzzles.",
+      "options": ["to solve", "solving", "solved", "solve"],
+      "correct": "solving"
+    },
+    {
+      "id": "13",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "They regret <!-(problem area)-!> to the meeting late.",
+      "options": ["to arrive", "arrives", "arriving", "arrive"],
+      "correct": "arriving"
+    },
+    {
+      "id": "14",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "We decided <!-(problem area)-!> a movie.",
+      "options": ["to watch", "watch", "watched", "watching"],
+      "correct": "to watch"
+    },
+    {
+      "id": "15",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "She is used to <!-(problem area)-!> early in the morning.",
+      "options": ["get up", "getting up", "got up", "gets up"],
+      "correct": "getting up"
+    },
+    {
+      "id": "16",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "It's hard <!-(problem area)-!> focused when you're tired.",
+      "options": ["to stay", "staying", "stay", "stays"],
+      "correct": "to stay"
+    },
+    {
+      "id": "17",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "He encouraged his daughter <!-(problem area)-!> harder at school.",
+      "options": ["to work", "working", "works", "worked"],
+      "correct": "to work"
+    },
+    {
+      "id": "18",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "I enjoy <!-(problem area)-!> to music while I work.",
+      "options": ["to listen", "listened", "listening", "listen"],
+      "correct": "listening"
+    },
+    {
+      "id": "19",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "She remembers <!-(problem area)-!> here as a child.",
+      "options": ["to come", "coming", "comes", "came"],
+      "correct": "coming"
+    },
+    {
+      "id": "20",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "I was about <!-(problem area)-!> when you called.",
+      "options": ["leave", "to leave", "leaving", "leaves"],
+      "correct": "to leave"
+    },
+    {
+      "id": "21",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "She stopped <!-(problem area)-!>, turned around and waved.",
+      "options": ["walk", "to walk", "walking", "walked"],
+      "correct": "walking"
+    },
+    {
+      "id": "22",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "The teacher won't allow us <!-(problem area)-!> in the classroom.",
+      "options": ["eat", "to eat", "eating", "eats"],
+      "correct": "to eat"
+    },
+    {
+      "id": "23",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "She kept <!-(problem area)-!> about her vacation.",
+      "options": ["talk", "to talk", "talks", "talking"],
+      "correct": "talking"
+    },
+    {
+      "id": "24",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "He spent all day <!-(problem area)-!> for that book.",
+      "options": ["look", "to look", "looks", "looking"],
+      "correct": "looking"
+    },
+    {
+      "id": "25",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "I prefer <!-(problem area)-!> at home on the weekends.",
+      "options": ["stay", "staying", "stayed", "stays"],
+      "correct": "staying"
+    },
+    {
+      "id": "26",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "He doesn't mind <!-(problem area)-!> the chores.",
+      "options": ["do", "doing", "does", "done"],
+      "correct": "doing"
+    },
+    {
+      "id": "27",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "She's considering <!-(problem area)-!> to New York.",
+      "options": ["move", "moving", "moves", "moved"],
+      "correct": "moving"
+    },
+    {
+      "id": "28",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "We have decided <!-(problem area)-!> a new car.",
+      "options": ["buy", "buying", "bought", "to buy"],
+      "correct": "to buy"
+    },
+    {
+      "id": "29",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "It was so funny that I couldn't help <!-(problem area)-!>.",
+      "options": ["laugh", "laughing", "laughs", "to laugh"],
+      "correct": "laughing"
+    },
+    {
+      "id": "30",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "I look forward to <!-(problem area)-!> you.",
+      "options": ["meet", "meeting", "met", "meets"],
+      "correct": "meeting"
+    },
+    {
+      "id": "31",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "We can't afford <!-(problem area)-!> on vacation this summer.",
+      "options": ["go", "to go", "going", "went"],
+      "correct": "to go"
+    },
+    {
+      "id": "32",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "They had no choice but <!-(problem area)-!>.",
+      "options": ["leave", "to leave", "leaving", "leaves"],
+      "correct": "to leave"
+    },
+    {
+      "id": "33",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "She admitted <!-(problem area)-!> the money.",
+      "options": ["steal", "stolen", "to steal", "stealing"],
+      "correct": "stealing"
+    },
+    {
+      "id": "34",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "I occasionally see them <!-(problem area)-!> in the park.",
+      "options": ["jog", "jogs", "jogging", "jogged"],
+      "correct": "jogging"
+    },
+    {
+      "id": "35",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "His greatest fear is <!-(problem area)-!>.",
+      "options": ["die", "dying", "dies", "dead"],
+      "correct": "dying"
+    },
+    {
+      "id": "36",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "He purposefully avoided <!-(problem area)-!> me.",
+      "options": ["meeting", "meet", "met", "meets"],
+      "correct": "meeting"
+    },
+    {
+      "id": "37",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "I insisted on <!-(problem area)-!> the bill.",
+      "options": ["pay", "paying", "paid", "pays"],
+      "correct": "paying"
+    },
+    {
+      "id": "38",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "Her job includes <!-(problem area)-!> the accounts payable.",
+      "options": ["handled", "handling", "handles", "handle"],
+      "correct": "handling"
+    },
+    {
+      "id": "39",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "She is always complaining about <!-(problem area)-!> too much work.",
+      "options": ["do", "to do", "doing", "done"],
+      "correct": "doing"
+    },
+    {
+      "id": "40",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "I'm thinking of <!-(problem area)-!> a career change.",
+      "options": ["make", "making", "made", "makes"],
+      "correct": "making"
+    },
+    {
+      "id": "41",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "He can't quit <!-(problem area)-!>.",
+      "options": ["smoke", "smoking", "smokes", "smoked"],
+      "correct": "smoking"
+    },
+    {
+      "id": "42",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "My friend is great at <!-(problem area)-!> jokes.",
+      "options": ["tell", "telling", "told", "tells"],
+      "correct": "telling"
+    }
+  ]
+}

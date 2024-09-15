@@ -1,0 +1,398 @@
+{
+  "version": "4",
+  "lang": "kr",
+  "id": "17",
+  "title": "if와 가정법",
+  "list": [
+    {
+      "id": "1",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "If it <!-(problem area)-!> tomorrow, we will go to the park.",
+      "options": ["rains", "rain", "raining", "will rain"],
+      "correct": "rains"
+    },
+    {
+      "id": "2",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "If she <!-(problem area)-!> flu, she would stay home.",
+      "options": ["had", "have", "has", "having"],
+      "correct": "had"
+    },
+    {
+      "id": "3",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "We would've gone to the movies if it <!-(problem area)-!> so late.",
+      "options": ["wasn't", "weren't", "hadn't been", "wasn't being"],
+      "correct": "hadn't been"
+    },
+    {
+      "id": "4",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "I wish I <!-(problem area)-!> taller.",
+      "options": ["am", "was", "were", "be"],
+      "correct": "were"
+    },
+    {
+      "id": "5",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "If you <!-(problem area)-!> the truth, I would forgive you.",
+      "options": ["tell", "told", "had told", "tells"],
+      "correct": "told"
+    },
+    {
+      "id": "6",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "We would have failed if our teacher <!-(problem area)-!> so helpful.",
+      "options": ["isn't", "wasn't", "hasn't been", "hadn't been"],
+      "correct": "hadn't been"
+    },
+    {
+      "id": "7",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "If I <!-(problem area)-!>, I will buy a car.",
+      "options": [
+        "earn enough money",
+        "earned enough money",
+        "had earned enough money",
+        "earns enough money"
+      ],
+      "correct": "earn enough money"
+    },
+    {
+      "id": "8",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "I wish you <!-(problem area)-!> here with me.",
+      "options": ["are", "were", "was", "being"],
+      "correct": "were"
+    },
+    {
+      "id": "9",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "If he <!-(problem area)-!>, he can go out to play.",
+      "options": [
+        "finishes his homework",
+        "finished his homework",
+        "had finished his homework",
+        "finishing his homework"
+      ],
+      "correct": "finishes his homework"
+    },
+    {
+      "id": "10",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "She would've answered the phone if she <!-(problem area)-!> it.",
+      "options": ["sees", "saw", "had seen", "has seen"],
+      "correct": "had seen"
+    },
+    {
+      "id": "11",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "If they <!-(problem area)-!> later, we could meet them.",
+      "options": ["arrive", "arrived", "had arrived", "arrives"],
+      "correct": "arrived"
+    },
+    {
+      "id": "12",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "I wish I <!-(problem area)-!> pen through the window.",
+      "options": [
+        "am not throwing",
+        "was not throwing",
+        "were not throwing",
+        "is not throwing"
+      ],
+      "correct": "were not throwing"
+    },
+    {
+      "id": "13",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "If it <!-(problem area)-!> snow in the winter, children can build snowmen.",
+      "options": ["s", "does", "has", "will"],
+      "correct": "does"
+    },
+    {
+      "id": "14",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "If you <!-(problem area)-!> health insurance, you wouldn't have to pay so much for the doctor's visit.",
+      "options": ["have", "had", "has", "having"],
+      "correct": "had"
+    },
+    {
+      "id": "15",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "I would be surprised if he <!-(problem area)-!> act in such a way.",
+      "options": ["has didn't", "hadn't", "wasn't", "wouldn't"],
+      "correct": "hadn't"
+    },
+    {
+      "id": "16",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "She wishes she <!-(problem area)-!> her sister's advice.",
+      "options": [
+        "listened to",
+        "had listened to",
+        "listens to",
+        "is listening to"
+      ],
+      "correct": "had listened to"
+    },
+    {
+      "id": "17",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "I wish I <!-(problem area)-!> watch that movie yesterday.",
+      "options": ["could", "could have", "can", "might"],
+      "correct": "could have"
+    },
+    {
+      "id": "18",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "If you <!-(problem area)-!> water at 100 degrees Celsius, it boils.",
+      "options": ["heat", "heated", "heats", "hat"],
+      "correct": "heat"
+    },
+    {
+      "id": "19",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "If you <!-(problem area)-!> quieter, I could hear the TV.",
+      "options": ["are", "were", "be", "being"],
+      "correct": "were"
+    },
+    {
+      "id": "20",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "She would have been ecstatic if she <!-(problem area)-!> the lottery.",
+      "options": ["won", "had won", "wins", "winning"],
+      "correct": "had won"
+    },
+    {
+      "id": "21",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "I wish my friend <!-(problem area)-!> so far away.",
+      "options": [
+        "didn't live",
+        "doesn't live",
+        "hadn't lived",
+        "wasn't living"
+      ],
+      "correct": "didn't live"
+    },
+    {
+      "id": "22",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "You'll be sick if you <!-(problem area)-!> all that candy.",
+      "options": ["eat", "ate", "had eaten", "eats"],
+      "correct": "eat"
+    },
+    {
+      "id": "23",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "If he <!-(problem area)-!> a little more time, he would finish the test.",
+      "options": ["has", "have", "had", "had had"],
+      "correct": "had"
+    },
+    {
+      "id": "24",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "We would have arrived on time if there <!-(problem area)-!> so much traffic.",
+      "options": ["isn't", "wasn't", "hadn't been", "weren't"],
+      "correct": "hadn't been"
+    },
+    {
+      "id": "25",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "I wish I <!-(problem area)-!> a car. It would make commuting so much easier.",
+      "options": ["have", "had", "has", "having"],
+      "correct": "had"
+    },
+    {
+      "id": "26",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "She'll be upset if she <!-(problem area)-!> out.",
+      "options": ["find", "finds", "found", "has found"],
+      "correct": "finds"
+    },
+    {
+      "id": "27",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "If I <!-(problem area)-!> your place, I would quit the job.",
+      "options": ["was", "were", "had been", "would be"],
+      "correct": "were"
+    },
+    {
+      "id": "28",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "They could've seen the movie if they <!-(problem area)-!> tickets.",
+      "options": ["bought", "had bought", "buy", "buys"],
+      "correct": "had bought"
+    },
+    {
+      "id": "29",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "I wish she <!-(problem area)-!> talk so loudly in the library.",
+      "options": ["doesn't", "isn't", "didn't", "hadn't"],
+      "correct": "didn't"
+    },
+    {
+      "id": "30",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "If fish <!-(problem area)-!> out of water, they die.",
+      "options": ["live", "lives", "is living", "are living"],
+      "correct": "live"
+    },
+    {
+      "id": "31",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "If they <!-(problem area)-!> on time, we could have gone together.",
+      "options": ["has arrived", "arrived", "had arrived", "would arrive"],
+      "correct": "had arrived"
+    },
+    {
+      "id": "32",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "You would have passed the exam if you <!-(problem area)-!> harder.",
+      "options": ["study", "studied", "had studied", "studies"],
+      "correct": "had studied"
+    },
+    {
+      "id": "33",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "I wish my boss <!-(problem area)-!> more understanding.",
+      "options": ["is", "was", "were", "be"],
+      "correct": "were"
+    },
+    {
+      "id": "34",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "You'll regret it if you <!-(problem area)-!> your phone at home.",
+      "options": ["leave", "left", "had left", "leaves"],
+      "correct": "leave"
+    },
+    {
+      "id": "35",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "If she <!-(problem area)-!> a little quieter, she could hear the birds chirping.",
+      "options": ["is", "was", "were", "be"],
+      "correct": "were"
+    },
+    {
+      "id": "36",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "He would've called you if he <!-(problem area)-!> your number.",
+      "options": ["know", "knew", "had known", "knows"],
+      "correct": "had known"
+    },
+    {
+      "id": "37",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "I wish I <!-(problem area)-!> as tall as my brother.",
+      "options": ["am", "was", "were", "be"],
+      "correct": "were"
+    },
+    {
+      "id": "38",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "If it <!-(problem area)-!> colder, we could skate on the lake.",
+      "options": ["gets", "got", "had gotten", "gets"],
+      "correct": "gets"
+    },
+    {
+      "id": "39",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "If you <!-(problem area)-!> the plants, they will die.",
+      "options": [
+        "don't water",
+        "didn't water",
+        "hasn't watered",
+        "hadn't watered"
+      ],
+      "correct": "don't water"
+    },
+    {
+      "id": "40",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "She would've got the job if she <!-(problem area)-!> a little more experience.",
+      "options": ["has", "have", "had", "had had"],
+      "correct": "had had"
+    },
+    {
+      "id": "41",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "I wish I <!-(problem area)-!> to the party. It sounds like it was a lot of fun.",
+      "options": ["went", "had gone", "goes", "have gone"],
+      "correct": "had gone"
+    },
+    {
+      "id": "42",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "If he <!-(problem area)-!> earlier, he could catch the bus.",
+      "options": ["leave", "left", "leaves", "had left"],
+      "correct": "leaves"
+    },
+    {
+      "id": "43",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "If she <!-(problem area)-!> more, she would get a better score.",
+      "options": ["studies", "studied", "had studied", "study"],
+      "correct": "studied"
+    },
+    {
+      "id": "44",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "They would have caught the thief if they <!-(problem area)-!> a little faster.",
+      "options": ["ran", "runs", "run", "had run"],
+      "correct": "had run"
+    },
+    {
+      "id": "45",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "I wish you <!-(problem area)-!> so much sugar in the tea.",
+      "options": ["don't put", "doesn't put", "didn't put", "wasn't putting"],
+      "correct": "didn't put"
+    }
+  ]
+}

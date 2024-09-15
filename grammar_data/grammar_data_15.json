@@ -1,0 +1,392 @@
+{
+  "version": "4",
+  "lang": "kr",
+  "id": "15",
+  "title": "전치사와 구동사",
+  "list": [
+    {
+      "id": "1",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "He is <!-(problem area)-!> the park.",
+      "options": ["in", "on", "at", "by"],
+      "correct": "at"
+    },
+    {
+      "id": "2",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "She was born <!-(problem area)-!> March.",
+      "options": ["on", "in", "at", "during"],
+      "correct": "in"
+    },
+    {
+      "id": "3",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "We will meet <!-(problem area)-!> 10:00 AM.",
+      "options": ["on", "at", "in", "during"],
+      "correct": "at"
+    },
+    {
+      "id": "4",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "They have lived here <!-(problem area)-!> 2007.",
+      "options": ["since", "for", "by", "on"],
+      "correct": "since"
+    },
+    {
+      "id": "5",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "She'll be gone <!-(problem area)-!> the weekend.",
+      "options": ["during", "for", "in", "on"],
+      "correct": "during"
+    },
+    {
+      "id": "6",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "He broke the vase <!-(problem area)-!> accident.",
+      "options": ["by", "with", "in", "for"],
+      "correct": "by"
+    },
+    {
+      "id": "7",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "She travels <!-(problem area)-!> airplane frequently.",
+      "options": ["by", "with", "in", "for"],
+      "correct": "by"
+    },
+    {
+      "id": "8",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "They are discussing the project <!-(problem area)-!> cafe.",
+      "options": ["in", "on", "at", "by"],
+      "correct": "at"
+    },
+    {
+      "id": "9",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "We went fishing <!-(problem area)-!> Sunday.",
+      "options": ["in", "on", "at", "by"],
+      "correct": "on"
+    },
+    {
+      "id": "10",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "They will be on vacation <!-(problem area)-!> July.",
+      "options": ["in", "on", "at", "during"],
+      "correct": "in"
+    },
+    {
+      "id": "11",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "She has been working here <!-(problem area)-!> five years.",
+      "options": ["since", "for", "by", "on"],
+      "correct": "for"
+    },
+    {
+      "id": "12",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "He has been studying <!-(problem area)-!> the morning.",
+      "options": ["since", "for", "during", "on"],
+      "correct": "since"
+    },
+    {
+      "id": "13",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "We're going to the mall <!-(problem area)-!> car.",
+      "options": ["by", "with", "in", "for"],
+      "correct": "by"
+    },
+    {
+      "id": "14",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "He is waiting <!-(problem area)-!> the bus stop.",
+      "options": ["in", "on", "at", "by"],
+      "correct": "at"
+    },
+    {
+      "id": "15",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "She fell asleep <!-(problem area)-!> the movie.",
+      "options": ["during", "for", "in", "on"],
+      "correct": "during"
+    },
+    {
+      "id": "16",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "We will have a picnic <!-(problem area)-!> the park.",
+      "options": ["in", "on", "at", "by"],
+      "correct": "at"
+    },
+    {
+      "id": "17",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "He arrived <!-(problem area)-!> 9:30 PM.",
+      "options": ["on", "at", "in", "during"],
+      "correct": "at"
+    },
+    {
+      "id": "18",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "She has been in Paris <!-(problem area)-!> Monday.",
+      "options": ["since", "for", "by", "on"],
+      "correct": "since"
+    },
+    {
+      "id": "19",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "They have been friends <!-(problem area)-!> childhood.",
+      "options": ["since", "for", "during", "on"],
+      "correct": "since"
+    },
+    {
+      "id": "20",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "She'll be back <!-(problem area)-!> an hour.",
+      "options": ["in", "on", "at", "for"],
+      "correct": "in"
+    },
+    {
+      "id": "21",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "We discussed the problem <!-(problem area)-!> coffee.",
+      "options": ["in", "on", "at", "over"],
+      "correct": "over"
+    },
+    {
+      "id": "22",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "He is <!-(problem area)-!> the gym.",
+      "options": ["in", "on", "at", "by"],
+      "correct": "at"
+    },
+    {
+      "id": "23",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "She was born <!-(problem area)-!> the 21st of June.",
+      "options": ["on", "in", "at", "during"],
+      "correct": "on"
+    },
+    {
+      "id": "24",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "We will meet <!-(problem area)-!> lunchtime.",
+      "options": ["on", "at", "in", "during"],
+      "correct": "at"
+    },
+    {
+      "id": "25",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "They have lived here <!-(problem area)-!> three years.",
+      "options": ["since", "for", "by", "on"],
+      "correct": "for"
+    },
+    {
+      "id": "26",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "She'll be gone <!-(problem area)-!> the summer.",
+      "options": ["during", "for", "in", "on"],
+      "correct": "during"
+    },
+    {
+      "id": "27",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "He broke the vase <!-(problem area)-!> purpose.",
+      "options": ["by", "with", "in", "for"],
+      "correct": "on"
+    },
+    {
+      "id": "28",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "She travels <!-(problem area)-!> bus frequently.",
+      "options": ["by", "with", "in", "for"],
+      "correct": "by"
+    },
+    {
+      "id": "29",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "They are discussing the project <!-(problem area)-!> their office.",
+      "options": ["in", "on", "at", "by"],
+      "correct": "at"
+    },
+    {
+      "id": "30",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "We went fishing <!-(problem area)-!> the weekend.",
+      "options": ["in", "on", "at", "by"],
+      "correct": "on"
+    },
+    {
+      "id": "31",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "They will be on vacation <!-(problem area)-!> August.",
+      "options": ["in", "on", "at", "during"],
+      "correct": "in"
+    },
+    {
+      "id": "32",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "She has been working here <!-(problem area)-!> a long time.",
+      "options": ["since", "for", "by", "on"],
+      "correct": "for"
+    },
+    {
+      "id": "33",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "He has been studying <!-(problem area)-!> afternoon.",
+      "options": ["since", "for", "during", "on"],
+      "correct": "since"
+    },
+    {
+      "id": "34",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "We're going to the mall <!-(problem area)-!> taxi.",
+      "options": ["by", "with", "in", "for"],
+      "correct": "by"
+    },
+    {
+      "id": "35",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "He is waiting <!-(problem area)-!> the train station.",
+      "options": ["in", "on", "at", "by"],
+      "correct": "at"
+    },
+    {
+      "id": "36",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "She fell asleep <!-(problem area)-!> the lecture.",
+      "options": ["during", "for", "in", "on"],
+      "correct": "during"
+    },
+    {
+      "id": "37",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "We will have a picnic <!-(problem area)-!> the beach.",
+      "options": ["in", "on", "at", "by"],
+      "correct": "at"
+    },
+    {
+      "id": "38",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "He arrived <!-(problem area)-!> the evening.",
+      "options": ["on", "at", "in", "during"],
+      "correct": "in"
+    },
+    {
+      "id": "39",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "She has been in Paris <!-(problem area)-!> last week.",
+      "options": ["since", "for", "by", "on"],
+      "correct": "since"
+    },
+    {
+      "id": "40",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "They have been friends <!-(problem area)-!> college.",
+      "options": ["since", "for", "during", "on"],
+      "correct": "since"
+    },
+    {
+      "id": "41",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "She'll be back <!-(problem area)-!> a few minutes.",
+      "options": ["in", "on", "at", "for"],
+      "correct": "in"
+    },
+    {
+      "id": "42",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "We discussed the problem <!-(problem area)-!> dinner.",
+      "options": ["in", "on", "at", "over"],
+      "correct": "over"
+    },
+    {
+      "id": "43",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "He is <!-(problem area)-!> the library.",
+      "options": ["in", "on", "at", "by"],
+      "correct": "at"
+    },
+    {
+      "id": "44",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "She was born <!-(problem area)-!> the 1st of January.",
+      "options": ["on", "in", "at", "during"],
+      "correct": "on"
+    },
+    {
+      "id": "45",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "We will meet <!-(problem area)-!> dinner time.",
+      "options": ["on", "at", "in", "during"],
+      "correct": "at"
+    },
+    {
+      "id": "46",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "They have lived here <!-(problem area)-!> a decade.",
+      "options": ["since", "for", "by", "on"],
+      "correct": "for"
+    },
+    {
+      "id": "47",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "She'll be gone <!-(problem area)-!> the whole day.",
+      "options": ["during", "for", "in", "on"],
+      "correct": "during"
+    },
+    {
+      "id": "48",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "He broke the vase <!-(problem area)-!> a hammer.",
+      "options": ["by", "with", "in", "for"],
+      "correct": "with"
+    }
+  ]
+}

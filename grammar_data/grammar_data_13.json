@@ -1,0 +1,408 @@
+{
+  "version": "4",
+  "lang": "kr",
+  "id": "13",
+  "title": "형용사와 부사",
+  "list": [
+    {
+      "id": "1",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "My sister is a <!-(problem area)-!> girl.",
+      "options": ["beautifully", "beauty", "beautify", "beautiful"],
+      "correct": "beautiful"
+    },
+    {
+      "id": "2",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "I saw a <!-(problem area)-!> cat on the road.",
+      "options": ["run", "ran", "running", "runs"],
+      "correct": "running"
+    },
+    {
+      "id": "3",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "I find the movie <!-(problem area)-!>.",
+      "options": ["bore", "bored", "boring", "boredom"],
+      "correct": "boring"
+    },
+    {
+      "id": "4",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "Please talk <!-(problem area)-!> .",
+      "options": ["slow", "slower", "slowly", "slowness"],
+      "correct": "slowly"
+    },
+    {
+      "id": "5",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "She has <!-(problem area)-!> eyes.",
+      "options": ["shine", "shiny", "shinily", "shining"],
+      "correct": "shiny"
+    },
+    {
+      "id": "6",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "He <!-(problem area)-!> drinks coffee in the morning.",
+      "options": ["usual", "usually", "use", "usability"],
+      "correct": "usually"
+    },
+    {
+      "id": "7",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "The car is <!-(problem area)-!> to handle for me.",
+      "options": ["much big", "bigly", "too big", "more big"],
+      "correct": "too big"
+    },
+    {
+      "id": "8",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "Your brother is <!-(problem area)-!> talented!",
+      "options": ["so", "such", "too", "enough"],
+      "correct": "so"
+    },
+    {
+      "id": "9",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "Tom is <!-(problem area)-!> at football.",
+      "options": ["goodly", "good", "well", "better"],
+      "correct": "good"
+    },
+    {
+      "id": "10",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "He has a <!-(problem area)-!> car.",
+      "options": ["amaze", "amazing", "amazement", "amazingly"],
+      "correct": "amazing"
+    },
+    {
+      "id": "11",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "The <!-(problem area)-!> boy needs help.",
+      "options": ["fell", "falling", "fall", "fallen"],
+      "correct": "fallen"
+    },
+    {
+      "id": "12",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "She looked <!-(problem area)-!> at me.",
+      "options": ["happiness", "happy", "happily", "happening"],
+      "correct": "happily"
+    },
+    {
+      "id": "13",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "It is <!-(problem area)-!> outside.",
+      "options": ["sunny", "sun", "sunshine", "sunlight"],
+      "correct": "sunny"
+    },
+    {
+      "id": "14",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "We are going <!-(problem area)-!>.",
+      "options": ["upstairs", "upstair", "upper stair", "upto stair"],
+      "correct": "upstairs"
+    },
+    {
+      "id": "15",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "The tea is <!-(problem area)-!> hot for me.",
+      "options": ["much", "so", "too", "enough"],
+      "correct": "too"
+    },
+    {
+      "id": "16",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "Sarah is so <!-(problem area)-!> about the exhibition.",
+      "options": ["excite", "excites", "exciting", "excited"],
+      "correct": "excited"
+    },
+    {
+      "id": "17",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "She sings <!-(problem area)-!>.",
+      "options": ["beauty", "beautifully", "beautiful", "beauteously"],
+      "correct": "beautifully"
+    },
+    {
+      "id": "18",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "The <!-(problem area)-!> dog was finally found by its owner.",
+      "options": ["lose", "lost", "losing", "loses"],
+      "correct": "lost"
+    },
+    {
+      "id": "19",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "She always arrives <!-(problem area)-!>.",
+      "options": ["on time", "in time", "at the time", "of the time"],
+      "correct": "on time"
+    },
+    {
+      "id": "20",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "Billy is <!-(problem area)-!> of spiders.",
+      "options": ["terrified", "terrify", "terrifying", "terror"],
+      "correct": "terrified"
+    },
+    {
+      "id": "21",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "The car is <!-(problem area)-!> expensive!",
+      "options": ["too", "such", "so", "much"],
+      "correct": "too"
+    },
+    {
+      "id": "22",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "She had such a <!-(problem area)-!> voice.",
+      "options": ["pleasant", "pleasing", "pleasantry", "pleasantly"],
+      "correct": "pleasant"
+    },
+    {
+      "id": "23",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "This is <!-(problem area)-!> boring!",
+      "options": ["much", "so", "such", "very"],
+      "correct": "so"
+    },
+    {
+      "id": "24",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "The birds are flying <!-(problem area)-!>.",
+      "options": ["overhead", "over head", "head over", "over the head"],
+      "correct": "overhead"
+    },
+    {
+      "id": "25",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "She did it <!-(problem area)-!> .",
+      "options": ["correcting", "correct", "corrective", "correctly"],
+      "correct": "correctly"
+    },
+    {
+      "id": "26",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "The <!-(problem area)-!> cat prefers dry food.",
+      "options": ["black", "blackly", "blackish", "blackness"],
+      "correct": "black"
+    },
+    {
+      "id": "27",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "Susan is a <!-(problem area)-!> person.",
+      "options": ["loving", "love", "loved", "lovely"],
+      "correct": "loving"
+    },
+    {
+      "id": "28",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "I am <!-(problem area)-!> about the test tomorrow.",
+      "options": ["worry", "worried", "worrying", "worries"],
+      "correct": "worried"
+    },
+    {
+      "id": "29",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "You should think <!-(problem area)-!> before making a decision.",
+      "options": ["carefully", "careful", "caring", "care"],
+      "correct": "carefully"
+    },
+    {
+      "id": "30",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "She has <!-(problem area)-!> hair.",
+      "options": ["curly", "curl", "curled", "curling"],
+      "correct": "curly"
+    },
+    {
+      "id": "31",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "We went <!-(problem area)-!> to check how late they were open.",
+      "options": ["inside", "in", "inward", "indoors"],
+      "correct": "inside"
+    },
+    {
+      "id": "32",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "This toy is <!-(problem area)-!> for kids under three.",
+      "options": ["danger", "dangerous", "dangerously", "endanger"],
+      "correct": "dangerous"
+    },
+    {
+      "id": "33",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "We are <!-(problem area)-!> late.",
+      "options": ["always", "forever", "seldom", "often"],
+      "correct": "always"
+    },
+    {
+      "id": "34",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "The room is <!-(problem area)-!> bright.",
+      "options": ["much", "overly", "too", "as"],
+      "correct": "too"
+    },
+    {
+      "id": "35",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "You have <!-(problem area)-!> a nice smile.",
+      "options": ["such", "so", "very", "too"],
+      "correct": "such"
+    },
+    {
+      "id": "36",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "The flowers are <!-(problem area)-!> lovely!",
+      "options": ["that", "so", "such", "most"],
+      "correct": "so"
+    },
+    {
+      "id": "37",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "They live <!-(problem area)-!>.",
+      "options": ["nearby", "near", "nearest", "nearer"],
+      "correct": "nearby"
+    },
+    {
+      "id": "38",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "Tommy is a <!-(problem area)-!> boy.",
+      "options": ["play", "plays", "playing", "playful"],
+      "correct": "playful"
+    },
+    {
+      "id": "39",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "The <!-(problem area)-!> girl needs a new dress.",
+      "options": ["tear", "tears", "tearing", "torn"],
+      "correct": "torn"
+    },
+    {
+      "id": "40",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "Johnnie behaves <!-(problem area)-!> in class.",
+      "options": ["respectfully", "respect", "respectful", "respectableness"],
+      "correct": "respectfully"
+    },
+    {
+      "id": "41",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "She has an <!-(problem area)-!> dress.",
+      "options": ["green", "greenly", "greening", "greenish"],
+      "correct": "green"
+    },
+    {
+      "id": "42",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "They walk to the park <!-(problem area)-!>.",
+      "options": ["everyday", "each day", "all days", "day"],
+      "correct": "everyday"
+    },
+    {
+      "id": "43",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "This homework is <!-(problem area)-!> difficult.",
+      "options": ["more", "so", "too", "much"],
+      "correct": "too"
+    },
+    {
+      "id": "44",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "It is <!-(problem area)-!> a good idea!",
+      "options": ["so", "very", "really", "such"],
+      "correct": "such"
+    },
+    {
+      "id": "45",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "The books are kept <!-(problem area)-!>.",
+      "options": ["downstairs", "inside", "below", "underneath"],
+      "correct": "downstairs"
+    },
+    {
+      "id": "46",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "She drives her car <!-(problem area)-!>.",
+      "options": ["safely", "safe", "safety", "secure"],
+      "correct": "safely"
+    },
+    {
+      "id": "47",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "The <!-(problem area)-!> house is at the end of the street.",
+      "options": ["white", "whiten", "whitely", "whitening"],
+      "correct": "white"
+    },
+    {
+      "id": "48",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "She felt <!-(problem area)-!> before the performance.",
+      "options": ["nervous", "nerve", "nerves", "nervously"],
+      "correct": "nervous"
+    },
+    {
+      "id": "49",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "He speaks <!-(problem area)-!>.",
+      "options": ["clear", "clearly", "clearness", "clearer"],
+      "correct": "clearly"
+    },
+    {
+      "id": "50",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "She has <!-(problem area)-!> eyes.",
+      "options": ["blue", "bluely", "blueish", "bloom"],
+      "correct": "blue"
+    }
+  ]
+}

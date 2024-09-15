@@ -1,0 +1,375 @@
+{
+  "version": "4",
+  "lang": "kr",
+  "id": "4",
+  "title": "[시제] 미래, 미래진행, 미래완료",
+  "list": [
+    {
+      "id": "1",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "He <!-(problem area)-!> visit his grandparent this evening.",
+      "options": ["will", "going to", "are", "am"],
+      "correct": "will"
+    },
+    {
+      "id": "2",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "They <!-(problem area)-!> arriving at the airport within two hours.",
+      "options": ["will be", "be", "is", "are"],
+      "correct": "will be"
+    },
+    {
+      "id": "3",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "I <!-(problem area)-!> to call you as soon as I finish this work.",
+      "options": ["will", "going", "am", "is"],
+      "correct": "am"
+    },
+    {
+      "id": "4",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "By next week, they <!-(problem area)-!> to Tokyo.",
+      "options": ["will have flown", "are flying", "are going to fly", "fly"],
+      "correct": "will have flown"
+    },
+    {
+      "id": "5",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "My train <!-(problem area)-!> at 11pm tonight.",
+      "options": ["leaves", "has left", "will have left", "is leaving"],
+      "correct": "leaves"
+    },
+    {
+      "id": "6",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "We <!-(problem area)-!> tomorrow morning.",
+      "options": ["will leave", "leaving", "are to leave", "leave"],
+      "correct": "will leave"
+    },
+    {
+      "id": "7",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "She <!-(problem area)-!> swim by the end of this summer.",
+      "options": [
+        "will have learned to",
+        "learn to",
+        "going to learn to",
+        "will learn to"
+      ],
+      "correct": "will have learned to"
+    },
+    {
+      "id": "8",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "I <!-(problem area)-!> tea at the party tonight.",
+      "options": ["am serving", "will have served", "serve", "will be serving"],
+      "correct": "am serving"
+    },
+    {
+      "id": "9",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "He <!-(problem area)-!> when you arrive.",
+      "options": ["leaves", "will leave", "is leaving", "will be leaving"],
+      "correct": "is leaving"
+    },
+    {
+      "id": "10",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "By the year 2022, we <!-(problem area)-!> on Mars.",
+      "options": ["will have landed", "land", "are landing", "going to land"],
+      "correct": "will have landed"
+    },
+    {
+      "id": "11",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "<!-(problem area)-!> you be home for dinner?",
+      "options": ["Will", "Are", "Is", "Do"],
+      "correct": "Will"
+    },
+    {
+      "id": "12",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "At this time tomorrow, we <!-(problem area)-!> on the beach.",
+      "options": ["will be lying", "lying", "be lying", "will have been lying"],
+      "correct": "will be lying"
+    },
+    {
+      "id": "13",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "She <!-(problem area)-!> the exam by the time you see her.",
+      "options": ["will have passed", "passed", "pass", "is passing"],
+      "correct": "will have passed"
+    },
+    {
+      "id": "14",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "We <!-(problem area)-!> for our vacations tonight.",
+      "options": ["leave", "are leaving", "will leave", "leaving"],
+      "correct": "are leaving"
+    },
+    {
+      "id": "15",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "They <!-(problem area)-!> us as soon as their plane lands.",
+      "options": ["will call", "calling", "call", "are calling"],
+      "correct": "will call"
+    },
+    {
+      "id": "16",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "I <!-(problem area)-!> a party this Friday.",
+      "options": ["will have", "have", "going to have", "am having"],
+      "correct": "am having"
+    },
+    {
+      "id": "17",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "He <!-(problem area)-!> in his new job next week.",
+      "options": ["will start", "starts", "start", "starting"],
+      "correct": "will start"
+    },
+    {
+      "id": "18",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "<!-(problem area)-!> raining, we will cancel the event.",
+      "options": [
+        "If it will be",
+        "If it's going to be",
+        "If it is",
+        "If it be"
+      ],
+      "correct": "If it is"
+    },
+    {
+      "id": "19",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "She <!-(problem area)-!> the race by the time we get there.",
+      "options": ["will have won", "will win", "wins", "win"],
+      "correct": "will have won"
+    },
+    {
+      "id": "20",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "This time next year, I <!-(problem area)-!> abroad.",
+      "options": ["will be studying", "study", "am studying", "studying"],
+      "correct": "will be studying"
+    },
+    {
+      "id": "21",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "She <!-(problem area)-!> for you when you arrive.",
+      "options": ["will wait", "waits", "wait", "waiting"],
+      "correct": "will wait"
+    },
+    {
+      "id": "22",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "I <!-(problem area)-!> this course next year.",
+      "options": ["am going to take", "will be taking", "take", "taking"],
+      "correct": "am going to take"
+    },
+    {
+      "id": "23",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "By next month, they <!-(problem area)-!> building the bridge.",
+      "options": ["will start", "start", "starting", "will have started"],
+      "correct": "will have started"
+    },
+    {
+      "id": "24",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "They <!-(problem area)-!> dinner at this time tomorrow.",
+      "options": ["will be having", "have", "are having", "having"],
+      "correct": "will be having"
+    },
+    {
+      "id": "25",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "She <!-(problem area)-!> singing at the event next week.",
+      "options": ["is", "will be", "will have been", "going to be"],
+      "correct": "is"
+    },
+    {
+      "id": "26",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "<!-(problem area)-!> lunch at this time tomorrow.",
+      "options": ["I will be having", "I have", "I'm having", "I having"],
+      "correct": "I will be having"
+    },
+    {
+      "id": "27",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "He <!-(problem area)-!> before you come home.",
+      "options": ["will leave", "leaves", "leave", "leaving"],
+      "correct": "will leave"
+    },
+    {
+      "id": "28",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "We <!-(problem area)-!> a family trip next month.",
+      "options": ["have", "are having", "will have", "having"],
+      "correct": "are having"
+    },
+    {
+      "id": "29",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "I <!-(problem area)-!> to her house when she gets back.",
+      "options": ["will go", "go", "going", "am going"],
+      "correct": "will go"
+    },
+    {
+      "id": "30",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "We <!-(problem area)-!> by the time you wake up.",
+      "options": ["leave", "will leave", "are leaving", "will have left"],
+      "correct": "will have left"
+    },
+    {
+      "id": "31",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "They <!-(problem area)-!> for their exams this time tomorrow.",
+      "options": ["study", "will be studying", "are studying", "studying"],
+      "correct": "will be studying"
+    },
+    {
+      "id": "32",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "She <!-(problem area)-!> when you get here.",
+      "options": ["arrives", "will have arrived", "arrive", "is arriving"],
+      "correct": "will have arrived"
+    },
+    {
+      "id": "33",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "I <!-(problem area)-!> my work by the time he arrives.",
+      "options": ["will finish", "finishing", "finish", "will have finished"],
+      "correct": "will have finished"
+    },
+    {
+      "id": "34",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "At this time tomorrow, they <!-(problem area)-!> on their way to the beach.",
+      "options": ["will be", "are", "will have been", "is"],
+      "correct": "will be"
+    },
+    {
+      "id": "35",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "<!-(problem area)-!> you come to the party tomorrow?",
+      "options": ["Will", "Are", "Is", "Have"],
+      "correct": "Will"
+    },
+    {
+      "id": "36",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "They <!-(problem area)-!> finished all preparations before the event starts.",
+      "options": ["have", "will have", "having", "will be having"],
+      "correct": "will have"
+    },
+    {
+      "id": "37",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "I <!-(problem area)-!> plan to go on a trip this summer.",
+      "options": ["am", "will", "do", "have"],
+      "correct": "am"
+    },
+    {
+      "id": "38",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "They <!-(problem area)-!> at the restaurant at 8 pm tonight.",
+      "options": ["meet", "will meet", "are meeting", "meeting"],
+      "correct": "are meeting"
+    },
+    {
+      "id": "39",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "He <!-(problem area)-!> by the time we get there.",
+      "options": ["starts", "will start", "start", "will have started"],
+      "correct": "will have started"
+    },
+    {
+      "id": "40",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "She <!-(problem area)-!> for a job next month.",
+      "options": ["applying", "will be applying", "apply", "applies"],
+      "correct": "will be applying"
+    },
+    {
+      "id": "41",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "We <!-(problem area)-!> to the movies tonight.",
+      "options": ["will go", "going", "go", "are going"],
+      "correct": "are going"
+    },
+    {
+      "id": "42",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "I <!-(problem area)-!> as soon as the rain stops.",
+      "options": ["leave", "will leave", "leaving", "leaves"],
+      "correct": "will leave"
+    },
+    {
+      "id": "43",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "He <!-(problem area)-!> his car by next week.",
+      "options": ["will have sold", "sell", "sells", "will sell"],
+      "correct": "will have sold"
+    },
+    {
+      "id": "44",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "By 6 pm tomorrow, they <!-(problem area)-!> for three hours.",
+      "options": [
+        "will have been driving",
+        "driving",
+        "will be driving",
+        "drive"
+      ],
+      "correct": "will have been driving"
+    }
+  ]
+}

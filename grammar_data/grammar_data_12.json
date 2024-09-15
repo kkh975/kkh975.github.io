@@ -1,0 +1,344 @@
+{
+  "version": "4",
+  "lang": "kr",
+  "id": "12",
+  "title": "수량표현",
+  "list": [
+    {
+      "id": "1",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "He has <!-(problem area)-!> bikes for a long journey.",
+      "options": ["some", "any", "all", "no"],
+      "correct": "some"
+    },
+    {
+      "id": "2",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "Does she have <!-(problem area)-!> milk for the guests?",
+      "options": ["some", "any", "all", "no"],
+      "correct": "any"
+    },
+    {
+      "id": "3",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "There are <!-(problem area)-!> eggs in the fridge.",
+      "options": ["no", "some", "any", "all"],
+      "correct": "no"
+    },
+    {
+      "id": "4",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "I have <!-(problem area)-!> books by this author.",
+      "options": ["some", "any", "both", "no"],
+      "correct": "some"
+    },
+    {
+      "id": "5",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "Does she have <!-(problem area)-!> friends in New York?",
+      "options": ["any", "some", "both", "all"],
+      "correct": "any"
+    },
+    {
+      "id": "6",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "John and Bob are friends. <!-(problem area)-!> they are excellent students.",
+      "options": ["both", "either", "neither", "some"],
+      "correct": "both"
+    },
+    {
+      "id": "7",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "He has tried both tea and coffee, but he didn't like <!-(problem area)-!> of them.",
+      "options": ["either", "neither", "both", "any"],
+      "correct": "either"
+    },
+    {
+      "id": "8",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "<!-(problem area)-!> of  my grandmothers live in London.",
+      "options": ["Both", "Either", "Neither", "Any"],
+      "correct": "Neither"
+    },
+    {
+      "id": "9",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "<!-(problem area)-!> of the girls are going to the theatre tonight.",
+      "options": ["Each", "All", "Some", "Both"],
+      "correct": "Each"
+    },
+    {
+      "id": "10",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "<!-(problem area)-!> dogs need regular exercise.",
+      "options": ["Each", "Every", "All", "Both"],
+      "correct": "All"
+    },
+    {
+      "id": "11",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "I have tried <!-(problem area)-!> kinds of coffee here, and they were all good.",
+      "options": ["each", "all", "some", "every"],
+      "correct": "every"
+    },
+    {
+      "id": "12",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "We need to revise <!-(problem area)-!> subjects before the final exam.",
+      "options": ["all", "each", "every", "both"],
+      "correct": "all"
+    },
+    {
+      "id": "13",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "Can you reach <!-(problem area)-!> the plates on that shelf?",
+      "options": ["each", "every", "both", "all"],
+      "correct": "each"
+    },
+    {
+      "id": "14",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "He has <!-(problem area)-!> books in the library.",
+      "options": ["some", "many", "all", "few"],
+      "correct": "many"
+    },
+    {
+      "id": "15",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "I have <!-(problem area)-!> free time this summer.",
+      "options": ["a lot of", "a little", "a few", "many"],
+      "correct": "a lot of"
+    },
+    {
+      "id": "16",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "He has learnt <!-(problem area)-!> new things in the past month.",
+      "options": ["some", "a lot of", "all", "many"],
+      "correct": "a lot of"
+    },
+    {
+      "id": "17",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "My brother has <!-(problem area)-!> friends in this city.",
+      "options": ["a few", "a lot of", "many", "some"],
+      "correct": "a few"
+    },
+    {
+      "id": "18",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "I have <!-(problem area)-!> complaints about this matter.",
+      "options": ["a few", "a lot of", "some", "many"],
+      "correct": "a few"
+    },
+    {
+      "id": "19",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "<!-(problem area)-!> options in the list are suitable for us.",
+      "options": ["Many", "Much", "All", "Some"],
+      "correct": "Many"
+    },
+    {
+      "id": "20",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "<!-(problem area)-!> people agree with this plan.",
+      "options": ["Much", "Many", "All", "Some"],
+      "correct": "Many"
+    },
+    {
+      "id": "21",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "There isn't <!-(problem area)-!> time left.",
+      "options": ["much", "many", "some", "a lot of"],
+      "correct": "much"
+    },
+    {
+      "id": "22",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "I don’t have <!-(problem area)-!> friends in the city.",
+      "options": ["many", "a few", "a little", "much"],
+      "correct": "many"
+    },
+    {
+      "id": "23",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "I have <!-(problem area)-!> friends who live abroad.",
+      "options": ["few", "a few", "little", "a little"],
+      "correct": "a few"
+    },
+    {
+      "id": "24",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "There is <!-(problem area)-!> milk left in the fridge.",
+      "options": ["little", "a few", "a little", "many"],
+      "correct": "little"
+    },
+    {
+      "id": "25",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "<!-(problem area)-!> people know about this secret.",
+      "options": ["Many of", "All of", "Many", "Some of"],
+      "correct": "Many of"
+    },
+    {
+      "id": "26",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "<!-(problem area)-!> the help you can give will be appreciated.",
+      "options": ["Any of", "A little of", "Some of", "Many of"],
+      "correct": "Any of"
+    },
+    {
+      "id": "27",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "<!-(problem area)-!> these options works for me.",
+      "options": ["Either of", "Each", "Neither of", "Both"],
+      "correct": "Either of"
+    },
+    {
+      "id": "28",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "<!-(problem area)-!> students are required to take this course.",
+      "options": ["All", "Mine", "All of", "Some"],
+      "correct": "All"
+    },
+    {
+      "id": "29",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "<!-(problem area)-!> the students are required to take this course.",
+      "options": ["All", "All of", "Many", "Many of"],
+      "correct": "All of"
+    },
+    {
+      "id": "30",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "<!-(problem area)-!> the siblings were present at the party.",
+      "options": ["Every of", "Both", "Both of", "Neither"],
+      "correct": "Both of"
+    },
+    {
+      "id": "31",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "John has two sisters. <!-(problem area)-!> are doctors.",
+      "options": ["Both", "Both of", "All", "All of"],
+      "correct": "Both"
+    },
+    {
+      "id": "32",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "I have two brothers. <!-(problem area)-!> are engineers.",
+      "options": ["Both", "None", "Neither", "Either"],
+      "correct": "Both"
+    },
+    {
+      "id": "33",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "I have two pets. <!-(problem area)-!> likes to play with a ball.",
+      "options": ["Either", "Neither", "Both", "Each"],
+      "correct": "Either"
+    },
+    {
+      "id": "34",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "I have two pets. <!-(problem area)-!> doesn't like to play with a ball.",
+      "options": ["Either", "Neither", "Each", "Both"],
+      "correct": "Neither"
+    },
+    {
+      "id": "35",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "He has two friends in the class. <!-(problem area)-!> is a topper.",
+      "options": ["Each", "All", "Every", "Many"],
+      "correct": "Each"
+    },
+    {
+      "id": "36",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "He has to visit his parents in every three months. So, he travels to his home town <!-(problem area)-!> year.",
+      "options": ["four times", "four time", "four times of", "four time of"],
+      "correct": "four times"
+    },
+    {
+      "id": "37",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "We have <!-(problem area)-!> books to read in this semester.",
+      "options": ["a few", "any", "some", "many"],
+      "correct": "many"
+    },
+    {
+      "id": "38",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "There are <!-(problem area)-!> options available for this problem.",
+      "options": ["a few", "few", "some", "many"],
+      "correct": "a few"
+    },
+    {
+      "id": "39",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "They have <!-(problem area)-!> days to finish the project.",
+      "options": ["a few", "some", "an few", "few"],
+      "correct": "a few"
+    },
+    {
+      "id": "40",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "She spends <!-(problem area)-!> her time reading books.",
+      "options": ["most", "many", "little", "few"],
+      "correct": "most"
+    },
+    {
+      "id": "41",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "The teacher has <!-(problem area)-!> patience with her students.",
+      "options": ["lots of", "lot of", "few", "little"],
+      "correct": "lots of"
+    },
+    {
+      "id": "42",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "The city has <!-(problem area)-!> beautiful parks.",
+      "options": ["lot of", "lots of", "little", "few"],
+      "correct": "lots of"
+    }
+  ]
+}

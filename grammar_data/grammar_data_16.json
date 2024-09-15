@@ -1,0 +1,368 @@
+{
+  "version": "4",
+  "lang": "kr",
+  "id": "16",
+  "title": "접속사와 절",
+  "list": [
+    {
+      "id": "1",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "He kept eating <!-(problem area)-!> he was full.",
+      "options": ["while", "until", "by the time", "as"],
+      "correct": "until"
+    },
+    {
+      "id": "2",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "She ran <!-(problem area)-!> her shoes wore out.",
+      "options": ["while", "until", "by the time", "as"],
+      "correct": "until"
+    },
+    {
+      "id": "3",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "<!-(problem area)-!> I was writing the report, my computer crashed.",
+      "options": ["While", "Until", "By the time", "As"],
+      "correct": "While"
+    },
+    {
+      "id": "4",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "<!-(problem area)-!> she was brushing her hair, she listened to the radio.",
+      "options": ["While", "Until", "By the time", "As"],
+      "correct": "While"
+    },
+    {
+      "id": "5",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "<!-(problem area)-!> cleaning his room, he found an old photo.",
+      "options": ["On", "In", "While", "At"],
+      "correct": "While"
+    },
+    {
+      "id": "6",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "He will finish his homework <!-(problem area)-!> he watches TV.",
+      "options": ["while", "until", "by the time", "as"],
+      "correct": "by the time"
+    },
+    {
+      "id": "7",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "<!-(problem area)-!> he is still young, he has achieved a lot.",
+      "options": ["While", "Although", "As", "Until"],
+      "correct": "Although"
+    },
+    {
+      "id": "8",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "She decided to learn cooking <!-(problem area)-!> she could make her own meals.",
+      "options": ["until", "so that", "while", "although"],
+      "correct": "so that"
+    },
+    {
+      "id": "9",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "You need to study <!-(problem area)-!> you can pass the exam.",
+      "options": ["until", "so that", "while", "although"],
+      "correct": "so that"
+    },
+    {
+      "id": "10",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "<!-(problem area)-!> it was raining, we decided to stay home.",
+      "options": ["While", "As", "Although", "Until"],
+      "correct": "Although"
+    },
+    {
+      "id": "11",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "She likes to wear a hat <!-(problem area)-!> it's sunny",
+      "options": ["while", "until", "by the time", "when"],
+      "correct": "when"
+    },
+    {
+      "id": "12",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "<!-(problem area)-!> reading a book, he fell asleep.",
+      "options": ["When", "While", "Until", "As"],
+      "correct": "While"
+    },
+    {
+      "id": "13",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "<!-(problem area)-!> she loves chocolate, she avoids it due to her diet.",
+      "options": ["Although", "While", "Until", "As"],
+      "correct": "Although"
+    },
+    {
+      "id": "14",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "<!-(problem area)-!> the test was difficult, he managed to get  an 'A'.",
+      "options": ["Though", "Until", "Unless", "After"],
+      "correct": "Though"
+    },
+    {
+      "id": "15",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "<!-(problem area)-!> her father, she does not like golf.",
+      "options": ["Unlike", "Like", "As", "While"],
+      "correct": "Unlike"
+    },
+    {
+      "id": "16",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "He saved money <!-(problem area)-!> he could buy a new car.",
+      "options": ["even though", "so", "so that", "for"],
+      "correct": "so that"
+    },
+    {
+      "id": "17",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "<!-(problem area)-!> arriving home, he took a nap.",
+      "options": ["On", "After", "Until", "While"],
+      "correct": "After"
+    },
+    {
+      "id": "18",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "She wore a hat <!-(problem area)-!> she could avoid the sun.",
+      "options": ["so", "so that", "after", "although"],
+      "correct": "so that"
+    },
+    {
+      "id": "19",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "<!-(problem area)-!> it was cold, she decided to wear a jacket.",
+      "options": ["Because", "Since", "As", "Though"],
+      "correct": "Because"
+    },
+    {
+      "id": "20",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "<!-(problem area)-!> he is short, he jumps very high.",
+      "options": ["Though", "Because", "As", "Like"],
+      "correct": "Though"
+    },
+    {
+      "id": "21",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "She drinks coffee <!-(problem area)-!> tea.",
+      "options": ["instead of", "beside", "because", "rather than"],
+      "correct": "instead of"
+    },
+    {
+      "id": "22",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "He could not sleep <!-(problem area)-!> he was so excited.",
+      "options": ["because", "as", "so", "when"],
+      "correct": "because"
+    },
+    {
+      "id": "23",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "<!-(problem area)-!> cooking dinner, he cut his finger.",
+      "options": ["While", "When", "Until", "As"],
+      "correct": "While"
+    },
+    {
+      "id": "24",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "He studied late into the night <!-(problem area)-!> he could pass the exam.",
+      "options": ["so", "when", "so that", "although"],
+      "correct": "so that"
+    },
+    {
+      "id": "25",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "They decided to go on vacation <!-(problem area)-!> they needed a break.",
+      "options": ["because", "as", "even though", "unless"],
+      "correct": "because"
+    },
+    {
+      "id": "26",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "<!-(problem area)-!> they couldn't afford a car, they decided to take the bus.",
+      "options": ["Because", "As", "Although", "Unless"],
+      "correct": "Because"
+    },
+    {
+      "id": "27",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "He avoided the party <!-(problem area)-!> he didn't want to see his ex.",
+      "options": ["so", "so that", "because", "unless"],
+      "correct": "because"
+    },
+    {
+      "id": "28",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "He bought a new phone <!-(problem area)-!> his old one broke.",
+      "options": ["or", "so", "because", "for"],
+      "correct": "because"
+    },
+    {
+      "id": "29",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "They decided to adopt a cat <!-(problem area)-!> they love animals.",
+      "options": ["for", "because", "unless", "after"],
+      "correct": "because"
+    },
+    {
+      "id": "30",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "They went to the movie theater early <!-(problem area)-!> they could get good seats.",
+      "options": ["so", "so that", "when", "as"],
+      "correct": "so that"
+    },
+    {
+      "id": "31",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "She decided to take a day off <!-(problem area)-!> she could rest.",
+      "options": ["so", "for", "because", "so that"],
+      "correct": "so that"
+    },
+    {
+      "id": "32",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "He decided to leave early <!-(problem area)-!> he could catch the train.",
+      "options": ["so", "for", "because", "so that"],
+      "correct": "so that"
+    },
+    {
+      "id": "33",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "She woke up early <!-(problem area)-!> she could prepare for her exam.",
+      "options": ["so", "for", "so that", "because"],
+      "correct": "so that"
+    },
+    {
+      "id": "34",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "He decided to save money <!-(problem area)-!> he could buy a new bike.",
+      "options": ["so", "for", "so that", "because"],
+      "correct": "so that"
+    },
+    {
+      "id": "35",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "She decided to leave her job <!-(problem area)-!> she was not happy.",
+      "options": ["so", "as", "because", "so that"],
+      "correct": "because"
+    },
+    {
+      "id": "36",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "John plays basketball <!-(problem area)-!> he is fit and tall.",
+      "options": ["as", "so that", "because", "if"],
+      "correct": "because"
+    },
+    {
+      "id": "37",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "Mary took an umbrella <!-(problem area)-!> it was raining.",
+      "options": ["as", "so", "because", "if"],
+      "correct": "because"
+    },
+    {
+      "id": "38",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "He woke up early <!-(problem area)-!> he had a flight to catch.",
+      "options": ["as", "so", "because", "if"],
+      "correct": "because"
+    },
+    {
+      "id": "39",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "They went to bed early <!-(problem area)-!> they had a long journey the next day.",
+      "options": ["as", "so that", "because", "if"],
+      "correct": "because"
+    },
+    {
+      "id": "40",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "He is working extra hours <!-(problem area)-!> he can pay off his debts.",
+      "options": ["as", "so that", "because", "if"],
+      "correct": "so that"
+    },
+    {
+      "id": "41",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "She is studying hard <!-(problem area)-!> she can pass her exam.",
+      "options": ["as", "so that", "because", "if"],
+      "correct": "so that"
+    },
+    {
+      "id": "42",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "He is working out regularly <!-(problem area)-!> he can get in shape.",
+      "options": ["as", "so", "because", "so that"],
+      "correct": "so that"
+    },
+    {
+      "id": "43",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "She is keeping a close watch on her diet <!-(problem area)-!> she can lose weight.",
+      "options": ["as", "so", "because", "so that"],
+      "correct": "so that"
+    },
+    {
+      "id": "44",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "<!-(problem area)-!> she missed the bus, she had to walk home.",
+      "options": ["Because", "Although", "Unless", "As"],
+      "correct": "Because"
+    },
+    {
+      "id": "45",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "<!-(problem area)-!> it was raining, we all stayed indoors.",
+      "options": ["Because", "So", "For", "If"],
+      "correct": "Because"
+    }
+  ]
+}

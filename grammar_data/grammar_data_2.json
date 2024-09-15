@@ -1,0 +1,168 @@
+{
+  "version": "4",
+  "lang": "kr",
+  "id": "2",
+  "title": "[시제] 과거, 과거진행",
+  "list": [
+    {
+      "id": "1",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "Yesterday, I <!-(problem area)-!> a movie.",
+      "options": ["watched", "was watching", "watch", "watches"],
+      "correct": "watched"
+    },
+    {
+      "id": "2",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "Last night, they <!-(problem area)-!> the football game.",
+      "options": ["watch", "watched", "were watching", "watching"],
+      "correct": "watched"
+    },
+    {
+      "id": "3",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "While we <!-(problem area)-!> dinner, the telephone rang.",
+      "options": ["eat", "ate", "were eating", "eating"],
+      "correct": "were eating"
+    },
+    {
+      "id": "4",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "I <!-(problem area)-!> my keys yesterday.",
+      "options": ["lost", "was losing", "lose", "loses"],
+      "correct": "lost"
+    },
+    {
+      "id": "5",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "She <!-(problem area)-!> to live in New York.",
+      "options": ["used", "use", "uses", "was used"],
+      "correct": "used"
+    },
+    {
+      "id": "6",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "They <!-(problem area)-!> on a boat when the storm hit.",
+      "options": ["are", "were", "have been", "has been"],
+      "correct": "were"
+    },
+    {
+      "id": "7",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "While I <!-(problem area)-!> home, I saw a deer.",
+      "options": ["drive", "drove", "driving", "was driving"],
+      "correct": "was driving"
+    },
+    {
+      "id": "8",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "Yesterday, my dog <!-(problem area)-!> a squirrel.",
+      "options": ["chase", "chased", "is chasing", "was chasing"],
+      "correct": "chased"
+    },
+    {
+      "id": "9",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "I <!-(problem area)-!> to go camping every summer.",
+      "options": ["use", "uses", "used", "using"],
+      "correct": "used"
+    },
+    {
+      "id": "10",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "They <!-(problem area)-!> to be best friends in high school.",
+      "options": ["use", "used", "uses", "using"],
+      "correct": "used"
+    },
+    {
+      "id": "11",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "She <!-(problem area)-!> to have a cat named Whiskers.",
+      "options": ["used", "use", "uses", "using"],
+      "correct": "used"
+    },
+    {
+      "id": "12",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "While Samantha <!-(problem area)-!> for the bus, she met an old friend.",
+      "options": ["wait", "waited", "was waiting", "waits"],
+      "correct": "was waiting"
+    },
+    {
+      "id": "13",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "It <!-(problem area)-!> heavily when I left home.",
+      "options": ["rain", "rains", "rained", "was raining"],
+      "correct": "was raining"
+    },
+    {
+      "id": "14",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "They <!-(problem area)-!> a vacation last summer.",
+      "options": ["take", "took", "taking", "were taking"],
+      "correct": "took"
+    },
+    {
+      "id": "15",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "Samantha <!-(problem area)-!> a lot in her first job.",
+      "options": ["learn", "learns", "learned", "was learning"],
+      "correct": "learned"
+    },
+    {
+      "id": "16",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "He <!-(problem area)-!> a black suit to the party.",
+      "options": ["wore", "wears", "wear", "was wearing"],
+      "correct": "wore"
+    },
+    {
+      "id": "17",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "We <!-(problem area)-!> for the results when the post arrived.",
+      "options": ["waiting", "wait", "were waiting", "waited"],
+      "correct": "were waiting"
+    },
+    {
+      "id": "18",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "They <!-(problem area)-!> to play basketball every weekend.",
+      "options": ["use", "used", "uses", "using"],
+      "correct": "used"
+    },
+    {
+      "id": "19",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "Last year, they <!-(problem area)-!> at a fancy restaurant.",
+      "options": ["eat", "ate", "were eating", "eating"],
+      "correct": "ate"
+    },
+    {
+      "id": "20",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "He <!-(problem area)-!> to listen to rock music.",
+      "options": ["use", "used", "uses", "using"],
+      "correct": "used"
+    }
+  ]
+}

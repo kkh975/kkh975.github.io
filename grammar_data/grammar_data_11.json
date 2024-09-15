@@ -1,0 +1,493 @@
+{
+  "version": "4",
+  "lang": "kr",
+  "id": "11",
+  "title": "대명사와 소유격",
+  "list": [
+    {
+      "id": "1",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "They tried to avoid <!-(problem area)-!> in the conversation.",
+      "options": ["me", "I", "mine", "my"],
+      "correct": "me"
+    },
+    {
+      "id": "2",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "Look at <!-(problem area)-!> picture on the wall.",
+      "options": ["that", "those", "these", "this"],
+      "correct": "that"
+    },
+    {
+      "id": "3",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "Are these <!-(problem area)-!> pens?",
+      "options": ["you", "your", "yours", "yourself"],
+      "correct": "your"
+    },
+    {
+      "id": "4",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "Is this <!-(problem area)-!> bicycle?",
+      "options": ["my", "mine", "me", "myself"],
+      "correct": "my"
+    },
+    {
+      "id": "5",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "John lost <!-(problem area)-!> keys.",
+      "options": ["him", "his", "he's", "himself"],
+      "correct": "his"
+    },
+    {
+      "id": "6",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "The children must behave <!-(problem area)-!> at the party.",
+      "options": ["them", "their", "theirs", "themselves"],
+      "correct": "themselves"
+    },
+    {
+      "id": "7",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "He hurt <!-(problem area)-!> while playing soccer.",
+      "options": ["him", "he", "his", "himself"],
+      "correct": "himself"
+    },
+    {
+      "id": "8",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "This is my book, and that is <!-(problem area)-!>.",
+      "options": ["your", "you", "yours", "yourself"],
+      "correct": "yours"
+    },
+    {
+      "id": "9",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "I have a car, but do you have <!-(problem area)-!>?",
+      "options": ["one", "it", "that", "this"],
+      "correct": "one"
+    },
+    {
+      "id": "10",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "If the red shirt is not available, I will take the blue <!-(problem area)-!>.",
+      "options": ["one", "this", "it", "that"],
+      "correct": "one"
+    },
+    {
+      "quiz": "She met <!-(problem area)-!> at the park.",
+      "options": ["him", "he", "his", "her"],
+      "correct": "him",
+      "description": "'Him' is the correct object pronoun referring to a male person.",
+      "id": "11",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1"
+    },
+    {
+      "quiz": "This is <!-(problem area)-!> book.",
+      "options": ["my", "I", "me", "mine"],
+      "correct": "my",
+      "description": "'My' is the correct possessive adjective.",
+      "id": "12",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1"
+    },
+    {
+      "quiz": "Let me introduce <!-(problem area)-!>.",
+      "options": ["myself", "me", "my", "I"],
+      "correct": "myself",
+      "description": "'Myself' is the correct reflexive pronoun.",
+      "id": "13",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1"
+    },
+    {
+      "quiz": "My friend has a car, but I don't have <!-(problem area)-!>.",
+      "options": ["one", "ones", "some", "any"],
+      "correct": "one",
+      "description": "'One' is the correct pronoun to avoid repetition.",
+      "id": "14",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1"
+    },
+    {
+      "quiz": "That is <!-(problem area)-!> bike.",
+      "options": ["her", "she", "hers", "herself"],
+      "correct": "her",
+      "description": "'Her' is the correct possessive adjective.",
+      "id": "15",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1"
+    },
+    {
+      "quiz": "He did it all by <!-(problem area)-!>.",
+      "options": ["himself", "him", "he", "his"],
+      "correct": "himself",
+      "description": "'Himself' is the correct reflexive pronoun.",
+      "id": "16",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1"
+    },
+    {
+      "quiz": "Is this <!-(problem area)-!> pen?",
+      "options": ["your", "you", "yours", "yourself"],
+      "correct": "your",
+      "description": "'Your' is the correct possessive adjective.",
+      "id": "17",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1"
+    },
+    {
+      "quiz": "This is my book, and that is <!-(problem area)-!>.",
+      "options": ["hers", "her", "she", "herself"],
+      "correct": "hers",
+      "description": "'Hers' is the correct possessive pronoun.",
+      "id": "18",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1"
+    },
+    {
+      "quiz": "Whose coat is this? Is it <!-(problem area)-!>?",
+      "options": ["yours", "your", "you", "yourself"],
+      "correct": "yours",
+      "description": "'Yours' is the correct possessive pronoun.",
+      "id": "19",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1"
+    },
+    {
+      "quiz": "I hurt <!-(problem area)-!> while cooking.",
+      "options": ["myself", "me", "I", "mine"],
+      "correct": "myself",
+      "description": "'Myself' is the correct reflexive pronoun.",
+      "id": "20",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1"
+    },
+    {
+      "quiz": "He lent me <!-(problem area)-!> book.",
+      "options": ["his", "him", "he", "himself"],
+      "correct": "his",
+      "description": "'His' is the correct possessive adjective.",
+      "id": "21",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1"
+    },
+    {
+      "quiz": "The dog wagged <!-(problem area)-!> tail.",
+      "options": ["its", "it's", "it", "itself"],
+      "correct": "its",
+      "description": "'Its' is the correct possessive adjective.",
+      "id": "22",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1"
+    },
+    {
+      "quiz": "This is my seat, and that is <!-(problem area)-!>.",
+      "options": ["theirs", "their", "them", "they"],
+      "correct": "theirs",
+      "description": "'Theirs' is the correct possessive pronoun.",
+      "id": "23",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1"
+    },
+    {
+      "quiz": "I will wash the car <!-(problem area)-!>.",
+      "options": ["myself", "me", "I", "mine"],
+      "correct": "myself",
+      "description": "'Myself' is the correct reflexive pronoun.",
+      "id": "24",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1"
+    },
+    {
+      "quiz": "Jane found <!-(problem area)-!> keys.",
+      "options": ["her", "hers", "she", "herself"],
+      "correct": "her",
+      "description": "'Her' is the correct possessive adjective.",
+      "id": "25",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1"
+    },
+    {
+      "quiz": "The cat cleaned <!-(problem area)-!> fur.",
+      "options": ["its", "it's", "it", "itself"],
+      "correct": "its",
+      "description": "'Its' is the correct possessive adjective.",
+      "id": "26",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1"
+    },
+    {
+      "quiz": "The students must do it <!-(problem area)-!>.",
+      "options": ["themselves", "them", "they", "their"],
+      "correct": "themselves",
+      "description": "'Themselves' is the correct reflexive pronoun.",
+      "id": "27",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1"
+    },
+    {
+      "quiz": "Can you give <!-(problem area)-!> a hand?",
+      "options": ["me", "my", "mine", "myself"],
+      "correct": "me",
+      "description": "'Me' is the correct object pronoun.",
+      "id": "28",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1"
+    },
+    {
+      "quiz": "This laptop is <!-(problem area)-!>.",
+      "options": ["mine", "my", "me", "myself"],
+      "correct": "mine",
+      "description": "'Mine' is the correct possessive pronoun.",
+      "id": "29",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1"
+    },
+    {
+      "quiz": "I saw <!-(problem area)-!> at the store.",
+      "options": ["them", "they", "their", "theirs"],
+      "correct": "them",
+      "description": "'Them' is the correct object pronoun.",
+      "id": "30",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1"
+    },
+    {
+      "quiz": "Is this <!-(problem area)-!> car?",
+      "options": ["your", "you", "yours", "yourself"],
+      "correct": "your",
+      "description": "'Your' is the correct possessive adjective.",
+      "id": "31",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1"
+    },
+    {
+      "quiz": "That is <!-(problem area)-!> book on the table.",
+      "options": ["her", "hers", "she", "herself"],
+      "correct": "her",
+      "description": "'Her' is the correct possessive adjective.",
+      "id": "32",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1"
+    },
+    {
+      "quiz": "He finished the project by <!-(problem area)-!>.",
+      "options": ["himself", "him", "he", "his"],
+      "correct": "himself",
+      "description": "'Himself' is the correct reflexive pronoun.",
+      "id": "33",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1"
+    },
+    {
+      "quiz": "I would like to introduce <!-(problem area)-!>.",
+      "options": ["myself", "me", "I", "mine"],
+      "correct": "myself",
+      "description": "'Myself' is the correct reflexive pronoun.",
+      "id": "34",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1"
+    },
+    {
+      "quiz": "This is <!-(problem area)-!> house.",
+      "options": ["their", "theirs", "them", "they"],
+      "correct": "their",
+      "description": "'Their' is the correct possessive adjective.",
+      "id": "35",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1"
+    },
+    {
+      "quiz": "She found <!-(problem area)-!> in the garden.",
+      "options": ["it", "its", "it's", "itself"],
+      "correct": "it",
+      "description": "'It' is the correct object pronoun.",
+      "id": "36",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1"
+    },
+    {
+      "quiz": "The responsibility is <!-(problem area)-!>.",
+      "options": ["yours", "your", "you", "yourself"],
+      "correct": "yours",
+      "description": "'Yours' is the correct possessive pronoun.",
+      "id": "37",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1"
+    },
+    {
+      "quiz": "They did it by <!-(problem area)-!>.",
+      "options": ["themselves", "them", "they", "their"],
+      "correct": "themselves",
+      "description": "'Themselves' is the correct reflexive pronoun.",
+      "id": "38",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1"
+    },
+    {
+      "quiz": "She gave <!-(problem area)-!> a gift.",
+      "options": ["him", "he", "his", "himself"],
+      "correct": "him",
+      "description": "'Him' is the correct object pronoun.",
+      "id": "39",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1"
+    },
+    {
+      "quiz": "This is <!-(problem area)-!> cat.",
+      "options": ["my", "mine", "me", "myself"],
+      "correct": "my",
+      "description": "'My' is the correct possessive adjective.",
+      "id": "40",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1"
+    },
+    {
+      "quiz": "They love <!-(problem area)-!> dog.",
+      "options": ["their", "theirs", "them", "they"],
+      "correct": "their",
+      "description": "'Their' is the correct possessive adjective.",
+      "id": "41",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1"
+    },
+    {
+      "quiz": "This is our house, and that is <!-(problem area)-!>.",
+      "options": ["theirs", "their", "them", "they"],
+      "correct": "theirs",
+      "description": "'Theirs' is the correct possessive pronoun.",
+      "id": "42",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1"
+    },
+    {
+      "quiz": "She did it <!-(problem area)-!>.",
+      "options": ["herself", "her", "she", "hers"],
+      "correct": "herself",
+      "description": "'Herself' is the correct reflexive pronoun.",
+      "id": "43",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1"
+    },
+    {
+      "quiz": "Is this book <!-(problem area)-!>?",
+      "options": ["yours", "your", "you", "yourself"],
+      "correct": "yours",
+      "description": "'Yours' is the correct possessive pronoun.",
+      "id": "44",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1"
+    },
+    {
+      "quiz": "He told <!-(problem area)-!> the news.",
+      "options": ["me", "my", "mine", "myself"],
+      "correct": "me",
+      "description": "'Me' is the correct object pronoun.",
+      "id": "45",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1"
+    },
+    {
+      "quiz": "That car is <!-(problem area)-!>.",
+      "options": ["hers", "her", "she", "herself"],
+      "correct": "hers",
+      "description": "'Hers' is the correct possessive pronoun.",
+      "id": "46",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1"
+    },
+    {
+      "quiz": "The decision is <!-(problem area)-!>.",
+      "options": ["his", "him", "he", "himself"],
+      "correct": "his",
+      "description": "'His' is the correct possessive pronoun.",
+      "id": "47",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1"
+    },
+    {
+      "quiz": "She cooked dinner by <!-(problem area)-!>.",
+      "options": ["herself", "her", "she", "hers"],
+      "correct": "herself",
+      "description": "'Herself' is the correct reflexive pronoun.",
+      "id": "48",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1"
+    },
+    {
+      "quiz": "He met <!-(problem area)-!> at the station.",
+      "options": ["her", "she", "hers", "herself"],
+      "correct": "her",
+      "description": "'Her' is the correct object pronoun.",
+      "id": "49",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1"
+    },
+    {
+      "quiz": "This is our home, and that is <!-(problem area)-!>.",
+      "options": ["theirs", "their", "them", "they"],
+      "correct": "theirs",
+      "description": "'Theirs' is the correct possessive pronoun.",
+      "id": "50",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1"
+    },
+    {
+      "quiz": "She helped <!-(problem area)-!> to some cake.",
+      "options": ["herself", "her", "she", "hers"],
+      "correct": "herself",
+      "description": "'Herself' is the correct reflexive pronoun.",
+      "id": "51",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1"
+    },
+    {
+      "quiz": "Is this <!-(problem area)-!> notebook?",
+      "options": ["your", "you", "yours", "yourself"],
+      "correct": "your",
+      "description": "'Your' is the correct possessive adjective.",
+      "id": "52",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1"
+    },
+    {
+      "quiz": "He hurt <!-(problem area)-!> with a knife.",
+      "options": ["himself", "him", "he", "his"],
+      "correct": "himself",
+      "description": "'Himself' is the correct reflexive pronoun.",
+      "id": "53",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1"
+    },
+    {
+      "quiz": "This cat is <!-(problem area)-!>.",
+      "options": ["theirs", "their", "them", "they"],
+      "correct": "theirs",
+      "description": "'Theirs' is the correct possessive pronoun.",
+      "id": "54",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1"
+    },
+    {
+      "quiz": "She called <!-(problem area)-!> yesterday.",
+      "options": ["him", "he", "his", "himself"],
+      "correct": "him",
+      "description": "'Him' is the correct object pronoun.",
+      "id": "55",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1"
+    }
+  ]
+}

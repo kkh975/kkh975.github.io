@@ -1,0 +1,208 @@
+{
+  "version": "4",
+  "lang": "kr",
+  "id": "3",
+  "title": "[시제] 현재완료, 과거완료",
+  "list": [
+    {
+      "id": "1",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "It has <!-(problem area)-!> snowing for three days.",
+      "options": ["be", "been", "is", "being"],
+      "correct": "been"
+    },
+    {
+      "id": "2",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "She <!-(problem area)-!> worked at a library before.",
+      "options": ["is", "has", "had", "were"],
+      "correct": "has"
+    },
+    {
+      "id": "3",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "I <!-(problem area)-!> finished the project.",
+      "options": ["did", "do", "have", "made"],
+      "correct": "have"
+    },
+    {
+      "id": "4",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "She <!-(problem area)-!> been waiting for an hour.",
+      "options": ["has", "have", "had", "did"],
+      "correct": "has"
+    },
+    {
+      "id": "5",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "I <!-(problem area)-!> been doing this work since two hours.",
+      "options": ["have", "has", "had", "did"],
+      "correct": "have"
+    },
+    {
+      "id": "6",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "When he got to the bus stop, the bus <!-(problem area)-!> already left.",
+      "options": ["had", "has", "have", "did"],
+      "correct": "had"
+    },
+    {
+      "id": "7",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "I <!-(problem area)-!> read the entire book by noon.",
+      "options": ["will have", "would have", "had", "have"],
+      "correct": "had"
+    },
+    {
+      "id": "8",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "She <!-(problem area)-!> never seen such a beautiful sunset.",
+      "options": ["has", "have", "can", "could"],
+      "correct": "has"
+    },
+    {
+      "id": "9",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "It <!-(problem area)-!> been raining since this morning.",
+      "options": ["is", "has", "have", "does"],
+      "correct": "has"
+    },
+    {
+      "id": "10",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "He <!-(problem area)-!> been studying English since 2012.",
+      "options": ["has", "have", "was", "were"],
+      "correct": "has"
+    },
+    {
+      "id": "11",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "Until yesterday, I <!-(problem area)-!> never eaten sushi.",
+      "options": ["have", "had", "has", "did"],
+      "correct": "had"
+    },
+    {
+      "id": "12",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "I <!-(problem area)-!> never been to China.",
+      "options": ["have", "has", "had", "would"],
+      "correct": "have"
+    },
+    {
+      "id": "13",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "Before tonight, they <!-(problem area)-!> not tried Vietnamese food.",
+      "options": ["have", "has", "had", "did"],
+      "correct": "had"
+    },
+    {
+      "id": "14",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "We <!-(problem area)-!> living here for more than a decade.",
+      "options": ["has been", "were", "have been", "are"],
+      "correct": "have been"
+    },
+    {
+      "id": "15",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "She <!-(problem area)-!> working at this company since she graduated from college.",
+      "options": ["has been", "have been", "were", "had been"],
+      "correct": "has been"
+    },
+    {
+      "id": "16",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "By the time we arrived, the play <!-(problem area)-!>.",
+      "options": ["started", "has started", "had started", "start"],
+      "correct": "had started"
+    },
+    {
+      "id": "17",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "Before I met her, I <!-(problem area)-!> in love.",
+      "options": ["have been", "was", "had been", "has been"],
+      "correct": "had been"
+    },
+    {
+      "id": "18",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "I <!-(problem area)-!> cooking dinner when she came home.",
+      "options": ["have been", "was", "had been", "am"],
+      "correct": "had been"
+    },
+    {
+      "id": "19",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "Fraiser <!-(problem area)-!> there since 1995.",
+      "options": ["lives", "lived", "had lived", "has lived"],
+      "correct": "has lived"
+    },
+    {
+      "id": "20",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "Her parents <!-(problem area)-!> married for thirty years before they divorced.",
+      "options": ["are", "were", "have been", "had been"],
+      "correct": "had been"
+    },
+    {
+      "id": "21",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "I <!-(problem area)-!> feeling ill all day.",
+      "options": ["have been", "has been", "were", "am"],
+      "correct": "have been"
+    },
+    {
+      "id": "22",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "They <!-(problem area)-!> friends since high school.",
+      "options": ["are", "were", "have been", "had been"],
+      "correct": "have been"
+    },
+    {
+      "id": "23",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "By the time I got to the office, the meeting <!-(problem area)-!>.",
+      "options": ["started", "has started", "had started", "start"],
+      "correct": "had started"
+    },
+    {
+      "id": "24",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "Shepherds <!-(problem area)-!> sheep for centuries.",
+      "options": ["herded", "herds", "has herded", "have herded"],
+      "correct": "have herded"
+    },
+    {
+      "id": "25",
+      "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
+      "quizType": "type1",
+      "quiz": "By the time the movie started, I <!-(problem area)-!> all my popcorn.",
+      "options": ["ate", "eats", "had eaten", "has eaten"],
+      "correct": "had eaten"
+    }
+  ]
+}

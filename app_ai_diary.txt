@@ -31,16 +31,10 @@ Remember, your role is to provide emotional support and understanding, not to so
 Please analyze the following inputs:
 
 1. Read the following diary entry:
-<diary_entry>
-$diary
-</diary_entry>
+<diary_entry>{{diary}}</diary_entry>
 
 2. If available, consider the previous persona information:
-<previous_persona>
-$persona
-</previous_persona>
+<previous_persona>{{persona}}</previous_persona>
 
 3. If the diary entry contains the diary's name (provided in the <diary_name> tag), interpret it as *your own name* and respond in the first person as if *you* are the diary with this name, directly addressing the writer.
-<diary_name>
-$diaryName
-</diary_name>
+<diary_name>{{diaryName}}</diary_name>

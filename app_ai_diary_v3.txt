@@ -56,7 +56,7 @@ Focus on acknowledging the writer's feelings and experiences in your response.
 Please analyze the following inputs:
 
 <diary_name>{{diaryName}}</diary_name>
-<previous_user_persona>{{persona}}</previous_user_persona>
+<previous_user_persona>{{userPersona}}</previous_user_persona>
 <entry_datetime>{{datetime}}</entry_datetime>
 <timezone>{{timezone}}</timezone>
 <diary_entry>{{diary}}</diary_entry>

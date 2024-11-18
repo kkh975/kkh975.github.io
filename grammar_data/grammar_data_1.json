@@ -10,7 +10,7 @@
       "quizType": "type1",
       "quiz": "They <!-(problem area)-!> football every weekend.",
       "options": ["playing", "plays", "play"],
-      "correct": "play"
+      "correct": ["play"]
     },
     {
       "id": "2",
@@ -18,7 +18,7 @@
       "quizType": "type1",
       "quiz": "She <!-(problem area)-!> a cup of tea now.",
       "options": ["drinks", "is drinking", "drink", "drinking"],
-      "correct": "is drinking"
+      "correct": ["is drinking"]
     },
     {
       "id": "3",
@@ -26,7 +26,7 @@
       "quizType": "type1",
       "quiz": "You <!-(problem area)-!> kind.",
       "options": ["is", "are", "am"],
-      "correct": "are"
+      "correct": ["are"]
     },
     {
       "id": "4",
@@ -34,7 +34,7 @@
       "quizType": "type1",
       "quiz": "I <!-(problem area)-!> a bit tired.",
       "options": ["am", "is", "are"],
-      "correct": "am"
+      "correct": ["am"]
     },
     {
       "id": "5",
@@ -42,7 +42,7 @@
       "quizType": "type1",
       "quiz": "He <!-(problem area)-!> her secrets.",
       "options": ["knows", "is knowing", "know"],
-      "correct": "knows"
+      "correct": ["knows"]
     },
     {
       "id": "6",
@@ -50,7 +50,7 @@
       "quizType": "type1",
       "quiz": "We <!-(problem area)-!> the movie at the moment.",
       "options": ["watches", "watch", "are watching"],
-      "correct": "are watching"
+      "correct": ["are watching"]
     },
     {
       "id": "7",
@@ -58,7 +58,7 @@
       "quizType": "type1",
       "quiz": "It often <!-(problem area)-!> in Ireland.",
       "options": ["rains", "is raining", "rain", "raining"],
-      "correct": "rains"
+      "correct": ["rains"]
     },
     {
       "id": "8",
@@ -66,7 +66,7 @@
       "quizType": "type1",
       "quiz": "She <!-(problem area)-!> upset today.",
       "options": ["is", "are", "am"],
-      "correct": "is"
+      "correct": ["is"]
     },
     {
       "id": "9",
@@ -74,7 +74,7 @@
       "quizType": "type1",
       "quiz": "My dog <!-(problem area)-!> after the ball.",
       "options": ["chases", "is chasing", "chase", "chasing"],
-      "correct": "is chasing"
+      "correct": ["is chasing"]
     },
     {
       "id": "10",
@@ -82,7 +82,7 @@
       "quizType": "type1",
       "quiz": "He always <!-(problem area)-!> a tie to work.",
       "options": ["wears", "is wearing", "wear", "wearing"],
-      "correct": "wears"
+      "correct": ["wears"]
     },
     {
       "id": "11",
@@ -90,7 +90,7 @@
       "quizType": "type1",
       "quiz": "My mother <!-(problem area)-!> in a school.",
       "options": ["works", "is working", "work", "working"],
-      "correct": "works"
+      "correct": ["works"]
     },
     {
       "id": "12",
@@ -98,7 +98,7 @@
       "quizType": "type1",
       "quiz": "My friend <!-(problem area)-!> German fluently.",
       "options": ["speaks", "is speaking", "speak", "speaking"],
-      "correct": "speaks"
+      "correct": ["speaks"]
     },
     {
       "id": "13",
@@ -106,7 +106,7 @@
       "quizType": "type1",
       "quiz": "They <!-(problem area)-!> here at this moment.",
       "options": ["is", "are", "am"],
-      "correct": "are"
+      "correct": ["are"]
     },
     {
       "id": "14",
@@ -114,7 +114,7 @@
       "quizType": "type1",
       "quiz": "I <!-(problem area)-!> a new car.",
       "options": ["buy", "am buying", "buys", "buying"],
-      "correct": "am buying"
+      "correct": ["am buying"]
     },
     {
       "id": "15",
@@ -122,7 +122,7 @@
       "quizType": "type1",
       "quiz": "She <!-(problem area)-!> the truth.",
       "options": ["knows", "is knowing", "know"],
-      "correct": "knows"
+      "correct": ["knows"]
     },
     {
       "id": "16",
@@ -130,7 +130,7 @@
       "quizType": "type1",
       "quiz": "James <!-(problem area)-!> to Japan two times a year.",
       "options": ["travels", "is traveling", "travel", "traveling"],
-      "correct": "travels"
+      "correct": ["travels"]
     },
     {
       "id": "17",
@@ -138,7 +138,7 @@
       "quizType": "type1",
       "quiz": "She <!-(problem area)-!> a book in the library now.",
       "options": ["reads", "is reading", "read", "reading"],
-      "correct": "is reading"
+      "correct": ["is reading"]
     },
     {
       "id": "18",
@@ -146,7 +146,7 @@
       "quizType": "type1",
       "quiz": "I <!-(problem area)-!> his attitude lately.",
       "options": ["likes", "am liking", "like", "liking"],
-      "correct": "like"
+      "correct": ["like"]
     },
     {
       "id": "19",
@@ -154,7 +154,7 @@
       "quizType": "type1",
       "quiz": "They <!-(problem area)-!> loud music every weekend.",
       "options": ["plays", "is playing", "play"],
-      "correct": "play"
+      "correct": ["play"]
     },
     {
       "id": "20",
@@ -162,7 +162,7 @@
       "quizType": "type1",
       "quiz": "She <!-(problem area)-!> to finish her project.",
       "options": ["tries", "is trying", "try", "trying"],
-      "correct": "is trying"
+      "correct": ["is trying"]
     },
     {
       "id": "21",
@@ -170,7 +170,7 @@
       "quizType": "type1",
       "quiz": "It <!-(problem area)-!> hot in summer.",
       "options": ["gets", "is getting", "get", "getting"],
-      "correct": "gets"
+      "correct": ["gets"]
     },
     {
       "id": "22",
@@ -178,7 +178,7 @@
       "quizType": "type1",
       "quiz": "The baby <!-(problem area)-!> for his mother.",
       "options": ["cries", "is crying", "cry", "crying"],
-      "correct": "is crying"
+      "correct": ["is crying"]
     },
     {
       "id": "23",
@@ -186,7 +186,7 @@
       "quizType": "type1",
       "quiz": "She usually <!-(problem area)-!> milk for breakfast.",
       "options": ["drinks", "is drinking", "drink", "drinking"],
-      "correct": "drinks"
+      "correct": ["drinks"]
     },
     {
       "id": "24",
@@ -194,7 +194,7 @@
       "quizType": "type1",
       "quiz": "Students <!-(problem area)-!> hard for exams.",
       "options": ["studies", "are studying", "study", "studying"],
-      "correct": "study"
+      "correct": ["study"]
     },
     {
       "id": "25",
@@ -202,7 +202,7 @@
       "quizType": "type1",
       "quiz": "I always <!-(problem area)-!> early to work.",
       "options": ["arrives", "am arriving", "arrive", "arriving"],
-      "correct": "arrive"
+      "correct": ["arrive"]
     },
     {
       "id": "26",
@@ -210,7 +210,7 @@
       "quizType": "type1",
       "quiz": "My sister <!-(problem area)-!> in Paris.",
       "options": ["lives", "is living", "live", "living"],
-      "correct": "lives"
+      "correct": ["lives"]
     },
     {
       "id": "27",
@@ -218,7 +218,7 @@
       "quizType": "type1",
       "quiz": "He <!-(problem area)-!> the bus to work every day.",
       "options": ["takes", "is taking", "take", "taking"],
-      "correct": "takes"
+      "correct": ["takes"]
     },
     {
       "id": "28",
@@ -226,7 +226,7 @@
       "quizType": "type1",
       "quiz": "I <!-(problem area)-!> a shower now.",
       "options": ["takes", "is taking", "take", "taking"],
-      "correct": "am taking"
+      "correct": ["am taking"]
     },
     {
       "id": "29",
@@ -234,7 +234,7 @@
       "quizType": "type1",
       "quiz": "Jack <!-(problem area)-!> to music while working.",
       "options": ["listens", "is listening", "listen", "listening"],
-      "correct": "listens"
+      "correct": ["listens"]
     },
     {
       "id": "30",
@@ -242,7 +242,7 @@
       "quizType": "type1",
       "quiz": "Sara and I <!-(problem area)-!> to the new restaurant for dinner.",
       "options": ["goes", "are going", "go", "going"],
-      "correct": "are going"
+      "correct": ["are going"]
     },
     {
       "id": "31",
@@ -250,7 +250,7 @@
       "quizType": "type1",
       "quiz": "Mary <!-(problem area)-!> beautiful.",
       "options": ["are", "is", "am"],
-      "correct": "is"
+      "correct": ["is"]
     },
     {
       "id": "32",
@@ -258,7 +258,7 @@
       "quizType": "type1",
       "quiz": "They <!-(problem area)-!> on a project.",
       "options": ["works", "is working", "work", "working"],
-      "correct": "are working"
+      "correct": ["are working"]
     },
     {
       "id": "33",
@@ -266,7 +266,7 @@
       "quizType": "type1",
       "quiz": "It <!-(problem area)-!> today.",
       "options": ["rains", "is raining", "rain", "raining"],
-      "correct": "is raining"
+      "correct": ["is raining"]
     },
     {
       "id": "34",
@@ -274,7 +274,7 @@
       "quizType": "type1",
       "quiz": "She <!-(problem area)-!> very hard these days.",
       "options": ["works", "is working", "work", "working"],
-      "correct": "is working"
+      "correct": ["is working"]
     },
     {
       "id": "35",
@@ -282,7 +282,7 @@
       "quizType": "type1",
       "quiz": "The children <!-(problem area)-!> soccer after school.",
       "options": ["plays", "are playing", "play", "playing"],
-      "correct": "play"
+      "correct": ["play"]
     },
     {
       "id": "36",
@@ -290,7 +290,7 @@
       "quizType": "type1",
       "quiz": "She always <!-(problem area)-!> her keys.",
       "options": ["loses", "is losing", "lose", "losing"],
-      "correct": "loses"
+      "correct": ["loses"]
     },
     {
       "id": "37",
@@ -298,7 +298,7 @@
       "quizType": "type1",
       "quiz": "I <!-(problem area)-!> my homework right now.",
       "options": ["does", "am doing", "do", "doing"],
-      "correct": "am doing"
+      "correct": ["am doing"]
     },
     {
       "id": "38",
@@ -306,7 +306,7 @@
       "quizType": "type1",
       "quiz": "They <!-(problem area)-!> in New York.",
       "options": ["lives", "is living", "live", "living"],
-      "correct": "live"
+      "correct": ["live"]
     },
     {
       "id": "39",
@@ -314,7 +314,7 @@
       "quizType": "type1",
       "quiz": "My father <!-(problem area)-!> a newspaper every morning.",
       "options": ["reads", "is reading", "read", "reading"],
-      "correct": "reads"
+      "correct": ["reads"]
     },
     {
       "id": "40",
@@ -322,7 +322,7 @@
       "quizType": "type1",
       "quiz": "I <!-(problem area)-!> him very well.",
       "options": ["knows", "am knowing", "know", "knowing"],
-      "correct": "know"
+      "correct": ["know"]
     },
     {
       "id": "41",
@@ -330,7 +330,7 @@
       "quizType": "type1",
       "quiz": "My brother <!-(problem area)-!> to the gym three times a week.",
       "options": ["goes", "is going", "go", "going"],
-      "correct": "goes"
+      "correct": ["goes"]
     },
     {
       "id": "42",
@@ -338,7 +338,7 @@
       "quizType": "type1",
       "quiz": "Jane <!-(problem area)-!> English and French.",
       "options": ["speaks", "is speaking", "speak", "speaking"],
-      "correct": "speaks"
+      "correct": ["speaks"]
     },
     {
       "id": "43",
@@ -346,7 +346,7 @@
       "quizType": "type1",
       "quiz": "They <!-(problem area)-!> TV right now.",
       "options": ["watches", "are watching", "watch", "watching"],
-      "correct": "are watching"
+      "correct": ["are watching"]
     },
     {
       "id": "44",
@@ -354,7 +354,7 @@
       "quizType": "type1",
       "quiz": "Peter usually <!-(problem area)-!> to work by car.",
       "options": ["goes", "is going", "go", "going"],
-      "correct": "goes"
+      "correct": ["goes"]
     },
     {
       "id": "45",
@@ -362,7 +362,7 @@
       "quizType": "type1",
       "quiz": "I <!-(problem area)-!> here with my friends.",
       "options": ["is", "am", "are"],
-      "correct": "am"
+      "correct": ["am"]
     },
     {
       "id": "46",
@@ -370,7 +370,7 @@
       "quizType": "type1",
       "quiz": "We often <!-(problem area)-!> dinner at home.",
       "options": ["cooks", "is cooking", "cook", "cooking"],
-      "correct": "cook"
+      "correct": ["cook"]
     },
     {
       "id": "47",
@@ -378,7 +378,7 @@
       "quizType": "type1",
       "quiz": "He <!-(problem area)-!> a suit to work.",
       "options": ["wears", "is wearing", "wear", "wearing"],
-      "correct": "wears"
+      "correct": ["wears"]
     },
     {
       "id": "48",
@@ -386,7 +386,7 @@
       "quizType": "type1",
       "quiz": "She <!-(problem area)-!> on her new painting at the moment.",
       "options": ["works", "is working", "work", "working"],
-      "correct": "is working"
+      "correct": ["is working"]
     }
   ]
 }

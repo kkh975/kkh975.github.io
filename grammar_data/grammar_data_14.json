@@ -10,7 +10,7 @@
       "quizType": "type1",
       "quiz": "My cat is <!-(problem area)-!> my dog.",
       "options": ["as small as", "smaller than", "small", "smallest"],
-      "correct": "smaller than"
+      "correct": ["smaller than"]
     },
     {
       "id": "2",
@@ -23,7 +23,7 @@
         "difficult",
         "as difficult as"
       ],
-      "correct": "more difficult than"
+      "correct": ["more difficult than"]
     },
     {
       "id": "3",
@@ -31,7 +31,7 @@
       "quizType": "type1",
       "quiz": "This book is <!-(problem area)-!> interesting book I have ever read.",
       "options": ["the most", "more than", "the more", "the mostest"],
-      "correct": "the most"
+      "correct": ["the most"]
     },
     {
       "id": "4",
@@ -44,7 +44,7 @@
         "longest than",
         "the longest"
       ],
-      "correct": "as long as"
+      "correct": ["as long as"]
     },
     {
       "id": "5",
@@ -52,7 +52,7 @@
       "quizType": "type1",
       "quiz": "She sings <!-(problem area)-!> a professional singer.",
       "options": ["as good as", "better than", "good", "the best"],
-      "correct": "as good as"
+      "correct": ["as good as"]
     },
     {
       "id": "6",
@@ -60,7 +60,7 @@
       "quizType": "type1",
       "quiz": "This dog is <!-(problem area)-!> dog in our neighborhood.",
       "options": ["the biggest", "biggest than", "big", "as bigger as"],
-      "correct": "the biggest"
+      "correct": ["the biggest"]
     },
     {
       "id": "7",
@@ -68,7 +68,7 @@
       "quizType": "type1",
       "quiz": "It's <!-(problem area)-!> thing I could ever imagine.",
       "options": ["the worst", "worst than", "bad", "as bad as"],
-      "correct": "the worst"
+      "correct": ["the worst"]
     },
     {
       "id": "8",
@@ -76,7 +76,7 @@
       "quizType": "type1",
       "quiz": "She's <!-(problem area)-!> girl in her class.",
       "options": ["the shortest", "shorter than", "short", "as short as"],
-      "correct": "the shortest"
+      "correct": ["the shortest"]
     },
     {
       "id": "9",
@@ -84,7 +84,7 @@
       "quizType": "type1",
       "quiz": "The Eiffel tower is <!-(problem area)-!> building in Paris.",
       "options": ["the tallest", "tall than", "tall", "as tall as"],
-      "correct": "the tallest"
+      "correct": ["the tallest"]
     },
     {
       "id": "10",
@@ -92,12 +92,12 @@
       "quizType": "type1",
       "quiz": "My brother is <!-(problem area)-!> me.",
       "options": ["taller than", "the tallest", "tall", "as tall as"],
-      "correct": "taller than"
+      "correct": ["taller than"]
     },
     {
       "quiz": "This problem is much <!-(problem area)-!> than the last one.",
       "options": ["harder", "hard", "hardest", "more hard"],
-      "correct": "harder",
+      "correct": ["harder"],
       "description": "Comparative form for 'hard' is 'harder'.",
       "id": "11",
       "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
@@ -106,7 +106,7 @@
     {
       "quiz": "She is the <!-(problem area)-!> student in the class.",
       "options": ["smartest", "smarter", "most smart", "smart"],
-      "correct": "smartest",
+      "correct": ["smartest"],
       "description": "Superlative form for 'smart' is 'smartest'.",
       "id": "12",
       "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
@@ -120,7 +120,7 @@
         "deliciouser",
         "most delicious"
       ],
-      "correct": "delicious",
+      "correct": ["delicious"],
       "description": "'As ~ as' requires the adjective 'delicious' in its base form.",
       "id": "13",
       "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
@@ -129,7 +129,7 @@
     {
       "quiz": "Her dress is <!-(problem area)-!> than mine.",
       "options": ["prettier", "pretty", "prettiest", "more pretty"],
-      "correct": "prettier",
+      "correct": ["prettier"],
       "description": "Comparative form for 'pretty' is 'prettier'.",
       "id": "14",
       "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
@@ -138,7 +138,7 @@
     {
       "quiz": "He is the <!-(problem area)-!> player on the team.",
       "options": ["best", "better", "good", "most good"],
-      "correct": "best",
+      "correct": ["best"],
       "description": "Superlative form for 'good' is 'best'.",
       "id": "15",
       "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
@@ -152,7 +152,7 @@
         "difficulter",
         "most difficult"
       ],
-      "correct": "difficult",
+      "correct": ["difficult"],
       "description": "'As ~ as' requires the adjective 'difficult' in its base form.",
       "id": "16",
       "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
@@ -161,7 +161,7 @@
     {
       "quiz": "This movie is <!-(problem area)-!> than the previous one.",
       "options": ["better", "best", "good", "most good"],
-      "correct": "better",
+      "correct": ["better"],
       "description": "Comparative form for 'good' is 'better'.",
       "id": "17",
       "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
@@ -170,7 +170,7 @@
     {
       "quiz": "She is the <!-(problem area)-!> dancer I've ever seen.",
       "options": ["most graceful", "gracefuler", "more graceful", "graceful"],
-      "correct": "most graceful",
+      "correct": ["most graceful"],
       "description": "Superlative form for 'graceful' is 'most graceful'.",
       "id": "18",
       "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
@@ -179,7 +179,7 @@
     {
       "quiz": "The test was <!-(problem area)-!> than I expected.",
       "options": ["easier", "easy", "easiest", "more easy"],
-      "correct": "easier",
+      "correct": ["easier"],
       "description": "Comparative form for 'easy' is 'easier'.",
       "id": "19",
       "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
@@ -193,7 +193,7 @@
         "melodiousest",
         "most melodious"
       ],
-      "correct": "melodious",
+      "correct": ["melodious"],
       "description": "'As ~ as' requires the adjective 'melodious' in its base form.",
       "id": "20",
       "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
@@ -202,7 +202,7 @@
     {
       "quiz": "This book is <!-(problem area)-!> than that one.",
       "options": ["thicker", "thick", "thickest", "more thick"],
-      "correct": "thicker",
+      "correct": ["thicker"],
       "description": "Comparative form for 'thick' is 'thicker'.",
       "id": "21",
       "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
@@ -211,7 +211,7 @@
     {
       "quiz": "She is the <!-(problem area)-!> of all the siblings.",
       "options": ["youngest", "younger", "young", "most young"],
-      "correct": "youngest",
+      "correct": ["youngest"],
       "description": "Superlative form for 'young' is 'youngest'.",
       "id": "22",
       "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
@@ -225,7 +225,7 @@
         "challenginger",
         "most challenging"
       ],
-      "correct": "challenging",
+      "correct": ["challenging"],
       "description": "'As ~ as' requires the adjective 'challenging' in its base form.",
       "id": "23",
       "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
@@ -234,7 +234,7 @@
     {
       "quiz": "Her bag is <!-(problem area)-!> than mine.",
       "options": ["heavier", "heavy", "heaviest", "more heavy"],
-      "correct": "heavier",
+      "correct": ["heavier"],
       "description": "Comparative form for 'heavy' is 'heavier'.",
       "id": "24",
       "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
@@ -243,7 +243,7 @@
     {
       "quiz": "He is the <!-(problem area)-!> runner in the team.",
       "options": ["fastest", "faster", "fast", "most fast"],
-      "correct": "fastest",
+      "correct": ["fastest"],
       "description": "Superlative form for 'fast' is 'fastest'.",
       "id": "25",
       "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
@@ -252,7 +252,7 @@
     {
       "quiz": "The weather today is as <!-(problem area)-!> as yesterday.",
       "options": ["cold", "colder", "coldest", "more cold"],
-      "correct": "cold",
+      "correct": ["cold"],
       "description": "'As ~ as' requires the adjective 'cold' in its base form.",
       "id": "26",
       "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
@@ -261,7 +261,7 @@
     {
       "quiz": "This road is <!-(problem area)-!> than the highway.",
       "options": ["narrower", "narrow", "narrowest", "more narrow"],
-      "correct": "narrower",
+      "correct": ["narrower"],
       "description": "Comparative form for 'narrow' is 'narrower'.",
       "id": "27",
       "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
@@ -270,7 +270,7 @@
     {
       "quiz": "She is the <!-(problem area)-!> in the group.",
       "options": ["most talented", "talentedest", "talented", "more talented"],
-      "correct": "most talented",
+      "correct": ["most talented"],
       "description": "Superlative form for 'talented' is 'most talented'.",
       "id": "28",
       "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
@@ -284,7 +284,7 @@
         "realisticest",
         "most realistic"
       ],
-      "correct": "realistic",
+      "correct": ["realistic"],
       "description": "'As ~ as' requires the adjective 'realistic' in its base form.",
       "id": "29",
       "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
@@ -293,7 +293,7 @@
     {
       "quiz": "His performance was <!-(problem area)-!> than last time.",
       "options": ["better", "best", "good", "most good"],
-      "correct": "better",
+      "correct": ["better"],
       "description": "Comparative form for 'good' is 'better'.",
       "id": "30",
       "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
@@ -302,7 +302,7 @@
     {
       "quiz": "She is the <!-(problem area)-!> singer in the choir.",
       "options": ["best", "better", "good", "most good"],
-      "correct": "best",
+      "correct": ["best"],
       "description": "Superlative form for 'good' is 'best'.",
       "id": "31",
       "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
@@ -311,7 +311,7 @@
     {
       "quiz": "His explanation is as <!-(problem area)-!> as the teacher's.",
       "options": ["clear", "clearer", "clearest", "more clear"],
-      "correct": "clear",
+      "correct": ["clear"],
       "description": "'As ~ as' requires the adjective 'clear' in its base form.",
       "id": "32",
       "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
@@ -320,7 +320,7 @@
     {
       "quiz": "This path is <!-(problem area)-!> than the other one.",
       "options": ["steeper", "steep", "steepest", "more steep"],
-      "correct": "steeper",
+      "correct": ["steeper"],
       "description": "Comparative form for 'steep' is 'steeper'.",
       "id": "33",
       "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
@@ -329,7 +329,7 @@
     {
       "quiz": "She is the <!-(problem area)-!> artist in the class.",
       "options": ["most creative", "creativest", "creative", "more creative"],
-      "correct": "most creative",
+      "correct": ["most creative"],
       "description": "Superlative form for 'creative' is 'most creative'.",
       "id": "34",
       "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
@@ -343,7 +343,7 @@
         "innovativer",
         "most innovative"
       ],
-      "correct": "innovative",
+      "correct": ["innovative"],
       "description": "'As ~ as' requires the adjective 'innovative' in its base form.",
       "id": "35",
       "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
@@ -352,7 +352,7 @@
     {
       "quiz": "This route is <!-(problem area)-!> than the highway.",
       "options": ["shorter", "short", "shortest", "more short"],
-      "correct": "shorter",
+      "correct": ["shorter"],
       "description": "Comparative form for 'short' is 'shorter'.",
       "id": "36",
       "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
@@ -361,7 +361,7 @@
     {
       "quiz": "She is the <!-(problem area)-!> player on the team.",
       "options": ["tallest", "taller", "tall", "most tall"],
-      "correct": "tallest",
+      "correct": ["tallest"],
       "description": "Superlative form for 'tall' is 'tallest'.",
       "id": "37",
       "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
@@ -370,7 +370,7 @@
     {
       "quiz": "The coffee is as <!-(problem area)-!> as tea.",
       "options": ["hot", "hotter", "hottest", "more hot"],
-      "correct": "hot",
+      "correct": ["hot"],
       "description": "'As ~ as' requires the adjective 'hot' in its base form.",
       "id": "38",
       "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
@@ -379,7 +379,7 @@
     {
       "quiz": "This game is <!-(problem area)-!> than that one.",
       "options": ["more exciting", "exciting", "excitinger", "most exciting"],
-      "correct": "more exciting",
+      "correct": ["more exciting"],
       "description": "Comparative form for 'exciting' is 'more exciting'.",
       "id": "39",
       "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
@@ -388,7 +388,7 @@
     {
       "quiz": "She is the <!-(problem area)-!> speaker at the conference.",
       "options": ["most eloquent", "eloquenter", "eloquent", "more eloquent"],
-      "correct": "most eloquent",
+      "correct": ["most eloquent"],
       "description": "Superlative form for 'eloquent' is 'most eloquent'.",
       "id": "40",
       "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
@@ -397,7 +397,7 @@
     {
       "quiz": "This problem is as <!-(problem area)-!> as the previous one.",
       "options": ["complex", "more complex", "complexer", "most complex"],
-      "correct": "complex",
+      "correct": ["complex"],
       "description": "'As ~ as' requires the adjective 'complex' in its base form.",
       "id": "41",
       "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
@@ -411,7 +411,7 @@
         "believabler",
         "most believable"
       ],
-      "correct": "more believable",
+      "correct": ["more believable"],
       "description": "Comparative form for 'believable' is 'more believable'.",
       "id": "42",
       "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
@@ -420,7 +420,7 @@
     {
       "quiz": "She is the <!-(problem area)-!> writer in the class.",
       "options": ["most talented", "talentedest", "talented", "more talented"],
-      "correct": "most talented",
+      "correct": ["most talented"],
       "description": "Superlative form for 'talented' is 'most talented'.",
       "id": "43",
       "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
@@ -429,7 +429,7 @@
     {
       "quiz": "The weather today is as <!-(problem area)-!> as it was yesterday.",
       "options": ["cold", "colder", "coldest", "more cold"],
-      "correct": "cold",
+      "correct": ["cold"],
       "description": "'As ~ as' requires the adjective 'cold' in its base form.",
       "id": "44",
       "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
@@ -438,7 +438,7 @@
     {
       "quiz": "This path is <!-(problem area)-!> than the other one.",
       "options": ["steeper", "steep", "steepest", "more steep"],
-      "correct": "steeper",
+      "correct": ["steeper"],
       "description": "Comparative form for 'steep' is 'steeper'.",
       "id": "45",
       "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
@@ -447,7 +447,7 @@
     {
       "quiz": "She is the <!-(problem area)-!> student in her class.",
       "options": ["smartest", "smarter", "most smart", "smart"],
-      "correct": "smartest",
+      "correct": ["smartest"],
       "description": "Superlative form for 'smart' is 'smartest'.",
       "id": "46",
       "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
@@ -456,7 +456,7 @@
     {
       "quiz": "His voice is as <!-(problem area)-!> as a radio announcer's.",
       "options": ["clear", "clearer", "clearest", "more clear"],
-      "correct": "clear",
+      "correct": ["clear"],
       "description": "'As ~ as' requires the adjective 'clear' in its base form.",
       "id": "47",
       "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
@@ -465,7 +465,7 @@
     {
       "quiz": "This soup is <!-(problem area)-!> than the last one.",
       "options": ["spicier", "spicy", "spiciest", "more spicy"],
-      "correct": "spicier",
+      "correct": ["spicier"],
       "description": "Comparative form for 'spicy' is 'spicier'.",
       "id": "48",
       "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
@@ -474,7 +474,7 @@
     {
       "quiz": "She is the <!-(problem area)-!> athlete in the school.",
       "options": ["strongest", "stronger", "strong", "most strong"],
-      "correct": "strongest",
+      "correct": ["strongest"],
       "description": "Superlative form for 'strong' is 'strongest'.",
       "id": "49",
       "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
@@ -488,7 +488,7 @@
         "interestinger",
         "most interesting"
       ],
-      "correct": "interesting",
+      "correct": ["interesting"],
       "description": "'As ~ as' requires the adjective 'interesting' in its base form.",
       "id": "50",
       "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
@@ -497,7 +497,7 @@
     {
       "quiz": "His car is <!-(problem area)-!> than mine.",
       "options": ["faster", "fast", "fastest", "more fast"],
-      "correct": "faster",
+      "correct": ["faster"],
       "description": "Comparative form for 'fast' is 'faster'.",
       "id": "51",
       "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
@@ -506,7 +506,7 @@
     {
       "quiz": "She is the <!-(problem area)-!> dancer in the group.",
       "options": ["best", "better", "good", "most good"],
-      "correct": "best",
+      "correct": ["best"],
       "description": "Superlative form for 'good' is 'best'.",
       "id": "52",
       "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
@@ -520,7 +520,7 @@
         "beautifuller",
         "most beautiful"
       ],
-      "correct": "beautiful",
+      "correct": ["beautiful"],
       "description": "'As ~ as' requires the adjective 'beautiful' in its base form.",
       "id": "53",
       "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
@@ -534,7 +534,7 @@
         "expensive",
         "most expensive"
       ],
-      "correct": "more expensive",
+      "correct": ["more expensive"],
       "description": "Comparative form for 'expensive' is 'more expensive'.",
       "id": "54",
       "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
@@ -548,7 +548,7 @@
         "dedicated",
         "more dedicated"
       ],
-      "correct": "most dedicated",
+      "correct": ["most dedicated"],
       "description": "Superlative form for 'dedicated' is 'most dedicated'.",
       "id": "55",
       "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
@@ -557,7 +557,7 @@
     {
       "quiz": "The sky is as <!-(problem area)-!> as the ocean.",
       "options": ["blue", "bluer", "bluest", "more blue"],
-      "correct": "blue",
+      "correct": ["blue"],
       "description": "'As ~ as' requires the adjective 'blue' in its base form.",
       "id": "56",
       "quesion": "다음 빈칸에 알맞는 답을 고르세요.",

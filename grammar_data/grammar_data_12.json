@@ -10,7 +10,7 @@
       "quizType": "type1",
       "quiz": "He has <!-(problem area)-!> bikes for a long journey.",
       "options": ["some", "any", "all", "no"],
-      "correct": "some"
+      "correct": ["some"]
     },
     {
       "id": "2",
@@ -18,7 +18,7 @@
       "quizType": "type1",
       "quiz": "Does she have <!-(problem area)-!> milk for the guests?",
       "options": ["some", "any", "all", "no"],
-      "correct": "any"
+      "correct": ["any"]
     },
     {
       "id": "3",
@@ -26,7 +26,7 @@
       "quizType": "type1",
       "quiz": "There are <!-(problem area)-!> eggs in the fridge.",
       "options": ["no", "some", "any", "all"],
-      "correct": "no"
+      "correct": ["no"]
     },
     {
       "id": "4",
@@ -34,7 +34,7 @@
       "quizType": "type1",
       "quiz": "I have <!-(problem area)-!> books by this author.",
       "options": ["some", "any", "both", "no"],
-      "correct": "some"
+      "correct": ["some"]
     },
     {
       "id": "5",
@@ -42,7 +42,7 @@
       "quizType": "type1",
       "quiz": "Does she have <!-(problem area)-!> friends in New York?",
       "options": ["any", "some", "both", "all"],
-      "correct": "any"
+      "correct": ["any"]
     },
     {
       "id": "6",
@@ -50,7 +50,7 @@
       "quizType": "type1",
       "quiz": "John and Bob are friends. <!-(problem area)-!> they are excellent students.",
       "options": ["both", "either", "neither", "some"],
-      "correct": "both"
+      "correct": ["both"]
     },
     {
       "id": "7",
@@ -58,7 +58,7 @@
       "quizType": "type1",
       "quiz": "He has tried both tea and coffee, but he didn't like <!-(problem area)-!> of them.",
       "options": ["either", "neither", "both", "any"],
-      "correct": "either"
+      "correct": ["either"]
     },
     {
       "id": "8",
@@ -66,7 +66,7 @@
       "quizType": "type1",
       "quiz": "<!-(problem area)-!> of  my grandmothers live in London.",
       "options": ["Both", "Either", "Neither", "Any"],
-      "correct": "Neither"
+      "correct": ["Neither"]
     },
     {
       "id": "9",
@@ -74,7 +74,7 @@
       "quizType": "type1",
       "quiz": "<!-(problem area)-!> of the girls are going to the theatre tonight.",
       "options": ["Each", "All", "Some", "Both"],
-      "correct": "Each"
+      "correct": ["Each"]
     },
     {
       "id": "10",
@@ -82,7 +82,7 @@
       "quizType": "type1",
       "quiz": "<!-(problem area)-!> dogs need regular exercise.",
       "options": ["Each", "Every", "All", "Both"],
-      "correct": "All"
+      "correct": ["All"]
     },
     {
       "id": "11",
@@ -90,7 +90,7 @@
       "quizType": "type1",
       "quiz": "I have tried <!-(problem area)-!> kinds of coffee here, and they were all good.",
       "options": ["each", "all", "some", "every"],
-      "correct": "every"
+      "correct": ["every"]
     },
     {
       "id": "12",
@@ -98,7 +98,7 @@
       "quizType": "type1",
       "quiz": "We need to revise <!-(problem area)-!> subjects before the final exam.",
       "options": ["all", "each", "every", "both"],
-      "correct": "all"
+      "correct": ["all"]
     },
     {
       "id": "13",
@@ -106,7 +106,7 @@
       "quizType": "type1",
       "quiz": "Can you reach <!-(problem area)-!> the plates on that shelf?",
       "options": ["each", "every", "both", "all"],
-      "correct": "each"
+      "correct": ["each"]
     },
     {
       "id": "14",
@@ -114,7 +114,7 @@
       "quizType": "type1",
       "quiz": "He has <!-(problem area)-!> books in the library.",
       "options": ["some", "many", "all", "few"],
-      "correct": "many"
+      "correct": ["many"]
     },
     {
       "id": "15",
@@ -122,7 +122,7 @@
       "quizType": "type1",
       "quiz": "I have <!-(problem area)-!> free time this summer.",
       "options": ["a lot of", "a little", "a few", "many"],
-      "correct": "a lot of"
+      "correct": ["a lot of"]
     },
     {
       "id": "16",
@@ -130,7 +130,7 @@
       "quizType": "type1",
       "quiz": "He has learnt <!-(problem area)-!> new things in the past month.",
       "options": ["some", "a lot of", "all", "many"],
-      "correct": "a lot of"
+      "correct": ["a lot of"]
     },
     {
       "id": "17",
@@ -138,7 +138,7 @@
       "quizType": "type1",
       "quiz": "My brother has <!-(problem area)-!> friends in this city.",
       "options": ["a few", "a lot of", "many", "some"],
-      "correct": "a few"
+      "correct": ["a few"]
     },
     {
       "id": "18",
@@ -146,7 +146,7 @@
       "quizType": "type1",
       "quiz": "I have <!-(problem area)-!> complaints about this matter.",
       "options": ["a few", "a lot of", "some", "many"],
-      "correct": "a few"
+      "correct": ["a few"]
     },
     {
       "id": "19",
@@ -154,7 +154,7 @@
       "quizType": "type1",
       "quiz": "<!-(problem area)-!> options in the list are suitable for us.",
       "options": ["Many", "Much", "All", "Some"],
-      "correct": "Many"
+      "correct": ["Many"]
     },
     {
       "id": "20",
@@ -162,7 +162,7 @@
       "quizType": "type1",
       "quiz": "<!-(problem area)-!> people agree with this plan.",
       "options": ["Much", "Many", "All", "Some"],
-      "correct": "Many"
+      "correct": ["Many"]
     },
     {
       "id": "21",
@@ -170,7 +170,7 @@
       "quizType": "type1",
       "quiz": "There isn't <!-(problem area)-!> time left.",
       "options": ["much", "many", "some", "a lot of"],
-      "correct": "much"
+      "correct": ["much"]
     },
     {
       "id": "22",
@@ -178,7 +178,7 @@
       "quizType": "type1",
       "quiz": "I don’t have <!-(problem area)-!> friends in the city.",
       "options": ["many", "a few", "a little", "much"],
-      "correct": "many"
+      "correct": ["many"]
     },
     {
       "id": "23",
@@ -186,7 +186,7 @@
       "quizType": "type1",
       "quiz": "I have <!-(problem area)-!> friends who live abroad.",
       "options": ["few", "a few", "little", "a little"],
-      "correct": "a few"
+      "correct": ["a few"]
     },
     {
       "id": "24",
@@ -194,7 +194,7 @@
       "quizType": "type1",
       "quiz": "There is <!-(problem area)-!> milk left in the fridge.",
       "options": ["little", "a few", "a little", "many"],
-      "correct": "little"
+      "correct": ["little"]
     },
     {
       "id": "25",
@@ -202,7 +202,7 @@
       "quizType": "type1",
       "quiz": "<!-(problem area)-!> people know about this secret.",
       "options": ["Many of", "All of", "Many", "Some of"],
-      "correct": "Many of"
+      "correct": ["Many of"]
     },
     {
       "id": "26",
@@ -210,7 +210,7 @@
       "quizType": "type1",
       "quiz": "<!-(problem area)-!> the help you can give will be appreciated.",
       "options": ["Any of", "A little of", "Some of", "Many of"],
-      "correct": "Any of"
+      "correct": ["Any of"]
     },
     {
       "id": "27",
@@ -218,7 +218,7 @@
       "quizType": "type1",
       "quiz": "<!-(problem area)-!> these options works for me.",
       "options": ["Either of", "Each", "Neither of", "Both"],
-      "correct": "Either of"
+      "correct": ["Either of"]
     },
     {
       "id": "28",
@@ -226,7 +226,7 @@
       "quizType": "type1",
       "quiz": "<!-(problem area)-!> students are required to take this course.",
       "options": ["All", "Mine", "All of", "Some"],
-      "correct": "All"
+      "correct": ["All"]
     },
     {
       "id": "29",
@@ -234,7 +234,7 @@
       "quizType": "type1",
       "quiz": "<!-(problem area)-!> the students are required to take this course.",
       "options": ["All", "All of", "Many", "Many of"],
-      "correct": "All of"
+      "correct": ["All of"]
     },
     {
       "id": "30",
@@ -242,7 +242,7 @@
       "quizType": "type1",
       "quiz": "<!-(problem area)-!> the siblings were present at the party.",
       "options": ["Every of", "Both", "Both of", "Neither"],
-      "correct": "Both of"
+      "correct": ["Both of"]
     },
     {
       "id": "31",
@@ -250,7 +250,7 @@
       "quizType": "type1",
       "quiz": "John has two sisters. <!-(problem area)-!> are doctors.",
       "options": ["Both", "Both of", "All", "All of"],
-      "correct": "Both"
+      "correct": ["Both"]
     },
     {
       "id": "32",
@@ -258,7 +258,7 @@
       "quizType": "type1",
       "quiz": "I have two brothers. <!-(problem area)-!> are engineers.",
       "options": ["Both", "None", "Neither", "Either"],
-      "correct": "Both"
+      "correct": ["Both"]
     },
     {
       "id": "33",
@@ -266,7 +266,7 @@
       "quizType": "type1",
       "quiz": "I have two pets. <!-(problem area)-!> likes to play with a ball.",
       "options": ["Either", "Neither", "Both", "Each"],
-      "correct": "Either"
+      "correct": ["Either"]
     },
     {
       "id": "34",
@@ -274,7 +274,7 @@
       "quizType": "type1",
       "quiz": "I have two pets. <!-(problem area)-!> doesn't like to play with a ball.",
       "options": ["Either", "Neither", "Each", "Both"],
-      "correct": "Neither"
+      "correct": ["Neither"]
     },
     {
       "id": "35",
@@ -282,7 +282,7 @@
       "quizType": "type1",
       "quiz": "He has two friends in the class. <!-(problem area)-!> is a topper.",
       "options": ["Each", "All", "Every", "Many"],
-      "correct": "Each"
+      "correct": ["Each"]
     },
     {
       "id": "36",
@@ -290,7 +290,7 @@
       "quizType": "type1",
       "quiz": "He has to visit his parents in every three months. So, he travels to his home town <!-(problem area)-!> year.",
       "options": ["four times", "four time", "four times of", "four time of"],
-      "correct": "four times"
+      "correct": ["four times"]
     },
     {
       "id": "37",
@@ -298,7 +298,7 @@
       "quizType": "type1",
       "quiz": "We have <!-(problem area)-!> books to read in this semester.",
       "options": ["a few", "any", "some", "many"],
-      "correct": "many"
+      "correct": ["many"]
     },
     {
       "id": "38",
@@ -306,7 +306,7 @@
       "quizType": "type1",
       "quiz": "There are <!-(problem area)-!> options available for this problem.",
       "options": ["a few", "few", "some", "many"],
-      "correct": "a few"
+      "correct": ["a few"]
     },
     {
       "id": "39",
@@ -314,7 +314,7 @@
       "quizType": "type1",
       "quiz": "They have <!-(problem area)-!> days to finish the project.",
       "options": ["a few", "some", "an few", "few"],
-      "correct": "a few"
+      "correct": ["a few"]
     },
     {
       "id": "40",
@@ -322,7 +322,7 @@
       "quizType": "type1",
       "quiz": "She spends <!-(problem area)-!> her time reading books.",
       "options": ["most", "many", "little", "few"],
-      "correct": "most"
+      "correct": ["most"]
     },
     {
       "id": "41",
@@ -330,7 +330,7 @@
       "quizType": "type1",
       "quiz": "The teacher has <!-(problem area)-!> patience with her students.",
       "options": ["lots of", "lot of", "few", "little"],
-      "correct": "lots of"
+      "correct": ["lots of"]
     },
     {
       "id": "42",
@@ -338,7 +338,7 @@
       "quizType": "type1",
       "quiz": "The city has <!-(problem area)-!> beautiful parks.",
       "options": ["lot of", "lots of", "little", "few"],
-      "correct": "lots of"
+      "correct": ["lots of"]
     }
   ]
 }

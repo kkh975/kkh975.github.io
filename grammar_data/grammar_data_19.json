@@ -10,7 +10,7 @@
       "quizType": "type1",
       "quiz": "Kim <!-(problem area)-!> us that she was tired.",
       "options": ["tells", "telling", "told", "tell"],
-      "correct": "told"
+      "correct": ["told"]
     },
     {
       "id": "2",
@@ -18,7 +18,7 @@
       "quizType": "type1",
       "quiz": "She <!-(problem area)-!> she liked the movie.",
       "options": ["says", "saying", "say", "said"],
-      "correct": "said"
+      "correct": ["said"]
     },
     {
       "id": "3",
@@ -26,7 +26,7 @@
       "quizType": "type1",
       "quiz": "It is <!-(problem area)-!> that he is the best singer in the choir.",
       "options": ["said", "mention", "told", "saying"],
-      "correct": "said"
+      "correct": ["said"]
     },
     {
       "id": "4",
@@ -34,7 +34,7 @@
       "quizType": "type1",
       "quiz": "He <!-(problem area)-!> that he passed the test.",
       "options": ["said", "told", "speak", "tell"],
-      "correct": "said"
+      "correct": ["said"]
     },
     {
       "id": "5",
@@ -42,7 +42,7 @@
       "quizType": "type1",
       "quiz": "Ben <!-(problem area)-!> me that he is going to a concert.",
       "options": ["told", "saying", "said", "tells"],
-      "correct": "told"
+      "correct": ["told"]
     },
     {
       "id": "6",
@@ -50,7 +50,7 @@
       "quizType": "type1",
       "quiz": "It is <!-(problem area)-!> that the earth is round.",
       "options": ["told", "said", "mention", "reported"],
-      "correct": "said"
+      "correct": ["said"]
     },
     {
       "id": "7",
@@ -58,7 +58,7 @@
       "quizType": "type1",
       "quiz": "She <!-(problem area)-!> that she lost her purse.",
       "options": ["inform", "said", "tells", "said"],
-      "correct": "said"
+      "correct": ["said"]
     },
     {
       "id": "8",
@@ -66,7 +66,7 @@
       "quizType": "type1",
       "quiz": "Mark <!-(problem area)-!> that he enjoyed the trip.",
       "options": ["tell", "said", "told", "saying"],
-      "correct": "said"
+      "correct": ["said"]
     },
     {
       "id": "9",
@@ -74,7 +74,7 @@
       "quizType": "type1",
       "quiz": "It is <!-(problem area)-!> that exercise is good for health.",
       "options": ["said", "reported", "told", "reads"],
-      "correct": "said"
+      "correct": ["said"]
     },
     {
       "id": "10",
@@ -82,7 +82,7 @@
       "quizType": "type1",
       "quiz": "He <!-(problem area)-!> that she was right.",
       "options": ["says", "said", "mention", "tell"],
-      "correct": "said"
+      "correct": ["said"]
     },
     {
       "id": "11",
@@ -90,7 +90,7 @@
       "quizType": "type1",
       "quiz": "Lisa <!-(problem area)-!> she was moving to another city.",
       "options": ["says", "saying", "said", "say"],
-      "correct": "said"
+      "correct": ["said"]
     },
     {
       "id": "12",
@@ -98,7 +98,7 @@
       "quizType": "type1",
       "quiz": "It is <!-(problem area)-!> that laughter is the best medicine.",
       "options": ["told", "said", "reported", "known"],
-      "correct": "said"
+      "correct": ["said"]
     },
     {
       "id": "13",
@@ -106,7 +106,7 @@
       "quizType": "type1",
       "quiz": "They <!-(problem area)-!> that they enjoyed the party.",
       "options": ["says", "tells", "said", "tell"],
-      "correct": "said"
+      "correct": ["said"]
     },
     {
       "id": "14",
@@ -114,7 +114,7 @@
       "quizType": "type1",
       "quiz": "Maria <!-(problem area)-!> that she loves shopping.",
       "options": ["told", "said", "speak", "tells"],
-      "correct": "told"
+      "correct": ["told"]
     },
     {
       "id": "15",
@@ -122,7 +122,7 @@
       "quizType": "type1",
       "quiz": "It is <!-(problem area)-!> that dogs are man's best friend.",
       "options": ["told", "said", "mentioned", "reported"],
-      "correct": "said"
+      "correct": ["said"]
     },
     {
       "id": "16",
@@ -130,7 +130,7 @@
       "quizType": "type1",
       "quiz": "She <!-(problem area)-!> she was feeding the birds.",
       "options": ["saying", "said", "tells", "said"],
-      "correct": "said"
+      "correct": ["said"]
     },
     {
       "id": "17",
@@ -138,7 +138,7 @@
       "quizType": "type1",
       "quiz": "Lisa <!-(problem area)-!> that rain is expected tomorrow.",
       "options": ["told", "said", "tells", "proclaims"],
-      "correct": "told"
+      "correct": ["told"]
     },
     {
       "id": "18",
@@ -146,7 +146,7 @@
       "quizType": "type1",
       "quiz": "It is <!-(problem area)-!> that honesty is the best policy.",
       "options": ["said", "told", "announced", "recognized"],
-      "correct": "said"
+      "correct": ["said"]
     },
     {
       "id": "19",
@@ -154,7 +154,7 @@
       "quizType": "type1",
       "quiz": "He <!-(problem area)-!> that he is excited for the holidays.",
       "options": ["told", "stated", "said", "tells"],
-      "correct": "said"
+      "correct": ["said"]
     },
     {
       "id": "20",
@@ -162,7 +162,7 @@
       "quizType": "type1",
       "quiz": "Peter <!-(problem area)-!> me he is changing jobs.",
       "options": ["said", "told", "tells", "proclaims"],
-      "correct": "told"
+      "correct": ["told"]
     }
   ]
 }

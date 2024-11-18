@@ -10,7 +10,7 @@
       "quizType": "type1",
       "quiz": "<!-(problem area)-!> it raining outside?",
       "options": ["Are", "Is", "Do", "Does"],
-      "correct": "Is"
+      "correct": ["Is"]
     },
     {
       "id": "2",
@@ -18,7 +18,7 @@
       "quizType": "type1",
       "quiz": "Who <!-(problem area)-!> Rachel invite?",
       "options": ["do", "does", "did", "doing"],
-      "correct": "did"
+      "correct": ["did"]
     },
     {
       "id": "3",
@@ -26,7 +26,7 @@
       "quizType": "type1",
       "quiz": "Do you know <!-(problem area)-!> the dog is?",
       "options": ["where", "what", "when", "which"],
-      "correct": "where"
+      "correct": ["where"]
     },
     {
       "id": "4",
@@ -34,7 +34,7 @@
       "quizType": "type1",
       "quiz": "Rita's birthday is tomorrow, <!-(problem area)-!>?",
       "options": ["is it", "isn't it", "doesn't it", "does it"],
-      "correct": "isn't it"
+      "correct": ["isn't it"]
     },
     {
       "id": "5",
@@ -42,7 +42,7 @@
       "quizType": "type1",
       "quiz": "Could you tell me <!-(problem area)-!> he comes from?",
       "options": ["where", "what", "when", "which"],
-      "correct": "where"
+      "correct": ["where"]
     },
     {
       "id": "6",
@@ -50,7 +50,7 @@
       "quizType": "type1",
       "quiz": "You didn't finish the exercise, <!-(problem area)-!>?",
       "options": ["did you", "didn't you", "does you", "doesn't you"],
-      "correct": "did you"
+      "correct": ["did you"]
     },
     {
       "id": "7",
@@ -58,7 +58,7 @@
       "quizType": "type1",
       "quiz": "What <!-(problem area)-!> you doing this weekend?",
       "options": ["is", "are", "do", "does"],
-      "correct": "are"
+      "correct": ["are"]
     },
     {
       "id": "8",
@@ -66,7 +66,7 @@
       "quizType": "type1",
       "quiz": "Who <!-(problem area)-!> you meet at the party?",
       "options": ["do", "does", "did", "doing"],
-      "correct": "did"
+      "correct": ["did"]
     },
     {
       "id": "9",
@@ -74,7 +74,7 @@
       "quizType": "type1",
       "quiz": "<!-(problem area)-!> she make a cake for the party?",
       "options": ["Does", "Do", "Is", "Are"],
-      "correct": "Does"
+      "correct": ["Does"]
     },
     {
       "id": "10",
@@ -82,12 +82,12 @@
       "quizType": "type1",
       "quiz": "John was upset last night, <!-(problem area)-!>?",
       "options": ["wasn't he", "was he", "does he", "doesn't he"],
-      "correct": "wasn't he"
+      "correct": ["wasn't he"]
     },
     {
       "quiz": "Is he <!-(problem area)-!> the presentation now?",
       "options": ["giving", "give", "gave", "gives"],
-      "correct": "giving",
+      "correct": ["giving"],
       "description": "Present continuous tense requires the -ing form.",
       "id": "11",
       "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
@@ -96,7 +96,7 @@
     {
       "quiz": "Which book <!-(problem area)-!> she prefer?",
       "options": ["does", "do", "did", "done"],
-      "correct": "does",
+      "correct": ["does"],
       "description": "Third person singular requires 'does'.",
       "id": "12",
       "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
@@ -105,7 +105,7 @@
     {
       "quiz": "Could you tell me <!-(problem area)-!> he went last night?",
       "options": ["where", "what", "which", "who"],
-      "correct": "where",
+      "correct": ["where"],
       "description": "Indirect questions require 'where'.",
       "id": "13",
       "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
@@ -114,7 +114,7 @@
     {
       "quiz": "You are coming to the party, <!-(problem area)-!> you?",
       "options": ["aren't", "don't", "won't", "are"],
-      "correct": "aren't",
+      "correct": ["aren't"],
       "description": "Tag questions require a negative form for a positive statement.",
       "id": "14",
       "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
@@ -123,7 +123,7 @@
     {
       "quiz": "<!-(problem area)-!> you like ice cream?",
       "options": ["Do", "Does", "Did", "Done"],
-      "correct": "Do",
+      "correct": ["Do"],
       "description": "Present simple questions require 'Do' for 'you'.",
       "id": "15",
       "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
@@ -132,7 +132,7 @@
     {
       "quiz": "What time <!-(problem area)-!> the movie start?",
       "options": ["does", "do", "did", "done"],
-      "correct": "does",
+      "correct": ["does"],
       "description": "Third person singular requires 'does'.",
       "id": "16",
       "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
@@ -141,7 +141,7 @@
     {
       "quiz": "She asked me <!-(problem area)-!> the keys were.",
       "options": ["where", "what", "which", "who"],
-      "correct": "where",
+      "correct": ["where"],
       "description": "Indirect questions require 'where'.",
       "id": "17",
       "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
@@ -150,7 +150,7 @@
     {
       "quiz": "Your brother has a new job, <!-(problem area)-!> he?",
       "options": ["doesn't", "does", "isn't", "is"],
-      "correct": "doesn't",
+      "correct": ["doesn't"],
       "description": "Tag questions require a negative form for a positive statement.",
       "id": "18",
       "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
@@ -159,7 +159,7 @@
     {
       "quiz": "<!-(problem area)-!> they playing football?",
       "options": ["Are", "Is", "Does", "Do"],
-      "correct": "Are",
+      "correct": ["Are"],
       "description": "Present continuous questions require 'Are' for 'they'.",
       "id": "19",
       "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
@@ -168,7 +168,7 @@
     {
       "quiz": "Who <!-(problem area)-!> going to the meeting?",
       "options": ["is", "are", "do", "does"],
-      "correct": "is",
+      "correct": ["is"],
       "description": "Third person singular requires 'is'.",
       "id": "20",
       "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
@@ -177,7 +177,7 @@
     {
       "quiz": "She wants to know <!-(problem area)-!> the store opens.",
       "options": ["when", "what", "where", "who"],
-      "correct": "when",
+      "correct": ["when"],
       "description": "Indirect questions require 'when'.",
       "id": "21",
       "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
@@ -186,7 +186,7 @@
     {
       "quiz": "They were at the concert, <!-(problem area)-!> they?",
       "options": ["weren't", "wasn't", "aren't", "don't"],
-      "correct": "weren't",
+      "correct": ["weren't"],
       "description": "Tag questions require a negative form for a positive statement.",
       "id": "22",
       "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
@@ -195,7 +195,7 @@
     {
       "quiz": "<!-(problem area)-!> you know the answer?",
       "options": ["Do", "Does", "Did", "Done"],
-      "correct": "Do",
+      "correct": ["Do"],
       "description": "Present simple questions require 'Do' for 'you'.",
       "id": "23",
       "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
@@ -204,7 +204,7 @@
     {
       "quiz": "What <!-(problem area)-!> they doing now?",
       "options": ["are", "is", "does", "do"],
-      "correct": "are",
+      "correct": ["are"],
       "description": "Present continuous questions require 'are' for 'they'.",
       "id": "24",
       "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
@@ -213,7 +213,7 @@
     {
       "quiz": "Can you tell me <!-(problem area)-!> she wants?",
       "options": ["what", "who", "where", "when"],
-      "correct": "what",
+      "correct": ["what"],
       "description": "Indirect questions require 'what'.",
       "id": "25",
       "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
@@ -222,7 +222,7 @@
     {
       "quiz": "He finished the project on time, <!-(problem area)-!> he?",
       "options": ["didn't", "doesn't", "isn't", "aren't"],
-      "correct": "didn't",
+      "correct": ["didn't"],
       "description": "Tag questions require a negative form for a positive statement.",
       "id": "26",
       "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
@@ -231,7 +231,7 @@
     {
       "quiz": "<!-(problem area)-!> she attend the meeting?",
       "options": ["Did", "Do", "Does", "Done"],
-      "correct": "Did",
+      "correct": ["Did"],
       "description": "Past simple questions require 'Did'.",
       "id": "27",
       "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
@@ -240,7 +240,7 @@
     {
       "quiz": "Which <!-(problem area)-!> your favorite color?",
       "options": ["is", "are", "does", "do"],
-      "correct": "is",
+      "correct": ["is"],
       "description": "Third person singular requires 'is'.",
       "id": "28",
       "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
@@ -249,7 +249,7 @@
     {
       "quiz": "Do you know <!-(problem area)-!> he is coming?",
       "options": ["if", "who", "what", "when"],
-      "correct": "if",
+      "correct": ["if"],
       "description": "Indirect questions require 'if' for yes/no questions.",
       "id": "29",
       "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
@@ -258,7 +258,7 @@
     {
       "quiz": "She can drive a car, <!-(problem area)-!> she?",
       "options": ["can't", "can", "isn't", "doesn't"],
-      "correct": "can't",
+      "correct": ["can't"],
       "description": "Tag questions require a negative form for a positive statement.",
       "id": "30",
       "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
@@ -267,7 +267,7 @@
     {
       "quiz": "<!-(problem area)-!> they finished the assignment?",
       "options": ["Have", "Has", "Did", "Do"],
-      "correct": "Have",
+      "correct": ["Have"],
       "description": "Present perfect questions require 'Have' for 'they'.",
       "id": "31",
       "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
@@ -276,7 +276,7 @@
     {
       "quiz": "What <!-(problem area)-!> you want for dinner?",
       "options": ["do", "does", "did", "done"],
-      "correct": "do",
+      "correct": ["do"],
       "description": "Present simple questions require 'do' for 'you'.",
       "id": "32",
       "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
@@ -285,7 +285,7 @@
     {
       "quiz": "I wonder <!-(problem area)-!> she likes ice cream.",
       "options": ["if", "who", "what", "when"],
-      "correct": "if",
+      "correct": ["if"],
       "description": "Indirect questions require 'if' for yes/no questions.",
       "id": "33",
       "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
@@ -294,7 +294,7 @@
     {
       "quiz": "She should finish her work, <!-(problem area)-!> she?",
       "options": ["shouldn't", "should", "doesn't", "isn't"],
-      "correct": "shouldn't",
+      "correct": ["shouldn't"],
       "description": "Tag questions require a negative form for a positive statement.",
       "id": "34",
       "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
@@ -303,7 +303,7 @@
     {
       "quiz": "<!-(problem area)-!> he been to Paris?",
       "options": ["Has", "Have", "Did", "Do"],
-      "correct": "Has",
+      "correct": ["Has"],
       "description": "Present perfect questions require 'Has' for 'he'.",
       "id": "35",
       "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
@@ -312,7 +312,7 @@
     {
       "quiz": "Who <!-(problem area)-!> coming to the party?",
       "options": ["is", "are", "does", "do"],
-      "correct": "is",
+      "correct": ["is"],
       "description": "Third person singular requires 'is'.",
       "id": "36",
       "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
@@ -321,7 +321,7 @@
     {
       "quiz": "Can you tell me <!-(problem area)-!> the meeting is?",
       "options": ["when", "who", "what", "where"],
-      "correct": "when",
+      "correct": ["when"],
       "description": "Indirect questions require 'when'.",
       "id": "37",
       "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
@@ -330,7 +330,7 @@
     {
       "quiz": "They weren't at the game, <!-(problem area)-!> they?",
       "options": ["were", "was", "are", "is"],
-      "correct": "were",
+      "correct": ["were"],
       "description": "Tag questions require a positive form for a negative statement.",
       "id": "38",
       "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
@@ -339,7 +339,7 @@
     {
       "quiz": "<!-(problem area)-!> you speak Spanish?",
       "options": ["Can", "Does", "Do", "Did"],
-      "correct": "Can",
+      "correct": ["Can"],
       "description": "Questions about ability require 'Can'.",
       "id": "39",
       "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
@@ -348,7 +348,7 @@
     {
       "quiz": "What <!-(problem area)-!> your plans for the weekend?",
       "options": ["are", "is", "does", "do"],
-      "correct": "are",
+      "correct": ["are"],
       "description": "Plural subjects require 'are'.",
       "id": "40",
       "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
@@ -357,7 +357,7 @@
     {
       "quiz": "I don't know <!-(problem area)-!> he lives.",
       "options": ["where", "what", "which", "who"],
-      "correct": "where",
+      "correct": ["where"],
       "description": "Indirect questions require 'where'.",
       "id": "41",
       "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
@@ -366,7 +366,7 @@
     {
       "quiz": "She plays the piano, <!-(problem area)-!> she?",
       "options": ["doesn't", "isn't", "don't", "didn't"],
-      "correct": "doesn't",
+      "correct": ["doesn't"],
       "description": "Tag questions require a negative form for a positive statement.",
       "id": "42",
       "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
@@ -375,7 +375,7 @@
     {
       "quiz": "<!-(problem area)-!> they been to the museum?",
       "options": ["Have", "Has", "Did", "Do"],
-      "correct": "Have",
+      "correct": ["Have"],
       "description": "Present perfect questions require 'Have' for 'they'.",
       "id": "43",
       "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
@@ -384,7 +384,7 @@
     {
       "quiz": "Which movie <!-(problem area)-!> you want to watch?",
       "options": ["do", "does", "did", "done"],
-      "correct": "do",
+      "correct": ["do"],
       "description": "Present simple questions require 'do' for 'you'.",
       "id": "44",
       "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
@@ -393,7 +393,7 @@
     {
       "quiz": "Do you know <!-(problem area)-!> she will arrive?",
       "options": ["when", "who", "what", "where"],
-      "correct": "when",
+      "correct": ["when"],
       "description": "Indirect questions require 'when'.",
       "id": "45",
       "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
@@ -402,7 +402,7 @@
     {
       "quiz": "He didn't eat breakfast, <!-(problem area)-!> he?",
       "options": ["did", "does", "is", "are"],
-      "correct": "did",
+      "correct": ["did"],
       "description": "Tag questions require a positive form for a negative statement.",
       "id": "46",
       "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
@@ -411,7 +411,7 @@
     {
       "quiz": "<!-(problem area)-!> she read that book?",
       "options": ["Has", "Have", "Did", "Do"],
-      "correct": "Has",
+      "correct": ["Has"],
       "description": "Present perfect questions require 'Has' for 'she'.",
       "id": "47",
       "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
@@ -420,7 +420,7 @@
     {
       "quiz": "What <!-(problem area)-!> your favorite subject?",
       "options": ["is", "are", "does", "do"],
-      "correct": "is",
+      "correct": ["is"],
       "description": "Third person singular requires 'is'.",
       "id": "48",
       "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
@@ -429,7 +429,7 @@
     {
       "quiz": "Can you tell me <!-(problem area)-!> she said?",
       "options": ["what", "who", "when", "where"],
-      "correct": "what",
+      "correct": ["what"],
       "description": "Indirect questions require 'what'.",
       "id": "49",
       "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
@@ -438,7 +438,7 @@
     {
       "quiz": "They weren't at the party, <!-(problem area)-!> they?",
       "options": ["were", "was", "are", "is"],
-      "correct": "were",
+      "correct": ["were"],
       "description": "Tag questions require a positive form for a negative statement.",
       "id": "50",
       "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
@@ -447,7 +447,7 @@
     {
       "quiz": "<!-(problem area)-!> you know how to swim?",
       "options": ["Do", "Does", "Did", "Done"],
-      "correct": "Do",
+      "correct": ["Do"],
       "description": "Present simple questions require 'Do' for 'you'.",
       "id": "51",
       "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
@@ -456,7 +456,7 @@
     {
       "quiz": "Which song <!-(problem area)-!> you like the most?",
       "options": ["do", "does", "did", "done"],
-      "correct": "do",
+      "correct": ["do"],
       "description": "Present simple questions require 'do' for 'you'.",
       "id": "52",
       "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
@@ -465,7 +465,7 @@
     {
       "quiz": "Do you know <!-(problem area)-!> she is talking about?",
       "options": ["what", "who", "when", "where"],
-      "correct": "what",
+      "correct": ["what"],
       "description": "Indirect questions require 'what'.",
       "id": "53",
       "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
@@ -474,7 +474,7 @@
     {
       "quiz": "She didn't bring her lunch, <!-(problem area)-!> she?",
       "options": ["did", "does", "is", "are"],
-      "correct": "did",
+      "correct": ["did"],
       "description": "Tag questions require a positive form for a negative statement.",
       "id": "54",
       "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
@@ -483,7 +483,7 @@
     {
       "quiz": "<!-(problem area)-!> he visited the new mall?",
       "options": ["Has", "Have", "Did", "Do"],
-      "correct": "Has",
+      "correct": ["Has"],
       "description": "Present perfect questions require 'Has' for 'he'.",
       "id": "55",
       "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
@@ -492,7 +492,7 @@
     {
       "quiz": "What <!-(problem area)-!> the time?",
       "options": ["is", "are", "does", "do"],
-      "correct": "is",
+      "correct": ["is"],
       "description": "Third person singular requires 'is'.",
       "id": "56",
       "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
@@ -501,7 +501,7 @@
     {
       "quiz": "Can you tell me <!-(problem area)-!> she went?",
       "options": ["where", "who", "when", "what"],
-      "correct": "where",
+      "correct": ["where"],
       "description": "Indirect questions require 'where'.",
       "id": "57",
       "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
@@ -510,7 +510,7 @@
     {
       "quiz": "They have finished the project, <!-(problem area)-!> they?",
       "options": ["haven't", "hasn't", "don't", "aren't"],
-      "correct": "haven't",
+      "correct": ["haven't"],
       "description": "Tag questions require a negative form for a positive statement.",
       "id": "58",
       "quesion": "다음 빈칸에 알맞는 답을 고르세요.",

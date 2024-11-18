@@ -10,7 +10,7 @@
       "quizType": "type1",
       "quiz": "There are <!-(problem area)-!> people in the park.",
       "options": ["much", "many", "plenty", "lots"],
-      "correct": "many"
+      "correct": ["many"]
     },
     {
       "id": "2",
@@ -18,7 +18,7 @@
       "quizType": "type1",
       "quiz": "She believes that I <!-(problem area)-!> the truth.",
       "options": ["have told", "told", "am told", "tell"],
-      "correct": "have told"
+      "correct": ["have told"]
     },
     {
       "id": "3",
@@ -26,7 +26,7 @@
       "quizType": "type1",
       "quiz": "She also <!-(problem area)-!> likes to play basketball.",
       "options": ["does", "has", "likes", "plays"],
-      "correct": "does"
+      "correct": ["does"]
     },
     {
       "id": "4",
@@ -34,7 +34,7 @@
       "quizType": "type1",
       "quiz": "Unfortunately, I <!-(problem area)-!> have a car.",
       "options": ["do", "doesn't", "don't", "does"],
-      "correct": "don't"
+      "correct": ["don't"]
     },
     {
       "id": "5",
@@ -42,7 +42,7 @@
       "quizType": "type1",
       "quiz": "They don't think it's right, and <!-(problem area)-!> do I.",
       "options": ["neither", "so", "not", "nether"],
-      "correct": "neither"
+      "correct": ["neither"]
     },
     {
       "id": "6",
@@ -50,7 +50,7 @@
       "quizType": "type1",
       "quiz": "He wants that she <!-(problem area)-!>",
       "options": ["cooks", "cook", "cooked", "cooking"],
-      "correct": "cook"
+      "correct": ["cook"]
     },
     {
       "id": "7",
@@ -58,7 +58,7 @@
       "quizType": "type1",
       "quiz": "She knows that he <!-(problem area)-!> her.",
       "options": ["does love", "love does", "love", "loving"],
-      "correct": "does love"
+      "correct": ["does love"]
     },
     {
       "id": "8",
@@ -66,7 +66,7 @@
       "quizType": "type1",
       "quiz": "There <!-(problem area)-!> a lot of food in the fridge.",
       "options": ["is", "are", "has", "have"],
-      "correct": "is"
+      "correct": ["is"]
     },
     {
       "id": "9",
@@ -74,7 +74,7 @@
       "quizType": "type1",
       "quiz": "My brother just left, and so <!-(problem area)-!> my sister.",
       "options": ["did", "do", "does", "don't"],
-      "correct": "did"
+      "correct": ["did"]
     },
     {
       "id": "10",
@@ -82,7 +82,7 @@
       "quizType": "type1",
       "quiz": "I think not, and <!-(problem area)-!> does she.",
       "options": ["neither", "so", "not", "nother"],
-      "correct": "neither"
+      "correct": ["neither"]
     },
     {
       "id": "11",
@@ -90,7 +90,7 @@
       "quizType": "type1",
       "quiz": "They predicted that it <!-(problem area)-!> rain tomorrow.",
       "options": ["will", "would", "should", "could"],
-      "correct": "will"
+      "correct": ["will"]
     },
     {
       "id": "12",
@@ -98,7 +98,7 @@
       "quizType": "type1",
       "quiz": "There <!-(problem area)-!> cookies on the table.",
       "options": ["is", "are", "were", "have been"],
-      "correct": "are"
+      "correct": ["are"]
     },
     {
       "id": "13",
@@ -106,7 +106,7 @@
       "quizType": "type1",
       "quiz": "He saw her at the party, and <!-(problem area)-!> did I.",
       "options": ["so", "neither", "either", "too"],
-      "correct": "so"
+      "correct": ["so"]
     },
     {
       "id": "14",
@@ -114,7 +114,7 @@
       "quizType": "type1",
       "quiz": "She suggested that they <!-(problem area)-!> to the movies.",
       "options": ["go", "goes", "going", "gone"],
-      "correct": "go"
+      "correct": ["go"]
     },
     {
       "id": "15",
@@ -122,7 +122,7 @@
       "quizType": "type1",
       "quiz": "I like cats, and <!-(problem area)-!> does she.",
       "options": ["so", "neither", "either", "no"],
-      "correct": "so"
+      "correct": ["so"]
     },
     {
       "id": "16",
@@ -130,7 +130,7 @@
       "quizType": "type1",
       "quiz": "There <!-(problem area)-!> many books on the shelf.",
       "options": ["is", "are", "has", "have"],
-      "correct": "are"
+      "correct": ["are"]
     },
     {
       "id": "17",
@@ -138,7 +138,7 @@
       "quizType": "type1",
       "quiz": "I'm not going to the party and <!-(problem area)-!> is he.",
       "options": ["neither", "so", "either", "too"],
-      "correct": "neither"
+      "correct": ["neither"]
     },
     {
       "id": "18",
@@ -146,7 +146,7 @@
       "quizType": "type1",
       "quiz": "She's afraid that she <!-(problem area)-!> miss the train.",
       "options": ["will", "would", "could", "must"],
-      "correct": "will"
+      "correct": ["will"]
     },
     {
       "id": "19",
@@ -154,7 +154,7 @@
       "quizType": "type1",
       "quiz": "I didn't like the movie, and <!-(problem area)-!> did she.",
       "options": ["neither", "so", "either", "too"],
-      "correct": "neither"
+      "correct": ["neither"]
     },
     {
       "id": "20",
@@ -162,7 +162,7 @@
       "quizType": "type1",
       "quiz": "There <!-(problem area)-!> any milk left in the fridge.",
       "options": ["isn't", "aren't", "hasn't", "haven't"],
-      "correct": "isn't"
+      "correct": ["isn't"]
     },
     {
       "id": "21",
@@ -170,7 +170,7 @@
       "quizType": "type1",
       "quiz": "She said that she <!-(problem area)-!> on vacation next week.",
       "options": ["will go", "go", "went", "going"],
-      "correct": "will go"
+      "correct": ["will go"]
     },
     {
       "id": "22",
@@ -178,7 +178,7 @@
       "quizType": "type1",
       "quiz": "I can swim, and <!-(problem area)-!> can he.",
       "options": ["so", "neither", "either", "no"],
-      "correct": "so"
+      "correct": ["so"]
     },
     {
       "id": "23",
@@ -186,7 +186,7 @@
       "quizType": "type1",
       "quiz": "There <!-(problem area)-!> a lot of people at the concert.",
       "options": ["was", "were", "has been", "have been"],
-      "correct": "were"
+      "correct": ["were"]
     },
     {
       "id": "24",
@@ -194,7 +194,7 @@
       "quizType": "type1",
       "quiz": "He doesn't drink coffee, and <!-(problem area)-!> do I.",
       "options": ["neither", "so", "not", "none"],
-      "correct": "neither"
+      "correct": ["neither"]
     },
     {
       "id": "25",
@@ -202,7 +202,7 @@
       "quizType": "type1",
       "quiz": "I don't eat meat, and <!-(problem area)-!> does he.",
       "options": ["neither", "so", "either", "too"],
-      "correct": "neither"
+      "correct": ["neither"]
     },
     {
       "id": "26",
@@ -210,7 +210,7 @@
       "quizType": "type1",
       "quiz": "They believe that she <!-(problem area)-!> win the competition.",
       "options": ["will", "would", "can", "might"],
-      "correct": "will"
+      "correct": ["will"]
     },
     {
       "id": "27",
@@ -218,7 +218,7 @@
       "quizType": "type1",
       "quiz": "There <!-(problem area)-!> a bird in the tree.",
       "options": ["is", "are", "has", "have"],
-      "correct": "is"
+      "correct": ["is"]
     },
     {
       "id": "28",
@@ -226,7 +226,7 @@
       "quizType": "type1",
       "quiz": "You like basketball, and <!-(problem area)-!> do I.",
       "options": ["so", "neither", "either", "too"],
-      "correct": "so"
+      "correct": ["so"]
     },
     {
       "id": "29",
@@ -234,7 +234,7 @@
       "quizType": "type1",
       "quiz": "He doesn't like sushi, and <!-(problem area)-!> do I.",
       "options": ["neither", "so", "either", "too"],
-      "correct": "neither"
+      "correct": ["neither"]
     },
     {
       "id": "30",
@@ -242,7 +242,7 @@
       "quizType": "type1",
       "quiz": "She expects that he <!-(problem area)-!> propose tonight.",
       "options": ["will", "would", "can", "may"],
-      "correct": "will"
+      "correct": ["will"]
     },
     {
       "id": "31",
@@ -250,7 +250,7 @@
       "quizType": "type1",
       "quiz": "There <!-(problem area)-!> many stars in the sky.",
       "options": ["is", "are", "has", "have"],
-      "correct": "are"
+      "correct": ["are"]
     },
     {
       "id": "32",
@@ -258,7 +258,7 @@
       "quizType": "type1",
       "quiz": "I love chocolate, and <!-(problem area)-!> does she.",
       "options": ["so", "neither", "either", "too"],
-      "correct": "so"
+      "correct": ["so"]
     },
     {
       "id": "33",
@@ -266,7 +266,7 @@
       "quizType": "type1",
       "quiz": "She didn't pass the test, and <!-(problem area)-!> did he.",
       "options": ["neither", "so", "either", "too"],
-      "correct": "neither"
+      "correct": ["neither"]
     },
     {
       "id": "34",
@@ -274,7 +274,7 @@
       "quizType": "type1",
       "quiz": "He hopes that it <!-(problem area)-!> rain tomorrow.",
       "options": ["will", "would", "can", "might"],
-      "correct": "will"
+      "correct": ["will"]
     },
     {
       "id": "35",
@@ -282,7 +282,7 @@
       "quizType": "type1",
       "quiz": "There <!-(problem area)-!> a cat on the roof.",
       "options": ["is", "are", "has", "have"],
-      "correct": "is"
+      "correct": ["is"]
     },
     {
       "id": "36",
@@ -290,7 +290,7 @@
       "quizType": "type1",
       "quiz": "I can play piano, and <!-(problem area)-!> can he.",
       "options": ["so", "neither", "either", "too"],
-      "correct": "so"
+      "correct": ["so"]
     },
     {
       "id": "37",
@@ -298,7 +298,7 @@
       "quizType": "type1",
       "quiz": "She doesn't drink alcohol, and <!-(problem area)-!> do I.",
       "options": ["neither", "so", "either", "too"],
-      "correct": "neither"
+      "correct": ["neither"]
     },
     {
       "id": "38",
@@ -306,7 +306,7 @@
       "quizType": "type1",
       "quiz": "He believes that she <!-(problem area)-!> the truth.",
       "options": ["will tell", "tell", "tells", "telling"],
-      "correct": "will tell"
+      "correct": ["will tell"]
     },
     {
       "id": "39",
@@ -314,7 +314,7 @@
       "quizType": "type1",
       "quiz": "There <!-(problem area)-!> three cups on the table.",
       "options": ["is", "are", "has", "have"],
-      "correct": "are"
+      "correct": ["are"]
     },
     {
       "id": "40",
@@ -322,7 +322,7 @@
       "quizType": "type1",
       "quiz": "I exercise daily, and <!-(problem area)-!> does she.",
       "options": ["so", "neither", "either", "too"],
-      "correct": "so"
+      "correct": ["so"]
     },
     {
       "id": "41",
@@ -330,7 +330,7 @@
       "quizType": "type1",
       "quiz": "He didn't try his best, and <!-(problem area)-!> did she.",
       "options": ["neither", "so", "either", "too"],
-      "correct": "neither"
+      "correct": ["neither"]
     },
     {
       "id": "42",
@@ -338,7 +338,7 @@
       "quizType": "type1",
       "quiz": "She knows that he <!-(problem area)-!> late.",
       "options": ["will come", "come", "comes", "coming"],
-      "correct": "will come"
+      "correct": ["will come"]
     },
     {
       "id": "43",
@@ -346,7 +346,7 @@
       "quizType": "type1",
       "quiz": "There <!-(problem area)-!> a lot of books in the library.",
       "options": ["is", "are", "has", "have"],
-      "correct": "are"
+      "correct": ["are"]
     },
     {
       "id": "44",
@@ -354,7 +354,7 @@
       "quizType": "type1",
       "quiz": "He reads books, and <!-(problem area)-!> do I.",
       "options": ["so", "neither", "either", "too"],
-      "correct": "so"
+      "correct": ["so"]
     },
     {
       "id": "45",
@@ -362,7 +362,7 @@
       "quizType": "type1",
       "quiz": "She doesn't speak French, and <!-(problem area)-!> do I.",
       "options": ["neither", "so", "either", "too"],
-      "correct": "neither"
+      "correct": ["neither"]
     },
     {
       "id": "46",
@@ -370,7 +370,7 @@
       "quizType": "type1",
       "quiz": "They think that she <!-(problem area)-!> soon.",
       "options": ["will arrive", "arrive", "arrives", "arriving"],
-      "correct": "will arrive"
+      "correct": ["will arrive"]
     }
   ]
 }

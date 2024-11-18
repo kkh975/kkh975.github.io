@@ -10,7 +10,7 @@
       "quizType": "type1",
       "quiz": "The song was <!-(problem area)-!> by everyone at the party.",
       "options": ["heard", "hearded", "hearing", "to hear"],
-      "correct": "heard"
+      "correct": ["heard"]
     },
     {
       "id": "2",
@@ -18,7 +18,7 @@
       "quizType": "type1",
       "quiz": "The dishes will be <!-(problem area)-!> after dinner.",
       "options": ["washed", "washes", "washing", "wash"],
-      "correct": "washed"
+      "correct": ["washed"]
     },
     {
       "id": "3",
@@ -26,7 +26,7 @@
       "quizType": "type1",
       "quiz": "The car was <!-(problem area)-!> in the parking lot.",
       "options": ["left", "leave", "leaving", "to leave"],
-      "correct": "left"
+      "correct": ["left"]
     },
     {
       "id": "4",
@@ -34,7 +34,7 @@
       "quizType": "type1",
       "quiz": "The letter <!-(problem area)-!> yesterday.",
       "options": ["received", "was received", "to receive", "receiving"],
-      "correct": "was received"
+      "correct": ["was received"]
     },
     {
       "id": "5",
@@ -42,7 +42,7 @@
       "quizType": "type1",
       "quiz": "The book has been <!-(problem area)-!> by the teacher",
       "options": ["reading", "read", "reads", "to read"],
-      "correct": "read"
+      "correct": ["read"]
     },
     {
       "id": "6",
@@ -50,7 +50,7 @@
       "quizType": "type1",
       "quiz": "The cake needs to be <!-(problem area)-!> for 30 minutes.",
       "options": ["baked", "bake", "baking", "bakes"],
-      "correct": "baked"
+      "correct": ["baked"]
     },
     {
       "id": "7",
@@ -58,7 +58,7 @@
       "quizType": "type1",
       "quiz": "A new software will be <!-(problem area)-!> by the team.",
       "options": ["developed", "develop", "develops", "developing"],
-      "correct": "developed"
+      "correct": ["developed"]
     },
     {
       "id": "8",
@@ -66,7 +66,7 @@
       "quizType": "type1",
       "quiz": "The house was <!-(problem area)-!> last month.",
       "options": ["painted", "painted", "painting", "paints"],
-      "correct": "painted"
+      "correct": ["painted"]
     },
     {
       "id": "9",
@@ -74,7 +74,7 @@
       "quizType": "type1",
       "quiz": "The window was <!-(problem area)-!> by the storm last night.",
       "options": ["broken", "break", "breaking", "breaks"],
-      "correct": "broken"
+      "correct": ["broken"]
     },
     {
       "id": "10",
@@ -82,7 +82,7 @@
       "quizType": "type1",
       "quiz": "The phone was <!-(problem area)-!> on the table.",
       "options": ["left", "leave", "leaving", "leaves"],
-      "correct": "left"
+      "correct": ["left"]
     },
     {
       "id": "11",
@@ -90,7 +90,7 @@
       "quizType": "type1",
       "quiz": "The cake was <!-(problem area)-!> by the chef.",
       "options": ["made", "make", "makes", "making"],
-      "correct": "made"
+      "correct": ["made"]
     },
     {
       "id": "12",
@@ -98,7 +98,7 @@
       "quizType": "type1",
       "quiz": "The suitcase was <!-(problem area)-!> in the hallway.",
       "options": ["found", "find", "finding", "finds"],
-      "correct": "found"
+      "correct": ["found"]
     },
     {
       "id": "13",
@@ -106,7 +106,7 @@
       "quizType": "type1",
       "quiz": "The test will be <!-(problem area)-!> on Wednesday.",
       "options": ["held", "hold", "holding", "holds"],
-      "correct": "held"
+      "correct": ["held"]
     },
     {
       "id": "14",
@@ -114,7 +114,7 @@
       "quizType": "type1",
       "quiz": "The boat was <!-(problem area)-!> by the giant wave.",
       "options": ["capsized", "capsize", "capsizing", "capsizes"],
-      "correct": "capsized"
+      "correct": ["capsized"]
     },
     {
       "id": "15",
@@ -122,7 +122,7 @@
       "quizType": "type1",
       "quiz": "The tree must be <!-(problem area)-!> down immediately.",
       "options": ["cut", "cuts", "cutting", "cutted"],
-      "correct": "cut"
+      "correct": ["cut"]
     },
     {
       "id": "16",
@@ -130,7 +130,7 @@
       "quizType": "type1",
       "quiz": "The contract has been <!-(problem area)-!> today.",
       "options": ["signed", "sign", "signing", "signs"],
-      "correct": "signed"
+      "correct": ["signed"]
     },
     {
       "id": "17",
@@ -138,7 +138,7 @@
       "quizType": "type1",
       "quiz": "The concert tickets have already been <!-(problem area)-!> .",
       "options": ["bought", "buy", "buys", "buying"],
-      "correct": "bought"
+      "correct": ["bought"]
     },
     {
       "id": "18",
@@ -146,7 +146,7 @@
       "quizType": "type1",
       "quiz": "The homework should be <!-(problem area)-!> in by 9 a.m.",
       "options": ["turned", "turn", "turning", "turns"],
-      "correct": "turned"
+      "correct": ["turned"]
     },
     {
       "id": "19",
@@ -154,7 +154,7 @@
       "quizType": "type1",
       "quiz": "The package was <!-(problem area)-!> at the post office.",
       "options": ["dropped", "drop", "drops", "dropping"],
-      "correct": "dropped"
+      "correct": ["dropped"]
     },
     {
       "id": "20",
@@ -162,7 +162,7 @@
       "quizType": "type1",
       "quiz": "The deal was <!-(problem area)-!> in the end.",
       "options": ["canceled", "cancel", "cancels", "canceling"],
-      "correct": "canceled"
+      "correct": ["canceled"]
     }
   ]
 }

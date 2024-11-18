@@ -10,7 +10,7 @@
       "quizType": "type1",
       "quiz": "She has <!-(problem area)-!> of cheese.",
       "options": ["block", "a block", "blocks", "none blocks"],
-      "correct": "a block"
+      "correct": ["a block"]
     },
     {
       "id": "2",
@@ -18,7 +18,7 @@
       "quizType": "type1",
       "quiz": "Look at <!-(problem area)-!> over there!",
       "options": ["men", "mans", "a man", "man"],
-      "correct": "that man"
+      "correct": ["that man"]
     },
     {
       "id": "3",
@@ -26,7 +26,7 @@
       "quizType": "type1",
       "quiz": "He needs <!-(problem area)-!> to fix his hair.",
       "options": ["scissor", "a scissor", "scissors", "the scissors"],
-      "correct": "scissors"
+      "correct": ["scissors"]
     },
     {
       "id": "4",
@@ -39,7 +39,7 @@
         "A Bag of apple",
         "An Bag of apples"
       ],
-      "correct": "A bag of apples"
+      "correct": ["A bag of apples"]
     },
     {
       "id": "5",
@@ -52,7 +52,7 @@
         "furnitures",
         "an item of furniture"
       ],
-      "correct": "furniture"
+      "correct": ["furniture"]
     },
     {
       "id": "6",
@@ -65,7 +65,7 @@
         "pairs of scissors",
         "neither scissors"
       ],
-      "correct": "a pair of scissors"
+      "correct": ["a pair of scissors"]
     },
     {
       "id": "7",
@@ -73,7 +73,7 @@
       "quizType": "type1",
       "quiz": "I need a <!-(problem area)-!> water.",
       "options": ["bottle", "bottles", "both bottle", "none bottle"],
-      "correct": "bottle"
+      "correct": ["bottle"]
     },
     {
       "id": "8",
@@ -81,7 +81,7 @@
       "quizType": "type1",
       "quiz": "First, he used <!-(problem area)-!>",
       "options": ["tool", "a tool", "tools", "a tools"],
-      "correct": "a tool"
+      "correct": ["a tool"]
     },
     {
       "id": "9",
@@ -89,7 +89,7 @@
       "quizType": "type1",
       "quiz": "He loves <!-(problem area)-!>",
       "options": ["beers", "beer", "a beer", "beers'"],
-      "correct": "beer"
+      "correct": ["beer"]
     },
     {
       "id": "10",
@@ -97,12 +97,12 @@
       "quizType": "type1",
       "quiz": "She has <!-(problem area)-!> of fish in the tank.",
       "options": ["plenty", "plenties", "a plenty", "plenty of"],
-      "correct": "plenty"
+      "correct": ["plenty"]
     },
     {
       "quiz": "Can you pass me those <!-(problem area)-!>?",
       "options": ["scissors", "scissor", "scissers", "sciss"],
-      "correct": "scissors",
+      "correct": ["scissors"],
       "description": "The noun 'scissors' is plural.",
       "id": "11",
       "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
@@ -111,7 +111,7 @@
     {
       "quiz": "She bought <!-(problem area)-!> for her new apartment.",
       "options": ["furniture", "furnitures", "a furniture", "some furnitures"],
-      "correct": "furniture",
+      "correct": ["furniture"],
       "description": "'Furniture' is an uncountable noun.",
       "id": "12",
       "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
@@ -120,7 +120,7 @@
     {
       "quiz": "There's a <!-(problem area)-!> on the table.",
       "options": ["cup", "cups", "a cups", "cupes"],
-      "correct": "cup",
+      "correct": ["cup"],
       "description": "A single 'cup' is a countable noun.",
       "id": "13",
       "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
@@ -129,7 +129,7 @@
     {
       "quiz": "We bought some <!-(problem area)-!> apples at the market.",
       "options": ["fresh", "freshed", "freshes", "fres"],
-      "correct": "fresh",
+      "correct": ["fresh"],
       "description": "'Fresh' is an adjective describing the countable noun 'apples'.",
       "id": "14",
       "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
@@ -138,7 +138,7 @@
     {
       "quiz": "This <!-(problem area)-!> has cheese in it.",
       "options": ["bread", "breads", "a bread", "breeds"],
-      "correct": "bread",
+      "correct": ["bread"],
       "description": "'Bread' is an uncountable noun.",
       "id": "15",
       "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
@@ -147,7 +147,7 @@
     {
       "quiz": "Can you pass me that pair of <!-(problem area)-!>?",
       "options": ["scissors", "scissor", "scissers", "sciss"],
-      "correct": "scissors",
+      "correct": ["scissors"],
       "description": "The noun 'scissors' is plural.",
       "id": "16",
       "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
@@ -156,7 +156,7 @@
     {
       "quiz": "There are three <!-(problem area)-!> in the bag.",
       "options": ["apples", "apple", "a apple", "appless"],
-      "correct": "apples",
+      "correct": ["apples"],
       "description": "'Apples' is the plural form of the countable noun 'apple'.",
       "id": "17",
       "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
@@ -165,7 +165,7 @@
     {
       "quiz": "I need to buy some <!-(problem area)-!> for dinner.",
       "options": ["bread", "breads", "a bread", "breeds"],
-      "correct": "bread",
+      "correct": ["bread"],
       "description": "'Bread' is an uncountable noun.",
       "id": "18",
       "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
@@ -174,7 +174,7 @@
     {
       "quiz": "Could you give me a <!-(problem area)-!> of information?",
       "options": ["piece", "pieces", "piece of", "pieces of"],
-      "correct": "piece",
+      "correct": ["piece"],
       "description": "'Piece of information' is a way to count uncountable 'information'.",
       "id": "19",
       "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
@@ -183,7 +183,7 @@
     {
       "quiz": "We need to buy some <!-(problem area)-!> for the new house.",
       "options": ["furniture", "furnitures", "a furniture", "some furnitures"],
-      "correct": "furniture",
+      "correct": ["furniture"],
       "description": "'Furniture' is an uncountable noun.",
       "id": "20",
       "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
@@ -192,7 +192,7 @@
     {
       "quiz": "There's a <!-(problem area)-!> of cheese on the table.",
       "options": ["block", "blocks", "block of", "blocks of"],
-      "correct": "block",
+      "correct": ["block"],
       "description": "'Block of cheese' is a way to count uncountable 'cheese'.",
       "id": "21",
       "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
@@ -201,7 +201,7 @@
     {
       "quiz": "I saw a flock of <!-(problem area)-!> flying south.",
       "options": ["birds", "bird", "a bird", "birdes"],
-      "correct": "birds",
+      "correct": ["birds"],
       "description": "'Birds' is the plural form of the countable noun 'bird'.",
       "id": "22",
       "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
@@ -210,7 +210,7 @@
     {
       "quiz": "We bought several <!-(problem area)-!> of fruit.",
       "options": ["pieces", "piece", "piece of", "pieces of"],
-      "correct": "pieces",
+      "correct": ["pieces"],
       "description": "'Pieces of fruit' is a way to count uncountable 'fruit'.",
       "id": "23",
       "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
@@ -224,7 +224,7 @@
         "furniture",
         "a furniture"
       ],
-      "correct": "piece of furniture",
+      "correct": ["piece of furniture"],
       "description": "'Piece of furniture' is a way to count uncountable 'furniture'.",
       "id": "24",
       "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
@@ -233,7 +233,7 @@
     {
       "quiz": "There are many <!-(problem area)-!> in the sky.",
       "options": ["stars", "star", "a star", "stares"],
-      "correct": "stars",
+      "correct": ["stars"],
       "description": "'Stars' is the plural form of the countable noun 'star'.",
       "id": "25",
       "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
@@ -242,7 +242,7 @@
     {
       "quiz": "She gave me some <!-(problem area)-!> advice.",
       "options": ["good", "goods", "goods of", "good of"],
-      "correct": "good",
+      "correct": ["good"],
       "description": "'Good advice' uses 'good' as an adjective for uncountable 'advice'.",
       "id": "26",
       "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
@@ -251,7 +251,7 @@
     {
       "quiz": "Can you hand me a pair of <!-(problem area)-!>?",
       "options": ["scissors", "scissor", "scissers", "sciss"],
-      "correct": "scissors",
+      "correct": ["scissors"],
       "description": "The noun 'scissors' is plural.",
       "id": "27",
       "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
@@ -260,7 +260,7 @@
     {
       "quiz": "There is a <!-(problem area)-!> on the counter.",
       "options": ["loaf of bread", "loaves of bread", "bread", "breads"],
-      "correct": "loaf of bread",
+      "correct": ["loaf of bread"],
       "description": "'Loaf of bread' is a way to count uncountable 'bread'.",
       "id": "28",
       "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
@@ -269,7 +269,7 @@
     {
       "quiz": "Can you give me some <!-(problem area)-!>?",
       "options": ["water", "waters", "water of", "a water"],
-      "correct": "water",
+      "correct": ["water"],
       "description": "'Water' is an uncountable noun.",
       "id": "29",
       "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
@@ -278,7 +278,7 @@
     {
       "quiz": "There are several <!-(problem area)-!> on the table.",
       "options": ["books", "book", "a book", "bookes"],
-      "correct": "books",
+      "correct": ["books"],
       "description": "'Books' is the plural form of the countable noun 'book'.",
       "id": "30",
       "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
@@ -287,7 +287,7 @@
     {
       "quiz": "I need a <!-(problem area)-!> of paper.",
       "options": ["sheet", "sheets", "sheet of", "sheets of"],
-      "correct": "sheet",
+      "correct": ["sheet"],
       "description": "'Sheet of paper' is a way to count uncountable 'paper'.",
       "id": "31",
       "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
@@ -296,7 +296,7 @@
     {
       "quiz": "Can you buy a <!-(problem area)-!> of milk?",
       "options": ["carton", "cartons", "carton of", "cartons of"],
-      "correct": "carton",
+      "correct": ["carton"],
       "description": "'Carton of milk' is a way to count uncountable 'milk'.",
       "id": "32",
       "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
@@ -305,7 +305,7 @@
     {
       "quiz": "There is a lot of <!-(problem area)-!> in the garden.",
       "options": ["grass", "grasses", "grasse", "grass of"],
-      "correct": "grass",
+      "correct": ["grass"],
       "description": "'Grass' is an uncountable noun.",
       "id": "33",
       "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
@@ -314,7 +314,7 @@
     {
       "quiz": "We have many <!-(problem area)-!> to complete.",
       "options": ["tasks", "task", "a task", "taskes"],
-      "correct": "tasks",
+      "correct": ["tasks"],
       "description": "'Tasks' is the plural form of the countable noun 'task'.",
       "id": "34",
       "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
@@ -323,7 +323,7 @@
     {
       "quiz": "I need to buy a <!-(problem area)-!> eggs.",
       "options": ["dozen", "dozens", "dozen of", "dozens of"],
-      "correct": "dozen",
+      "correct": ["dozen"],
       "description": "'Dozen of eggs' is a way to count the plural noun 'eggs'.",
       "id": "35",
       "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
@@ -332,7 +332,7 @@
     {
       "quiz": "There are some <!-(problem area)-!> on the floor.",
       "options": ["papers", "paper", "a paper", "papers of"],
-      "correct": "papers",
+      "correct": ["papers"],
       "description": "'Papers' is the plural form of the countable noun 'paper'.",
       "id": "36",
       "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
@@ -341,7 +341,7 @@
     {
       "quiz": "Can you buy a <!-(problem area)-!> of rice?",
       "options": ["bag", "bags", "bag of", "bags of"],
-      "correct": "bag",
+      "correct": ["bag"],
       "description": "'Bag of rice' is a way to count uncountable 'rice'.",
       "id": "37",
       "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
@@ -350,7 +350,7 @@
     {
       "quiz": "There are several <!-(problem area)-!> on the shelf.",
       "options": ["bottles", "bottle", "a bottle", "bottles of"],
-      "correct": "bottles",
+      "correct": ["bottles"],
       "description": "'Bottles' is the plural form of the countable noun 'bottle'.",
       "id": "38",
       "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
@@ -364,7 +364,7 @@
         "information of",
         "a information"
       ],
-      "correct": "information",
+      "correct": ["information"],
       "description": "'Information' is an uncountable noun.",
       "id": "39",
       "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
@@ -373,7 +373,7 @@
     {
       "quiz": "There is a lot of <!-(problem area)-!> in the refrigerator.",
       "options": ["food", "foods", "food of", "a food"],
-      "correct": "food",
+      "correct": ["food"],
       "description": "'Food' is an uncountable noun.",
       "id": "40",
       "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
@@ -382,7 +382,7 @@
     {
       "quiz": "I need a <!-(problem area)-!> of advice.",
       "options": ["piece", "pieces", "piece of", "pieces of"],
-      "correct": "piece",
+      "correct": ["piece"],
       "description": "'Piece of advice' is a way to count uncountable 'advice'.",
       "id": "41",
       "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
@@ -391,7 +391,7 @@
     {
       "quiz": "There are many <!-(problem area)-!> in the library.",
       "options": ["books", "book", "a book", "bookes"],
-      "correct": "books",
+      "correct": ["books"],
       "description": "'Books' is the plural form of the countable noun 'book'.",
       "id": "42",
       "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
@@ -400,7 +400,7 @@
     {
       "quiz": "We need to buy some <!-(problem area)-!> for breakfast.",
       "options": ["bread", "breads", "a bread", "breeds"],
-      "correct": "bread",
+      "correct": ["bread"],
       "description": "'Bread' is an uncountable noun.",
       "id": "43",
       "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
@@ -409,7 +409,7 @@
     {
       "quiz": "Can you pass me those <!-(problem area)-!>?",
       "options": ["scissors", "scissor", "scissers", "sciss"],
-      "correct": "scissors",
+      "correct": ["scissors"],
       "description": "The noun 'scissors' is plural.",
       "id": "44",
       "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
@@ -418,7 +418,7 @@
     {
       "quiz": "She bought <!-(problem area)-!> for her new apartment.",
       "options": ["furniture", "furnitures", "a furniture", "some furnitures"],
-      "correct": "furniture",
+      "correct": ["furniture"],
       "description": "'Furniture' is an uncountable noun.",
       "id": "45",
       "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
@@ -427,7 +427,7 @@
     {
       "quiz": "There's a <!-(problem area)-!> on the table.",
       "options": ["cup", "cups", "a cups", "cupes"],
-      "correct": "cup",
+      "correct": ["cup"],
       "description": "A single 'cup' is a countable noun.",
       "id": "46",
       "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
@@ -436,7 +436,7 @@
     {
       "quiz": "We bought some <!-(problem area)-!> apples at the market.",
       "options": ["fresh", "freshed", "freshes", "fres"],
-      "correct": "fresh",
+      "correct": ["fresh"],
       "description": "'Fresh' is an adjective describing the countable noun 'apples'.",
       "id": "47",
       "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
@@ -445,7 +445,7 @@
     {
       "quiz": "This <!-(problem area)-!> has cheese in it.",
       "options": ["bread", "breads", "a bread", "breeds"],
-      "correct": "bread",
+      "correct": ["bread"],
       "description": "'Bread' is an uncountable noun.",
       "id": "48",
       "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
@@ -454,7 +454,7 @@
     {
       "quiz": "Can you pass me that pair of <!-(problem area)-!>?",
       "options": ["scissors", "scissor", "scissers", "sciss"],
-      "correct": "scissors",
+      "correct": ["scissors"],
       "description": "The noun 'scissors' is plural.",
       "id": "49",
       "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
@@ -463,7 +463,7 @@
     {
       "quiz": "There are three <!-(problem area)-!> in the bag.",
       "options": ["apples", "apple", "a apple", "appless"],
-      "correct": "apples",
+      "correct": ["apples"],
       "description": "'Apples' is the plural form of the countable noun 'apple'.",
       "id": "50",
       "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
@@ -472,7 +472,7 @@
     {
       "quiz": "I need to buy some <!-(problem area)-!> for dinner.",
       "options": ["bread", "breads", "a bread", "breeds"],
-      "correct": "bread",
+      "correct": ["bread"],
       "description": "'Bread' is an uncountable noun.",
       "id": "51",
       "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
@@ -481,7 +481,7 @@
     {
       "quiz": "Could you give me a <!-(problem area)-!> of information?",
       "options": ["piece", "pieces", "piece of", "pieces of"],
-      "correct": "piece",
+      "correct": ["piece"],
       "description": "'Piece of information' is a way to count uncountable 'information'.",
       "id": "52",
       "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
@@ -490,7 +490,7 @@
     {
       "quiz": "We need to buy some <!-(problem area)-!> for the new house.",
       "options": ["furniture", "furnitures", "a furniture", "some furnitures"],
-      "correct": "furniture",
+      "correct": ["furniture"],
       "description": "'Furniture' is an uncountable noun.",
       "id": "53",
       "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
@@ -499,7 +499,7 @@
     {
       "quiz": "There's a <!-(problem area)-!> of cheese on the table.",
       "options": ["block", "blocks", "block of", "blocks of"],
-      "correct": "block",
+      "correct": ["block"],
       "description": "'Block of cheese' is a way to count uncountable 'cheese'.",
       "id": "54",
       "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
@@ -508,7 +508,7 @@
     {
       "quiz": "I saw a flock of <!-(problem area)-!> flying south.",
       "options": ["birds", "bird", "a bird", "birdes"],
-      "correct": "birds",
+      "correct": ["birds"],
       "description": "'Birds' is the plural form of the countable noun 'bird'.",
       "id": "55",
       "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
@@ -517,7 +517,7 @@
     {
       "quiz": "We bought several <!-(problem area)-!> of fruit.",
       "options": ["pieces", "piece", "piece of", "pieces of"],
-      "correct": "pieces",
+      "correct": ["pieces"],
       "description": "'Pieces of fruit' is a way to count uncountable 'fruit'.",
       "id": "56",
       "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
@@ -531,7 +531,7 @@
         "furniture",
         "a furniture"
       ],
-      "correct": "piece of furniture",
+      "correct": ["piece of furniture"],
       "description": "'Piece of furniture' is a way to count uncountable 'furniture'.",
       "id": "57",
       "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
@@ -540,7 +540,7 @@
     {
       "quiz": "There are many <!-(problem area)-!> in the sky.",
       "options": ["stars", "star", "a star", "stares"],
-      "correct": "stars",
+      "correct": ["stars"],
       "description": "'Stars' is the plural form of the countable noun 'star'.",
       "id": "58",
       "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
@@ -549,7 +549,7 @@
     {
       "quiz": "She gave me some <!-(problem area)-!> advice.",
       "options": ["good", "goods", "goods of", "good of"],
-      "correct": "good",
+      "correct": ["good"],
       "description": "'Good advice' uses 'good' as an adjective for uncountable 'advice'.",
       "id": "59",
       "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
@@ -558,7 +558,7 @@
     {
       "quiz": "Can you hand me a pair of <!-(problem area)-!>?",
       "options": ["scissors", "scissor", "scissers", "sciss"],
-      "correct": "scissors",
+      "correct": ["scissors"],
       "description": "The noun 'scissors' is plural.",
       "id": "60",
       "quesion": "다음 빈칸에 알맞는 답을 고르세요.",
@@ -567,7 +567,7 @@
     {
       "quiz": "There is a <!-(problem area)-!> on the counter.",
       "options": ["loaf of bread", "loaves of bread", "bread", "breads"],
-      "correct": "loaf of bread",
+      "correct": ["loaf of bread"],
       "description": "'Loaf of bread' is a way to count uncountable 'bread'.",
       "id": "61",
       "quesion": "다음 빈칸에 알맞는 답을 고르세요.",

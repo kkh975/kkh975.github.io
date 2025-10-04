@@ -1,0 +1,364 @@
+{
+  "theme": {
+    "name": "Butter Website Theme",
+    "description": "Virtual collaboration platform theme with modern, clean design",
+    "version": "1.0.0",
+    "source": "https://www.butter.us/"
+  },
+  "colors": {
+    "primary": {
+      "main": "#0a0b1e",
+      "rgb": "rgb(10, 11, 30)",
+      "description": "Primary brand color - deep navy blue"
+    },
+    "secondary": {
+      "main": "#ffffff",
+      "rgb": "rgb(255, 255, 255)",
+      "description": "Secondary color - pure white"
+    },
+    "accent": {
+      "yellow": "#fffd63",
+      "rgb": "rgb(255, 253, 99)",
+      "description": "Accent color - bright yellow for header background"
+    },
+    "text": {
+      "primary": "#0a0b1e",
+      "rgb": "rgb(10, 11, 30)",
+      "description": "Primary text color"
+    },
+    "text": {
+      "secondary": "#333333",
+      "rgb": "rgb(51, 51, 51)",
+      "description": "Secondary text color for links"
+    },
+    "background": {
+      "primary": "#ffffff",
+      "rgb": "rgb(255, 255, 255)",
+      "description": "Primary background color"
+    },
+    "button": {
+      "primary": {
+        "background": "#0a0b1e",
+        "text": "#ffffff",
+        "rgb": {
+          "background": "rgb(10, 11, 30)",
+          "text": "rgb(255, 255, 255)"
+        }
+      },
+      "secondary": {
+        "background": "transparent",
+        "text": "#000000",
+        "rgb": {
+          "background": "rgba(0, 0, 0, 0)",
+          "text": "rgb(0, 0, 0)"
+        }
+      }
+    },
+    "card": {
+      "background": "#ffffff",
+      "border": "#e5e7eb",
+      "shadow": "rgba(0, 0, 0, 0.07) 0px 10px 15px -3px, rgba(0, 0, 0, 0.07) 0px 4px 6px -4px"
+    }
+  },
+  "typography": {
+    "fontFamily": {
+      "primary": "\"Gt eesti display\", sans-serif",
+      "secondary": "\"DM Sans\", system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Open Sans\", \"Helvetica Neue\", sans-serif",
+      "ultra": "\"Gt eesti display ultra 2\", sans-serif"
+    },
+    "fontSize": {
+      "xs": "12px",
+      "sm": "14px",
+      "base": "15px",
+      "lg": "16px",
+      "xl": "20px",
+      "2xl": "24px",
+      "3xl": "32px",
+      "4xl": "48px",
+      "5xl": "80px",
+      "6xl": "200px"
+    },
+    "fontWeight": {
+      "light": "300",
+      "normal": "400",
+      "medium": "500",
+      "bold": "700",
+      "black": "900"
+    },
+    "lineHeight": {
+      "tight": "20px",
+      "normal": "24px",
+      "relaxed": "28px",
+      "loose": "80px",
+      "ultra": "180px"
+    },
+    "letterSpacing": "normal",
+    "textTransform": "none"
+  },
+  "spacing": {
+    "xs": "4px",
+    "sm": "8px",
+    "md": "16px",
+    "lg": "24px",
+    "xl": "32px",
+    "xxl": "48px",
+    "xxxl": "80px",
+    "xxxxl": "104px",
+    "xxxxxl": "200px"
+  },
+  "layout": {
+    "container": {
+      "maxWidth": "1200px",
+      "padding": "0 80px",
+      "margin": "0 auto"
+    },
+    "section": {
+      "padding": "80px 0",
+      "margin": "0"
+    },
+    "header": {
+      "padding": "200px 80px 104px",
+      "background": "#fffd63"
+    },
+    "navigation": {
+      "height": "64px",
+      "padding": "0 16px",
+      "display": "flex",
+      "justifyContent": "space-between",
+      "alignItems": "center"
+    },
+    "card": {
+      "borderRadius": "16px",
+      "padding": "24px",
+      "boxShadow": "rgba(0, 0, 0, 0.07) 0px 10px 15px -3px, rgba(0, 0, 0, 0.07) 0px 4px 6px -4px",
+      "border": "1px solid #e5e7eb"
+    },
+    "button": {
+      "borderRadius": "8px",
+      "padding": "16px 24px",
+      "display": "flex",
+      "alignItems": "center",
+      "justifyContent": "center",
+      "gap": "8px"
+    }
+  },
+  "components": {
+    "header": {
+      "background": "#fffd63",
+      "textAlign": "center",
+      "padding": "200px 80px 104px"
+    },
+    "hero": {
+      "title": {
+        "fontSize": "80px",
+        "fontWeight": "500",
+        "lineHeight": "80px",
+        "textAlign": "center",
+        "marginBottom": "32px"
+      },
+      "subtitle": {
+        "fontSize": "20px",
+        "fontWeight": "300",
+        "lineHeight": "28px",
+        "textAlign": "center",
+        "maxWidth": "690px",
+        "margin": "0 auto 48px"
+      }
+    },
+    "navigation": {
+      "logo": {
+        "height": "32px"
+      },
+      "menu": {
+        "display": "flex",
+        "gap": "32px",
+        "alignItems": "center"
+      },
+      "cta": {
+        "display": "flex",
+        "gap": "16px",
+        "alignItems": "center"
+      }
+    },
+    "button": {
+      "primary": {
+        "background": "#0a0b1e",
+        "color": "#ffffff",
+        "fontSize": "15px",
+        "fontWeight": "400",
+        "padding": "16px 24px",
+        "borderRadius": "8px",
+        "border": "none",
+        "cursor": "pointer",
+        "textDecoration": "none",
+        "display": "inline-flex",
+        "alignItems": "center",
+        "gap": "8px"
+      },
+      "secondary": {
+        "background": "transparent",
+        "color": "#000000",
+        "fontSize": "15px",
+        "fontWeight": "300",
+        "padding": "8px 16px",
+        "borderRadius": "8px",
+        "border": "1px solid #e5e7eb",
+        "cursor": "pointer",
+        "textDecoration": "none",
+        "display": "inline-flex",
+        "alignItems": "center",
+        "gap": "8px"
+      }
+    },
+    "card": {
+      "background": "#ffffff",
+      "borderRadius": "16px",
+      "padding": "24px",
+      "boxShadow": "rgba(0, 0, 0, 0.07) 0px 10px 15px -3px, rgba(0, 0, 0, 0.07) 0px 4px 6px -4px",
+      "border": "1px solid #e5e7eb"
+    },
+    "section": {
+      "padding": "80px 0",
+      "background": "#ffffff"
+    },
+    "footer": {
+      "background": "#0a0b1e",
+      "color": "#ffffff",
+      "padding": "80px 0 40px"
+    }
+  },
+  "content": {
+    "hero": {
+      "title": "Run more engaging sessions. Get better outcomes.",
+      "subtitle": "Effortlessly plan, run and recap super-engaging workshops, trainings, and meetings with Butter's built-in agenda planner, integrated collaboration tools and auto-generated recaps—all in one place.",
+      "cta": {
+        "primary": "Sign up for free",
+        "secondary": "Sign up with Google"
+      }
+    },
+    "features": [
+      {
+        "title": "Run",
+        "subtitle": "Say goodbye to Zoom fatigue and juggling countless apps!",
+        "description": "Keep everyone engaged and focused on one window - and one outcome. No other tools required.",
+        "tools": [
+          "Poll",
+          "Butterboards",
+          "Flashcards",
+          "Miro",
+          "Google docs",
+          "Video",
+          "Presentation"
+        ]
+      },
+      {
+        "title": "Recap",
+        "subtitle": "Never lose a takeaway again",
+        "description": "Butter lets you find, remember, and share outcomes in seconds.",
+        "features": [
+          "AI Summary",
+          "Recording",
+          "Session GIF's",
+          "Feedback",
+          "Resource & Links",
+          "Poll results"
+        ]
+      },
+      {
+        "title": "COLLABORATE",
+        "subtitle": "Save time and keep things consistent with workspaces",
+        "description": "Your team will thank you for it!"
+      }
+    ],
+    "testimonials": {
+      "title": "BUTTER LOVIN'",
+      "subtitle": "Loved by facilitators everywhere",
+      "description": "Trust their words, not just ours"
+    },
+    "templates": {
+      "title": "Templates",
+      "subtitle": "Steal our templates and get started quick",
+      "description": "Get inspired by expert-made templates from our community",
+      "categories": [
+        "Workshops",
+        "Trainings",
+        "Meetings",
+        "Townhall & All-hands",
+        "Agile sessions",
+        "Community events"
+      ]
+    },
+    "faq": {
+      "title": "FAQ",
+      "questions": [
+        {
+          "question": "Why should I use Butter?",
+          "answer": "Other video conferencing tools aren't built for collaboration. They're built for conversations. Butter, on the other hand, is built for planning, running, and recapping engaging and interactive collaborative sessions."
+        },
+        {
+          "question": "What types of sessions is Butter best for?",
+          "answer": "Butter is a tool for facilitating highly-collaborative sessions like workshops, training sessions, bootcamps, courses, events, interactive webinars, social events, or any other session where you need to keep people energized and productive."
+        },
+        {
+          "question": "Is Butter free?",
+          "answer": "We have a free plan that you can use forever — it lets you run sessions of up to 60 minutes with 20 participants max."
+        }
+      ]
+    }
+  },
+  "meta": {
+    "title": "Butter | Virtual collaboration as smooth as butter",
+    "description": "Butter is an all in one virtual collaboration platform that empowers you to run highly engaging and effective collaborative sessions!",
+    "viewport": "width=device-width, initial-scale=1",
+    "keywords": [
+      "virtual collaboration",
+      "workshops",
+      "meetings",
+      "facilitation",
+      "online sessions",
+      "team collaboration"
+    ]
+  },
+  "responsive": {
+    "breakpoints": {
+      "mobile": "320px",
+      "tablet": "768px",
+      "desktop": "1024px",
+      "wide": "1200px"
+    },
+    "container": {
+      "mobile": {
+        "padding": "0 16px"
+      },
+      "tablet": {
+        "padding": "0 32px"
+      },
+      "desktop": {
+        "padding": "0 80px"
+      }
+    }
+  },
+  "animations": {
+    "duration": {
+      "fast": "150ms",
+      "normal": "300ms",
+      "slow": "500ms"
+    },
+    "easing": {
+      "easeIn": "cubic-bezier(0.4, 0, 1, 1)",
+      "easeOut": "cubic-bezier(0, 0, 0.2, 1)",
+      "easeInOut": "cubic-bezier(0.4, 0, 0.2, 1)"
+    }
+  },
+  "accessibility": {
+    "focusRing": {
+      "color": "#0a0b1e",
+      "width": "2px",
+      "style": "solid"
+    },
+    "contrast": {
+      "primary": "4.5:1",
+      "secondary": "3:1"
+    }
+  }
+}

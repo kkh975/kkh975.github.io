@@ -1,0 +1,2470 @@
+{
+  "version": "0.0.0",
+  "supported_lang_list": ["en", "ko", "ja", "es", "fr", "de"],
+  "data": [
+    {
+      "lang": "de",
+      "step_list": [
+        {
+          "order": 1,
+          "id": "german_beginner_structure",
+          "title": "[초급] 문장의 기본 뼈대 세우기",
+          "title_lang_map": {
+            "en": "[Beginner] Building Basic Sentence Structure",
+            "ko": "[초급] 문장의 기본 뼈대 세우기",
+            "es": "[Principiante] Construcción de oraciones básicas",
+            "fr": "[Débutant] Construction de phrases de base",
+            "de": "[Anfänger] Grundlegenden Satzbau erstellen",
+            "ja": "[初級] 基本的な文の構造を作る"
+          },
+          "description": "독일어의 기본 동사 변화와 문장 구조를 학습합니다.",
+          "description_lang_map": {
+            "en": "Learn basic German verb conjugation and sentence structure.",
+            "ko": "독일어의 기본 동사 변화와 문장 구조를 학습합니다.",
+            "es": "Aprende la conjugación básica de verbos y la estructura de oraciones en alemán.",
+            "fr": "Apprenez la conjugaison des verbes allemands de base et la structure des phrases.",
+            "de": "Lernen Sie die grundlegende deutsche Verbkonjugation und Satzstruktur.",
+            "ja": "ドイツ語の基本的な動詞活用と文構造を学びます。"
+          },
+          "subject_list": [
+            {
+              "order": 1,
+              "id": "verb_present_tense_conjugation",
+              "title": "동사 현재 시제 변화",
+              "title_lang_map": {
+                "en": "Verb Present Tense Conjugation",
+                "ko": "동사 현재 시제 변화",
+                "es": "Conjugación del presente",
+                "fr": "Conjugaison du présent",
+                "de": "Konjugation Präsens",
+                "ja": "動詞現在形の活用"
+              },
+              "description": "ich lerne, du lernst 등 주어에 따른 동사 변화 규칙.",
+              "description_lang_map": {
+                "en": "Rules for verb changes based on the subject, such as 'ich lerne', 'du lernst'.",
+                "ko": "ich lerne, du lernst 등 주어에 따른 동사 변화 규칙.",
+                "es": "Reglas para cambios verbales según el sujeto, como 'ich lerne', 'du lernst'.",
+                "fr": "Règles de changement des verbes selon le sujet, comme 'ich lerne', 'du lernst'.",
+                "de": "Regeln für Verbänderungen basierend auf dem Subjekt, wie 'ich lerne', 'du lernst'.",
+                "ja": "ich lerne, du lernst など、主語による動詞の変化規則。"
+              }
+            },
+            {
+              "order": 2,
+              "id": "noun_accusative_and_articles",
+              "title": "명사의 4격과 관사",
+              "title_lang_map": {
+                "en": "Nouns: Accusative Case and Articles",
+                "ko": "명사의 4격과 관사",
+                "es": "Sustantivos: Caso acusativo y artículos",
+                "fr": "Noms : Cas accusatif et articles",
+                "de": "Nomen: Akkusativ und Artikel",
+                "ja": "名詞の4格と冠詞"
+              },
+              "description": "der, die, das의 주격, 4격(목적격) 변화.",
+              "description_lang_map": {
+                "en": "Nominative and Accusative (object) changes for der, die, das.",
+                "ko": "der, die, das의 주격, 4격(목적격) 변화.",
+                "es": "Cambios de nominativo y acusativo (objeto) para der, die, das.",
+                "fr": "Changements nominatifs et accusatifs (objet) pour der, die, das.",
+                "de": "Nominativ- und Akkusativänderungen für der, die, das.",
+                "ja": "der, die, das の主格、4格（目的格）の変化。"
+              }
+            },
+            {
+              "order": 3,
+              "id": "basic_sentence_structure_verb_pos",
+              "title": "기본 문장 구조 (동사 위치)",
+              "title_lang_map": {
+                "en": "Basic Sentence Structure (Verb Position)",
+                "ko": "기본 문장 구조 (동사 위치)",
+                "es": "Estructura básica de la oración (posición del verbo)",
+                "fr": "Structure de phrase de base (position du verbe)",
+                "de": "Grundlegende Satzstruktur (Verbposition)",
+                "ja": "基本文構造（動詞の位置）"
+              },
+              "description": "\"동사는 두 번째 자리에 온다\"는 핵심 규칙.",
+              "description_lang_map": {
+                "en": "The core rule that 'the verb comes in the second position'.",
+                "ko": "\"동사는 두 번째 자리에 온다\"는 핵심 규칙.",
+                "es": "La regla fundamental de que 'el verbo va en la segunda posición'.",
+                "fr": "La règle fondamentale selon laquelle 'le verbe vient en deuxième position'.",
+                "de": "Die Grundregel, dass 'das Verb an zweiter Stelle steht'.",
+                "ja": "「動詞は2番目に来る」という核心規則。"
+              }
+            },
+            {
+              "order": 4,
+              "id": "modal_verb_usage",
+              "title": "조동사 활용",
+              "title_lang_map": {
+                "en": "Usage of Modal Verbs",
+                "ko": "조동사 활용",
+                "es": "Uso de verbos modales",
+                "fr": "Utilisation des verbes modaux",
+                "de": "Verwendung von Modalverben",
+                "ja": "助動詞の活用"
+              },
+              "description": "können(can), müssen(must) 등을 사용해 문장 만들기.",
+              "description_lang_map": {
+                "en": "Making sentences using können (can), müssen (must), etc.",
+                "ko": "können(can), müssen(must) 등을 사용해 문장 만들기.",
+                "es": "Hacer oraciones usando können (poder), müssen (deber), etc.",
+                "fr": "Faire des phrases en utilisant können (pouvoir), müssen (devoir), etc.",
+                "de": "Sätze bilden mit können, müssen usw.",
+                "ja": "können(can), müssen(must) などを使って文を作ること。"
+              }
+            },
+            {
+              "order": 5,
+              "id": "present_perfect_tense",
+              "title": "현재완료 시제",
+              "title_lang_map": {
+                "en": "Present Perfect Tense",
+                "ko": "현재완료 시제",
+                "es": "Pretérito perfecto",
+                "fr": "Passé composé",
+                "de": "Perfekt",
+                "ja": "現在完了形"
+              },
+              "description": "Ich habe gegessen. (나 먹었어.) 같은 일상적인 과거 표현.",
+              "description_lang_map": {
+                "en": "Common past expressions like 'Ich habe gegessen' (I ate).",
+                "ko": "Ich habe gegessen. (나 먹었어.) 같은 일상적인 과거 표현.",
+                "es": "Expresiones pasadas comunes como 'Ich habe gegessen' (He comido).",
+                "fr": "Expressions passées courantes comme 'Ich habe gegessen' (J'ai mangé).",
+                "de": "Alltägliche Vergangenheitsausdrücke wie 'Ich habe gegessen'.",
+                "ja": "Ich habe gegessen. (私は食べた) のような日常的な過去表現。"
+              }
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "id": "german_intermediate_extension",
+          "title": "[중급] 문장의 확장과 연결",
+          "title_lang_map": {
+            "en": "[Intermediate] Sentence Extension and Connection",
+            "ko": "[중급] 문장의 확장과 연결",
+            "es": "[Intermedio] Extensión y conexión de oraciones",
+            "fr": "[Intermédiaire] Extension et connexion de phrases",
+            "de": "[Mittelstufe] Satzerweiterung und Verbindung",
+            "ja": "[中級] 文の拡張と接続"
+          },
+          "description": "과거 시제와 접속사를 사용하여 더 복잡한 문장을 만듭니다.",
+          "description_lang_map": {
+            "en": "Create more complex sentences using past tenses and conjunctions.",
+            "ko": "과거 시제와 접속사를 사용하여 더 복잡한 문장을 만듭니다.",
+            "es": "Crea oraciones más complejas usando tiempos pasados y conjunciones.",
+            "fr": "Créez des phrases plus complexes en utilisant les temps passés et les conjonctions.",
+            "de": "Bilden Sie komplexere Sätze mit Vergangenheitsformen und Konjunktionen.",
+            "ja": "過去形と接続詞を使って、より複雑な文を作ります。"
+          },
+          "subject_list": [
+            {
+              "order": 1,
+              "id": "past_tense_praeteritum",
+              "title": "과거 시제 (Präteritum)",
+              "title_lang_map": {
+                "en": "Past Tense (Präteritum)",
+                "ko": "과거 시제 (Präteritum)",
+                "es": "Tiempo pasado (Präteritum)",
+                "fr": "Temps passé (Präteritum)",
+                "de": "Präteritum",
+                "ja": "過去形 (Präteritum)"
+              },
+              "description": "주로 글에서 쓰이는 과거형 동사.",
+              "description_lang_map": {
+                "en": "Past tense verbs mainly used in writing.",
+                "ko": "주로 글에서 쓰이는 과거형 동사.",
+                "es": "Verbos en tiempo pasado utilizados principalmente en la escritura.",
+                "fr": "Verbes au passé principalement utilisés à l'écrit.",
+                "de": "Vergangenheitsformen, die hauptsächlich beim Schreiben verwendet werden.",
+                "ja": "主に書き言葉で使われる過去形の動詞。"
+              }
+            },
+            {
+              "order": 2,
+              "id": "dative_prepositions_verbs",
+              "title": "3격(여격) 지배 전치사/동사",
+              "title_lang_map": {
+                "en": "Dative Prepositions/Verbs",
+                "ko": "3격(여격) 지배 전치사/동사",
+                "es": "Preposiciones/Verbos dativos",
+                "fr": "Prépositions/Verbes datifs",
+                "de": "Dativ Präpositionen/Verben",
+                "ja": "3格（与格）支配の前置詞/動詞"
+              },
+              "description": "mit, helfen 등 3격을 요구하는 요소들.",
+              "description_lang_map": {
+                "en": "Elements requiring the dative case, such as 'mit', 'helfen'.",
+                "ko": "mit, helfen 등 3격을 요구하는 요소들.",
+                "es": "Elementos que requieren el caso dativo, como 'mit', 'helfen'.",
+                "fr": "Éléments nécessitant le cas datif, tels que 'mit', 'helfen'.",
+                "de": "Elemente, die den Dativ erfordern, wie 'mit', 'helfen'.",
+                "ja": "mit, helfen など、3格を要求する要素。"
+              }
+            },
+            {
+              "order": 3,
+              "id": "subordinate_conjunctions",
+              "title": "종속 접속사 (weil, dass...)",
+              "title_lang_map": {
+                "en": "Subordinate Conjunctions",
+                "ko": "종속 접속사 (weil, dass...)",
+                "es": "Conjunciones subordinadas",
+                "fr": "Conjonctions de subordination",
+                "de": "Unterordnende Konjunktionen",
+                "ja": "従属接続詞"
+              },
+              "description": "..., weil ich müde bin. 처럼 동사가 문장 끝으로 가는 부문장.",
+              "description_lang_map": {
+                "en": "Subordinate clauses where the verb goes to the end, like '..., weil ich müde bin.'",
+                "ko": "..., weil ich müde bin. 처럼 동사가 문장 끝으로 가는 부문장.",
+                "es": "Oraciones subordinadas donde el verbo va al final, como '..., weil ich müde bin.'",
+                "fr": "Propositions subordonnées où le verbe va à la fin, comme '..., weil ich müde bin.'",
+                "de": "Nebensätze, bei denen das Verb am Ende steht, wie '..., weil ich müde bin.'",
+                "ja": "..., weil ich müde bin. のように動詞が文末に来る副文。"
+              }
+            },
+            {
+              "order": 4,
+              "id": "adjective_endings",
+              "title": "형용사 어미 변화",
+              "title_lang_map": {
+                "en": "Adjective Endings",
+                "ko": "형용사 어미 변화",
+                "es": "Terminaciones de adjetivos",
+                "fr": "Terminaisons des adjectifs",
+                "de": "Adjektivendungen",
+                "ja": "形容詞の語尾変化"
+              },
+              "description": "명사 앞에 오는 형용사의 형태 변화. (예: ein guter Mann)",
+              "description_lang_map": {
+                "en": "Changes in the form of adjectives preceding a noun. (e.g., ein guter Mann)",
+                "ko": "명사 앞에 오는 형용사의 형태 변화. (예: ein guter Mann)",
+                "es": "Cambios en la forma de los adjetivos que preceden a un sustantivo. (ej. ein guter Mann)",
+                "fr": "Changements dans la forme des adjectifs précédant un nom. (ex. ein guter Mann)",
+                "de": "Änderungen in der Form von Adjektiven vor einem Nomen. (z.B. ein guter Mann)",
+                "ja": "名詞の前に来る形容詞の形態変化。（例：ein guter Mann）"
+              }
+            },
+            {
+              "order": 5,
+              "id": "relative_pronouns",
+              "title": "관계대명사",
+              "title_lang_map": {
+                "en": "Relative Pronouns",
+                "ko": "관계대명사",
+                "es": "Pronombres relativos",
+                "fr": "Pronoms relatifs",
+                "de": "Relativpronomen",
+                "ja": "関係代名詞"
+              },
+              "description": "Der Mann, den ich kenne... 와 같이 명사를 꾸며주는 문장.",
+              "description_lang_map": {
+                "en": "Sentences that modify a noun, such as 'Der Mann, den ich kenne...'",
+                "ko": "Der Mann, den ich kenne... 와 같이 명사를 꾸며주는 문장.",
+                "es": "Oraciones que modifican un sustantivo, como 'Der Mann, den ich kenne...'",
+                "fr": "Phrases qui modifient un nom, telles que 'Der Mann, den ich kenne...'",
+                "de": "Sätze, die ein Nomen modifizieren, wie 'Der Mann, den ich kenne...'",
+                "ja": "Der Mann, den ich kenne... のように名詞を修飾する文。"
+              }
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "id": "german_advanced_nuance",
+          "title": "[고급] 표현의 완성도와 뉘앙스",
+          "title_lang_map": {
+            "en": "[Advanced] Perfection of Expression and Nuance",
+            "ko": "[고급] 표현의 완성도와 뉘앙스",
+            "es": "[Avanzado] Perfección de la expresión y matiz",
+            "fr": "[Avancé] Perfection de l'expression et nuance",
+            "de": "[Fortgeschritten] Perfektion des Ausdrucks und Nuance",
+            "ja": "[上級] 表現の完成度とニュアンス"
+          },
+          "description": "수동태, 가정법 등을 통해 고급스럽고 격식 있는 표현을 익힙니다.",
+          "description_lang_map": {
+            "en": "Master sophisticated and formal expressions through passive voice, subjunctive mood, etc.",
+            "ko": "수동태, 가정법 등을 통해 고급스럽고 격식 있는 표현을 익힙니다.",
+            "es": "Domina expresiones sofisticadas y formales a través de la voz pasiva, modo subjuntivo, etc.",
+            "fr": "Maîtrisez des expressions sophistiquées et formelles grâce à la voix passive, au mode subjonctif, etc.",
+            "de": "Beherrschen Sie anspruchsvolle und formelle Ausdrücke durch Passiv, Konjunktiv usw.",
+            "ja": "受動態、仮定法などを通じて、高級で格式高い表現を身につけます。"
+          },
+          "subject_list": [
+            {
+              "order": 1,
+              "id": "passive_voice",
+              "title": "수동태",
+              "title_lang_map": {
+                "en": "Passive Voice",
+                "ko": "수동태",
+                "es": "Voz pasiva",
+                "fr": "Voix passive",
+                "de": "Passiv",
+                "ja": "受動態"
+              },
+              "description": "Das Fenster wird geöffnet. (창문이 열린다.) 처럼 행위를 당하는 입장 표현.",
+              "description_lang_map": {
+                "en": "Expressing the position of receiving an action, like 'Das Fenster wird geöffnet.'",
+                "ko": "Das Fenster wird geöffnet. (창문이 열린다.) 처럼 행위를 당하는 입장 표현.",
+                "es": "Expresar la posición de recibir una acción, como 'Das Fenster wird geöffnet.'",
+                "fr": "Exprimer la position de recevoir une action, comme 'Das Fenster wird geöffnet.'",
+                "de": "Ausdrücken der Position, eine Handlung zu empfangen, wie 'Das Fenster wird geöffnet.'",
+                "ja": "Das Fenster wird geöffnet. (窓が開けられる) のように行為を受ける立場を表す。"
+              }
+            },
+            {
+              "order": 2,
+              "id": "genitive_case_usage",
+              "title": "2격(소유격) 활용",
+              "title_lang_map": {
+                "en": "Usage of Genitive Case",
+                "ko": "2격(소유격) 활용",
+                "es": "Uso del caso genitivo",
+                "fr": "Utilisation du cas génitif",
+                "de": "Verwendung des Genitivs",
+                "ja": "2格（所有格）の活用"
+              },
+              "description": "wegen des Wetters (날씨 때문에) 등 격식 있는 표현.",
+              "description_lang_map": {
+                "en": "Formal expressions such as 'wegen des Wetters' (because of the weather).",
+                "ko": "wegen des Wetters (날씨 때문에) 등 격식 있는 표현.",
+                "es": "Expresiones formales como 'wegen des Wetters' (debido al clima).",
+                "fr": "Expressions formelles telles que 'wegen des Wetters' (à cause du temps).",
+                "de": "Formelle Ausdrücke wie 'wegen des Wetters'.",
+                "ja": "wegen des Wetters (天気のせいで) など、格式高い表現。"
+              }
+            },
+            {
+              "order": 3,
+              "id": "subjunctive_ii_konjunktiv",
+              "title": "가정법 (Konjunktiv II)",
+              "title_lang_map": {
+                "en": "Subjunctive II (Konjunktiv II)",
+                "ko": "가정법 (Konjunktiv II)",
+                "es": "Subjuntivo II",
+                "fr": "Subjonctif II",
+                "de": "Konjunktiv II",
+                "ja": "仮定法 (Konjunktiv II)"
+              },
+              "description": "Wenn ich Zeit hätte... (만약 시간이 있다면...) 같은 비현실적 가정.",
+              "description_lang_map": {
+                "en": "Unrealistic assumptions like 'Wenn ich Zeit hätte...' (If I had time...).",
+                "ko": "Wenn ich Zeit hätte... (만약 시간이 있다면...) 같은 비현실적 가정.",
+                "es": "Suposiciones poco realistas como 'Wenn ich Zeit hätte...' (Si tuviera tiempo...).",
+                "fr": "Hypothèses irréalistes comme 'Wenn ich Zeit hätte...' (Si j'avais le temps...).",
+                "de": "Unrealistische Annahmen wie 'Wenn ich Zeit hätte...'.",
+                "ja": "Wenn ich Zeit hätte... (もし時間があれば...) のような非現実的な仮定。"
+              }
+            },
+            {
+              "order": 4,
+              "id": "nominalization",
+              "title": "문장의 명사화",
+              "title_lang_map": {
+                "en": "Nominalization",
+                "ko": "문장의 명사화",
+                "es": "Nominalización",
+                "fr": "Nominalisation",
+                "de": "Nominalisierung",
+                "ja": "文の名詞化"
+              },
+              "description": "동사/형용사를 명사로 바꿔 문장을 간결하고 전문적으로 만들기.",
+              "description_lang_map": {
+                "en": "Turning verbs/adjectives into nouns to make sentences concise and professional.",
+                "ko": "동사/형용사를 명사로 바꿔 문장을 간결하고 전문적으로 만들기.",
+                "es": "Convertir verbos/adjetivos en sustantivos para hacer oraciones concisas y profesionales.",
+                "fr": "Transformer des verbes/adjectifs en noms pour rendre les phrases concises et professionnelles.",
+                "de": "Verben/Adjektive in Nomen verwandeln, um Sätze prägnant und professionell zu machen.",
+                "ja": "動詞/形容詞を名詞に変えて、文を簡潔かつ専門的にすること。"
+              }
+            },
+            {
+              "order": 5,
+              "id": "participle_clauses",
+              "title": "분사 구문",
+              "title_lang_map": {
+                "en": "Participle Clauses",
+                "ko": "분사 구문",
+                "es": "Oraciones de participio",
+                "fr": "Propositions participiales",
+                "de": "Partizipialkonstruktionen",
+                "ja": "分詞構文"
+              },
+              "description": "분사를 활용해 문장을 압축하고 세련되게 꾸며주는 고급 기술.",
+              "description_lang_map": {
+                "en": "Advanced technique using participles to compress and refine sentences.",
+                "ko": "분사를 활용해 문장을 압축하고 세련되게 꾸며주는 고급 기술.",
+                "es": "Técnica avanzada utilizando participios para comprimir y refinar oraciones.",
+                "fr": "Technique avancée utilisant des participes pour compresser et affiner les phrases.",
+                "de": "Fortgeschrittene Technik unter Verwendung von Partizipien, um Sätze zu komprimieren und zu verfeinern.",
+                "ja": "分詞を活用して文を圧縮し、洗練されたものにする高度な技術。"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lang": "fr",
+      "step_list": [
+        {
+          "order": 1,
+          "id": "french_beginner_structure",
+          "title": "[초급] 문장의 기본 뼈대 세우기",
+          "title_lang_map": {
+            "en": "[Beginner] Building Basic Sentence Structure",
+            "ko": "[초급] 문장의 기본 뼈대 세우기",
+            "es": "[Principiante] Construcción de oraciones básicas",
+            "fr": "[Débutant] Construction de phrases de base",
+            "de": "[Anfänger] Grundlegenden Satzbau erstellen",
+            "ja": "[初級] 基本的な文の構造を作る"
+          },
+          "description": "프랑스어의 핵심 동사와 기본 문법 규칙을 학습합니다.",
+          "description_lang_map": {
+            "en": "Learn core French verbs and basic grammar rules.",
+            "ko": "프랑스어의 핵심 동사와 기본 문법 규칙을 학습합니다.",
+            "es": "Aprende los verbos centrales y las reglas gramaticales básicas del francés.",
+            "fr": "Apprenez les verbes essentiels et les règles de grammaire de base du français.",
+            "de": "Lernen Sie die wichtigsten französischen Verben und grundlegenden Grammatikregeln.",
+            "ja": "フランス語の核心動詞と基本的な文法規則を学びます。"
+          },
+          "subject_list": [
+            {
+              "order": 1,
+              "id": "etre_avoir_basics",
+              "title": "핵심 동사 être와 avoir",
+              "title_lang_map": {
+                "en": "Core Verbs: être and avoir",
+                "ko": "핵심 동사 être와 avoir",
+                "es": "Verbos centrales: être y avoir",
+                "fr": "Verbes essentiels : être et avoir",
+                "de": "Kernverben: être und avoir",
+                "ja": "核心動詞 être と avoir"
+              },
+              "description": "현재 시제 변화와 기본 관사(le, la, un, une) 익히기.",
+              "description_lang_map": {
+                "en": "Mastering present tense conjugation and basic articles (le, la, un, une).",
+                "ko": "현재 시제 변화와 기본 관사(le, la, un, une) 익히기.",
+                "es": "Dominar la conjugación en presente y los artículos básicos (le, la, un, une).",
+                "fr": "Maîtriser la conjugaison au présent et les articles de base (le, la, un, une).",
+                "de": "Beherrschung der Präsenskonjugation und der grundlegenden Artikel (le, la, un, une).",
+                "ja": "現在形の活用と基本冠詞（le, la, un, une）を身につける。"
+              }
+            },
+            {
+              "order": 2,
+              "id": "regular_er_verbs",
+              "title": "규칙 동사 현재 시제",
+              "title_lang_map": {
+                "en": "Regular Verb Present Tense",
+                "ko": "규칙 동사 현재 시제",
+                "es": "Presente de verbos regulares",
+                "fr": "Présent des verbes réguliers",
+                "de": "Präsens regelmäßiger Verben",
+                "ja": "規則動詞の現在形"
+              },
+              "description": "-er로 끝나는 가장 많은 동사 그룹의 현재 시제 변화.",
+              "description_lang_map": {
+                "en": "Present tense conjugation of the largest group of verbs ending in -er.",
+                "ko": "-er로 끝나는 가장 많은 동사 그룹의 현재 시제 변화.",
+                "es": "Conjugación en presente del grupo más grande de verbos que terminan en -er.",
+                "fr": "Conjugaison au présent du plus grand groupe de verbes se terminant par -er.",
+                "de": "Präsenskonjugation der größten Verbgruppe mit der Endung -er.",
+                "ja": "-er で終わる最も多い動詞グループの現在形の活用。"
+              }
+            },
+            {
+              "order": 3,
+              "id": "gender_number_agreement",
+              "title": "명사와 형용사의 성/수 일치",
+              "title_lang_map": {
+                "en": "Noun and Adjective Agreement",
+                "ko": "명사와 형용사의 성/수 일치",
+                "es": "Concordancia de sustantivos y adjetivos",
+                "fr": "Accord du nom et de l'adjectif",
+                "de": "Kongruenz von Nomen und Adjektiv",
+                "ja": "名詞と形容詞の性数一致"
+              },
+              "description": "명사의 성(남성/여성)과 수(단수/복수)에 따라 관사와 형용사를 변화시키는 규칙.",
+              "description_lang_map": {
+                "en": "Rules for changing articles and adjectives according to gender and number.",
+                "ko": "명사의 성(남성/여성)과 수(단수/복수)에 따라 관사와 형용사를 변화시키는 규칙.",
+                "es": "Reglas para cambiar artículos y adjetivos según género y número.",
+                "fr": "Règles pour changer les articles et les adjectifs selon le genre et le nombre.",
+                "de": "Regeln zur Änderung von Artikeln und Adjektiven nach Geschlecht und Nummer.",
+                "ja": "名詞の性（男性/女性）と数（単数/複数）に応じて冠詞と形容詞を変化させる規則。"
+              }
+            },
+            {
+              "order": 4,
+              "id": "negation_and_questions",
+              "title": "기본 부정문과 의문문",
+              "title_lang_map": {
+                "en": "Basic Negation and Questions",
+                "ko": "기본 부정문과 의문문",
+                "es": "Negación y preguntas básicas",
+                "fr": "Négation et questions de base",
+                "de": "Grundlegende Verneinung und Fragen",
+                "ja": "基本的な否定文と疑問文"
+              },
+              "description": "ne...pas를 이용한 부정문과 Est-ce que...를 이용한 간단한 의문문.",
+              "description_lang_map": {
+                "en": "Negation using 'ne...pas' and simple questions using 'Est-ce que...'.",
+                "ko": "ne...pas를 이용한 부정문과 Est-ce que...를 이용한 간단한 의문문.",
+                "es": "Negación usando 'ne...pas' y preguntas simples usando 'Est-ce que...'.",
+                "fr": "Négation utilisant 'ne...pas' et questions simples utilisant 'Est-ce que...'.",
+                "de": "Verneinung mit 'ne...pas' und einfache Fragen mit 'Est-ce que...'.",
+                "ja": "ne...pas を使った否定文と Est-ce que... を使った簡単な疑問文。"
+              }
+            },
+            {
+              "order": 5,
+              "id": "passe_compose",
+              "title": "복합과거 (Passé Composé)",
+              "title_lang_map": {
+                "en": "Passé Composé (Composite Past)",
+                "ko": "복합과거 (Passé Composé)",
+                "es": "Passé Composé (Pretérito perfecto compuesto)",
+                "fr": "Passé Composé",
+                "de": "Passé Composé (Perfekt)",
+                "ja": "複合過去 (Passé Composé)"
+              },
+              "description": "avoir 또는 être 동사를 활용해 \"~했다\"라고 과거의 특정 행동을 표현하는 가장 일반적인 과거 시제.",
+              "description_lang_map": {
+                "en": "The most common past tense used to express specific past actions using 'avoir' or 'être'.",
+                "ko": "avoir 또는 être 동사를 활용해 \"~했다\"라고 과거의 특정 행동을 표현하는 가장 일반적인 과거 시제.",
+                "es": "El tiempo pasado más común para expresar acciones pasadas específicas usando 'avoir' o 'être'.",
+                "fr": "Le temps passé le plus courant pour exprimer des actions passées spécifiques en utilisant 'avoir' ou 'être'.",
+                "de": "Die gebräuchlichste Vergangenheitsform, um bestimmte vergangene Handlungen mit 'avoir' oder 'être' auszudrücken.",
+                "ja": "avoir または être 動詞を活用して「〜した」と過去の特定の行動を表現する最も一般的な過去時制。"
+              }
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "id": "french_intermediate_extension",
+          "title": "[중급] 문장의 확장과 연결",
+          "title_lang_map": {
+            "en": "[Intermediate] Sentence Extension and Connection",
+            "ko": "[중급] 문장의 확장과 연결",
+            "es": "[Intermedio] Extensión y conexión de oraciones",
+            "fr": "[Intermédiaire] Extension et connexion de phrases",
+            "de": "[Mittelstufe] Satzerweiterung und Verbindung",
+            "ja": "[中級] 文の拡張と接続"
+          },
+          "description": "과거 시제 구분과 대명사를 활용해 문장을 확장합니다.",
+          "description_lang_map": {
+            "en": "Expand sentences using distinct past tenses and pronouns.",
+            "ko": "과거 시제 구분과 대명사를 활용해 문장을 확장합니다.",
+            "es": "Expande oraciones usando diferentes tiempos pasados y pronombres.",
+            "fr": "Développez des phrases en utilisant des temps passés distincts et des pronoms.",
+            "de": "Erweitern Sie Sätze mit unterschiedlichen Vergangenheitsformen und Pronomen.",
+            "ja": "過去時制の区分と代名詞を活用して文を拡張します。"
+          },
+          "subject_list": [
+            {
+              "order": 1,
+              "id": "imparfait_tense",
+              "title": "반과거 (Imparfait)",
+              "title_lang_map": {
+                "en": "Imparfait (Imperfect Tense)",
+                "ko": "반과거 (Imparfait)",
+                "es": "Imparfait (Pretérito imperfecto)",
+                "fr": "Imparfait",
+                "de": "Imparfait (Präteritum)",
+                "ja": "半過去 (Imparfait)"
+              },
+              "description": "과거의 상황, 배경 묘사, 습관 등을 나타내는 시제. 복합과거와의 차이 구분이 중요.",
+              "description_lang_map": {
+                "en": "Tense for describing past situations, backgrounds, habits. Important to distinguish from Passé Composé.",
+                "ko": "과거의 상황, 배경 묘사, 습관 등을 나타내는 시제. 복합과거와의 차이 구분이 중요.",
+                "es": "Tiempo para describir situaciones pasadas, fondos, hábitos. Importante distinguir del Passé Composé.",
+                "fr": "Temps pour décrire des situations passées, des arrière-plans, des habitudes. Important de distinguer du Passé Composé.",
+                "de": "Zeitform zur Beschreibung vergangener Situationen, Hintergründe, Gewohnheiten. Wichtig, vom Passé Composé zu unterscheiden.",
+                "ja": "過去の状況、背景描写、習慣などを表す時制。複合過去との違いの区分が重要。"
+              }
+            },
+            {
+              "order": 2,
+              "id": "object_pronouns",
+              "title": "목적격 보어 대명사",
+              "title_lang_map": {
+                "en": "Object Pronouns",
+                "ko": "목적격 보어 대명사",
+                "es": "Pronombres objeto",
+                "fr": "Pronoms compléments",
+                "de": "Objektpronomen",
+                "ja": "目的格補語代名詞"
+              },
+              "description": "\"그를\", \"그녀에게\"처럼 사람이나 사물을 가리키는 대명사의 문장 내 위치와 쓰임.",
+              "description_lang_map": {
+                "en": "Placement and usage of pronouns referring to people or things, like 'him' or 'to her'.",
+                "ko": "\"그를\", \"그녀에게\"처럼 사람이나 사물을 가리키는 대명사의 문장 내 위치와 쓰임.",
+                "es": "Colocación y uso de pronombres que se refieren a personas o cosas, como 'lo' o 'le'.",
+                "fr": "Placement et utilisation des pronoms faisant référence à des personnes ou des choses, comme 'le' ou 'lui'.",
+                "de": "Platzierung und Verwendung von Pronomen, die sich auf Personen oder Dinge beziehen, wie 'ihn' oder 'ihr'.",
+                "ja": "「彼を」「彼女に」のように人や事物を指す代名詞の文中の位置と使い方。"
+              }
+            },
+            {
+              "order": 3,
+              "id": "relative_pronouns",
+              "title": "관계대명사",
+              "title_lang_map": {
+                "en": "Relative Pronouns",
+                "ko": "관계대명사",
+                "es": "Pronombres relativos",
+                "fr": "Pronoms relatifs",
+                "de": "Relativpronomen",
+                "ja": "関係代名詞"
+              },
+              "description": "두 문장을 연결하여 명사를 꾸며주는 역할. (예: L'homme que je vois...)",
+              "description_lang_map": {
+                "en": "Role of connecting two sentences to modify a noun. (e.g., L'homme que je vois...)",
+                "ko": "두 문장을 연결하여 명사를 꾸며주는 역할. (예: L'homme que je vois...)",
+                "es": "Rol de conectar dos oraciones para modificar un sustantivo. (ej. L'homme que je vois...)",
+                "fr": "Rôle de relier deux phrases pour modifier un nom. (ex. L'homme que je vois...)",
+                "de": "Rolle der Verbindung zweier Sätze zur Modifikation eines Nomens. (z.B. L'homme que je vois...)",
+                "ja": "二つの文をつなげて名詞を修飾する役割。（例：L'homme que je vois...）"
+              }
+            },
+            {
+              "order": 4,
+              "id": "future_and_conditional",
+              "title": "단순미래와 조건법 현재",
+              "title_lang_map": {
+                "en": "Simple Future and Conditional Present",
+                "ko": "단순미래와 조건법 현재",
+                "es": "Futuro simple y condicional presente",
+                "fr": "Futur simple et Conditionnel présent",
+                "de": "Futur I und Konditional I",
+                "ja": "単純未来と条件法現在"
+              },
+              "description": "~할 것이다(단순미래)와 ~할 텐데(조건법)를 표현하는 방법.",
+              "description_lang_map": {
+                "en": "How to express 'will do' (Simple Future) and 'would do' (Conditional).",
+                "ko": "~할 것이다(단순미래)와 ~할 텐데(조건법)를 표현하는 방법.",
+                "es": "Cómo expresar 'hará' (Futuro simple) y 'haría' (Condicional).",
+                "fr": "Comment exprimer le futur simple et le conditionnel.",
+                "de": "Wie man 'wird tun' (Futur) und 'würde tun' (Konditional) ausdrückt.",
+                "ja": "〜するだろう（単純未来）と〜するのに（条件法）を表現する方法。"
+              }
+            },
+            {
+              "order": 5,
+              "id": "pronouns_y_en",
+              "title": "대명사 y 와 en",
+              "title_lang_map": {
+                "en": "Pronouns y and en",
+                "ko": "대명사 y 와 en",
+                "es": "Pronombres y y en",
+                "fr": "Pronoms y et en",
+                "de": "Pronomen y und en",
+                "ja": "代名詞 y と en"
+              },
+              "description": "장소나 à + 명사를 받는 y, 수량이나 de + 명사를 받는 en의 쓰임.",
+              "description_lang_map": {
+                "en": "Usage of 'y' for places/à+noun, and 'en' for quantities/de+noun.",
+                "ko": "장소나 à + 명사를 받는 y, 수량이나 de + 명사를 받는 en의 쓰임.",
+                "es": "Uso de 'y' para lugares/à+sustantivo, y 'en' para cantidades/de+sustantivo.",
+                "fr": "Utilisation de 'y' pour les lieux/à+nom, et 'en' pour les quantités/de+nom.",
+                "de": "Verwendung von 'y' für Orte/à+Nomen und 'en' für Mengen/de+Nomen.",
+                "ja": "場所や à + 名詞を受ける y、数量や de + 名詞を受ける en の使い方。"
+              }
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "id": "french_advanced_nuance",
+          "title": "[고급] 표현의 완성도와 뉘앙스",
+          "title_lang_map": {
+            "en": "[Advanced] Perfection of Expression and Nuance",
+            "ko": "[고급] 표현의 완성도와 뉘앙스",
+            "es": "[Avanzado] Perfección de la expresión y matiz",
+            "fr": "[Avancé] Perfection de l'expression et nuance",
+            "de": "[Fortgeschritten] Perfektion des Ausdrucks und Nuance",
+            "ja": "[上級] 表現の完成度とニュアンス"
+          },
+          "description": "접속법과 고급 시제 일치를 통해 뉘앙스를 풍부하게 표현합니다.",
+          "description_lang_map": {
+            "en": "Express rich nuances through the subjunctive and advanced sequence of tenses.",
+            "ko": "접속법과 고급 시제 일치를 통해 뉘앙스를 풍부하게 표현합니다.",
+            "es": "Expresa matices ricos a través del subjuntivo y la secuencia avanzada de tiempos.",
+            "fr": "Exprimez des nuances riches grâce au subjonctif et à la concordance des temps.",
+            "de": "Drücken Sie reiche Nuancen durch den Konjunktiv und die fortgeschrittene Zeitenfolge aus.",
+            "ja": "接続法と高度な時制の一致を通じてニュアンスを豊かに表現します。"
+          },
+          "subject_list": [
+            {
+              "order": 1,
+              "id": "subjunctive_mood",
+              "title": "접속법 (Subjonctif)",
+              "title_lang_map": {
+                "en": "Subjunctive Mood (Subjonctif)",
+                "ko": "접속법 (Subjonctif)",
+                "es": "Modo subjuntivo",
+                "fr": "Subjonctif",
+                "de": "Konjunktiv (Subjonctif)",
+                "ja": "接続法 (Subjonctif)"
+              },
+              "description": "의심, 감정, 필요 등 주관적인 생각을 나타내는 표현 뒤에 사용되는 특별한 동사 변화.",
+              "description_lang_map": {
+                "en": "Special verb conjugation used after expressions of subjective thoughts like doubt, emotion, need.",
+                "ko": "의심, 감정, 필요 등 주관적인 생각을 나타내는 표현 뒤에 사용되는 특별한 동사 변화.",
+                "es": "Conjugación verbal especial utilizada después de expresiones de pensamientos subjetivos como duda, emoción, necesidad.",
+                "fr": "Conjugaison verbale spéciale utilisée après des expressions de pensées subjectives comme le doute, l'émotion, le besoin.",
+                "de": "Spezielle Verbkonjugation, die nach Ausdrücken subjektiver Gedanken wie Zweifel, Emotion, Notwendigkeit verwendet wird.",
+                "ja": "疑い、感情、必要など主観的な考えを表す表現の後に使われる特別な動詞変化。"
+              }
+            },
+            {
+              "order": 2,
+              "id": "pluperfect_conditional_past",
+              "title": "대과거와 조건법 과거",
+              "title_lang_map": {
+                "en": "Pluperfect and Conditional Past",
+                "ko": "대과거와 조건법 과거",
+                "es": "Pluscuamperfecto y Condicional pasado",
+                "fr": "Plus-que-parfait et Conditionnel passé",
+                "de": "Plusquamperfekt und Konditional II",
+                "ja": "大過去と条件法過去"
+              },
+              "description": "~했었다(대과거)와 ~했을 텐데(조건법 과거)처럼 더 이전의 과거나 과거의 후회를 표현.",
+              "description_lang_map": {
+                "en": "Expressing earlier past or past regrets, like 'had done' (Pluperfect) and 'would have done' (Conditional Past).",
+                "ko": "~했었다(대과거)와 ~했을 텐데(조건법 과거)처럼 더 이전의 과거나 과거의 후회를 표현.",
+                "es": "Expresar el pasado anterior o lamentos pasados, como 'había hecho' y 'habría hecho'.",
+                "fr": "Exprimer le passé antérieur ou les regrets passés, comme le plus-que-parfait et le conditionnel passé.",
+                "de": "Ausdrücken der Vorvergangenheit oder vergangenen Bedauerns.",
+                "ja": "〜していた（大過去）と〜しただろうに（条件法過去）のように、より以前の過去や過去の後悔を表現。"
+              }
+            },
+            {
+              "order": 3,
+              "id": "passive_voice",
+              "title": "수동태 (Voix Passive)",
+              "title_lang_map": {
+                "en": "Passive Voice",
+                "ko": "수동태 (Voix Passive)",
+                "es": "Voz pasiva",
+                "fr": "Voix passive",
+                "de": "Passiv",
+                "ja": "受動態"
+              },
+              "description": "행위를 당하는 대상을 주어로 내세우는 표현.",
+              "description_lang_map": {
+                "en": "Expression placing the recipient of the action as the subject.",
+                "ko": "행위를 당하는 대상을 주어로 내세우는 표현.",
+                "es": "Expresión que coloca al destinatario de la acción como sujeto.",
+                "fr": "Expression plaçant le destinataire de l'action comme sujet.",
+                "de": "Ausdruck, der den Empfänger der Handlung als Subjekt setzt.",
+                "ja": "行為を受ける対象を主語として立てる表現。"
+              }
+            },
+            {
+              "order": 4,
+              "id": "gerund_present_participle",
+              "title": "제롱디프와 현재분사",
+              "title_lang_map": {
+                "en": "Gerund and Present Participle",
+                "ko": "제롱디프와 현재분사",
+                "es": "Gerundio y Participio presente",
+                "fr": "Gérondif et Participe présent",
+                "de": "Gerundium und Partizip Präsens",
+                "ja": "ジェロンディフと現在分詞"
+              },
+              "description": "en + 동사-ant 형태로 ~하면서라는 동시동작을 나타내거나, 문장을 간결하게 수식하는 구문.",
+              "description_lang_map": {
+                "en": "Forms like 'en + verb-ant' indicating simultaneous action ('while doing') or modifying sentences concisely.",
+                "ko": "en + 동사-ant 형태로 ~하면서라는 동시동작을 나타내거나, 문장을 간결하게 수식하는 구문.",
+                "es": "Formas como 'en + verbo-ant' que indican acción simultánea o modifican oraciones de manera concisa.",
+                "fr": "Formes comme 'en + verbe-ant' indiquant une action simultanée ou modifiant des phrases de manière concise.",
+                "de": "Formen wie 'en + Verb-ant', die gleichzeitige Handlung anzeigen oder Sätze prägnant modifizieren.",
+                "ja": "en + 動詞-ant の形で〜しながらという同時動作を表したり、文を簡潔に修飾する構文。"
+              }
+            },
+            {
+              "order": 5,
+              "id": "indirect_speech_tense_agreement",
+              "title": "간접화법과 시제 일치",
+              "title_lang_map": {
+                "en": "Indirect Speech and Sequence of Tenses",
+                "ko": "간접화법과 시제 일치",
+                "es": "Estilo indirecto y concordancia de tiempos",
+                "fr": "Discours indirect et concordance des temps",
+                "de": "Indirekte Rede und Zeitenfolge",
+                "ja": "間接話法と時制の一致"
+              },
+              "description": "다른 사람의 말을 전달할 때, 주절의 시제에 맞춰 종속절의 시제를 변화시키는 규칙.",
+              "description_lang_map": {
+                "en": "Rules for changing the tense of the subordinate clause to match the main clause when reporting speech.",
+                "ko": "다른 사람의 말을 전달할 때, 주절의 시제에 맞춰 종속절의 시제를 변화시키는 규칙.",
+                "es": "Reglas para cambiar el tiempo de la cláusula subordinada para que coincida con la cláusula principal al reportar el habla.",
+                "fr": "Règles pour changer le temps de la proposition subordonnée afin qu'il corresponde à la proposition principale lors du rapport de paroles.",
+                "de": "Regeln zur Änderung der Zeitform des Nebensatzes passend zum Hauptsatz bei der Wiedergabe von Rede.",
+                "ja": "他人の言葉を伝える際、主節の時制に合わせて従属節の時制を変化させる規則。"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lang": "es",
+      "step_list": [
+        {
+          "order": 1,
+          "id": "spanish_beginner_structure",
+          "title": "[초급] 문장의 기본 뼈대 세우기",
+          "title_lang_map": {
+            "en": "[Beginner] Building Basic Sentence Structure",
+            "ko": "[초급] 문장의 기본 뼈대 세우기",
+            "es": "[Principiante] Construcción de oraciones básicas",
+            "fr": "[Débutant] Construction de phrases de base",
+            "de": "[Anfänger] Grundlegenden Satzbau erstellen",
+            "ja": "[初級] 基本的な文の構造を作る"
+          },
+          "description": "스페인어의 핵심 동사와 성/수 일치, 기본 과거 시제를 학습합니다.",
+          "description_lang_map": {
+            "en": "Learn core Spanish verbs, gender/number agreement, and basic past tense.",
+            "ko": "스페인어의 핵심 동사와 성/수 일치, 기본 과거 시제를 학습합니다.",
+            "es": "Aprende los verbos centrales, la concordancia de género/número y el tiempo pasado básico.",
+            "fr": "Apprenez les verbes essentiels, l'accord de genre/nombre et le temps passé de base.",
+            "de": "Lernen Sie die wichtigsten Verben, Geschlecht/Zahl-Übereinstimmung und die grundlegende Vergangenheitsform.",
+            "ja": "スペイン語の核心動詞と性数一致、基本的な過去時制を学びます。"
+          },
+          "subject_list": [
+            {
+              "order": 1,
+              "id": "ser_vs_estar",
+              "title": "동사 Ser와 Estar의 구분",
+              "title_lang_map": {
+                "en": "Distinction between Ser and Estar",
+                "ko": "동사 Ser와 Estar의 구분",
+                "es": "Distinción entre Ser y Estar",
+                "fr": "Distinction entre Ser et Estar",
+                "de": "Unterscheidung zwischen Ser und Estar",
+                "ja": "動詞 Ser と Estar の区別"
+              },
+              "description": "영어의 'be' 동사에 해당하는 두 동사의 근본적인 차이(본질 vs. 상태/위치)와 현재 시제 변화.",
+              "description_lang_map": {
+                "en": "Fundamental difference (essence vs. state/location) between the two 'be' verbs and their present tense.",
+                "ko": "영어의 'be' 동사에 해당하는 두 동사의 근본적인 차이(본질 vs. 상태/위치)와 현재 시제 변화.",
+                "es": "Diferencia fundamental (esencia vs. estado/ubicación) entre los dos verbos 'ser' y su tiempo presente.",
+                "fr": "Différence fondamentale (essence vs état/lieu) entre les deux verbes 'être' et leur conjugaison au présent.",
+                "de": "Grundlegender Unterschied (Wesen vs. Zustand/Ort) zwischen den beiden 'sein'-Verben und ihrem Präsens.",
+                "ja": "英語の 'be' 動詞に相当する二つの動詞の根本的な違い（本質 vs. 状態/位置）と現在形の変化。"
+              }
+            },
+            {
+              "order": 2,
+              "id": "regular_verb_conjugation",
+              "title": "규칙 동사 현재 시제",
+              "title_lang_map": {
+                "en": "Regular Verb Present Tense",
+                "ko": "규칙 동사 현재 시제",
+                "es": "Presente de verbos regulares",
+                "fr": "Présent des verbes réguliers",
+                "de": "Präsens regelmäßiger Verben",
+                "ja": "規則動詞の現在形"
+              },
+              "description": "-ar, -er, -ir로 끝나는 동사들의 주어에 따른 규칙적인 변화.",
+              "description_lang_map": {
+                "en": "Regular changes based on the subject for verbs ending in -ar, -er, -ir.",
+                "ko": "-ar, -er, -ir로 끝나는 동사들의 주어에 따른 규칙적인 변화.",
+                "es": "Cambios regulares según el sujeto para verbos terminados en -ar, -er, -ir.",
+                "fr": "Changements réguliers selon le sujet pour les verbes se terminant par -ar, -er, -ir.",
+                "de": "Regelmäßige Änderungen je nach Subjekt für Verben mit den Endungen -ar, -er, -ir.",
+                "ja": "-ar, -er, -ir で終わる動詞の主語による規則的な変化。"
+              }
+            },
+            {
+              "order": 3,
+              "id": "gender_number_agreement",
+              "title": "명사와 형용사의 성/수 일치",
+              "title_lang_map": {
+                "en": "Noun and Adjective Agreement",
+                "ko": "명사와 형용사의 성/수 일치",
+                "es": "Concordancia de sustantivos y adjetivos",
+                "fr": "Accord du nom et de l'adjectif",
+                "de": "Kongruenz von Nomen und Adjektiv",
+                "ja": "名詞と形容詞の性数一致"
+              },
+              "description": "명사의 성(남성/여성)과 수(단수/복수)에 따라 관사와 형용사의 형태를 맞추는 규칙.",
+              "description_lang_map": {
+                "en": "Rules for matching articles and adjectives according to the gender and number of the noun.",
+                "ko": "명사의 성(남성/여성)과 수(단수/복수)에 따라 관사와 형용사의 형태를 맞추는 규칙.",
+                "es": "Reglas para coincidir artículos y adjetivos según el género y número del sustantivo.",
+                "fr": "Règles pour accorder les articles et les adjectifs selon le genre et le nombre du nom.",
+                "de": "Regeln zur Anpassung von Artikeln und Adjektiven an Geschlecht und Zahl des Nomens.",
+                "ja": "名詞の性（男性/女性）と数（単数/複数）に応じて冠詞と形容詞の形を合わせる規則。"
+              }
+            },
+            {
+              "order": 4,
+              "id": "irregular_verbs_gustar",
+              "title": "핵심 불규칙 동사와 gustar",
+              "title_lang_map": {
+                "en": "Core Irregular Verbs and Gustar",
+                "ko": "핵심 불규칙 동사와 gustar",
+                "es": "Verbos irregulares clave y gustar",
+                "fr": "Verbes irréguliers clés et gustar",
+                "de": "Wichtige unregelmäßige Verben und gustar",
+                "ja": "核心不規則動詞と gustar"
+              },
+              "description": "tener(가지다), ir(가다) 등 필수 불규칙 동사와, Me gusta...(~를 좋아한다) 형태의 특별한 동사 구문.",
+              "description_lang_map": {
+                "en": "Essential irregular verbs like tener, ir, and special verb structures like 'Me gusta'.",
+                "ko": "tener(가지다), ir(가다) 등 필수 불규칙 동사와, Me gusta...(~를 좋아한다) 형태의 특별한 동사 구문.",
+                "es": "Verbos irregulares esenciales como tener, ir, y estructuras verbales especiales como 'Me gusta'.",
+                "fr": "Verbes irréguliers essentiels comme tener, ir, et structures verbales spéciales comme 'Me gusta'.",
+                "de": "Wesentliche unregelmäßige Verben wie tener, ir und spezielle Verbkonstruktionen wie 'Me gusta'.",
+                "ja": "tener, ir などの必須不規則動詞と、Me gusta... のような特別な動詞構文。"
+              }
+            },
+            {
+              "order": 5,
+              "id": "simple_past_indefinido",
+              "title": "단순과거 (Pretérito Indefinido)",
+              "title_lang_map": {
+                "en": "Simple Past (Preterite)",
+                "ko": "단순과거 (Pretérito Indefinido)",
+                "es": "Pretérito Indefinido",
+                "fr": "Passé Simple (Pretérito Indefinido)",
+                "de": "Historische Vergangenheit (Pretérito Indefinido)",
+                "ja": "点過去 (Pretérito Indefinido)"
+              },
+              "description": "과거에 완료된 특정 행동을 표현하는 가장 기본적인 과거 시제. (예: Ayer comí paella.)",
+              "description_lang_map": {
+                "en": "The most basic past tense expressing specific actions completed in the past. (e.g., Ayer comí paella.)",
+                "ko": "과거에 완료된 특정 행동을 표현하는 가장 기본적인 과거 시제. (예: Ayer comí paella. 어제 빠에야를 먹었다.)",
+                "es": "El tiempo pasado más básico que expresa acciones específicas completadas en el pasado. (ej. Ayer comí paella.)",
+                "fr": "Le temps passé le plus basique exprimant des actions spécifiques terminées dans le passé. (ex. Ayer comí paella.)",
+                "de": "Die grundlegendste Vergangenheitsform, die bestimmte, in der Vergangenheit abgeschlossene Handlungen ausdrückt. (z.B. Ayer comí paella.)",
+                "ja": "過去に完了した特定の行動を表現する最も基本的な過去時制。（例：Ayer comí paella.）"
+              }
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "id": "spanish_intermediate_extension",
+          "title": "[중급] 문장의 확장과 연결",
+          "title_lang_map": {
+            "en": "[Intermediate] Sentence Extension and Connection",
+            "ko": "[중급] 문장의 확장과 연결",
+            "es": "[Intermedio] Extensión y conexión de oraciones",
+            "fr": "[Intermédiaire] Extension et connexion de phrases",
+            "de": "[Mittelstufe] Satzerweiterung und Verbindung",
+            "ja": "[中級] 文の拡張と接続"
+          },
+          "description": "다양한 과거 시제와 대명사, 미래 표현을 통해 문장력을 확장합니다.",
+          "description_lang_map": {
+            "en": "Expand sentence capability through various past tenses, pronouns, and future expressions.",
+            "ko": "다양한 과거 시제와 대명사, 미래 표현을 통해 문장력을 확장합니다.",
+            "es": "Amplía la capacidad de las oraciones a través de varios tiempos pasados, pronombres y expresiones futuras.",
+            "fr": "Développez la capacité des phrases grâce à divers temps passés, pronoms et expressions futures.",
+            "de": "Erweitern Sie die Satzfähigkeit durch verschiedene Vergangenheitsformen, Pronomen und Zukunftsausdrücke.",
+            "ja": "多様な過去時制と代名詞、未来表現を通じて文章力を拡張します。"
+          }
+        },
+        {
+          "order": 2,
+          "id": "spanish_intermediate_extension",
+          "title": "[중급] 문장의 확장과 연결",
+          "title_lang_map": {
+            "en": "[Intermediate] Sentence Extension and Connection",
+            "ko": "[중급] 문장의 확장과 연결",
+            "es": "[Intermedio] Extensión y conexión de oraciones",
+            "fr": "[Intermédiaire] Extension et connexion de phrases",
+            "de": "[Mittelstufe] Satzerweiterung und Verbindung",
+            "ja": "[中級] 文の拡張と接続"
+          },
+          "description": "다양한 과거 시제와 대명사, 미래 표현을 통해 문장력을 확장합니다.",
+          "description_lang_map": {
+            "en": "Expand sentence capability through various past tenses, pronouns, and future expressions.",
+            "ko": "다양한 과거 시제와 대명사, 미래 표현을 통해 문장력을 확장합니다.",
+            "es": "Amplía la capacidad de las oraciones a través de varios tiempos pasados, pronombres y expresiones futuras.",
+            "fr": "Développez la capacité des phrases grâce à divers temps passés, pronoms et expressions futures.",
+            "de": "Erweitern Sie die Satzfähigkeit durch verschiedene Vergangenheitsformen, Pronomen und Zukunftsausdrücke.",
+            "ja": "多様な過去時制と代名詞、未来表現を通じて文章力を拡張します。"
+          },
+          "subject_list": [
+            {
+              "order": 1,
+              "id": "imperfect_past_imperfecto",
+              "title": "불완료과거 (Pretérito Imperfecto)",
+              "title_lang_map": {
+                "en": "Imperfect Past (Pretérito Imperfecto)",
+                "ko": "불완료과거 (Pretérito Imperfecto)",
+                "es": "Pretérito Imperfecto",
+                "fr": "Imparfait",
+                "de": "Imperfekt",
+                "ja": "線過去 (Pretérito Imperfecto)"
+              },
+              "description": "과거의 배경, 습관, 지속적인 상태를 묘사하는 시제. 단순과거와의 차이 구분이 중요.",
+              "description_lang_map": {
+                "en": "Tense describing past backgrounds, habits, or continuous states. Important to distinguish from Simple Past.",
+                "ko": "과거의 배경, 습관, 지속적인 상태를 묘사하는 시제. 단순과거와의 차이 구분이 중요.",
+                "es": "Tiempo que describe fondos, hábitos o estados continuos en el pasado. Importante distinguir del Pretérito Indefinido.",
+                "fr": "Temps décrivant des arrière-plans passés, des habitudes ou des états continus. Important de distinguer du Passé Simple.",
+                "de": "Zeitform, die vergangene Hintergründe, Gewohnheiten oder kontinuierliche Zustände beschreibt. Wichtig, vom Indefinido zu unterscheiden.",
+                "ja": "過去の背景、習慣、持続的な状態を描写する時制。点過去との違いの区分が重要。"
+              }
+            },
+            {
+              "order": 2,
+              "id": "direct_indirect_pronouns",
+              "title": "목적격 대명사 (직접/간접)",
+              "title_lang_map": {
+                "en": "Direct and Indirect Object Pronouns",
+                "ko": "목적격 대명사 (직접/간접)",
+                "es": "Pronombres de objeto directo e indirecto",
+                "fr": "Pronoms objets directs et indirects",
+                "de": "Direkte und indirekte Objektpronomen",
+                "ja": "目的格代名詞（直接/間接）"
+              },
+              "description": "lo, le 등 목적어 대명사의 문장 내 위치와 결합 규칙. (예: Se lo doy.)",
+              "description_lang_map": {
+                "en": "Placement and combination rules for object pronouns like 'lo', 'le'. (e.g., Se lo doy.)",
+                "ko": "lo(그를), le(그에게) 등 목적어 대명사의 문장 내 위치와 결합 규칙. (예: Se lo doy. 그에게 그것을 준다.)",
+                "es": "Reglas de colocación y combinación para pronombres de objeto como 'lo', 'le'. (ej. Se lo doy.)",
+                "fr": "Règles de placement et de combinaison pour les pronoms objets comme 'lo', 'le'. (ex. Se lo doy.)",
+                "de": "Platzierungs- und Kombinationsregeln für Objektpronomen wie 'lo', 'le'. (z.B. Se lo doy.)",
+                "ja": "lo, le など目的語代名詞の文中の位置と結合規則。（例：Se lo doy.）"
+              }
+            },
+            {
+              "order": 3,
+              "id": "reflexive_verbs",
+              "title": "재귀동사 (Verbos Reflexivos)",
+              "title_lang_map": {
+                "en": "Reflexive Verbs",
+                "ko": "재귀동사 (Verbos Reflexivos)",
+                "es": "Verbos reflexivos",
+                "fr": "Verbes pronominaux",
+                "de": "Reflexive Verben",
+                "ja": "再帰動詞"
+              },
+              "description": "levantarse(일어나다)처럼 동작이 주어 자신에게 돌아가는 동사와 재귀대명사.",
+              "description_lang_map": {
+                "en": "Verbs where the action reflects back to the subject, like 'levantarse', and reflexive pronouns.",
+                "ko": "levantarse(일어나다)처럼 동작이 주어 자신에게 돌아가는 동사와 재귀대명사.",
+                "es": "Verbos donde la acción recae sobre el sujeto, como 'levantarse', y pronombres reflexivos.",
+                "fr": "Verbes où l'action se reflète sur le sujet, comme 'se lever', et pronoms réfléchis.",
+                "de": "Verben, bei denen die Handlung auf das Subjekt zurückfällt, wie 'sich erheben', und Reflexivpronomen.",
+                "ja": "levantarse のように動作が主語自身に戻る動詞と再帰代名詞。"
+              }
+            },
+            {
+              "order": 4,
+              "id": "future_and_conditional_simple",
+              "title": "미래 시제와 가능법 (단순)",
+              "title_lang_map": {
+                "en": "Simple Future and Conditional",
+                "ko": "미래 시제와 가능법 (단순)",
+                "es": "Futuro simple y Condicional",
+                "fr": "Futur simple et Conditionnel",
+                "de": "Futur I und Konditional I",
+                "ja": "未来時制と可能法（単純）"
+              },
+              "description": "~할 것이다(미래) 와 ~할 텐데(가능법)를 표현하는 동사 변화.",
+              "description_lang_map": {
+                "en": "Verb conjugations expressing 'will do' (Future) and 'would do' (Conditional).",
+                "ko": "~할 것이다(미래) 와 ~할 텐데(가능법)를 표현하는 동사 변화.",
+                "es": "Conjugaciones verbales que expresan 'hará' (Futuro) y 'haría' (Condicional).",
+                "fr": "Conjugaisons verbales exprimant le futur et le conditionnel.",
+                "de": "Verbkonjugationen, die 'wird tun' (Futur) und 'würde tun' (Konditional) ausdrücken.",
+                "ja": "〜するだろう（未来）と〜するのに（可能法）を表現する動詞の変化。"
+              }
+            },
+            {
+              "order": 5,
+              "id": "present_perfect_perfecto",
+              "title": "현재완료 시제 (Pretérito Perfecto)",
+              "title_lang_map": {
+                "en": "Present Perfect (Pretérito Perfecto)",
+                "ko": "현재완료 시제 (Pretérito Perfecto)",
+                "es": "Pretérito Perfecto",
+                "fr": "Passé Composé (Pretérito Perfecto)",
+                "de": "Perfekt (Pretérito Perfecto)",
+                "ja": "現在完了 (Pretérito Perfecto)"
+              },
+              "description": "haber + 과거분사 형태로, 현재와 관련 있는 과거 경험이나 방금 끝난 일을 표현.",
+              "description_lang_map": {
+                "en": "Formed with 'haber' + past participle, expressing past experiences related to the present or just finished actions.",
+                "ko": "haber + 과거분사 형태로, 현재와 관련 있는 과거 경험이나 방금 끝난 일을 표현.",
+                "es": "Formado con 'haber' + participio pasado, expresando experiencias pasadas relacionadas con el presente o acciones recién terminadas.",
+                "fr": "Formé avec 'haber' + participe passé, exprimant des expériences passées liées au présent ou des actions qui viennent de se terminer.",
+                "de": "Gebildet mit 'haber' + Partizip II, drückt vergangene Erfahrungen mit Bezug zur Gegenwart oder gerade beendete Handlungen aus.",
+                "ja": "haber + 過去分詞の形で、現在と関連のある過去の経験やたった今終わったことを表現。"
+              }
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "id": "spanish_advanced_nuance",
+          "title": "[고급] 표현의 완성도와 뉘앙스",
+          "title_lang_map": {
+            "en": "[Advanced] Perfection of Expression and Nuance",
+            "ko": "[고급] 표현의 완성도와 뉘앙스",
+            "es": "[Avanzado] Perfección de la expresión y matiz",
+            "fr": "[Avancé] Perfection de l'expression et nuance",
+            "de": "[Fortgeschritten] Perfektion des Ausdrucks und Nuance",
+            "ja": "[上級] 表現の完成度とニュアンス"
+          },
+          "description": "접속법과 명령법, 수동태를 통해 주관적이고 정교한 표현을 익힙니다.",
+          "description_lang_map": {
+            "en": "Master subjective and sophisticated expressions through subjunctive mood, imperative, and passive voice.",
+            "ko": "접속법과 명령법, 수동태를 통해 주관적이고 정교한 표현을 익힙니다.",
+            "es": "Domina expresiones subjetivas y sofisticadas a través del modo subjuntivo, imperativo y voz pasiva.",
+            "fr": "Maîtrisez des expressions subjectives et sophistiquées grâce au subjonctif, à l'impératif et à la voix passive.",
+            "de": "Beherrschen Sie subjektive und anspruchsvolle Ausdrücke durch Konjunktiv, Imperativ und Passiv.",
+            "ja": "接続法と命令法、受動態を通じて主観的で精巧な表現を身につけます。"
+          },
+          "subject_list": [
+            {
+              "order": 1,
+              "id": "subjunctive_present",
+              "title": "접속법 현재 (Presente de Subjuntivo)",
+              "title_lang_map": {
+                "en": "Subjunctive Present",
+                "ko": "접속법 현재 (Presente de Subjuntivo)",
+                "es": "Presente de Subjuntivo",
+                "fr": "Subjonctif Présent",
+                "de": "Konjunktiv Präsens",
+                "ja": "接続法現在"
+              },
+              "description": "소망, 감정, 의심, 제안 등 주관적인 표현에 사용하는 특별한 동사 변화.",
+              "description_lang_map": {
+                "en": "Special verb changes used for subjective expressions like wishes, emotions, doubts, and suggestions.",
+                "ko": "소망, 감정, 의심, 제안 등 주관적인 표현에 사용하는 특별한 동사 변화. 고급 스페인어의 관문.",
+                "es": "Cambios verbales especiales utilizados para expresiones subjetivas como deseos, emociones, dudas y sugerencias.",
+                "fr": "Changements verbaux spéciaux utilisés pour des expressions subjectives comme les souhaits, les émotions, les doutes et les suggestions.",
+                "de": "Spezielle Verbänderungen für subjektive Ausdrücke wie Wünsche, Emotionen, Zweifel und Vorschläge.",
+                "ja": "願望、感情、疑い、提案など主観的な表現に使われる特別な動詞変化。"
+              }
+            },
+            {
+              "order": 2,
+              "id": "subjunctive_imperfect",
+              "title": "접속법 과거 (Imperfecto de Subjuntivo)",
+              "title_lang_map": {
+                "en": "Subjunctive Imperfect",
+                "ko": "접속법 과거 (Imperfecto de Subjuntivo)",
+                "es": "Imperfecto de Subjuntivo",
+                "fr": "Subjonctif Imparfait",
+                "de": "Konjunktiv Imperfekt",
+                "ja": "接続法過去"
+              },
+              "description": "Si yo fuera...처럼 비현실적인 가정이나 과거 상황에서의 주관적 표현.",
+              "description_lang_map": {
+                "en": "Unrealistic assumptions like 'Si yo fuera...' or subjective expressions in past situations.",
+                "ko": "Si yo fuera...(만약 내가 ~라면...)처럼 비현실적인 가정이나 과거 상황에서의 주관적 표현.",
+                "es": "Suposiciones poco realistas como 'Si yo fuera...' o expresiones subjetivas en situaciones pasadas.",
+                "fr": "Hypothèses irréalistes comme 'Si yo fuera...' ou expressions subjectives dans des situations passées.",
+                "de": "Unrealistische Annahmen wie 'Si yo fuera...' oder subjektive Ausdrücke in vergangenen Situationen.",
+                "ja": "Si yo fuera... のような非現実的な仮定や過去の状況での主観的表現。"
+              }
+            },
+            {
+              "order": 3,
+              "id": "imperative_mood",
+              "title": "명령법 (Imperativo)",
+              "title_lang_map": {
+                "en": "Imperative Mood",
+                "ko": "명령법 (Imperativo)",
+                "es": "Imperativo",
+                "fr": "Impératif",
+                "de": "Imperativ",
+                "ja": "命令法"
+              },
+              "description": "긍정/부정 명령, 격식/비격식 명령 등 상황에 맞는 명령문 만들기.",
+              "description_lang_map": {
+                "en": "Creating commands suitable for the situation: affirmative/negative, formal/informal.",
+                "ko": "긍정/부정 명령, 격식/비격식 명령 등 상황에 맞는 명령문 만들기.",
+                "es": "Crear mandatos adecuados a la situación: afirmativo/negativo, formal/informal.",
+                "fr": "Création de commandes adaptées à la situation : affirmatif/négatif, formel/informel.",
+                "de": "Erstellen von Befehlen passend zur Situation: bejahend/verneinend, formell/informell.",
+                "ja": "肯定/否定命令、格式/非格式命令など、状況に合わせた命令文作り。"
+              }
+            },
+            {
+              "order": 4,
+              "id": "past_perfect_conditional_perfect",
+              "title": "과거완료와 복합가능법",
+              "title_lang_map": {
+                "en": "Pluperfect and Conditional Perfect",
+                "ko": "과거완료와 복합가능법",
+                "es": "Pluscuamperfecto y Condicional Compuesto",
+                "fr": "Plus-que-parfait et Conditionnel Passé",
+                "de": "Plusquamperfekt und Konditional II",
+                "ja": "過去完了と複合可能法"
+              },
+              "description": "~했었다(과거완료)와 ~했을 텐데(복합가능법)처럼 더 먼 과거나 과거의 추측, 후회를 표현.",
+              "description_lang_map": {
+                "en": "Expressing deeper past, conjectures, or regrets, like 'had done' (Pluperfect) and 'would have done' (Conditional Perfect).",
+                "ko": "~했었다(과거완료)와 ~했을 텐데(복합가능법)처럼 더 먼 과거나 과거의 추측, 후회를 표현.",
+                "es": "Expresar un pasado más lejano, conjeturas o arrepentimientos, como 'había hecho' y 'habría hecho'.",
+                "fr": "Exprimer un passé plus lointain, des conjectures ou des regrets, comme 'avait fait' et 'aurait fait'.",
+                "de": "Ausdrücken einer ferneren Vergangenheit, Vermutungen oder Bedauern.",
+                "ja": "〜していた（過去完了）と〜しただろうに（複合可能法）のように、より遠い過去や過去の推測、後悔を表現。"
+              }
+            },
+            {
+              "order": 5,
+              "id": "passive_voice_se",
+              "title": "수동태와 se 용법",
+              "title_lang_map": {
+                "en": "Passive Voice and Uses of 'Se'",
+                "ko": "수동태와 se 용법",
+                "es": "Voz pasiva y usos de 'Se'",
+                "fr": "Voix passive et emplois de 'Se'",
+                "de": "Passiv und Verwendung von 'Se'",
+                "ja": "受動態と se の用法"
+              },
+              "description": "공식적인 수동태 표현과, Se habla español처럼 비인칭문이나 수동의 의미로 널리 쓰이는 se의 다양한 용법.",
+              "description_lang_map": {
+                "en": "Formal passive voice and various uses of 'se', such as impersonal or passive meanings like 'Se habla español'.",
+                "ko": "공식적인 수동태 표현과, Se habla español(스페인어를 사용합니다)처럼 비인칭문이나 수동의 의미로 널리 쓰이는 se의 다양한 용법.",
+                "es": "Voz pasiva formal y diversos usos de 'se', como significados impersonales o pasivos como 'Se habla español'.",
+                "fr": "Voix passive formelle et divers emplois de 'se', tels que les significations impersonnelles ou passives comme 'Se habla español'.",
+                "de": "Formelles Passiv und verschiedene Verwendungen von 'se', wie unpersönliche oder passive Bedeutungen wie 'Se habla español'.",
+                "ja": "公式的な受動態表現と、Se habla español のように非人称文や受動の意味で広く使われる se の多様な用法。"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lang": "en",
+      "step_list": [
+        {
+          "order": 1,
+          "id": "english_beginner_structure",
+          "title": "[초급] 문장의 기본 뼈대 세우기",
+          "title_lang_map": {
+            "en": "[Beginner] Building Basic Sentence Structure",
+            "ko": "[초급] 문장의 기본 뼈대 세우기",
+            "es": "[Principiante] Construcción de oraciones básicas",
+            "fr": "[Débutant] Construction de phrases de base",
+            "de": "[Anfänger] Grundlegenden Satzbau erstellen",
+            "ja": "[初級] 基本的な文の構造を作る"
+          },
+          "description": "영어의 기본 동사, 시제, 관사 및 문장 구조를 학습합니다.",
+          "description_lang_map": {
+            "en": "Learn English basic verbs, tenses, articles, and sentence structure.",
+            "ko": "영어의 기본 동사, 시제, 관사 및 문장 구조를 학습합니다.",
+            "es": "Aprende verbos básicos, tiempos, artículos y estructura de oraciones en inglés.",
+            "fr": "Apprenez les verbes de base, les temps, les articles et la structure des phrases en anglais.",
+            "de": "Lernen Sie englische Grundverben, Zeitformen, Artikel und Satzbau.",
+            "ja": "英語の基本動詞、時制、冠詞、および文構造を学びます。"
+          },
+          "subject_list": [
+            {
+              "order": 1,
+              "id": "be_verb_basic_structure",
+              "title": "be 동사와 기본 문장 구조",
+              "title_lang_map": {
+                "en": "Be Verbs and Basic Sentence Structure",
+                "ko": "be 동사와 기본 문장 구조",
+                "es": "Verbos 'to be' y estructura básica de oraciones",
+                "fr": "Verbes 'être' et structure de phrase de base",
+                "de": "Be-Verben und grundlegende Satzstruktur",
+                "ja": "be動詞と基本文構造"
+              },
+              "description": "I am a student. 처럼 주어, 동사, 보어로 이루어진 가장 기본적인 문장.",
+              "description_lang_map": {
+                "en": "The most basic sentences consisting of subject, verb, and complement, like 'I am a student'.",
+                "ko": "I am a student. 처럼 주어, 동사, 보어로 이루어진 가장 기본적인 문장.",
+                "es": "Las oraciones más básicas que consisten en sujeto, verbo y complemento, como 'I am a student'.",
+                "fr": "Les phrases les plus basiques composées d'un sujet, d'un verbe et d'un complément, comme 'I am a student'.",
+                "de": "Die einfachsten Sätze bestehend aus Subjekt, Verb und Ergänzung, wie 'I am a student'.",
+                "ja": "I am a student. のように主語、動詞、補語で構成された最も基本的な文。"
+              }
+            },
+            {
+              "order": 2,
+              "id": "general_verbs_present_3rd_person",
+              "title": "일반동사 현재 시제와 3인칭 단수",
+              "title_lang_map": {
+                "en": "General Verbs Present Tense and 3rd Person Singular",
+                "ko": "일반동사 현재 시제와 3인칭 단수",
+                "es": "Presente de verbos generales y tercera persona del singular",
+                "fr": "Présent des verbes généraux et 3e personne du singulier",
+                "de": "Präsens allgemeiner Verben und 3. Person Singular",
+                "ja": "一般動詞の現在時制と3人称単数"
+              },
+              "description": "I walk. / He walks. 와 같이 주어에 따라 동사에 -s를 붙이는 규칙.",
+              "description_lang_map": {
+                "en": "Rules for adding -s to verbs depending on the subject, like 'I walk' / 'He walks'.",
+                "ko": "I walk. / He walks. 와 같이 주어에 따라 동사에 -s를 붙이는 규칙.",
+                "es": "Reglas para agregar -s a los verbos dependiendo del sujeto, como 'I walk' / 'He walks'.",
+                "fr": "Règles pour ajouter -s aux verbes selon le sujet, comme 'I walk' / 'He walks'.",
+                "de": "Regeln zum Hinzufügen von -s zu Verben je nach Subjekt, wie 'I walk' / 'He walks'.",
+                "ja": "I walk. / He walks. のように主語によって動詞に -s を付ける規則。"
+              }
+            },
+            {
+              "order": 3,
+              "id": "articles_and_plurals",
+              "title": "관사 (a/an, the)와 명사 복수형",
+              "title_lang_map": {
+                "en": "Articles (a/an, the) and Plural Nouns",
+                "ko": "관사 (a/an, the)와 명사 복수형",
+                "es": "Artículos (a/an, the) y sustantivos plurales",
+                "fr": "Articles (a/an, the) et noms pluriels",
+                "de": "Artikel (a/an, the) und Pluralnomen",
+                "ja": "冠詞 (a/an, the) と名詞の複数形"
+              },
+              "description": "특정하지 않거나 특정 대상을 가리키는 관사의 개념과 명사에 -s를 붙여 복수형을 만드는 법.",
+              "description_lang_map": {
+                "en": "Concepts of definite/indefinite articles and forming plurals by adding -s to nouns.",
+                "ko": "특정하지 않거나 특정 대상을 가리키는 관사의 개념과 명사에 -s를 붙여 복수형을 만드는 법.",
+                "es": "Conceptos de artículos definidos/indefinidos y formación de plurales agregando -s a los sustantivos.",
+                "fr": "Concepts d'articles définis/indéfinis et formation du pluriel en ajoutant -s aux noms.",
+                "de": "Konzepte bestimmter/unbestimmter Artikel und Bildung von Pluralen durch Anhängen von -s an Nomen.",
+                "ja": "特定・不特定の対象を指す冠詞の概念と、名詞に -s を付けて複数形を作る方法。"
+              }
+            },
+            {
+              "order": 4,
+              "id": "simple_past_tense",
+              "title": "단순과거 (Simple Past)",
+              "title_lang_map": {
+                "en": "Simple Past",
+                "ko": "단순과거 (Simple Past)",
+                "es": "Pasado simple",
+                "fr": "Passé simple (Prétérit)",
+                "de": "Präteritum (Simple Past)",
+                "ja": "単純過去"
+              },
+              "description": "동사에 -ed를 붙이거나 불규칙 동사를 사용해 과거에 일어난 일을 표현. (예: I studied. / I ate.)",
+              "description_lang_map": {
+                "en": "Expressing past events by adding -ed or using irregular verbs. (e.g., I studied. / I ate.)",
+                "ko": "동사에 -ed를 붙이거나 불규칙 동사를 사용해 과거에 일어난 일을 표현. (예: I studied. / I ate.)",
+                "es": "Expresar eventos pasados agregando -ed o usando verbos irregulares. (ej. I studied. / I ate.)",
+                "fr": "Exprimer des événements passés en ajoutant -ed ou en utilisant des verbes irréguliers. (ex. I studied. / I ate.)",
+                "de": "Ausdrücken vergangener Ereignisse durch Anhängen von -ed oder Verwendung unregelmäßiger Verben.",
+                "ja": "動詞に -ed を付けたり不規則動詞を使って過去に起きたことを表現。（例：I studied. / I ate.）"
+              }
+            },
+            {
+              "order": 5,
+              "id": "basic_modals_negation",
+              "title": "기본 조동사 (can, will)와 의문문/부정문",
+              "title_lang_map": {
+                "en": "Basic Modals (can, will) and Questions/Negation",
+                "ko": "기본 조동사 (can, will)와 의문문/부정문",
+                "es": "Modales básicos y preguntas/negación",
+                "fr": "Modaux de base et questions/négation",
+                "de": "Grundlegende Modalverben und Fragen/Verneinung",
+                "ja": "基本助動詞 (can, will) と疑問文/否定文"
+              },
+              "description": "can, will을 사용하고, do/does를 이용해 질문하거나 부정하는 문장 만들기.",
+              "description_lang_map": {
+                "en": "Using can/will, and making questions or negations using do/does.",
+                "ko": "can, will을 사용하고, do/does를 이용해 질문(Do you like...?)하거나 부정(I don't like...)하는 문장 만들기.",
+                "es": "Usar can/will, y hacer preguntas o negaciones usando do/does.",
+                "fr": "Utiliser can/will, et poser des questions ou faire des négations en utilisant do/does.",
+                "de": "Verwendung von can/will und Bildung von Fragen oder Verneinungen mit do/does.",
+                "ja": "can, will を使い、do/does を利用して質問したり否定する文を作ること。"
+              }
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "id": "english_intermediate_extension",
+          "title": "[중급] 문장의 확장과 시제 구체화",
+          "title_lang_map": {
+            "en": "[Intermediate] Sentence Extension and Tense Specificity",
+            "ko": "[중급] 문장의 확장과 시제 구체화",
+            "es": "[Intermedio] Extensión de oraciones y especificidad temporal",
+            "fr": "[Intermédiaire] Extension de phrase et spécificité du temps",
+            "de": "[Mittelstufe] Satzerweiterung und Zeitspezifität",
+            "ja": "[中級] 文の拡張と時制の具体化"
+          },
+          "description": "진행형, 완료형 시제와 수동태, 관계대명사를 통해 표현력을 확장합니다.",
+          "description_lang_map": {
+            "en": "Expand expressiveness through continuous/perfect tenses, passive voice, and relative pronouns.",
+            "ko": "진행형, 완료형 시제와 수동태, 관계대명사를 통해 표현력을 확장합니다.",
+            "es": "Amplía la expresividad a través de tiempos continuos/perfectos, voz pasiva y pronombres relativos.",
+            "fr": "Développez l'expressivité grâce aux temps continus/parfaits, à la voix passive et aux pronoms relatifs.",
+            "de": "Erweitern Sie die Ausdruckskraft durch Verlaufs-/Perfektformen, Passiv und Relativpronomen.",
+            "ja": "進行形、完了形時制と受動態、関係代名詞を通じて表現力を拡張します。"
+          },
+          "subject_list": [
+            {
+              "order": 1,
+              "id": "continuous_tenses",
+              "title": "현재/과거 진행 시제",
+              "title_lang_map": {
+                "en": "Present/Past Continuous Tenses",
+                "ko": "현재/과거 진행 시제",
+                "es": "Tiempos continuos presente/pasado",
+                "fr": "Temps continus présent/passé",
+                "de": "Verlaufsformen Präsens/Vergangenheit",
+                "ja": "現在/過去進行形"
+              },
+              "description": "I am studying. / I was studying. 처럼 특정 시점에 진행 중인 동작을 표현.",
+              "description_lang_map": {
+                "en": "Expressing actions in progress at a specific time, like 'I am studying' / 'I was studying'.",
+                "ko": "I am studying. / I was studying. 처럼 특정 시점에 진행 중인 동작을 표현.",
+                "es": "Expresar acciones en progreso en un momento específico, como 'I am studying' / 'I was studying'.",
+                "fr": "Exprimer des actions en cours à un moment précis, comme 'I am studying' / 'I was studying'.",
+                "de": "Ausdrücken von Handlungen, die zu einem bestimmten Zeitpunkt im Gange sind.",
+                "ja": "I am studying. / I was studying. のように特定時点に進行中の動作を表現。"
+              }
+            },
+            {
+              "order": 2,
+              "id": "present_perfect",
+              "title": "현재완료 (Present Perfect)",
+              "title_lang_map": {
+                "en": "Present Perfect",
+                "ko": "현재완료 (Present Perfect)",
+                "es": "Presente Perfecto",
+                "fr": "Present Perfect (Passé Composé)",
+                "de": "Present Perfect (Perfekt)",
+                "ja": "現在完了"
+              },
+              "description": "과거에 시작된 일이 현재까지 영향을 미칠 때 사용. 단순과거와의 차이 구분이 핵심.",
+              "description_lang_map": {
+                "en": "Used when past actions affect the present. Key is distinguishing from Simple Past.",
+                "ko": "과거에 시작된 일이 현재까지 영향을 미칠 때 사용. (경험, 완료, 계속) 단순과거와의 차이 구분이 핵심.",
+                "es": "Se usa cuando acciones pasadas afectan el presente. La clave es distinguirlo del Pasado Simple.",
+                "fr": "Utilisé lorsque des actions passées affectent le présent. La clé est de le distinguer du Passé Simple.",
+                "de": "Wird verwendet, wenn vergangene Handlungen die Gegenwart beeinflussen. Wichtig ist die Unterscheidung vom Simple Past.",
+                "ja": "過去に始まったことが現在まで影響を及ぼす時に使用。単純過去との違いの区分が核心。"
+              }
+            },
+            {
+              "order": 3,
+              "id": "comparatives_and_superlatives",
+              "title": "비교급과 최상급",
+              "title_lang_map": {
+                "en": "Comparatives and Superlatives",
+                "ko": "비교급과 최상급",
+                "es": "Comparativos y superlativos",
+                "fr": "Comparatifs et superlatifs",
+                "de": "Komparative und Superlative",
+                "ja": "比較級と最上級"
+              },
+              "description": "bigger, the biggest, more beautiful 처럼 형용사, 부사를 사용해 대상을 비교하고 묘사하기.",
+              "description_lang_map": {
+                "en": "Comparing and describing objects using adjectives/adverbs like 'bigger', 'the biggest', 'more beautiful'.",
+                "ko": "bigger, the biggest, more beautiful 처럼 형용사, 부사를 사용해 대상을 비교하고 묘사하기.",
+                "es": "Comparar y describir objetos usando adjetivos/adverbios como 'bigger', 'the biggest', 'more beautiful'.",
+                "fr": "Comparer et décrire des objets en utilisant des adjectifs/adverbes comme 'bigger', 'the biggest', 'more beautiful'.",
+                "de": "Vergleichen und Beschreiben von Objekten mit Adjektiven/Adverbien wie 'bigger', 'the biggest', 'more beautiful'.",
+                "ja": "bigger, the biggest, more beautiful のように形容詞、副詞を使って対象を比較し描写すること。"
+              }
+            },
+            {
+              "order": 4,
+              "id": "relative_pronouns",
+              "title": "관계대명사 (who, which, that)",
+              "title_lang_map": {
+                "en": "Relative Pronouns (who, which, that)",
+                "ko": "관계대명사 (who, which, that)",
+                "es": "Pronombres relativos (who, which, that)",
+                "fr": "Pronoms relatifs (who, which, that)",
+                "de": "Relativpronomen (who, which, that)",
+                "ja": "関係代名詞 (who, which, that)"
+              },
+              "description": "The girl who is singing... 처럼 문장을 이용해 명사를 꾸며주는 방법.",
+              "description_lang_map": {
+                "en": "Method of modifying a noun using a sentence, like 'The girl who is singing...'.",
+                "ko": "The girl who is singing... 처럼 문장을 이용해 명사를 꾸며주는 방법.",
+                "es": "Método para modificar un sustantivo usando una oración, como 'The girl who is singing...'.",
+                "fr": "Méthode pour modifier un nom en utilisant une phrase, comme 'The girl who is singing...'.",
+                "de": "Methode zur Modifikation eines Nomens mit einem Satz, wie 'The girl who is singing...'.",
+                "ja": "The girl who is singing... のように文を利用して名詞を修飾する方法。"
+              }
+            },
+            {
+              "order": 5,
+              "id": "passive_voice",
+              "title": "수동태 (Passive Voice)",
+              "title_lang_map": {
+                "en": "Passive Voice",
+                "ko": "수동태 (Passive Voice)",
+                "es": "Voz pasiva",
+                "fr": "Voix passive",
+                "de": "Passiv",
+                "ja": "受動態"
+              },
+              "description": "This book was written by him. 처럼 행위를 당하는 대상을 주어로 하여 표현.",
+              "description_lang_map": {
+                "en": "Expression where the recipient of the action is the subject, like 'This book was written by him'.",
+                "ko": "This book was written by him. 처럼 행위를 당하는 대상을 주어로 하여 표현.",
+                "es": "Expresión donde el destinatario de la acción es el sujeto, como 'This book was written by him'.",
+                "fr": "Expression où le destinataire de l'action est le sujet, comme 'This book was written by him'.",
+                "de": "Ausdruck, bei dem der Empfänger der Handlung das Subjekt ist, wie 'This book was written by him'.",
+                "ja": "This book was written by him. のように行為を受ける対象を主語として表現。"
+              }
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "id": "english_advanced_nuance",
+          "title": "[고급] 표현의 완성도와 뉘앙스",
+          "title_lang_map": {
+            "en": "[Advanced] Perfection of Expression and Nuance",
+            "ko": "[고급] 표현의 완성도와 뉘앙스",
+            "es": "[Avanzado] Perfección de la expresión y matiz",
+            "fr": "[Avancé] Perfection de l'expression et nuance",
+            "de": "[Fortgeschritten] Perfektion des Ausdrucks und Nuance",
+            "ja": "[上級] 表現の完成度とニュアンス"
+          },
+          "description": "완료 시제, 가정법, 분사구문을 통해 정교하고 세련된 영어를 구사합니다.",
+          "description_lang_map": {
+            "en": "Master sophisticated English through perfect tenses, conditionals, and participle clauses.",
+            "ko": "완료 시제, 가정법, 분사구문을 통해 정교하고 세련된 영어를 구사합니다.",
+            "es": "Domina un inglés sofisticado a través de tiempos perfectos, condicionales y cláusulas de participio.",
+            "fr": "Maîtrisez un anglais sophistiqué grâce aux temps parfaits, aux conditionnels et aux propositions participiales.",
+            "de": "Beherrschen Sie anspruchsvolles Englisch durch Perfektformen, Konditionale und Partizipialkonstruktionen.",
+            "ja": "完了時制、仮定法、分詞構文を通じて精巧で洗練された英語を駆使します。"
+          },
+          "subject_list": [
+            {
+              "order": 1,
+              "id": "past_future_perfect",
+              "title": "과거완료와 미래완료",
+              "title_lang_map": {
+                "en": "Past and Future Perfect",
+                "ko": "과거완료와 미래완료",
+                "es": "Pluscuamperfecto y Futuro Perfecto",
+                "fr": "Plus-que-parfait et Futur Antérieur",
+                "de": "Plusquamperfekt und Futur II",
+                "ja": "過去完了と未来完了"
+              },
+              "description": "He had already left. 처럼 과거의 특정 시점 이전을 나타내거나, 미래의 특정 시점에 완료될 일을 표현.",
+              "description_lang_map": {
+                "en": "Expressing events before a past moment (Past Perfect) or completed by a future moment (Future Perfect).",
+                "ko": "He had already left. 처럼 과거의 특정 시점 이전을 나타내거나, 미래의 특정 시점에 완료될 일을 표현.",
+                "es": "Expresar eventos antes de un momento pasado o completados para un momento futuro.",
+                "fr": "Exprimer des événements avant un moment passé ou terminés à un moment futur.",
+                "de": "Ausdrücken von Ereignissen vor einem vergangenen Zeitpunkt oder abgeschlossen zu einem zukünftigen Zeitpunkt.",
+                "ja": "He had already left. のように過去の特定時点以前を表したり、未来の特定時点に完了することを表現。"
+              }
+            },
+            {
+              "order": 2,
+              "id": "conditionals",
+              "title": "가정법 (Conditionals)",
+              "title_lang_map": {
+                "en": "Conditionals",
+                "ko": "가정법 (Conditionals)",
+                "es": "Condicionales",
+                "fr": "Conditionnels",
+                "de": "Konditionalsätze",
+                "ja": "仮定法"
+              },
+              "description": "If I were you... / If I had known... 처럼 사실과 반대되는 상황을 가정하거나 상상하는 표현.",
+              "description_lang_map": {
+                "en": "Expressions assuming or imagining situations contrary to fact, like 'If I were you...'.",
+                "ko": "If I were you... / If I had known... 처럼 사실과 반대되는 상황을 가정하거나 상상하는 표현.",
+                "es": "Expresiones que asumen o imaginan situaciones contrarias a los hechos, como 'If I were you...'.",
+                "fr": "Expressions supposant ou imaginant des situations contraires aux faits, comme 'If I were you...'.",
+                "de": "Ausdrücke, die Situationen annehmen oder sich vorstellen, die den Tatsachen widersprechen, wie 'If I were you...'.",
+                "ja": "If I were you... / If I had known... のように事実と反対の状況を仮定したり想像する表現。"
+              }
+            },
+            {
+              "order": 3,
+              "id": "perfect_continuous",
+              "title": "완료 진행 시제",
+              "title_lang_map": {
+                "en": "Perfect Continuous Tenses",
+                "ko": "완료 진행 시제",
+                "es": "Tiempos perfectos continuos",
+                "fr": "Temps parfaits continus",
+                "de": "Perfekt-Verlaufsformen",
+                "ja": "完了進行形"
+              },
+              "description": "I have been waiting for an hour. 처럼 과거부터 지금까지 동작이 계속 진행 중임을 강조하는 표현.",
+              "description_lang_map": {
+                "en": "Emphasizing that an action has been ongoing from the past until now, like 'I have been waiting...'.",
+                "ko": "I have been waiting for an hour. 처럼 과거부터 지금까지 동작이 계속 진행 중임을 강조하는 표현.",
+                "es": "Enfatizar que una acción ha estado en curso desde el pasado hasta ahora, como 'I have been waiting...'.",
+                "fr": "Souligner qu'une action est en cours depuis le passé jusqu'à maintenant, comme 'I have been waiting...'.",
+                "de": "Betonung, dass eine Handlung von der Vergangenheit bis heute andauert.",
+                "ja": "I have been waiting for an hour. のように過去から今まで動作が継続して進行中であることを強調する表現。"
+              }
+            },
+            {
+              "order": 4,
+              "id": "infinitives_and_gerunds",
+              "title": "to부정사와 동명사",
+              "title_lang_map": {
+                "en": "Infinitives and Gerunds",
+                "ko": "to부정사와 동명사",
+                "es": "Infinitivos y gerundios",
+                "fr": "Infinitifs et gérondifs",
+                "de": "Infinitiv und Gerundium",
+                "ja": "to不定詞と動名詞"
+              },
+              "description": "문장 속에서 명사, 형용사, 부사 역할을 하는 두 형태의 차이와 동사에 따른 쓰임 구분.",
+              "description_lang_map": {
+                "en": "Differences between the two forms acting as nouns/adjectives/adverbs and their usage depending on the verb.",
+                "ko": "문장 속에서 명사, 형용사, 부사 역할을 하는 두 형태의 차이와 동사에 따른 쓰임 구분.",
+                "es": "Diferencias entre las dos formas que actúan como sustantivos/adjetivos/adverbios y su uso según el verbo.",
+                "fr": "Différences entre les deux formes agissant comme noms/adjectifs/adverbes et leur utilisation selon le verbe.",
+                "de": "Unterschiede zwischen den beiden Formen, die als Nomen/Adjektive/Adverbien fungieren, und ihre Verwendung je nach Verb.",
+                "ja": "文中で名詞、形容詞、副詞の役割をする二つの形態の違いと動詞による使い分け。"
+              }
+            },
+            {
+              "order": 5,
+              "id": "participle_clauses",
+              "title": "분사구문 (Participle Clauses)",
+              "title_lang_map": {
+                "en": "Participle Clauses",
+                "ko": "분사구문 (Participle Clauses)",
+                "es": "Cláusulas de participio",
+                "fr": "Propositions participiales",
+                "de": "Partizipialkonstruktionen",
+                "ja": "分詞構文"
+              },
+              "description": "Walking down the street, I met him. 처럼 분사를 사용해 부사절을 간결하게 줄여 문장을 세련되게 만드는 기술.",
+              "description_lang_map": {
+                "en": "Technique to make sentences stylish by condensing adverbial clauses using participles, like 'Walking down the street...'.",
+                "ko": "Walking down the street, I met him. 처럼 분사를 사용해 부사절을 간결하게 줄여 문장을 세련되게 만드는 기술.",
+                "es": "Técnica para hacer oraciones elegantes condensando cláusulas adverbiales usando participios.",
+                "fr": "Technique pour rendre les phrases élégantes en condensant les propositions adverbiales à l'aide de participes.",
+                "de": "Technik, um Sätze stilvoll zu gestalten, indem Adverbialsätze unter Verwendung von Partizipien verkürzt werden.",
+                "ja": "Walking down the street, I met him. のように分詞を使って副詞節を簡潔に縮め、文を洗練されたものにする技術。"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lang": "ja",
+      "step_list": [
+        {
+          "order": 1,
+          "id": "japanese_beginner_structure",
+          "title": "[초급] 문장의 기본 뼈대와 핵심 활용형",
+          "title_lang_map": {
+            "en": "[Beginner] Basic Sentence Skeleton and Core Conjugations",
+            "ko": "[초급] 문장의 기본 뼈대와 핵심 활용형",
+            "es": "[Principiante] Esqueleto básico de oraciones y conjugaciones clave",
+            "fr": "[Débutant] Squelette de phrase de base et conjugaisons clés",
+            "de": "[Anfänger] Grundlegendes Satzgerüst und Kernkonjugationen",
+            "ja": "[初級] 文の基本骨格と核心活用形"
+          },
+          "description": "일본어의 기본 문장 구조, 조사, 그리고 가장 중요한 동사 활용형을 학습합니다.",
+          "description_lang_map": {
+            "en": "Learn basic Japanese sentence structures, particles, and the most important verb conjugations.",
+            "ko": "일본어의 기본 문장 구조, 조사, 그리고 가장 중요한 동사 활용형을 학습합니다.",
+            "es": "Aprende las estructuras básicas de oraciones en japonés, las partículas y las conjugaciones verbales más importantes.",
+            "fr": "Apprenez les structures de phrases japonaises de base, les particules et les conjugaisons verbales les plus importantes.",
+            "de": "Lernen Sie grundlegende japanische Satzstrukturen, Partikel und die wichtigsten Verbkonjugationen.",
+            "ja": "日本語の基本文構造、助詞、そして最も重要な動詞活用形を学びます。"
+          },
+          "subject_list": [
+            {
+              "order": 1,
+              "id": "noun_sentences_particles",
+              "title": "명사문(A は B です)과 기본 조사",
+              "title_lang_map": {
+                "en": "Noun Sentences (A is B) and Basic Particles",
+                "ko": "명사문(A は B です)과 기본 조사(は, の, も)",
+                "es": "Oraciones nominales (A es B) y partículas básicas",
+                "fr": "Phrases nominales (A est B) et particules de base",
+                "de": "Nominalsätze (A ist B) und grundlegende Partikel",
+                "ja": "名詞文（AはBです）と基本助詞"
+              },
+              "description": "私は学生です。 (저는 학생입니다.) 처럼 명사 문장을 만들고, 주제(は), 소유(の), ~도(も)의 쓰임을 익힙니다.",
+              "description_lang_map": {
+                "en": "Making noun sentences like 'Watashi wa gakusei desu' and learning particles wa (topic), no (possession), mo (also).",
+                "ko": "私は学生です。 (저는 학생입니다.) 처럼 명사 문장을 만들고, 주제(は), 소유(の), ~도(も)의 쓰임을 익힙니다.",
+                "es": "Hacer oraciones nominales como 'Watashi wa gakusei desu' y aprender partículas wa (tema), no (posesión), mo (también).",
+                "fr": "Faire des phrases nominales comme 'Watashi wa gakusei desu' et apprendre les particules wa (thème), no (possession), mo (aussi).",
+                "de": "Bildung von Nominalsätzen wie 'Watashi wa gakusei desu' und Lernen der Partikel wa (Thema), no (Besitz), mo (auch).",
+                "ja": "「私は学生です」のように名詞文を作り、主題（は）、所有（の）、〜も（も）の使い方を身につけます。"
+              }
+            },
+            {
+              "order": 2,
+              "id": "verb_masu_form_particles",
+              "title": "동사의 ます형과 주요 조사",
+              "title_lang_map": {
+                "en": "Verb Masu-form and Major Particles",
+                "ko": "동사의 ます형과 주요 조사(を, に, で, へ)",
+                "es": "Forma Masu del verbo y partículas principales",
+                "fr": "Forme Masu du verbe et particules majeures",
+                "de": "Verb Masu-Form und wichtige Partikel",
+                "ja": "動詞のます形と主要助詞"
+              },
+              "description": "ご飯を食べます。 처럼 정중한 동작을 표현하고, 목적격(を), 시간/장소(に), 장소(で), 방향(へ) 조사를 사용합니다.",
+              "description_lang_map": {
+                "en": "Expressing polite actions like 'Gohan o tabemasu' and using particles wo, ni, de, he.",
+                "ko": "ご飯を食べます。 (밥을 먹습니다.) 처럼 정중한 동작을 표현하고, 목적격(を), 시간/장소(に), 장소(で), 방향(へ) 조사를 사용합니다.",
+                "es": "Expresar acciones corteses como 'Gohan o tabemasu' y usar partículas wo, ni, de, he.",
+                "fr": "Exprimer des actions polies comme 'Gohan o tabemasu' et utiliser les particules wo, ni, de, he.",
+                "de": "Ausdrücken höflicher Handlungen wie 'Gohan o tabemasu' und Verwendung der Partikel wo, ni, de, he.",
+                "ja": "「ご飯を食べます」のように丁寧な動作を表現し、目的格（を）、時間/場所（に）、場所（で）、方向（へ）の助詞を使います。"
+              }
+            },
+            {
+              "order": 3,
+              "id": "adjective_conjugation",
+              "title": "い형용사 / な형용사의 활용",
+              "title_lang_map": {
+                "en": "Conjugation of i-Adjectives / na-Adjectives",
+                "ko": "い형용사 / な형용사의 활용",
+                "es": "Conjugación de adjetivos-i / adjetivos-na",
+                "fr": "Conjugaison des adjectifs en i / adjectifs en na",
+                "de": "Konjugation von i-Adjektiven / na-Adjektiven",
+                "ja": "い形容詞 / な形容詞の活用"
+              },
+              "description": "暑いです。 / きれいです。 처럼 두 종류의 형용사를 긍정, 부정, 과거형으로 바꾸는 규칙.",
+              "description_lang_map": {
+                "en": "Rules for changing two types of adjectives into affirmative, negative, and past forms.",
+                "ko": "暑いです。 (덥습니다.) / きれいです。 (예쁩니다.) 처럼 두 종류의 형용사를 긍정, 부정, 과거형으로 바꾸는 규칙.",
+                "es": "Reglas para cambiar dos tipos de adjetivos a formas afirmativas, negativas y pasadas.",
+                "fr": "Règles pour changer deux types d'adjectifs en formes affirmatives, négatives et passées.",
+                "de": "Regeln zum Ändern zweier Arten von Adjektiven in bejahende, verneinende und Vergangenheitsformen.",
+                "ja": "「暑いです」「きれいです」のように二種類の形容詞を肯定、否定、過去形に変える規則。"
+              }
+            },
+            {
+              "order": 4,
+              "id": "verb_te_form",
+              "title": "동사의 て형(Te형)",
+              "title_lang_map": {
+                "en": "Verb Te-form",
+                "ko": "동사의 て형(Te형)",
+                "es": "Forma Te del verbo",
+                "fr": "Forme Te du verbe",
+                "de": "Verb Te-Form",
+                "ja": "動詞のて形"
+              },
+              "description": "동작을 연결하거나 이유를 나타내는 등 활용도가 무궁무진한 가장 중요한 활용형. (예: 起きて、学校に行きます。)",
+              "description_lang_map": {
+                "en": "The most important conjugation for connecting actions or stating reasons. (e.g., Okite, gakkou ni ikimasu.)",
+                "ko": "~하고, ~해서. 동작을 연결하거나 이유를 나타내는 등 활용도가 무궁무진한 가장 중요한 활용형. (예: 起きて、学校に行きます。 일어나서, 학교에 갑니다.)",
+                "es": "La conjugación más importante para conectar acciones o indicar razones. (ej. Okite, gakkou ni ikimasu.)",
+                "fr": "La conjugaison la plus importante pour relier des actions ou énoncer des raisons. (ex. Okite, gakkou ni ikimasu.)",
+                "de": "Die wichtigste Konjugation zum Verbinden von Handlungen oder Angeben von Gründen. (z.B. Okite, gakkou ni ikimasu.)",
+                "ja": "動作をつなげたり理由を表すなど、活用度が無限大の最も重要な活用形。（例：起きて、学校に行きます。）"
+              }
+            },
+            {
+              "order": 5,
+              "id": "verb_plain_form",
+              "title": "동사의 보통체(た형/ない형)",
+              "title_lang_map": {
+                "en": "Verb Plain Form (Ta-form/Nai-form)",
+                "ko": "동사의 보통체(た형/ない형)",
+                "es": "Forma simple del verbo (Forma Ta/Forma Nai)",
+                "fr": "Forme simple du verbe (Forme Ta/Forme Nai)",
+                "de": "Verb Grundform (Ta-Form/Nai-Form)",
+                "ja": "動詞の普通体（た形/ない形）"
+              },
+              "description": "食べた(먹었다), 食べない(안 먹는다) 등 반말(보통체)의 과거형과 부정형.",
+              "description_lang_map": {
+                "en": "Casual past (Ta) and negative (Nai) forms, serving as the basis for many intermediate grammars.",
+                "ko": "食べた(먹었다), 食べない(안 먹는다) 등 반말(보통체)의 과거형과 부정형. 수많은 중급 문법의 기초가 됩니다.",
+                "es": "Formas pasadas casuales (Ta) y negativas (Nai), que sirven como base para muchas gramáticas intermedias.",
+                "fr": "Formes passées informelles (Ta) et négatives (Nai), servant de base à de nombreuses grammaires intermédiaires.",
+                "de": "Umgangssprachliche Vergangenheits- (Ta) und Verneinungsformen (Nai), die als Grundlage für viele Grammatiken der Mittelstufe dienen.",
+                "ja": "食べた、食べないなど、タメ口（普通体）の過去形と否定形。"
+              }
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "id": "japanese_intermediate_nuance",
+          "title": "[중급] 표현의 확장과 관계의 뉘앙스",
+          "title_lang_map": {
+            "en": "[Intermediate] Expansion of Expression and Relationship Nuances",
+            "ko": "[중급] 표현의 확장과 관계의 뉘앙스",
+            "es": "[Intermedio] Expansión de la expresión y matices de relación",
+            "fr": "[Intermédiaire] Extension de l'expression et nuances relationnelles",
+            "de": "[Mittelstufe] Erweiterung des Ausdrucks und Beziehungsnuancen",
+            "ja": "[中級] 表現の拡張と関係のニュアンス"
+          },
+          "description": "가능, 수수, 조건 표현 등을 통해 더 풍부한 뉘앙스와 인간관계를 표현합니다.",
+          "description_lang_map": {
+            "en": "Express richer nuances and human relationships through potential, giving/receiving, and conditional forms.",
+            "ko": "가능, 수수, 조건 표현 등을 통해 더 풍부한 뉘앙스와 인간관계를 표현합니다.",
+            "es": "Expresa matices más ricos y relaciones humanas a través de formas potenciales, de dar/recibir y condicionales.",
+            "fr": "Exprimez des nuances plus riches et des relations humaines grâce aux formes potentielles, de donner/recevoir et conditionnelles.",
+            "de": "Drücken Sie reichere Nuancen und menschliche Beziehungen durch Potenzial-, Geben/Nehmen- und Bedingungsformen aus.",
+            "ja": "可能、授受、条件表現などを通じて、より豊かなニュアンスと人間関係を表現します。"
+          },
+          "subject_list": [
+            {
+              "order": 1,
+              "id": "potential_form",
+              "title": "동사의 가능형",
+              "title_lang_map": {
+                "en": "Potential Form",
+                "ko": "동사의 가능형",
+                "es": "Forma potencial",
+                "fr": "Forme potentielle",
+                "de": "Potenzialform",
+                "ja": "動詞の可能形"
+              },
+              "description": "~할 수 있다. 食べられる (먹을 수 있다) 처럼 능력을 표현하는 문법.",
+              "description_lang_map": {
+                "en": "Grammar expressing ability, like 'Taberareru' (can eat).",
+                "ko": "~할 수 있다. 食べられる (먹을 수 있다) 처럼 능력을 표현하는 문법.",
+                "es": "Gramática que expresa habilidad, como 'Taberareru' (poder comer).",
+                "fr": "Grammaire exprimant la capacité, comme 'Taberareru' (pouvoir manger).",
+                "de": "Grammatik, die Fähigkeit ausdrückt, wie 'Taberareru' (essen können).",
+                "ja": "〜できる。「食べられる」のように能力を表現する文法。"
+              }
+            },
+            {
+              "order": 2,
+              "id": "giving_receiving_verbs",
+              "title": "수수표현(あげる/くれる/もらう)",
+              "title_lang_map": {
+                "en": "Giving and Receiving Expressions",
+                "ko": "수수표현(あげる/くれる/もらう)",
+                "es": "Expresiones de dar y recibir",
+                "fr": "Expressions de donner et recevoir",
+                "de": "Ausdrücke des Gebens und Nehmens",
+                "ja": "授受表現（あげる/くれる/もらう）"
+              },
+              "description": "나와 상대방의 관계에 따라 동사를 구분해서 써야 하는 일본어의 핵심 뉘앙스.",
+              "description_lang_map": {
+                "en": "Key Japanese nuance requiring different verbs based on the relationship between giver and receiver.",
+                "ko": "주다/받다. 나와 상대방의 관계에 따라 동사를 구분해서 써야 하는 일본어의 핵심 뉘앙스.",
+                "es": "Matiz clave del japonés que requiere diferentes verbos según la relación entre el que da y el que recibe.",
+                "fr": "Nuance clé du japonais nécessitant différents verbes selon la relation entre le donneur et le receveur.",
+                "de": "Wichtige japanische Nuance, die je nach Beziehung zwischen Geber und Empfänger unterschiedliche Verben erfordert.",
+                "ja": "自分と相手の関係によって動詞を使い分けなければならない日本語の核心的ニュアンス。"
+              }
+            },
+            {
+              "order": 3,
+              "id": "conditional_forms",
+              "title": "조건표현(と/ば/たら/なら)",
+              "title_lang_map": {
+                "en": "Conditional Forms (to/ba/tara/nara)",
+                "ko": "조건표현(と/ば/たら/なら)",
+                "es": "Formas condicionales (to/ba/tara/nara)",
+                "fr": "Formes conditionnelles (to/ba/tara/nara)",
+                "de": "Konditionalformen (to/ba/tara/nara)",
+                "ja": "条件表現（と/ば/たら/なら）"
+              },
+              "description": "~하면. 각각 뉘앙스가 다른 4가지 가정/조건 표현의 구분.",
+              "description_lang_map": {
+                "en": "Distinction between four types of conditionals, each with different nuances.",
+                "ko": "~하면. 각각 뉘앙스가 다른 4가지 가정/조건 표현의 구분.",
+                "es": "Distinción entre cuatro tipos de condicionales, cada uno con diferentes matices.",
+                "fr": "Distinction entre quatre types de conditionnels, chacun avec des nuances différentes.",
+                "de": "Unterscheidung zwischen vier Arten von Konditionalen, jede mit unterschiedlichen Nuancen.",
+                "ja": "〜すれば。それぞれニュアンスが異なる4つの仮定/条件表現の区分。"
+              }
+            },
+            {
+              "order": 4,
+              "id": "volitional_imperative_forms",
+              "title": "의지형과 명령형",
+              "title_lang_map": {
+                "en": "Volitional and Imperative Forms",
+                "ko": "의지형과 명령형",
+                "es": "Formas volitivas e imperativas",
+                "fr": "Formes volitives et impératives",
+                "de": "Volitional- und Imperativformen",
+                "ja": "意志形と命令形"
+              },
+              "description": "~하자(食べよう), ~해라(食べろ) 처럼 의지나 명령을 나타내는 표현.",
+              "description_lang_map": {
+                "en": "Expressions indicating volition like 'Tabeyou' (Let's eat) or command like 'Tabero' (Eat!).",
+                "ko": "~하자(食べよう), ~해라(食べろ) 처럼 의지나 명령을 나타내는 표현.",
+                "es": "Expresiones que indican voluntad como 'Tabeyou' (Comamos) o mandato como 'Tabero' (¡Come!).",
+                "fr": "Expressions indiquant la volonté comme 'Tabeyou' (Mangeons) ou l'ordre comme 'Tabero' (Mange !).",
+                "de": "Ausdrücke, die Willen wie 'Tabeyou' (Lass uns essen) oder Befehl wie 'Tabero' (Iss!) anzeigen.",
+                "ja": "〜しよう（食べよう）、〜しろ（食べろ）のように意志や命令を表す表現。"
+              }
+            },
+            {
+              "order": 5,
+              "id": "passive_causative_forms",
+              "title": "수동형과 사역형",
+              "title_lang_map": {
+                "en": "Passive and Causative Forms",
+                "ko": "수동형과 사역형",
+                "es": "Formas pasivas y causativas",
+                "fr": "Formes passives et causatives",
+                "de": "Passiv- und Kausativformen",
+                "ja": "受身形と使役形"
+              },
+              "description": "~당하다(食べられる) 와 ~시키다(食べさせる) 처럼 행위의 주체와 대상을 바꾸는 복잡한 표현.",
+              "description_lang_map": {
+                "en": "Complex expressions changing the subject/object, like 'Taberareru' (be eaten) and 'Tabesaseru' (make eat).",
+                "ko": "~당하다(食べられる) 와 ~시키다(食べさせる) 처럼 행위의 주체와 대상을 바꾸는 복잡한 표현.",
+                "es": "Expresiones complejas que cambian el sujeto/objeto, como 'Taberareru' (ser comido) y 'Tabesaseru' (hacer comer).",
+                "fr": "Expressions complexes changeant le sujet/objet, comme 'Taberareru' (être mangé) et 'Tabesaseru' (faire manger).",
+                "de": "Komplexe Ausdrücke, die Subjekt/Objekt ändern, wie 'Taberareru' (gegessen werden) und 'Tabesaseru' (essen lassen).",
+                "ja": "〜される（食べられる）と〜させる（食べさせる）のように行為の主体と対象を変える複雑な表現。"
+              }
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "id": "japanese_advanced_formality",
+          "title": "[고급] 표현의 완성도와 격식",
+          "title_lang_map": {
+            "en": "[Advanced] Perfection of Expression and Formality",
+            "ko": "[고급] 표현의 완성도와 격식",
+            "es": "[Avanzado] Perfección de la expresión y formalidad",
+            "fr": "[Avancé] Perfection de l'expression et formalité",
+            "de": "[Fortgeschritten] Perfektion des Ausdrucks und Formalität",
+            "ja": "[上級] 表現の完成度と格式"
+          },
+          "description": "사역수동, 경어, 문어체 등을 익혀 비즈니스와 격식 있는 상황에 대응합니다.",
+          "description_lang_map": {
+            "en": "Master causative-passive, honorifics, and written styles for business and formal situations.",
+            "ko": "사역수동, 경어, 문어체 등을 익혀 비즈니스와 격식 있는 상황에 대응합니다.",
+            "es": "Domina la pasiva-causativa, los honoríficos y los estilos escritos para negocios y situaciones formales.",
+            "fr": "Maîtrisez le passif-causatif, les honorifiques et les styles écrits pour les affaires et les situations formelles.",
+            "de": "Beherrschen Sie Kausativ-Passiv, Honoratioren und schriftliche Stile für geschäftliche und formelle Situationen.",
+            "ja": "使役受身、敬語、書き言葉などを身につけ、ビジネスや格式ある状況に対応します。"
+          },
+          "subject_list": [
+            {
+              "order": 1,
+              "id": "causative_passive_form",
+              "title": "사역수동형",
+              "title_lang_map": {
+                "en": "Causative-Passive Form",
+                "ko": "사역수동형",
+                "es": "Forma causativa-pasiva",
+                "fr": "Forme causale-passive",
+                "de": "Kausativ-Passiv-Form",
+                "ja": "使役受身形"
+              },
+              "description": "~억지로 ~하게 되다. 食べさせられる(억지로 먹게 되다) 처럼 '사역'과 '수동'이 결합된 가장 복잡한 동사 활용형.",
+              "description_lang_map": {
+                "en": "The most complex conjugation combining causative and passive, like 'Tabesaserareru' (be forced to eat).",
+                "ko": "~억지로 ~하게 되다. 食べさせられる(억지로 먹게 되다) 처럼 '사역'과 '수동'이 결합된 가장 복잡한 동사 활용형.",
+                "es": "La conjugación más compleja que combina causativa y pasiva, como 'Tabesaserareru' (ser forzado a comer).",
+                "fr": "La conjugaison la plus complexe combinant causal et passif, comme 'Tabesaserareru' (être forcé de manger).",
+                "de": "Die komplexeste Konjugation, die Kausativ und Passiv verbindet, wie 'Tabesaserareru' (gezwungen werden zu essen).",
+                "ja": "無理やり〜させられる。「食べさせられる」のように「使役」と「受身」が結合された最も複雑な動詞活用形。"
+              }
+            },
+            {
+              "order": 2,
+              "id": "keigo_honorifics",
+              "title": "경어(존경어/겸양어)",
+              "title_lang_map": {
+                "en": "Keigo (Honorifics/Humble Language)",
+                "ko": "경어(존경어/겸양어)",
+                "es": "Keigo (Lenguaje honorífico/humilde)",
+                "fr": "Keigo (Langage honorifique/humble)",
+                "de": "Keigo (Höflichkeitssprache)",
+                "ja": "敬語（尊敬語/謙譲語）"
+              },
+              "description": "상대방을 높이거나 자신을 낮추어 격식을 차리는 표현. 비즈니스 일본어의 필수 요소. (예: いらっしゃる, 申す)",
+              "description_lang_map": {
+                "en": "Expressions to show respect or humility. Essential for business Japanese. (e.g., Irassharu, Mousu)",
+                "ko": "상대방을 높이거나 자신을 낮추어 격식을 차리는 표현. 비즈니스 일본어의 필수 요소. (예: いらっしゃる, 申す)",
+                "es": "Expresiones para mostrar respeto o humildad. Esencial para el japonés de negocios. (ej. Irassharu, Mousu)",
+                "fr": "Expressions pour montrer du respect ou de l'humilité. Essentiel pour le japonais des affaires. (ex. Irassharu, Mousu)",
+                "de": "Ausdrücke, um Respekt oder Demut zu zeigen. Unerlässlich für Geschäftsjapanisch. (z.B. Irassharu, Mousu)",
+                "ja": "相手を高めたり自分を低めて礼儀を尽くす表現。ビジネス日本語の必須要素。（例：いらっしゃる、申す）"
+              }
+            },
+            {
+              "order": 3,
+              "id": "advanced_sentence_patterns",
+              "title": "고급 문형(~わけだ, ~ものだ 등)",
+              "title_lang_map": {
+                "en": "Advanced Sentence Patterns",
+                "ko": "고급 문형(~わけだ, ~ものだ 등)",
+                "es": "Patrones de oraciones avanzados",
+                "fr": "Modèles de phrases avancés",
+                "de": "Fortgeschrittene Satzmuster",
+                "ja": "上級文型（〜わけだ、〜ものだ等）"
+              },
+              "description": "논리적 귀결, 당연함, 감탄 등 미묘한 뉘앙스를 전달하는 상급 학습자용 문법 패턴.",
+              "description_lang_map": {
+                "en": "Grammar patterns for advanced learners conveying subtle nuances like logical conclusion or naturalness.",
+                "ko": "논리적 귀결, 당연함, 감탄 등 미묘한 뉘앙스를 전달하는 상급 학습자용 문법 패턴.",
+                "es": "Patrones gramaticales para estudiantes avanzados que transmiten matices sutiles como conclusión lógica o naturalidad.",
+                "fr": "Modèles grammaticaux pour les apprenants avancés transmettant des nuances subtiles comme la conclusion logique ou le naturel.",
+                "de": "Grammatikmuster für fortgeschrittene Lerner, die subtile Nuancen wie logische Schlussfolgerung oder Selbstverständlichkeit vermitteln.",
+                "ja": "論理的帰結、当然、感嘆など微妙なニュアンスを伝える上級学習者用文法パターン。"
+              }
+            },
+            {
+              "order": 4,
+              "id": "written_style_literary",
+              "title": "문어체 표현(~である, ~ではないか)",
+              "title_lang_map": {
+                "en": "Written/Literary Style Expressions",
+                "ko": "문어체 표현(~である, ~ではないか)",
+                "es": "Expresiones de estilo escrito/literario",
+                "fr": "Expressions de style écrit/littéraire",
+                "de": "Schriftsprachliche Ausdrücke",
+                "ja": "書き言葉の表現（〜である、〜ではないか）"
+              },
+              "description": "논문, 신문기사 등 딱딱한 글에서 사용되는 문어체 특유의 표현법.",
+              "description_lang_map": {
+                "en": "Unique expressions used in formal writing like theses or newspaper articles.",
+                "ko": "논문, 신문기사 등 딱딱한 글에서 사용되는 문어체 특유의 표현법.",
+                "es": "Expresiones únicas utilizadas en la escritura formal como tesis o artículos de periódicos.",
+                "fr": "Expressions uniques utilisées dans l'écriture formelle comme les thèses ou les articles de journaux.",
+                "de": "Einzigartige Ausdrücke, die in formellen Schriften wie Thesen oder Zeitungsartikeln verwendet werden.",
+                "ja": "論文、新聞記事など硬い文章で使われる書き言葉特有の表現法。"
+              }
+            },
+            {
+              "order": 5,
+              "id": "idioms_compound_verbs",
+              "title": "관용표현 및 복합동사",
+              "title_lang_map": {
+                "en": "Idioms and Compound Verbs",
+                "ko": "관용표현 및 복합동사",
+                "es": "Modismos y verbos compuestos",
+                "fr": "Idiomes et verbes composés",
+                "de": "Redewendungen und zusammengesetzte Verben",
+                "ja": "慣用表現および複合動詞"
+              },
+              "description": "顔が広い(발이 넓다) 같은 관용구나, 走り出す(뛰기 시작하다) 처럼 동사 두 개가 합쳐져 새로운 뉘앙스를 만드는 표현.",
+              "description_lang_map": {
+                "en": "Idioms like 'Kao ga hiroi' and compound verbs creating new nuances like 'Hashiridasu'.",
+                "ko": "顔が広い(발이 넓다) 같은 관용구나, 走り出す(뛰기 시작하다) 처럼 동사 두 개가 합쳐져 새로운 뉘앙스를 만드는 표현.",
+                "es": "Modismos como 'Kao ga hiroi' y verbos compuestos que crean nuevos matices como 'Hashiridasu'.",
+                "fr": "Idiomes comme 'Kao ga hiroi' et verbes composés créant de nouvelles nuances comme 'Hashiridasu'.",
+                "de": "Redewendungen wie 'Kao ga hiroi' und zusammengesetzte Verben, die neue Nuancen schaffen, wie 'Hashiridasu'.",
+                "ja": "「顔が広い」のような慣用句や、「走り出す」のように動詞二つが合わさって新しいニュアンスを作る表現。"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lang": "ko",
+      "step_list": [
+        {
+          "order": 1,
+          "id": "korean_beginner_structure",
+          "title": "[초급] 문장의 기본 성분과 필수 활용",
+          "title_lang_map": {
+            "en": "[Beginner] Basic Sentence Components and Essential Conjugation",
+            "ko": "[초급] 문장의 기본 성분과 필수 활용",
+            "es": "[Principiante] Componentes básicos de la oración y conjugación esencial",
+            "fr": "[Débutant] Composants de base de la phrase et conjugaison essentielle",
+            "de": "[Anfänger] Grundlegende Satzkomponenten und wesentliche Konjugation",
+            "ja": "[初級] 文の基本成分と必須活用"
+          },
+          "description": "한국어의 기본 문장 구조, 조사, 그리고 필수적인 시제와 부정 표현을 학습합니다.",
+          "description_lang_map": {
+            "en": "Learn basic Korean sentence structures, particles, and essential tense and negation expressions.",
+            "ko": "한국어의 기본 문장 구조, 조사, 그리고 필수적인 시제와 부정 표현을 학습합니다.",
+            "es": "Aprende las estructuras básicas de las oraciones en coreano, las partículas y las expresiones esenciales de tiempo y negación.",
+            "fr": "Apprenez les structures de phrases de base en coréen, les particules et les expressions essentielles de temps et de négation.",
+            "de": "Lernen Sie grundlegende koreanische Satzstrukturen, Partikel und wesentliche Zeit- und Verneinungsausdrücke.",
+            "ja": "韓国語の基本文構造、助詞、そして必須の時制と否定表現を学びます。"
+          },
+          "subject_list": [
+            {
+              "order": 1,
+              "id": "copula_ida_basic_patterns",
+              "title": "서술격 조사 '이다'와 기본 문형",
+              "title_lang_map": {
+                "en": "Copula 'ida' and Basic Sentence Patterns",
+                "ko": "서술격 조사 '이다'와 기본 문형",
+                "es": "Cópula 'ida' y patrones básicos de oraciones",
+                "fr": "Copule 'ida' et modèles de phrases de base",
+                "de": "Kopula 'ida' und grundlegende Satzmuster",
+                "ja": "叙述格助詞「이다」と基本文型"
+              },
+              "description": "A는 B이다. 형태의 문장 구조와 문장의 주체를 나타내는 주격 조사 '이/가', 주제를 나타내는 보조사 '은/는'의 기본적 차이.",
+              "description_lang_map": {
+                "en": "Basic difference between Subject particles 'i/ga' and Topic particles 'eun/neun' in 'A is B' sentences.",
+                "ko": "A는 B이다. 형태의 문장 구조와 문장의 주체를 나타내는 주격 조사 '이/가', 주제를 나타내는 보조사 '은/는'의 기본적 차이.",
+                "es": "Diferencia básica entre las partículas de sujeto 'i/ga' y las partículas de tema 'eun/neun' en oraciones 'A es B'.",
+                "fr": "Différence fondamentale entre les particules de sujet 'i/ga' et les particules de thème 'eun/neun' dans les phrases 'A est B'.",
+                "de": "Grundlegender Unterschied zwischen Subjektpartikeln 'i/ga' und Themenpartikeln 'eun/neun' in 'A ist B'-Sätzen.",
+                "ja": "「AはBだ」形式の文構造と、主語を表す主格助詞「이/가」、主題を表す補助詞「은/는」の基本的な違い。"
+              }
+            },
+            {
+              "order": 2,
+              "id": "haeyo_style_conjugation",
+              "title": "용언의 '해요체' 활용",
+              "title_lang_map": {
+                "en": "Conjugation of 'Haeyo-che' (Polite Style)",
+                "ko": "용언의 '해요체' 활용",
+                "es": "Conjugación del estilo 'Haeyo' (Estilo cortés)",
+                "fr": "Conjugaison du style 'Haeyo' (Style poli)",
+                "de": "Konjugation des 'Haeyo-Stils' (Höflichkeitsform)",
+                "ja": "用言の「へヨ体」活用"
+              },
+              "description": "동사, 형용사 어간에 결합하는 대표적인 어미 '-아/어요'의 결합 규칙. (양성/음성 모음에 따른 구분)",
+              "description_lang_map": {
+                "en": "Rules for combining the representative ending '-ayo/-eoyo' with verb/adjective stems based on vowel harmony.",
+                "ko": "동사, 형용사 어간에 결합하는 대표적인 어미 '-아/어요'의 결합 규칙. (양성/음성 모음에 따른 구분)",
+                "es": "Reglas para combinar la terminación representativa '-ayo/-eoyo' con raíces de verbos/adjetivos basadas en la armonía vocálica.",
+                "fr": "Règles de combinaison de la terminaison représentative '-ayo/-eoyo' avec les racines des verbes/adjectifs basées sur l'harmonie vocalique.",
+                "de": "Regeln für die Kombination der repräsentativen Endung '-ayo/-eoyo' mit Verb-/Adjektivstämmen basierend auf Vokalharmonie.",
+                "ja": "動詞、形容詞の語幹に結合する代表的な語尾「-아/어요」の結合規則。（陽性/陰性母音による区分）"
+              }
+            },
+            {
+              "order": 3,
+              "id": "basic_tense_expressions",
+              "title": "기본 시제 표현",
+              "title_lang_map": {
+                "en": "Basic Tense Expressions",
+                "ko": "기본 시제 표현",
+                "es": "Expresiones básicas de tiempo",
+                "fr": "Expressions de temps de base",
+                "de": "Grundlegende Zeitausdrücke",
+                "ja": "基本時制表現"
+              },
+              "description": "선어말어미 '-었/았-', '-는/ㄴ-', '-겠-' 등을 통해 과거, 현재, 미래를 나타내는 원리.",
+              "description_lang_map": {
+                "en": "Principles of expressing past, present, and future using pre-final endings like '-eot/at-', '-neun/n-', '-get-'.",
+                "ko": "선어말어미 '-었/았-', '-는/ㄴ-', '-겠-' 등을 통해 과거, 현재, 미래를 나타내는 원리.",
+                "es": "Principios para expresar pasado, presente y futuro usando terminaciones pre-finales como '-eot/at-', '-neun/n-', '-get-'.",
+                "fr": "Principes pour exprimer le passé, le présent et le futur en utilisant des terminaisons pré-finales comme '-eot/at-', '-neun/n-', '-get-'.",
+                "de": "Prinzipien zum Ausdrücken von Vergangenheit, Gegenwart und Zukunft unter Verwendung von präfinalen Endungen wie '-eot/at-', '-neun/n-', '-get-'.",
+                "ja": "先語末語尾「-었/았-」、「-는/ㄴ-」、「-겠-」などを通じて過去、現在、未来を表す原理。"
+              }
+            },
+            {
+              "order": 4,
+              "id": "object_adverbial_particles",
+              "title": "목적격/부사격 조사",
+              "title_lang_map": {
+                "en": "Object and Adverbial Particles",
+                "ko": "목적격/부사격 조사",
+                "es": "Partículas de objeto y adverbiales",
+                "fr": "Particules d'objet et adverbiales",
+                "de": "Objekt- und Adverbialpartikel",
+                "ja": "目的格/副詞格助詞"
+              },
+              "description": "목적어를 나타내는 '을/를'과 시간, 장소 등을 나타내는 '에, 에서, 께' 등의 쓰임새 구분.",
+              "description_lang_map": {
+                "en": "Distinguishing usage of object particles 'eul/reul' and time/place particles 'e, eseo, kke'.",
+                "ko": "목적어를 나타내는 '을/를'과 시간, 장소 등을 나타내는 '에, 에서, 께' 등의 쓰임새 구분.",
+                "es": "Distinguir el uso de partículas de objeto 'eul/reul' y partículas de tiempo/lugar 'e, eseo, kke'.",
+                "fr": "Distinguer l'utilisation des particules d'objet 'eul/reul' et des particules de temps/lieu 'e, eseo, kke'.",
+                "de": "Unterscheidung der Verwendung von Objektpartikeln 'eul/reul' und Zeit-/Orts-Partikeln 'e, eseo, kke'.",
+                "ja": "目的語を表す「을/를」と時間、場所などを表す「에, 에서, 께」などの使い分け。"
+              }
+            },
+            {
+              "order": 5,
+              "id": "negation_expressions",
+              "title": "부정 표현 (안, 못)",
+              "title_lang_map": {
+                "en": "Negation Expressions (An, Mot)",
+                "ko": "부정 표현 (안, 못)",
+                "es": "Expresiones de negación (An, Mot)",
+                "fr": "Expressions de négation (An, Mot)",
+                "de": "Verneinungsausdrücke (An, Mot)",
+                "ja": "否定表現（안, 못）"
+              },
+              "description": "의지 부정('안')과 능력 부정('못')의 의미 차이와, 각각 긴 부정문과 짧은 부정문으로 만드는 법.",
+              "description_lang_map": {
+                "en": "Difference between will negation ('an') and ability negation ('mot'), and how to form long/short negation sentences.",
+                "ko": "의지 부정('안')과 능력 부정('못')의 의미 차이와, 각각 긴 부정문과 짧은 부정문으로 만드는 법.",
+                "es": "Diferencia entre negación de voluntad ('an') y negación de habilidad ('mot'), y cómo formar oraciones de negación largas/cortas.",
+                "fr": "Différence entre la négation de volonté ('an') et la négation de capacité ('mot'), et comment former des phrases de négation longues/courtes.",
+                "de": "Unterschied zwischen Willensverneinung ('an') und Fähigkeitsverneinung ('mot') und Bildung langer/kurzer Verneinungssätze.",
+                "ja": "意志否定（안）と能力否定（못）の意味の違いと、それぞれ長い否定文と短い否定文にする方法。"
+              }
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "id": "korean_intermediate_extension",
+          "title": "[중급] 문장의 확장과 관계 표현",
+          "title_lang_map": {
+            "en": "[Intermediate] Sentence Extension and Relationship Expressions",
+            "ko": "[중급] 문장의 확장과 관계 표현",
+            "es": "[Intermedio] Extensión de la oración y expresiones de relación",
+            "fr": "[Intermédiaire] Extension de la phrase et expressions relationnelles",
+            "de": "[Mittelstufe] Satzerweiterung und Beziehungsausdrücke",
+            "ja": "[中級] 文の拡張と関係表現"
+          },
+          "description": "연결어미, 전성어미, 피동/사동 등을 통해 문장을 확장하고 복잡한 관계를 표현합니다.",
+          "description_lang_map": {
+            "en": "Expand sentences and express complex relationships through connective endings, transformational endings, and passive/causative forms.",
+            "ko": "연결어미, 전성어미, 피동/사동 등을 통해 문장을 확장하고 복잡한 관계를 표현합니다.",
+            "es": "Expande oraciones y expresa relaciones complejas a través de terminaciones conectivas, terminaciones transformacionales y formas pasivas/causativas.",
+            "fr": "Développez des phrases et exprimez des relations complexes grâce à des terminaisons connectives, des terminaisons transformationnelles et des formes passives/causatives.",
+            "de": "Erweitern Sie Sätze und drücken Sie komplexe Beziehungen durch Bindungs-Endungen, Umwandlungs-Endungen und Passiv-/Kausativformen aus.",
+            "ja": "連結語尾、転成語尾、受動/使役などを通じて文を拡張し、複雑な関係を表現します。"
+          },
+          "subject_list": [
+            {
+              "order": 1,
+              "id": "connective_endings",
+              "title": "연결어미의 활용",
+              "title_lang_map": {
+                "en": "Usage of Connective Endings",
+                "ko": "연결어미의 활용",
+                "es": "Uso de terminaciones conectivas",
+                "fr": "Utilisation des terminaisons connectives",
+                "de": "Verwendung von Bindungs-Endungen",
+                "ja": "連結語尾の活用"
+              },
+              "description": "'-고', '-아/어서', '-지만', '-(으)며' 등 다양한 연결어미의 의미 차이 구분.",
+              "description_lang_map": {
+                "en": "Distinguishing meanings of various connective endings like '-go', '-aseo', '-jiman', '-(eu)myeo'.",
+                "ko": "'-고'(나열), '-아/어서'(이유/순서), '-지만'(대조), '-(으)며'(동시) 등 다양한 연결어미의 의미 차이 구분.",
+                "es": "Distinguir significados de varias terminaciones conectivas como '-go', '-aseo', '-jiman', '-(eu)myeo'.",
+                "fr": "Distinguer les significations de diverses terminaisons connectives comme '-go', '-aseo', '-jiman', '-(eu)myeo'.",
+                "de": "Unterscheidung der Bedeutung verschiedener Bindungs-Endungen wie '-go', '-aseo', '-jiman', '-(eu)myeo'.",
+                "ja": "「-고」（羅列）、「-아/어서」（理由/順序）、「-지만」（対照）、「-(으)며」（同時）など多様な連結語尾の意味の違いの区分。"
+              }
+            },
+            {
+              "order": 2,
+              "id": "adnominal_endings",
+              "title": "관형사형 전성어미",
+              "title_lang_map": {
+                "en": "Adnominal Transformational Endings",
+                "ko": "관형사형 전성어미",
+                "es": "Terminaciones transformacionales adnominales",
+                "fr": "Terminaisons transformationnelles adnominales",
+                "de": "Adnominale Umwandlungs-Endungen",
+                "ja": "冠形詞形転成語尾"
+              },
+              "description": "용언을 명사를 꾸미는 관형사 형태로 바꾸는 '-(으)ㄴ, -는, -(으)ㄹ'의 역할.",
+              "description_lang_map": {
+                "en": "Role of '-(eu)n, -neun, -(eu)l' in changing verbs/adjectives into forms that modify nouns.",
+                "ko": "용언을 명사를 꾸미는 관형사 형태로 바꾸는 '-(으)ㄴ, -는, -(으)ㄹ'의 역할. (예: 예쁘다 → 예쁜 사람)",
+                "es": "Papel de '-(eu)n, -neun, -(eu)l' en cambiar verbos/adjetivos a formas que modifican sustantivos.",
+                "fr": "Rôle de '-(eu)n, -neun, -(eu)l' pour transformer les verbes/adjectifs en formes modifiant les noms.",
+                "de": "Rolle von '-(eu)n, -neun, -(eu)l' bei der Umwandlung von Verben/Adjektiven in Formen, die Nomen modifizieren.",
+                "ja": "用言を名詞を修飾する冠形詞の形に変える「-(으)ㄴ, -는, -(으)ㄹ」の役割。（例：예쁘다 → 예쁜 사람）"
+              }
+            },
+            {
+              "order": 3,
+              "id": "indirect_speech",
+              "title": "간접화법",
+              "title_lang_map": {
+                "en": "Indirect Speech",
+                "ko": "간접화법",
+                "es": "Estilo indirecto",
+                "fr": "Discours indirect",
+                "de": "Indirekte Rede",
+                "ja": "間接話法"
+              },
+              "description": "다른 사람의 말을 인용할 때 평서문, 의문문, 명령문에 따라 어미가 어떻게 변하는지 파악.",
+              "description_lang_map": {
+                "en": "Understanding how endings change depending on declarative, interrogative, or imperative sentences when quoting others.",
+                "ko": "-ㄴ/는다고 하다를 기본으로, 다른 사람의 말을 인용할 때 평서문, 의문문, 명령문에 따라 어미가 어떻게 변하는지 파악.",
+                "es": "Entender cómo cambian las terminaciones según oraciones declarativas, interrogativas o imperativas al citar a otros.",
+                "fr": "Comprendre comment les terminaisons changent selon les phrases déclaratives, interrogatives ou impératives lors de la citation d'autrui.",
+                "de": "Verstehen, wie sich Endungen je nach Aussagesatz, Fragesatz oder Befehlssatz beim Zitieren anderer ändern.",
+                "ja": "「-ㄴ/는다고 하다」を基本に、他人の言葉を引用する際に平叙文、疑問文、命令文によって語尾がどう変わるか把握。"
+              }
+            },
+            {
+              "order": 4,
+              "id": "passive_causative_expressions",
+              "title": "피동과 사동 표현",
+              "title_lang_map": {
+                "en": "Passive and Causative Expressions",
+                "ko": "피동과 사동 표현",
+                "es": "Expresiones pasivas y causativas",
+                "fr": "Expressions passives et causatives",
+                "de": "Passiv- und Kausativausdrücke",
+                "ja": "受動と使役表現"
+              },
+              "description": "접사나 보조용언을 통해 주어와 서술어의 관계를 바꾸는 방법.",
+              "description_lang_map": {
+                "en": "Methods to change the relationship between subject and predicate using suffixes or auxiliary verbs.",
+                "ko": "접사 '-이/히/리/기-'나 '-아/어지다'(피동), '-게 하다'(사동)를 통해 주어와 서술어의 관계를 바꾸는 방법.",
+                "es": "Métodos para cambiar la relación entre sujeto y predicado usando sufijos o verbos auxiliares.",
+                "fr": "Méthodes pour changer la relation entre le sujet et le prédicat en utilisant des suffixes ou des verbes auxiliaires.",
+                "de": "Methoden zur Änderung der Beziehung zwischen Subjekt und Prädikat unter Verwendung von Suffixen oder Hilfsverben.",
+                "ja": "接辞「-이/히/리/기-」や「-아/어지다」（受動）、「-게 하다」（使役）を通じて主語と述語の関係を変える方法。"
+              }
+            },
+            {
+              "order": 5,
+              "id": "irregular_verb_conjugations",
+              "title": "용언의 불규칙 활용",
+              "title_lang_map": {
+                "en": "Irregular Verb Conjugations",
+                "ko": "용언의 불규칙 활용",
+                "es": "Conjugaciones verbales irregulares",
+                "fr": "Conjugaisons verbales irrégulières",
+                "de": "Unregelmäßige Verbkonjugationen",
+                "ja": "用言の不規則活用"
+              },
+              "description": "'걷다(ㄷ)', '돕다(ㅂ)', '낫다(ㅅ)' 등 규칙에서 벗어나는 활용의 종류와 원리.",
+              "description_lang_map": {
+                "en": "Types and principles of conjugations that deviate from rules, such as 'geotda (d)', 'dopda (b)', 'natda (s)'.",
+                "ko": "'걷다→걸어요(ㄷ)', '돕다→도와요(ㅂ)', '낫다→나아요(ㅅ)' 등 규칙에서 벗어나는 활용의 종류와 원리 체계화.",
+                "es": "Tipos y principios de conjugaciones que se desvían de las reglas, como 'geotda (d)', 'dopda (b)', 'natda (s)'.",
+                "fr": "Types et principes de conjugaisons qui s'écartent des règles, tels que 'geotda (d)', 'dopda (b)', 'natda (s)'.",
+                "de": "Arten und Prinzipien von Konjugationen, die von den Regeln abweichen, wie 'geotda (d)', 'dopda (b)', 'natda (s)'.",
+                "ja": "「걷다→걸어요(ㄷ)」、「돕다→도와요(ㅂ)」、「낫다→나아요(ㅅ)」など規則から外れる活用の種類と原理の体系化。"
+              }
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "id": "korean_advanced_nuance",
+          "title": "[고급] 표현의 완성도와 추상적 문법",
+          "title_lang_map": {
+            "en": "[Advanced] Perfection of Expression and Abstract Grammar",
+            "ko": "[고급] 표현의 완성도와 추상적 문법",
+            "es": "[Avanzado] Perfección de la expresión y gramática abstracta",
+            "fr": "[Avancé] Perfection de l'expression et grammaire abstraite",
+            "de": "[Fortgeschritten] Perfektion des Ausdrucks und abstrakte Grammatik",
+            "ja": "[上級] 表現の完成度と抽象的文法"
+          },
+          "description": "높임법, 보조 용언, 문어체 등을 익혀 한국어의 미묘한 뉘앙스와 격식을 완성합니다.",
+          "description_lang_map": {
+            "en": "Master subtle nuances and formality of Korean through honorifics, auxiliary verbs, and written styles.",
+            "ko": "높임법, 보조 용언, 문어체 등을 익혀 한국어의 미묘한 뉘앙스와 격식을 완성합니다.",
+            "es": "Domina los matices sutiles y la formalidad del coreano a través de honoríficos, verbos auxiliares y estilos escritos.",
+            "fr": "Maîtrisez les nuances subtiles et la formalité du coréen grâce aux honorifiques, aux verbes auxiliaires et aux styles écrits.",
+            "de": "Beherrschen Sie subtile Nuancen und Formalität des Koreanischen durch Honoratioren, Hilfsverben und schriftliche Stile.",
+            "ja": "敬語、補助用言、文語体などを身につけ、韓国語の微妙なニュアンスと格式を完成させます。"
+          },
+          "subject_list": [
+            {
+              "order": 1,
+              "id": "honorific_system",
+              "title": "높임법의 체계",
+              "title_lang_map": {
+                "en": "Honorific System (Subject/Object/Relative)",
+                "ko": "높임법의 체계 (주체/객체/상대)",
+                "es": "Sistema honorífico (Sujeto/Objeto/Relativo)",
+                "fr": "Système honorifique (Sujet/Objet/Relatif)",
+                "de": "Honorativsystem (Subjekt/Objekt/Relativ)",
+                "ja": "敬語の体系（主体/客体/相対）"
+              },
+              "description": "주체 높임, 객체 높임, 상대 높임의 세 가지 체계를 종합적으로 이해.",
+              "description_lang_map": {
+                "en": "Comprehensive understanding of the three systems: Subject, Object, and Relative honorifics.",
+                "ko": "주체 높임('께서, -시-'), 객체 높임('께, 드리다, 모시다'), 상대 높임(격식체/비격식체)의 세 가지 체계를 종합적으로 이해.",
+                "es": "Comprensión integral de los tres sistemas: Honoríficos de Sujeto, Objeto y Relativo.",
+                "fr": "Compréhension complète des trois systèmes : Honorifiques du Sujet, de l'Objet et Relatifs.",
+                "de": "Umfassendes Verständnis der drei Systeme: Subjekt-, Objekt- und Relativ-Honoratioren.",
+                "ja": "主体敬語（께서, -시-）、客体敬語（께, 드리다, 모시다）、相対敬語（格式体/非格式体）の3つの体系を総合的に理解。"
+              }
+            },
+            {
+              "order": 2,
+              "id": "nominalization_endings",
+              "title": "명사형 전성어미",
+              "title_lang_map": {
+                "en": "Nominalization Endings",
+                "ko": "명사형 전성어미",
+                "es": "Terminaciones de nominalización",
+                "fr": "Terminaisons de nominalisation",
+                "de": "Nominalisierungs-Endungen",
+                "ja": "名詞形転成語尾"
+              },
+              "description": "용언을 명사로 만드는 '-(으)ㅁ'과 '-기'의 미묘한 의미 차이.",
+              "description_lang_map": {
+                "en": "Subtle semantic differences between '-(eu)m' and '-gi' which make verbs into nouns.",
+                "ko": "용언을 명사로 만드는 '-(으)ㅁ'과 '-기'의 미묘한 의미 차이. (예: 삶과 살기)",
+                "es": "Diferencias semánticas sutiles entre '-(eu)m' y '-gi' que convierten verbos en sustantivos.",
+                "fr": "Différences sémantiques subtiles entre '-(eu)m' et '-gi' qui transforment les verbes en noms.",
+                "de": "Subtile semantische Unterschiede zwischen '-(eu)m' und '-gi', die Verben in Nomen verwandeln.",
+                "ja": "用言を名詞にする「-(으)ㅁ」と「-기」の微妙な意味の違い。（例：삶と살기）"
+              }
+            },
+            {
+              "order": 3,
+              "id": "auxiliary_verbs_nuance",
+              "title": "보조 용언의 의미 분석",
+              "title_lang_map": {
+                "en": "Analysis of Auxiliary Verbs",
+                "ko": "보조 용언의 의미 분석",
+                "es": "Análisis de verbos auxiliares",
+                "fr": "Analyse des verbes auxiliaires",
+                "de": "Analyse von Hilfsverben",
+                "ja": "補助用言の意味分析"
+              },
+              "description": "본용언 뒤에 붙어 특별한 의미(시도, 진행, 완료 등)를 더하는 보조 용언의 다양한 종류와 뉘앙스.",
+              "description_lang_map": {
+                "en": "Various types and nuances of auxiliary verbs that add special meanings (attempt, progression, completion) to the main verb.",
+                "ko": "-아/어 보다(시도), -고 있다(진행/상태), -어 버리다(완료/아쉬움) 등 본용언 뒤에 붙어 특별한 의미를 더하는 보조 용언의 다양한 종류와 뉘앙스.",
+                "es": "Varios tipos y matices de verbos auxiliares que añaden significados especiales (intento, progresión, finalización) al verbo principal.",
+                "fr": "Divers types et nuances de verbes auxiliaires qui ajoutent des significations particulières (tentative, progression, achèvement) au verbe principal.",
+                "de": "Verschiedene Arten und Nuancen von Hilfsverben, die dem Hauptverb besondere Bedeutungen (Versuch, Verlauf, Abschluss) verleihen.",
+                "ja": "「-아/어 보다」（試み）、「-고 있다」（進行/状態）、「-어 버리다」（完了/残念）など本用言の後ろについて特別な意味を加える補助用言の多様な種類とニュアンス。"
+              }
+            },
+            {
+              "order": 4,
+              "id": "advanced_particles_connectives",
+              "title": "고급 연결어미와 조사",
+              "title_lang_map": {
+                "en": "Advanced Connectives and Particles",
+                "ko": "고급 연결어미와 조사",
+                "es": "Conectores y partículas avanzados",
+                "fr": "Connecteurs et particules avancés",
+                "de": "Fortgeschrittene Bindewörter und Partikel",
+                "ja": "高級連結語尾と助詞"
+              },
+              "description": "학술적이거나 미묘한 논리 관계를 나타내는 표현. (예: -(으)므로, -(으)로서)",
+              "description_lang_map": {
+                "en": "Expressions indicating academic or subtle logical relationships. (e.g., -(eu)meuro, -(eu)roseo)",
+                "ko": "-(으)므로(격식적 이유), -거든(조건), -(으)로써(수단), -(으)로서(자격) 등 학술적이거나 미묘한 논리 관계를 나타내는 표현.",
+                "es": "Expresiones que indican relaciones lógicas académicas o sutiles.",
+                "fr": "Expressions indiquant des relations logiques académiques ou subtiles.",
+                "de": "Ausdrücke, die akademische oder subtile logische Beziehungen anzeigen.",
+                "ja": "「-(으)므로」（格式的理由）、「-거든」（条件）、「-(으)로써」（手段）、「-(으)로서」（資格）など学術的または微妙な論理関係を表す表現。"
+              }
+            },
+            {
+              "order": 5,
+              "id": "literary_archaic_expressions",
+              "title": "문어체 및 고어의 흔적",
+              "title_lang_map": {
+                "en": "Written Style and Archaic Traces",
+                "ko": "문어체 및 고어의 흔적",
+                "es": "Estilo escrito y rastros arcaicos",
+                "fr": "Style écrit et traces archaïques",
+                "de": "Schriftstil und archaische Spuren",
+                "ja": "文語体および古語の痕跡"
+              },
+              "description": "문어체 표현의 특징과 현대 국어에 남아있는 중세 국어의 문법적 흔적을 이해.",
+              "description_lang_map": {
+                "en": "Understanding characteristics of written style and grammatical traces of Middle Korean remaining in modern Korean.",
+                "ko": "~하였음, ~ㄹ지니 등 문어체 표현의 특징과, 현대 국어에 남아있는 중세 국어의 문법적 흔적('나뭇가지'의 사이시옷 등)을 문법적으로 이해.",
+                "es": "Comprender las características del estilo escrito y los rastros gramaticales del coreano medio que permanecen en el coreano moderno.",
+                "fr": "Comprendre les caractéristiques du style écrit et les traces grammaticales du moyen coréen restant dans le coréen moderne.",
+                "de": "Verständnis der Merkmale des Schriftstils und der grammatikalischen Spuren des Mittelkoreanischen, die im modernen Koreanisch verbleiben.",
+                "ja": "「~하였음」、「~ㄹ지니」など文語体表現の特徴と、現代国語に残っている中世国語の文法的痕跡（「나뭇가지」の間の「ㅅ」など）を文法的に理解。"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

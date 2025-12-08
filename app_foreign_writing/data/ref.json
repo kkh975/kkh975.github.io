@@ -1,0 +1,57 @@
+{
+  "version": "1.0.0",
+  "supported_lang_list": ["en", "ko", "ja", "es", "fr", "de"],
+  "data": [
+    {
+      "lang": "en",
+      "step_list": [
+        {
+          "order": 1,
+          "id": "verb_present_tense",
+          "title": "동사 현재 시제",
+          "title_lang_map": {
+            "en": "Verb Present Tense",
+            "ko": "동사 현재 시제",
+            "es": "Present Tense de Verbo",
+            "fr": "Temps Présent du Verbe",
+            "de": "Präsens des Verbs",
+            "ja": "動詞現在形"
+          },
+          "description": "동사 현재 시제는 동사의 현재 시제를 나타내는 표현입니다.",
+          "description_lang_map": {
+            "en": "The present tense is used to describe actions or events that are happening now or happening regularly.",
+            "ko": "동사 현재 시제는 동사의 현재 시제를 나타내는 표현입니다.",
+            "es": "El presente de los verbos se utiliza para describir acciones o eventos que están sucediendo ahora o que suceden regularmente.",
+            "fr": "Le temps présent est utilisé pour décrire des actions ou des événements qui se produisent maintenant ou qui se produisent régulièrement.",
+            "de": "Das Präsens wird verwendet, um Aktionen oder Ereignisse zu beschreiben, die gerade oder regelmäßig stattfinden.",
+            "ja": "動詞の現在形は、現在起こっているか、定期的に起こっている行動や事件を表す表現です。"
+          },
+          "subject_list": [
+            {
+              "order": 1,
+              "id": "verb_present_tense_subject_1",
+              "title": "동사 현재 시제",
+              "title_lang_map": {
+                "en": "Verb Present Tense",
+                "ko": "동사 현재 시제",
+                "es": "Present Tense de Verbo",
+                "fr": "Temps Présent du Verbe",
+                "de": "Präsens des Verbs",
+                "ja": "動詞現在形"
+              },
+              "description": "동사 현재 시제는 동사의 현재 시제를 나타내는 표현입니다.",
+              "description_lang_map": {
+                "en": "The present tense is used to describe actions or events that are happening now or happening regularly.",
+                "ko": "동사 현재 시제는 동사의 현재 시제를 나타내는 표현입니다.",
+                "es": "El presente de los verbos se utiliza para describir acciones o eventos que están sucediendo ahora o que suceden regularmente.",
+                "fr": "Le temps présent est utilisé pour décrire des actions ou des événements qui se produisent maintenant ou qui se produisent régulièrement.",
+                "de": "Das Präsens wird verwendet, um Aktionen oder Ereignisse zu beschreiben, die gerade oder regelmäßig stattfinden.",
+                "ja": "動詞の現在形は、現在起こっているか、定期的に起こっている行動や事件を表す表現です。"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

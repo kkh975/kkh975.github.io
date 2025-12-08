@@ -1,0 +1,429 @@
+<!DOCTYPE html>
+<html lang="ko">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>돈 로그 - 매일 쓰는 돈, 진짜 자산이 되다</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+      tailwind.config = {
+        theme: {
+          extend: {
+            colors: {
+              "writeet-purple": "#4F46E5",
+              "writeet-dark": "#0f172a",
+              "writeet-gray": "#475569",
+            },
+          },
+        },
+      };
+    </script>
+    <style>
+      @import url("https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300;400;500;600;700;800&display=swap");
+      body {
+        font-family: "Noto Sans KR", sans-serif;
+      }
+    </style>
+  </head>
+  <body class="bg-slate-50">
+    <!-- Hero Section -->
+    <section
+      id="hero-section"
+      class="bg-gradient-to-b from-white to-slate-50 py-12 px-4 md:py-20 md:px-8"
+    >
+      <div class="max-w-4xl mx-auto text-center">
+        <h1
+          id="hero-title"
+          class="text-5xl md:text-6xl lg:text-7xl font-bold text-writeet-dark mb-10 leading-tight"
+        >
+          매일 쓰는 돈,<br />
+          <span class="text-writeet-purple">진짜 자산이 되다</span>
+        </h1>
+        <p class="text-lg md:text-xl text-writeet-gray mb-3">
+          월급은 그저 통장을 스쳐 지나가나요?
+        </p>
+        <p class="text-base md:text-lg text-writeet-gray mb-10">
+          카드값 명세서를 볼 때마다 한숨부터 나오시나요?
+        </p>
+
+        <!-- Description Card -->
+        <div
+          id="hero-description-card"
+          class="bg-slate-100 rounded-2xl p-8 md:p-10 mb-8 max-w-2xl mx-auto border-2 border-slate-200"
+        >
+          <div
+            class="text-writeet-gray text-sm md:text-base leading-relaxed text-center space-y-3"
+          >
+            <p>
+              매년 돌아오는 연말정산, '13월의 월급'은 남의 이야기처럼 들렸다면.
+            </p>
+            <p class="text-base md:text-lg font-bold">
+              이제 <span class="text-writeet-purple">돈 로그</span>로 당신의
+              소비를 '기록'하고, '분석'하며, '예측'할 시간입니다.
+            </p>
+          </div>
+        </div>
+        <button
+          id="cta-start-hero"
+          class="bg-writeet-purple text-white px-8 py-3.5 rounded-lg font-semibold text-base hover:bg-indigo-700 transition-all duration-200 flex items-center mx-auto mt-8 shadow-lg hover:shadow-xl"
+        >
+          돈 로그 무료로 시작하기
+          <svg
+            class="w-5 h-5 ml-2"
+            fill="none"
+            stroke="currentColor"
+            viewBox="0 0 24 24"
+          >
+            <path
+              stroke-linecap="round"
+              stroke-linejoin="round"
+              stroke-width="2"
+              d="M9 5l7 7-7 7"
+            ></path>
+          </svg>
+        </button>
+      </div>
+    </section>
+
+    <!-- How it Works Section -->
+    <section
+      id="how-it-works-section"
+      class="bg-white py-16 px-4 md:py-24 md:px-8"
+    >
+      <div class="max-w-6xl mx-auto">
+        <div class="text-center mb-16">
+          <h2
+            id="how-title"
+            class="text-4xl md:text-5xl font-bold text-writeet-dark mb-4"
+          >
+            How it Works
+          </h2>
+          <p class="text-base md:text-lg text-writeet-gray">
+            세 가지 단계로 시작하는 스마트 소비 관리
+          </p>
+        </div>
+
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-6 md:gap-8">
+          <!-- Step 1 -->
+          <div
+            id="how-step-1"
+            class="bg-white rounded-2xl shadow-lg p-8 hover:shadow-xl transition-shadow duration-200 border border-slate-200"
+          >
+            <div class="flex items-start justify-start gap-3 mb-6">
+              <div
+                class="w-14 h-14 bg-indigo-50 rounded-xl flex items-center justify-center"
+              >
+                <svg
+                  class="w-7 h-7 text-writeet-purple"
+                  fill="none"
+                  stroke="currentColor"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                    stroke-width="2"
+                    d="M4 4v5h.582m15.356 2A8.001 8.001 0 004.582 9m0 0H9m11 11v-5h-.581m0 0a8.003 8.003 0 01-15.357-2m15.357 2H15"
+                  ></path>
+                </svg>
+              </div>
+              <span
+                class="text-3xl leading-none font-extrabold text-writeet-purple"
+                >01</span
+              >
+            </div>
+            <h3 class="text-2xl font-bold text-writeet-dark mb-3">
+              고정 수입·지출 등록
+            </h3>
+            <p class="text-sm text-writeet-gray leading-relaxed">
+              매달 반복되는 월급, 보험료, 구독료를 한 번에 등록하고
+              잊어버리세요.
+            </p>
+          </div>
+
+          <!-- Step 2 -->
+          <div
+            id="how-step-2"
+            class="bg-white rounded-2xl shadow-lg p-8 hover:shadow-xl transition-shadow duration-200 border border-slate-200"
+          >
+            <div class="flex items-start justify-start gap-3 mb-6">
+              <div
+                class="w-14 h-14 bg-indigo-50 rounded-xl flex items-center justify-center"
+              >
+                <svg
+                  class="w-7 h-7 text-writeet-purple"
+                  fill="none"
+                  stroke="currentColor"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                    stroke-width="2"
+                    d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"
+                  ></path>
+                </svg>
+              </div>
+              <span
+                class="text-3xl leading-none font-extrabold text-writeet-purple"
+                >02</span
+              >
+            </div>
+            <h3 class="text-2xl font-bold text-writeet-dark mb-3">
+              매일의 소비 기록
+            </h3>
+            <p class="text-sm text-writeet-gray leading-relaxed">
+              오늘 쓴 내역을 간편하게 기록하고 카테고리별로 분류합니다.
+            </p>
+          </div>
+
+          <!-- Step 3 -->
+          <div
+            id="how-step-3"
+            class="bg-white rounded-2xl shadow-lg p-8 hover:shadow-xl transition-shadow duration-200 border border-slate-200"
+          >
+            <div class="flex items-start justify-start gap-3 mb-6">
+              <div
+                class="w-14 h-14 bg-indigo-50 rounded-xl flex items-center justify-center"
+              >
+                <svg
+                  class="w-7 h-7 text-writeet-purple"
+                  fill="none"
+                  stroke="currentColor"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                    stroke-width="2"
+                    d="M9 17v-2m3 2v-4m3 4v-6m2 10H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"
+                  ></path>
+                </svg>
+              </div>
+              <span
+                class="text-3xl leading-none font-extrabold text-writeet-purple"
+                >03</span
+              >
+            </div>
+            <h3 class="text-2xl font-bold text-writeet-dark mb-3">
+              한눈에 보는 리포트 확인
+            </h3>
+            <p class="text-sm text-writeet-gray leading-relaxed">
+              내 돈이 어디로 가는지, 이번 달 예산은 얼마나 남았는지 즉시
+              확인합니다.
+            </p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Features Section -->
+    <section
+      id="features-section"
+      class="bg-slate-50 py-16 px-4 md:py-24 md:px-8"
+    >
+      <div class="max-w-6xl mx-auto">
+        <div class="text-center mb-16">
+          <h2
+            id="features-title"
+            class="text-4xl md:text-5xl font-bold text-writeet-dark mb-4"
+          >
+            Features
+          </h2>
+          <p class="text-base md:text-lg text-writeet-gray">
+            내 소비를 가치 있게 관리하는 핵심 기능
+          </p>
+        </div>
+
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-6 max-w-6xl mx-auto">
+          <!-- Feature 1 -->
+          <div
+            id="feature-1"
+            class="bg-white rounded-2xl shadow-lg p-8 hover:shadow-xl transition-shadow duration-200 border border-slate-200"
+          >
+            <div class="flex items-center justify-start mb-6">
+              <div
+                class="w-14 h-14 bg-indigo-50 rounded-xl flex items-center justify-center relative"
+              >
+                <svg
+                  class="w-8 h-8 text-writeet-purple"
+                  fill="none"
+                  stroke="currentColor"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                    stroke-width="2"
+                    d="M4 4v5h.582m15.356 2A8.001 8.001 0 004.582 9m0 0H9m11 11v-5h-.581m0 0a8.003 8.003 0 01-15.357-2m15.357 2H15"
+                  ></path>
+                </svg>
+              </div>
+            </div>
+            <h3 class="text-2xl font-bold text-writeet-dark mb-3">
+              간편한 반복 설정 (반복 소득&소비)
+            </h3>
+            <p class="text-base md:text-lg text-writeet-gray leading-relaxed">
+              월급, 용돈, 대출 이자, OTT 구독료까지. 매번 입력할 필요 없이 한
+              번만 설정하면 매월 자동으로 기록되어 관리가 편해집니다.
+            </p>
+          </div>
+
+          <!-- Feature 2 -->
+          <div
+            id="feature-2"
+            class="bg-white rounded-2xl shadow-lg p-8 hover:shadow-xl transition-shadow duration-200 border border-slate-200"
+          >
+            <div class="flex items-center justify-start mb-6">
+              <div
+                class="w-14 h-14 bg-indigo-50 rounded-xl flex items-center justify-center relative"
+              >
+                <svg
+                  class="w-8 h-8 text-writeet-purple"
+                  fill="none"
+                  stroke="currentColor"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                    stroke-width="2"
+                    d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"
+                  ></path>
+                </svg>
+              </div>
+            </div>
+            <h3 class="text-2xl font-bold text-writeet-dark mb-3">
+              연말정산 미리보기 (소비 체크)
+            </h3>
+            <p class="text-base md:text-lg text-writeet-gray leading-relaxed">
+              지금까지의 소비 패턴을 분석해 연말정산 공제 한도 달성률을
+              체크합니다. 남은 기간, 세금 혜택을 위한 현명한 소비 계획을 세울 수
+              있습니다.
+            </p>
+          </div>
+
+          <!-- Feature 3 -->
+          <div
+            id="feature-3"
+            class="bg-white rounded-2xl shadow-lg p-8 hover:shadow-xl transition-shadow duration-200 border border-slate-200"
+          >
+            <div class="flex items-center justify-start mb-6">
+              <div
+                class="w-14 h-14 bg-indigo-50 rounded-xl flex items-center justify-center relative"
+              >
+                <svg
+                  class="w-8 h-8 text-writeet-purple"
+                  fill="none"
+                  stroke="currentColor"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                    stroke-width="2"
+                    d="M12 8c-1.657 0-3 .895-3 2s1.343 2 3 2 3 .895 3 2-1.343 2-3 2m0-8c1.11 0 2.08.402 2.599 1M12 8V7m0 1v8m0 0v1m0-1c-1.11 0-2.08-.402-2.599-1M21 12a9 9 0 11-18 0 9 9 0 0118 0z"
+                  ></path>
+                </svg>
+              </div>
+            </div>
+            <h3 class="text-2xl font-bold text-writeet-dark mb-3">
+              직관적인 예산 관리
+            </h3>
+            <p class="text-base md:text-lg text-writeet-gray leading-relaxed">
+              월별, 카테고리별 예산을 설정하고 실시간으로 지출 현황을 파악하여
+              불필요한 소비를 효과적으로 통제할 수 있습니다.
+            </p>
+          </div>
+          <!-- Feature 4 -->
+          <div
+            id="feature-4"
+            class="bg-white rounded-2xl shadow-lg p-8 hover:shadow-xl transition-shadow duration-200 border border-slate-200"
+          >
+            <div class="flex items-center justify-start mb-6">
+              <div
+                class="w-14 h-14 bg-indigo-50 rounded-xl flex items-center justify-center relative"
+              >
+                <svg
+                  class="w-8 h-8 text-writeet-purple"
+                  fill="none"
+                  stroke="currentColor"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                    stroke-width="2"
+                    d="M9 19v-6a2 2 0 00-2-2H5a2 2 0 00-2 2v6a2 2 0 002 2h2a2 2 0 002-2zm0 0V9a2 2 0 012-2h2a2 2 0 012 2v10m-6 0a2 2 0 002 2h2a2 2 0 002-2m0 0V5a2 2 0 012-2h2a2 2 0 012 2v14a2 2 0 01-2 2h-2a2 2 0 01-2-2z"
+                  ></path>
+                </svg>
+              </div>
+            </div>
+            <h3 class="text-2xl font-bold text-writeet-dark mb-3">
+              한눈에 보는 소비 리포트
+            </h3>
+            <p class="text-base md:text-lg text-writeet-gray leading-relaxed">
+              캘린더 뷰와 통계 그래프를 통해 내 소비 습관을 직관적으로 파악하고,
+              다음 달 재무 계획을 미리 세울 수 있습니다.
+            </p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Final Call to Action -->
+    <section
+      id="final-cta-section"
+      class="bg-writeet-dark py-16 px-4 md:py-24 md:px-8"
+    >
+      <div class="max-w-4xl mx-auto text-center">
+        <h2
+          id="final-cta-title"
+          class="text-3xl md:text-6xl font-bold text-white mb-6 leading-tight"
+        >
+          무조건 저축보다,<br />
+          <span class="text-indigo-300">현명한 소비를 시작하세요</span>
+        </h2>
+        <p class="text-base md:text-lg text-slate-300 mb-10">
+          돈 로그로 지금 시작하세요.
+        </p>
+        <button
+          id="cta-start-final"
+          class="bg-writeet-purple text-white px-8 py-3.5 rounded-lg font-semibold text-base hover:bg-indigo-700 transition-all duration-200 inline-flex items-center mb-4 shadow-lg hover:shadow-xl"
+        >
+          돈 로그 무료로 시작하기
+          <svg
+            class="w-5 h-5 ml-2"
+            fill="none"
+            stroke="currentColor"
+            viewBox="0 0 24 24"
+          >
+            <path
+              stroke-linecap="round"
+              stroke-linejoin="round"
+              stroke-width="2"
+              d="M9 5l7 7-7 7"
+            ></path>
+          </svg>
+        </button>
+        <p class="text-sm text-slate-400">신용카드 정보가 필요 없습니다.</p>
+      </div>
+    </section>
+
+    <!-- Footer -->
+    <footer
+      id="footer"
+      class="bg-writeet-dark border-t border-slate-700 py-12 px-4 md:px-8 text-center"
+    >
+      <div class="max-w-4xl mx-auto text-center">
+        <h3 class="text-2xl font-bold text-white mb-2">돈 로그</h3>
+        <p class="text-slate-400 text-sm mb-6">
+          매일 쓰는 돈을 진짜 자산으로 만들어가세요
+        </p>
+        <p class="text-xs text-slate-500">
+          © 2024 돈 로그. All rights reserved.
+        </p>
+      </div>
+    </footer>
+  </body>
+</html>

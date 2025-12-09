@@ -1,6 +1,73 @@
 {
   "version": "0.0.0",
-  "supported_lang_list": ["en", "ko", "ja", "es", "fr", "de"],
+  "support_lang_list": [
+    {
+      "lang": "en",
+      "lang_lang_map": {
+        "en": "English",
+        "ko": "영어",
+        "es": "Inglés",
+        "fr": "Anglais",
+        "de": "Englisch",
+        "ja": "英語"
+      }
+    },
+    {
+      "lang": "ko",
+      "lang_lang_map": {
+        "en": "Korean",
+        "ko": "한국어",
+        "es": "Coreano",
+        "fr": "Coréen",
+        "de": "Koreanisch",
+        "ja": "韓国語"
+      }
+    },
+    {
+      "lang": "es",
+      "lang_lang_map": {
+        "en": "Spanish",
+        "ko": "스페인어",
+        "es": "Español",
+        "fr": "Espagnol",
+        "de": "Spanisch",
+        "ja": "スペイン語"
+      }
+    },
+    {
+      "lang": "fr",
+      "lang_lang_map": {
+        "en": "French",
+        "ko": "프랑스어",
+        "es": "Francés",
+        "fr": "Français",
+        "de": "Französisch",
+        "ja": "フランス語"
+      }
+    },
+    {
+      "lang": "de",
+      "lang_lang_map": {
+        "en": "German",
+        "ko": "독일어",
+        "es": "Alemán",
+        "fr": "Allemand",
+        "de": "Deutsch",
+        "ja": "ドイツ語"
+      }
+    },
+    {
+      "lang": "ja",
+      "lang_lang_map": {
+        "en": "Japanese",
+        "ko": "일본어",
+        "es": "Japonés",
+        "fr": "Japonais",
+        "de": "Japanisch",
+        "ja": "日本語"
+      }
+    }
+  ],
   "data": [
     {
       "lang": "de",

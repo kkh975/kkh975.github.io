@@ -1,6 +1,18 @@
 {
   "version": "1.0.0",
-  "supported_lang_list": ["en", "ko", "ja", "es", "fr", "de"],
+  "support_lang_list": [
+    {
+      "lang": "en",
+      "lang_lang_map": {
+        "en": "English",
+        "ko": "영어",
+        "es": "Inglés",
+        "fr": "Anglais",
+        "de": "Englisch",
+        "ja": "英語"
+      }
+    }
+  ],
   "data": [
     {
       "lang": "en",

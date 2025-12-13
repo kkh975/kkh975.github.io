@@ -1,0 +1,47 @@
+name: Update Version Files
+on:
+    push:
+        paths:
+            - "app_hanja_learn/data/data.json"
+            - "app_foreign_writing/data/data.json"
+
+permissions:
+    contents: write
+
+jobs:
+    extract-version:
+        runs-on: ubuntu-latest
+        steps:
+            - name: Checkout code
+              uses: actions/checkout@v4
+
+            - name: Extract version for app_hanja_learn
+              run: |
+                  TARGET_DIR="app_hanja_learn/data"
+                  if [ -f "$TARGET_DIR/data.json" ]; then
+                      jq -r '.version' "$TARGET_DIR/data.json" > "$TARGET_DIR/version.txt"
+                  fi
+
+            - name: Extract version for app_foreign_writing
+              run: |
+                  TARGET_DIR="app_foreign_writing/data"
+                  if [ -f "$TARGET_DIR/data.json" ]; then
+                      jq -r '.version' "$TARGET_DIR/data.json" > "$TARGET_DIR/version.txt"
+                  fi
+
+            - name: Commit and Push
+              run: |
+                  git config user.name "github-actions[bot]"
+                  git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+                  # 변경된 파일만 스테이징
+                  if [ -f "app_hanja_learn/data/version.txt" ]; then
+                      git add app_hanja_learn/data/version.txt || true
+                  fi
+
+                  if [ -f "app_foreign_writing/data/version.txt" ]; then
+                      git add app_foreign_writing/data/version.txt || true
+                  fi
+
+                  git commit -m "Update version.txt files [skip ci]" || echo "No changes to commit"
+                  git push

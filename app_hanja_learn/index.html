@@ -1,0 +1,436 @@
+<!DOCTYPE html>
+<html lang="ko">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Hanjabelle - 2,136자 상용한자 완주</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+      tailwind.config = {
+        theme: {
+          extend: {
+            colors: {
+              "hanja-primary": "#2563eb",
+              "hanja-dark": "#0f172a",
+              "hanja-gray": "#475569",
+              "hanja-accent": "#14b8a6",
+            },
+          },
+        },
+      };
+    </script>
+    <style>
+      @import url("https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300;400;500;600;700;800&display=swap");
+      body {
+        font-family: "Noto Sans KR", sans-serif;
+      }
+    </style>
+  </head>
+  <body class="bg-slate-50">
+    <!-- Hero Section -->
+    <section
+      id="hero-section"
+      class="bg-gradient-to-b from-white to-slate-50 py-12 px-4 md:py-20 md:px-8"
+    >
+      <div class="max-w-5xl mx-auto text-center">
+        <p class="text-sm md:text-base font-semibold text-hanja-accent mb-4">
+          2주 무료 체험 · 로그인 없이 시작
+        </p>
+        <h1
+          id="hero-title"
+          class="text-5xl md:text-6xl lg:text-7xl font-bold text-hanja-dark mb-8 leading-tight"
+        >
+          2,136자 상용한자,<br />
+          <span class="text-hanja-primary">아름답게 완주하기</span>
+        </h1>
+        <p class="text-lg md:text-xl text-hanja-gray mb-4">
+          일본어 한자 학습, 어디서부터 시작할지 막막하셨나요?
+        </p>
+        <p class="text-base md:text-lg text-hanja-gray mb-10">
+          자동 복습부터 실전 테스트까지, 단계별로 완주를 돕는 Hanjabelle과 함께하세요.
+        </p>
+
+        <div
+          id="hero-description-card"
+          class="bg-slate-100 rounded-2xl p-8 md:p-10 mb-10 max-w-3xl mx-auto border-2 border-slate-200"
+        >
+          <div
+            class="text-hanja-gray text-sm md:text-base leading-relaxed text-center space-y-3"
+          >
+            <p>
+              단순 암기가 아닌, 쓰기·스토리·연관 단어로 입체적으로 익혀 오래 기억되는 학습 경험을 제공합니다.
+            </p>
+            <p class="text-base md:text-lg font-bold text-hanja-dark">
+              설치 후 2주간은 로그인 없이 모든 기능을 자유롭게 체험할 수 있어요.
+            </p>
+          </div>
+        </div>
+
+        <div class="flex flex-col items-center gap-3">
+          <button
+            id="cta-start-hero"
+            class="bg-hanja-primary text-white px-8 py-3.5 rounded-lg font-semibold text-base hover:bg-blue-700 transition-all duration-200 flex items-center shadow-lg hover:shadow-xl"
+          >
+            무료로 시작하기
+            <svg
+              class="w-5 h-5 ml-2"
+              fill="none"
+              stroke="currentColor"
+              viewBox="0 0 24 24"
+            >
+              <path
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                stroke-width="2"
+                d="M9 5l7 7-7 7"
+              ></path>
+            </svg>
+          </button>
+          <p class="text-xs text-slate-500">신용카드 정보가 필요 없습니다.</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- How it Works Section -->
+    <section
+      id="how-it-works-section"
+      class="bg-white py-16 px-4 md:py-24 md:px-8"
+    >
+      <div class="max-w-6xl mx-auto">
+        <div class="text-center mb-16">
+          <h2
+            id="how-title"
+            class="text-4xl md:text-5xl font-bold text-hanja-dark mb-4"
+          >
+            How it Works
+          </h2>
+          <p class="text-base md:text-lg text-hanja-gray">
+            자동 복습부터 테스트까지, 3단계로 완주하는 한자 학습
+          </p>
+        </div>
+
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-6 md:gap-8">
+          <!-- Step 1 -->
+          <div
+            id="how-step-1"
+            class="bg-white rounded-2xl shadow-lg p-8 hover:shadow-xl transition-shadow duration-200 border border-slate-200"
+          >
+            <div class="flex items-start justify-start gap-3 mb-6">
+              <div
+                class="w-14 h-14 bg-blue-50 rounded-xl flex items-center justify-center"
+              >
+                <svg
+                  class="w-7 h-7 text-hanja-primary"
+                  fill="none"
+                  stroke="currentColor"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                    stroke-width="2"
+                    d="M15 12a3 3 0 11-6 0 3 3 0 016 0z"
+                  ></path>
+                  <path
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                    stroke-width="2"
+                    d="M2.458 12C3.732 7.943 7.523 5 12 5c4.478 0 8.268 2.943 9.542 7-1.274 4.057-5.064 7-9.542 7-4.477 0-8.268-2.943-9.542-7z"
+                  ></path>
+                </svg>
+              </div>
+              <span
+                class="text-3xl leading-none font-extrabold text-hanja-primary"
+                >01</span
+              >
+            </div>
+            <h3 class="text-2xl font-bold text-hanja-dark mb-3">
+              내게 맞는 오늘의 리스트 선택
+            </h3>
+            <p class="text-sm text-hanja-gray leading-relaxed">
+              새로 배울 한자를 확인하고, 이미 아는 글자는 [이미 알고 있음]으로 바로 통과해 맞춤형 학습 리스트를 확정합니다.
+            </p>
+          </div>
+
+          <!-- Step 2 -->
+          <div
+            id="how-step-2"
+            class="bg-white rounded-2xl shadow-lg p-8 hover:shadow-xl transition-shadow duration-200 border border-slate-200"
+          >
+            <div class="flex items-start justify-start gap-3 mb-6">
+              <div
+                class="w-14 h-14 bg-blue-50 rounded-xl flex items-center justify-center"
+              >
+                <svg
+                  class="w-7 h-7 text-hanja-primary"
+                  fill="none"
+                  stroke="currentColor"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                    stroke-width="2"
+                    d="M11 5H6a2 2 0 00-2 2v11a2 2 0 002 2h11a2 2 0 002-2v-5m-1.414-9.414a2 2 0 112.828 2.828L11.828 15H9v-2.828l8.586-8.586z"
+                  ></path>
+                </svg>
+              </div>
+              <span
+                class="text-3xl leading-none font-extrabold text-hanja-primary"
+                >02</span
+              >
+            </div>
+            <h3 class="text-2xl font-bold text-hanja-dark mb-3">
+              플래시카드 → 실전 테스트
+            </h3>
+            <p class="text-sm text-hanja-gray leading-relaxed">
+              앞면(한자)·뒷면(의미/이미지) 카드로 익힌 뒤, 음독/훈독 ↔ 한자 4지 선다 퀴즈로 바로 실전 감각을 체크합니다.
+            </p>
+          </div>
+
+          <!-- Step 3 -->
+          <div
+            id="how-step-3"
+            class="bg-white rounded-2xl shadow-lg p-8 hover:shadow-xl transition-shadow duration-200 border border-slate-200"
+          >
+            <div class="flex items-start justify-start gap-3 mb-6">
+              <div
+                class="w-14 h-14 bg-blue-50 rounded-xl flex items-center justify-center"
+              >
+                <svg
+                  class="w-7 h-7 text-hanja-primary"
+                  fill="none"
+                  stroke="currentColor"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                    stroke-width="2"
+                    d="M9 19v-6a2 2 0 00-2-2H5a2 2 0 00-2 2v6a2 2 0 002 2h2a2 2 0 002-2zm0 0V9a2 2 0 012-2h2a2 2 0 012 2v10m-6 0a2 2 0 002 2h2a2 2 0 002-2m0 0V5a2 2 0 012-2h2a2 2 0 012 2v14a2 2 0 01-2 2h-2a2 2 0 01-2-2z"
+                  ></path>
+                </svg>
+              </div>
+              <span
+                class="text-3xl leading-none font-extrabold text-hanja-primary"
+                >03</span
+              >
+            </div>
+            <h3 class="text-2xl font-bold text-hanja-dark mb-3">
+              수집 현황과 기록으로 동기 부여
+            </h3>
+            <p class="text-sm text-hanja-gray leading-relaxed">
+              학습 완료한 한자는 도감(Grid)에서 활성화되고, 날짜별 타임라인에 로그가 쌓여 진행 상황을 한눈에 볼 수 있습니다.
+            </p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Features Section -->
+    <section
+      id="features-section"
+      class="bg-slate-50 py-16 px-4 md:py-24 md:px-8"
+    >
+      <div class="max-w-6xl mx-auto">
+        <div class="text-center mb-16">
+          <h2
+            id="features-title"
+            class="text-4xl md:text-5xl font-bold text-hanja-dark mb-4"
+          >
+            Features
+          </h2>
+          <p class="text-base md:text-lg text-hanja-gray">
+            입체적으로 익히고 오래 기억하는 한자 학습 경험
+          </p>
+        </div>
+
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-6 max-w-6xl mx-auto">
+          <!-- Feature 1 -->
+          <div
+            id="feature-1"
+            class="bg-white rounded-2xl shadow-lg p-8 hover:shadow-xl transition-shadow duration-200 border border-slate-200"
+          >
+            <div class="flex items-center justify-start mb-6">
+              <div
+                class="w-14 h-14 bg-blue-50 rounded-xl flex items-center justify-center relative"
+              >
+                <svg
+                  class="w-8 h-8 text-hanja-primary"
+                  fill="none"
+                  stroke="currentColor"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                    stroke-width="2"
+                    d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.746 0 3.332.477 4.5 1.253v13C19.832 18.477 18.246 18 16.5 18c-1.746 0-3.332.477-4.5 1.253"
+                  ></path>
+                </svg>
+              </div>
+            </div>
+            <h3 class="text-2xl font-bold text-hanja-dark mb-3">
+              단계별 학습 플로우
+            </h3>
+            <p class="text-base md:text-lg text-hanja-gray leading-relaxed">
+              자동 복습 → 큐레이션 → 플래시카드 → 테스트 → 완료까지 이어지는 구조로 누락 없이 반복 학습합니다.
+            </p>
+          </div>
+
+          <!-- Feature 2 -->
+          <div
+            id="feature-2"
+            class="bg-white rounded-2xl shadow-lg p-8 hover:shadow-xl transition-shadow duration-200 border border-slate-200"
+          >
+            <div class="flex items-center justify-start mb-6">
+              <div
+                class="w-14 h-14 bg-blue-50 rounded-xl flex items-center justify-center relative"
+              >
+                <svg
+                  class="w-8 h-8 text-hanja-primary"
+                  fill="none"
+                  stroke="currentColor"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                    stroke-width="2"
+                    d="M7 12l3-3 3 3 4-4M8 21l4-4 4 4M3 4h18M4 4h16v12a1 1 0 01-1 1H5a1 1 0 01-1-1V4z"
+                  ></path>
+                </svg>
+              </div>
+            </div>
+            <h3 class="text-2xl font-bold text-hanja-dark mb-3">
+              도감 수집 시스템
+            </h3>
+            <p class="text-base md:text-lg text-hanja-gray leading-relaxed">
+              2,136자 상용한자 현황을 컬러로 표시해 달성도를 시각화하고, 활성화된 한자만 선명하게 확인합니다.
+            </p>
+          </div>
+
+          <!-- Feature 3 -->
+          <div
+            id="feature-3"
+            class="bg-white rounded-2xl shadow-lg p-8 hover:shadow-xl transition-shadow duration-200 border border-slate-200"
+          >
+            <div class="flex items-center justify-start mb-6">
+              <div
+                class="w-14 h-14 bg-blue-50 rounded-xl flex items-center justify-center relative"
+              >
+                <svg
+                  class="w-8 h-8 text-hanja-primary"
+                  fill="none"
+                  stroke="currentColor"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                    stroke-width="2"
+                    d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"
+                  ></path>
+                </svg>
+              </div>
+            </div>
+            <h3 class="text-2xl font-bold text-hanja-dark mb-3">
+              개별 한자 심화
+            </h3>
+            <p class="text-base md:text-lg text-hanja-gray leading-relaxed">
+              따라쓰기, 스토리, 연관 단어, 시험 문제로 한 글자씩 깊이 있게 익히며, 탭 어디서든 상세 화면에 바로 접근합니다.
+            </p>
+          </div>
+
+          <!-- Feature 4 -->
+          <div
+            id="feature-4"
+            class="bg-white rounded-2xl shadow-lg p-8 hover:shadow-xl transition-shadow duration-200 border border-slate-200"
+          >
+            <div class="flex items-center justify-start mb-6">
+              <div
+                class="w-14 h-14 bg-blue-50 rounded-xl flex items-center justify-center relative"
+              >
+                <svg
+                  class="w-8 h-8 text-hanja-primary"
+                  fill="none"
+                  stroke="currentColor"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                    stroke-width="2"
+                    d="M13 10V3L4 14h7v7l9-11h-7z"
+                  ></path>
+                </svg>
+              </div>
+            </div>
+            <h3 class="text-2xl font-bold text-hanja-dark mb-3">
+              합리적 접근 제어
+            </h3>
+            <p class="text-base md:text-lg text-hanja-gray leading-relaxed">
+              설치 후 2주 체험(로그인 불필요) → 로그인 후 2주 자유 이용 → 이후 Basic/Premium으로 지속 학습을 지원합니다.
+            </p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Final Call to Action -->
+    <section
+      id="final-cta-section"
+      class="bg-hanja-dark py-16 px-4 md:py-24 md:px-8"
+    >
+      <div class="max-w-4xl mx-auto text-center">
+        <h2
+          id="final-cta-title"
+          class="text-3xl md:text-6xl font-bold text-white mb-6 leading-tight"
+        >
+          한자 학습, 감이 아닌<br />
+          <span class="text-blue-200">데이터로 완주하세요</span>
+        </h2>
+        <p class="text-base md:text-lg text-slate-300 mb-10">
+          기록과 도감으로 동기 부여를 이어가는 한자 학습 여정
+        </p>
+        <button
+          id="cta-start-final"
+          class="bg-hanja-primary text-white px-8 py-3.5 rounded-lg font-semibold text-base hover:bg-blue-700 transition-all duration-200 inline-flex items-center mb-4 shadow-lg hover:shadow-xl"
+        >
+          무료로 시작하기
+          <svg
+            class="w-5 h-5 ml-2"
+            fill="none"
+            stroke="currentColor"
+            viewBox="0 0 24 24"
+          >
+            <path
+              stroke-linecap="round"
+              stroke-linejoin="round"
+              stroke-width="2"
+              d="M9 5l7 7-7 7"
+            ></path>
+          </svg>
+        </button>
+        <p class="text-sm text-slate-400">신용카드 정보가 필요 없습니다.</p>
+      </div>
+    </section>
+
+    <!-- Footer -->
+    <footer
+      id="footer"
+      class="bg-hanja-dark border-t border-slate-700 py-12 px-4 md:px-8 text-center"
+    >
+      <div class="max-w-4xl mx-auto text-center">
+        <h3 class="text-2xl font-bold text-white mb-2">Hanjabelle</h3>
+        <p class="text-slate-400 text-sm mb-6">
+          2,136자 상용한자, 아름답게 완주하기
+        </p>
+        <p class="text-xs text-slate-500">
+          © 2024 Hanjabelle. All rights reserved.
+        </p>
+      </div>
+    </footer>
+  </body>
+</html>
+

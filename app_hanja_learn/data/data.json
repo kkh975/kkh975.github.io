@@ -17,6 +17,7 @@
         "ko_hun": "하나",
         "ko_eum": "일"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -45,6 +46,7 @@
         "ko_hun": "오른쪽",
         "ko_eum": "우"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -73,6 +75,7 @@
         "ko_hun": "비",
         "ko_eum": "우"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -101,6 +104,7 @@
         "ko_hun": "둥글다",
         "ko_eum": "원"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -129,6 +133,7 @@
         "ko_hun": "임금",
         "ko_eum": "왕"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -158,6 +163,7 @@
         "ko_hun": "소리",
         "ko_eum": "음"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -186,6 +192,7 @@
         "ko_hun": "아래",
         "ko_eum": "하"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -214,6 +221,7 @@
         "ko_hun": "불",
         "ko_eum": "화"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -242,6 +250,7 @@
         "ko_hun": "꽃",
         "ko_eum": "화"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -270,6 +279,7 @@
         "ko_hun": "조개",
         "ko_eum": "패"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -298,6 +308,7 @@
         "ko_hun": "배우다",
         "ko_eum": "학"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -326,6 +337,7 @@
         "ko_hun": "기운",
         "ko_eum": "기"
       },
+      "story": {},
       "readings": {
         "on": [
           {
@@ -354,6 +366,7 @@
         "ko_hun": "아홉",
         "ko_eum": "구"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -382,6 +395,7 @@
         "ko_hun": "쉬다",
         "ko_eum": "휴"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -410,6 +424,7 @@
         "ko_hun": "구슬",
         "ko_eum": "옥"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -438,6 +453,7 @@
         "ko_hun": "금",
         "ko_eum": "금"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -466,6 +482,7 @@
         "ko_hun": "하늘",
         "ko_eum": "공"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -494,6 +511,7 @@
         "ko_hun": "달",
         "ko_eum": "월"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -522,6 +540,7 @@
         "ko_hun": "개",
         "ko_eum": "견"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -550,6 +569,7 @@
         "ko_hun": "볼",
         "ko_eum": "견"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -578,6 +598,7 @@
         "ko_hun": "다섯",
         "ko_eum": "오"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -606,6 +627,7 @@
         "ko_hun": "입",
         "ko_eum": "구"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -634,6 +656,7 @@
         "ko_hun": "학교",
         "ko_eum": "교"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -663,6 +686,7 @@
         "ko_hun": "왼쪽",
         "ko_eum": "좌"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -691,6 +715,7 @@
         "ko_hun": "셋",
         "ko_eum": "삼"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -726,6 +751,7 @@
         "ko_hun": "산",
         "ko_eum": "산"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -754,6 +780,7 @@
         "ko_hun": "아들",
         "ko_eum": "자"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -782,6 +809,7 @@
         "ko_hun": "넷",
         "ko_eum": "사"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -817,6 +845,7 @@
         "ko_hun": "실",
         "ko_eum": "사"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -845,6 +874,7 @@
         "ko_hun": "글자",
         "ko_eum": "자"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -874,6 +904,7 @@
         "ko_hun": "귀",
         "ko_eum": "이"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -902,6 +933,7 @@
         "ko_hun": "일곱",
         "ko_eum": "칠"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -937,6 +969,7 @@
         "ko_hun": "차",
         "ko_eum": "차"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -965,6 +998,7 @@
         "ko_hun": "손",
         "ko_eum": "수"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -993,6 +1027,7 @@
         "ko_hun": "열",
         "ko_eum": "십"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -1021,6 +1056,7 @@
         "ko_hun": "나가다",
         "ko_eum": "출"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -1049,6 +1085,7 @@
         "ko_hun": "여자",
         "ko_eum": "녀"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -1077,6 +1114,7 @@
         "ko_hun": "작다",
         "ko_eum": "소"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -1105,6 +1143,7 @@
         "ko_hun": "위",
         "ko_eum": "상"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -1133,6 +1172,7 @@
         "ko_hun": "숲",
         "ko_eum": "삼"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -1161,6 +1201,7 @@
         "ko_hun": "사람",
         "ko_eum": "인"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -1189,6 +1230,7 @@
         "ko_hun": "물",
         "ko_eum": "수"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -1217,6 +1259,7 @@
         "ko_hun": "바르다",
         "ko_eum": "정"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -1245,6 +1288,7 @@
         "ko_hun": "살다",
         "ko_eum": "생"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -1273,6 +1317,7 @@
         "ko_hun": "푸르다",
         "ko_eum": "청"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -1301,6 +1346,7 @@
         "ko_hun": "저녁",
         "ko_eum": "석"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -1329,6 +1375,7 @@
         "ko_hun": "돌",
         "ko_eum": "석"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -1357,6 +1404,7 @@
         "ko_hun": "붉다",
         "ko_eum": "적"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -1385,6 +1433,7 @@
         "ko_hun": "일천",
         "ko_eum": "천"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -1414,6 +1463,7 @@
         "ko_hun": "내",
         "ko_eum": "천"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -1443,6 +1493,7 @@
         "ko_hun": "먼저",
         "ko_eum": "선"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -1472,6 +1523,7 @@
         "ko_hun": "일찍",
         "ko_eum": "조"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -1501,6 +1553,7 @@
         "ko_hun": "풀",
         "ko_eum": "초"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -1530,6 +1583,7 @@
         "ko_hun": "발",
         "ko_eum": "족"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -1559,6 +1613,7 @@
         "ko_hun": "마을",
         "ko_eum": "촌"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -1588,6 +1643,7 @@
         "ko_hun": "큰",
         "ko_eum": "대"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -1617,6 +1673,7 @@
         "ko_hun": "사내",
         "ko_eum": "남"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -1646,6 +1703,7 @@
         "ko_hun": "대나무",
         "ko_eum": "죽"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -1675,6 +1733,7 @@
         "ko_hun": "가운데",
         "ko_eum": "중"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -1704,6 +1763,7 @@
         "ko_hun": "벌레",
         "ko_eum": "충"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -1733,6 +1793,7 @@
         "ko_hun": "밭두둑",
         "ko_eum": "정"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -1762,6 +1823,7 @@
         "ko_hun": "하늘",
         "ko_eum": "천"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -1791,6 +1853,7 @@
         "ko_hun": "논",
         "ko_eum": "전"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -1820,6 +1883,7 @@
         "ko_hun": "흙",
         "ko_eum": "토"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -1849,6 +1913,7 @@
         "ko_hun": "두",
         "ko_eum": "이"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -1877,6 +1942,7 @@
         "ko_hun": "날",
         "ko_eum": "일"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -1905,6 +1971,7 @@
         "ko_hun": "들어갈",
         "ko_eum": "입"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -1933,6 +2000,7 @@
         "ko_hun": "해",
         "ko_eum": "년"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -1961,6 +2029,7 @@
         "ko_hun": "흰",
         "ko_eum": "백"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -1989,6 +2058,7 @@
         "ko_hun": "여덟",
         "ko_eum": "팔"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -2017,6 +2087,7 @@
         "ko_hun": "일백",
         "ko_eum": "백"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -2045,6 +2116,7 @@
         "ko_hun": "글월",
         "ko_eum": "문"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -2073,6 +2145,7 @@
         "ko_hun": "나무",
         "ko_eum": "목"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -2101,6 +2174,7 @@
         "ko_hun": "근본",
         "ko_eum": "본"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -2129,6 +2203,7 @@
         "ko_hun": "이름",
         "ko_eum": "명"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -2157,6 +2232,7 @@
         "ko_hun": "눈",
         "ko_eum": "목"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -2185,6 +2261,7 @@
         "ko_hun": "설",
         "ko_eum": "립"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -2213,6 +2290,7 @@
         "ko_hun": "힘",
         "ko_eum": "력"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -2241,6 +2319,7 @@
         "ko_hun": "수풀",
         "ko_eum": "림"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -2269,6 +2348,7 @@
         "ko_hun": "여섯",
         "ko_eum": "육"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -2297,6 +2377,7 @@
         "ko_hun": "끌",
         "ko_eum": "인"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -2325,6 +2406,7 @@
         "ko_hun": "깃",
         "ko_eum": "우"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -2353,6 +2435,7 @@
         "ko_hun": "구름",
         "ko_eum": "운"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -2381,6 +2464,7 @@
         "ko_hun": "동산",
         "ko_eum": "원"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -2409,6 +2493,7 @@
         "ko_hun": "멀",
         "ko_eum": "원"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -2437,6 +2522,7 @@
         "ko_hun": "어찌",
         "ko_eum": "하"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -2465,6 +2551,7 @@
         "ko_hun": "과목",
         "ko_eum": "과"
       },
+      "story": {},
       "readings": {
         "on": [
           {
@@ -2493,6 +2580,7 @@
         "ko_hun": "여름",
         "ko_eum": "하"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -2521,6 +2609,7 @@
         "ko_hun": "집",
         "ko_eum": "가"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -2549,6 +2638,7 @@
         "ko_hun": "노래",
         "ko_eum": "가"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -2577,6 +2667,7 @@
         "ko_hun": "그림",
         "ko_eum": "화"
       },
+      "story": {},
       "readings": {
         "on": [
           {
@@ -2605,6 +2696,7 @@
         "ko_hun": "돌",
         "ko_eum": "회"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -2633,6 +2725,7 @@
         "ko_hun": "모일",
         "ko_eum": "회"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -2661,6 +2754,7 @@
         "ko_hun": "바다",
         "ko_eum": "해"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -2689,6 +2783,7 @@
         "ko_hun": "그림",
         "ko_eum": "회"
       },
+      "story": {},
       "readings": {
         "on": [
           {
@@ -2717,6 +2812,7 @@
         "ko_hun": "바깥",
         "ko_eum": "외"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -2745,6 +2841,7 @@
         "ko_hun": "뿔",
         "ko_eum": "각"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -2773,6 +2870,7 @@
         "ko_hun": "즐길",
         "ko_eum": "락, 악"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -2801,6 +2899,7 @@
         "ko_hun": "살",
         "ko_eum": "활"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -2829,6 +2928,7 @@
         "ko_hun": "사이",
         "ko_eum": "간"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -2857,6 +2957,7 @@
         "ko_hun": "둥글",
         "ko_eum": "환"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -2885,6 +2986,7 @@
         "ko_hun": "바위",
         "ko_eum": "암"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -2913,6 +3015,7 @@
         "ko_hun": "얼굴",
         "ko_eum": "안"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -2941,6 +3044,7 @@
         "ko_hun": "김",
         "ko_eum": "기"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -2970,6 +3074,7 @@
         "ko_hun": "기록할",
         "ko_eum": "기"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -2998,6 +3103,7 @@
         "ko_hun": "돌아갈",
         "ko_eum": "귀"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -3026,6 +3132,7 @@
         "ko_hun": "활",
         "ko_eum": "궁"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -3054,6 +3161,7 @@
         "ko_hun": "소",
         "ko_eum": "우"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -3082,6 +3190,7 @@
         "ko_hun": "물고기",
         "ko_eum": "어"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -3110,6 +3219,7 @@
         "ko_hun": "서울",
         "ko_eum": "경"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -3139,6 +3249,7 @@
         "ko_hun": "강할",
         "ko_eum": "강"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -3167,6 +3278,7 @@
         "ko_hun": "가르칠",
         "ko_eum": "교"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -3195,6 +3307,7 @@
         "ko_hun": "가까울",
         "ko_eum": "근"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -3223,6 +3336,7 @@
         "ko_hun": "맏",
         "ko_eum": "형"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -3251,6 +3365,7 @@
         "ko_hun": "모양",
         "ko_eum": "형"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -3279,6 +3394,7 @@
         "ko_hun": "셈할",
         "ko_eum": "계"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -3307,6 +3423,7 @@
         "ko_hun": "으뜸",
         "ko_eum": "원"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -3335,6 +3452,7 @@
         "ko_hun": "말씀",
         "ko_eum": "언"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -3363,6 +3481,7 @@
         "ko_hun": "언덕",
         "ko_eum": "원"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -3391,6 +3510,7 @@
         "ko_hun": "집",
         "ko_eum": "호"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -3419,6 +3539,7 @@
         "ko_hun": "옛",
         "ko_eum": "고"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -3447,6 +3568,7 @@
         "ko_hun": "낮",
         "ko_eum": "오"
       },
+      "story": {},
       "readings": {
         "on": [
           {
@@ -3475,6 +3597,7 @@
         "ko_hun": "뒤",
         "ko_eum": "후"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -3503,6 +3626,7 @@
         "ko_hun": "말씀",
         "ko_eum": "어"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -3531,6 +3655,7 @@
         "ko_hun": "장인",
         "ko_eum": "공"
       },
+      "story": {},
       "readings": {
         "on": [
           {
@@ -3559,6 +3684,7 @@
         "ko_hun": "공평할",
         "ko_eum": "공"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -3587,6 +3713,7 @@
         "ko_hun": "넓을",
         "ko_eum": "광"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -3615,6 +3742,7 @@
         "ko_hun": "사귈",
         "ko_eum": "교"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -3643,6 +3771,7 @@
         "ko_hun": "빛",
         "ko_eum": "광"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -3671,6 +3800,7 @@
         "ko_hun": "생각할",
         "ko_eum": "고"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -3699,6 +3829,7 @@
         "ko_hun": "다닐",
         "ko_eum": "행"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -3727,6 +3858,7 @@
         "ko_hun": "높을",
         "ko_eum": "고"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -3755,6 +3887,7 @@
         "ko_hun": "누를",
         "ko_eum": "황"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -3783,6 +3916,7 @@
         "ko_hun": "합할",
         "ko_eum": "합"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -3811,6 +3945,7 @@
         "ko_hun": "골짜기",
         "ko_eum": "곡"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -3839,6 +3974,7 @@
         "ko_hun": "나라",
         "ko_eum": "국"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -3867,6 +4003,7 @@
         "ko_hun": "검을",
         "ko_eum": "흑"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -3895,6 +4032,7 @@
         "ko_hun": "이제",
         "ko_eum": "금"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -3923,6 +4061,7 @@
         "ko_hun": "재주",
         "ko_eum": "재"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -3951,6 +4090,7 @@
         "ko_hun": "가늘",
         "ko_eum": "세"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -3979,6 +4119,7 @@
         "ko_hun": "지을",
         "ko_eum": "작"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -4007,6 +4148,7 @@
         "ko_hun": "셈할",
         "ko_eum": "산"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -4035,6 +4177,7 @@
         "ko_hun": "그칠",
         "ko_eum": "지"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -4063,6 +4206,7 @@
         "ko_hun": "저자",
         "ko_eum": "시"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -4091,6 +4235,7 @@
         "ko_hun": "화살",
         "ko_eum": "시"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -4119,6 +4264,7 @@
         "ko_hun": "누이",
         "ko_eum": "자"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -4147,6 +4293,7 @@
         "ko_hun": "생각",
         "ko_eum": "사"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -4175,6 +4322,7 @@
         "ko_hun": "종이",
         "ko_eum": "지"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -4203,6 +4351,7 @@
         "ko_hun": "절",
         "ko_eum": "사"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -4231,6 +4380,7 @@
         "ko_hun": "스스로",
         "ko_eum": "자"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -4259,6 +4409,7 @@
         "ko_hun": "때",
         "ko_eum": "시"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -4287,6 +4438,7 @@
         "ko_hun": "방",
         "ko_eum": "실"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -4315,6 +4467,7 @@
         "ko_hun": "사회",
         "ko_eum": "사"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -4343,6 +4496,7 @@
         "ko_hun": "약하다",
         "ko_eum": "약"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -4371,6 +4525,7 @@
         "ko_hun": "머리",
         "ko_eum": "수"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -4399,6 +4554,7 @@
         "ko_hun": "가을",
         "ko_eum": "추"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -4427,6 +4583,7 @@
         "ko_hun": "주일",
         "ko_eum": "주"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -4456,6 +4613,7 @@
         "ko_hun": "봄",
         "ko_eum": "춘"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -4484,6 +4642,7 @@
         "ko_hun": "글",
         "ko_eum": "서"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -4512,6 +4671,7 @@
         "ko_hun": "적다",
         "ko_eum": "소"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -4540,6 +4700,7 @@
         "ko_hun": "곳",
         "ko_eum": "장"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -4568,6 +4729,7 @@
         "ko_hun": "빛",
         "ko_eum": "색"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -4596,6 +4758,7 @@
         "ko_hun": "밥",
         "ko_eum": "식"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -4624,6 +4787,7 @@
         "ko_hun": "마음",
         "ko_eum": "심"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -4652,6 +4816,7 @@
         "ko_hun": "새",
         "ko_eum": "신"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -4680,6 +4845,7 @@
         "ko_hun": "친할",
         "ko_eum": "친"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -4708,6 +4874,7 @@
         "ko_hun": "그림",
         "ko_eum": "도"
       },
+      "story": {},
       "readings": {
         "on": [
           {
@@ -4736,6 +4903,7 @@
         "ko_hun": "셈",
         "ko_eum": "수"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -4764,6 +4932,7 @@
         "ko_hun": "서녘",
         "ko_eum": "서"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -4792,6 +4961,7 @@
         "ko_hun": "소리",
         "ko_eum": "성"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -4820,6 +4990,7 @@
         "ko_hun": "별",
         "ko_eum": "성"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -4848,6 +5019,7 @@
         "ko_hun": "갤",
         "ko_eum": "청"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -4876,6 +5048,7 @@
         "ko_hun": "끊을",
         "ko_eum": "절"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -4904,6 +5077,7 @@
         "ko_hun": "눈",
         "ko_eum": "설"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -4932,6 +5106,7 @@
         "ko_hun": "배",
         "ko_eum": "선"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -4960,6 +5135,7 @@
         "ko_hun": "줄",
         "ko_eum": "선"
       },
+      "story": {},
       "readings": {
         "on": [
           {
@@ -4988,6 +5164,7 @@
         "ko_hun": "앞",
         "ko_eum": "전"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -5016,6 +5193,7 @@
         "ko_hun": "짤",
         "ko_eum": "조"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -5044,6 +5222,7 @@
         "ko_hun": "달릴",
         "ko_eum": "주"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -5072,6 +5251,7 @@
         "ko_hun": "많을",
         "ko_eum": "다"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -5100,6 +5280,7 @@
         "ko_hun": "클",
         "ko_eum": "태"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -5128,6 +5309,7 @@
         "ko_hun": "몸",
         "ko_eum": "체"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -5156,6 +5338,7 @@
         "ko_hun": "별",
         "ko_eum": "대"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -5185,6 +5368,7 @@
         "ko_hun": "땅",
         "ko_eum": "지"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -5214,6 +5398,7 @@
         "ko_hun": "못",
         "ko_eum": "지"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -5242,6 +5427,7 @@
         "ko_hun": "알",
         "ko_eum": "지"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -5270,6 +5456,7 @@
         "ko_hun": "차",
         "ko_eum": "차"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -5299,6 +5486,7 @@
         "ko_hun": "낮",
         "ko_eum": "주"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -5327,6 +5515,7 @@
         "ko_hun": "길",
         "ko_eum": "장"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -5355,6 +5544,7 @@
         "ko_hun": "새",
         "ko_eum": "조"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -5383,6 +5573,7 @@
         "ko_hun": "아침",
         "ko_eum": "조"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -5411,6 +5602,7 @@
         "ko_hun": "곧",
         "ko_eum": "직"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -5439,6 +5631,7 @@
         "ko_hun": "통하다",
         "ko_eum": "통"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -5474,6 +5667,7 @@
         "ko_hun": "아우",
         "ko_eum": "제"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -5502,6 +5696,7 @@
         "ko_hun": "가게",
         "ko_eum": "점"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -5530,6 +5725,7 @@
         "ko_hun": "점",
         "ko_eum": "점"
       },
+      "story": {},
       "readings": {
         "on": [
           {
@@ -5558,6 +5754,7 @@
         "ko_hun": "번개",
         "ko_eum": "전"
       },
+      "story": {},
       "readings": {
         "on": [
           {
@@ -5586,6 +5783,7 @@
         "ko_hun": "칼",
         "ko_eum": "도"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -5614,6 +5812,7 @@
         "ko_hun": "겨울",
         "ko_eum": "동"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -5642,6 +5841,7 @@
         "ko_hun": "마땅하다",
         "ko_eum": "당"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -5670,6 +5870,7 @@
         "ko_hun": "동쪽",
         "ko_eum": "동"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -5698,6 +5899,7 @@
         "ko_hun": "대답",
         "ko_eum": "답"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -5726,6 +5928,7 @@
         "ko_hun": "머리",
         "ko_eum": "두"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -5754,6 +5957,7 @@
         "ko_hun": "같다",
         "ko_eum": "동"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -5782,6 +5986,7 @@
         "ko_hun": "길",
         "ko_eum": "도"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -5810,6 +6015,7 @@
         "ko_hun": "읽다",
         "ko_eum": "독"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -5838,6 +6044,7 @@
         "ko_hun": "안",
         "ko_eum": "내"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -5866,6 +6073,7 @@
         "ko_hun": "남쪽",
         "ko_eum": "남"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -5894,6 +6102,7 @@
         "ko_hun": "고기",
         "ko_eum": "육"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -5922,6 +6131,7 @@
         "ko_hun": "말",
         "ko_eum": "마"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -5950,6 +6160,7 @@
         "ko_hun": "팔다",
         "ko_eum": "매"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -5978,6 +6189,7 @@
         "ko_hun": "사다",
         "ko_eum": "매"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -6006,6 +6218,7 @@
         "ko_hun": "보리",
         "ko_eum": "맥"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -6034,6 +6247,7 @@
         "ko_hun": "반",
         "ko_eum": "반"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -6062,6 +6276,7 @@
         "ko_hun": "번호",
         "ko_eum": "번"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -6091,6 +6306,7 @@
         "ko_hun": "아버지",
         "ko_eum": "부"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -6119,6 +6335,7 @@
         "ko_hun": "바람",
         "ko_eum": "풍"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -6147,6 +6364,7 @@
         "ko_hun": "분",
         "ko_eum": "분"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -6175,6 +6393,7 @@
         "ko_hun": "듣다",
         "ko_eum": "문"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -6203,6 +6422,7 @@
         "ko_hun": "쌀",
         "ko_eum": "미"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -6231,6 +6451,7 @@
         "ko_hun": "걷다",
         "ko_eum": "보"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -6259,6 +6480,7 @@
         "ko_hun": "어머니",
         "ko_eum": "모"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -6287,6 +6509,7 @@
         "ko_hun": "방향",
         "ko_eum": "방"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -6315,6 +6538,7 @@
         "ko_hun": "북쪽",
         "ko_eum": "북"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -6343,6 +6567,7 @@
         "ko_hun": "매",
         "ko_eum": "매"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -6371,6 +6596,7 @@
         "ko_hun": "여동생",
         "ko_eum": "매"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -6399,6 +6625,7 @@
         "ko_hun": "일만",
         "ko_eum": "만"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -6428,6 +6655,7 @@
         "ko_hun": "밝을",
         "ko_eum": "명"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -6456,6 +6684,7 @@
         "ko_hun": "울",
         "ko_eum": "명"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -6484,6 +6713,7 @@
         "ko_hun": "털",
         "ko_eum": "모"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -6512,6 +6742,7 @@
         "ko_hun": "문",
         "ko_eum": "문"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -6540,6 +6771,7 @@
         "ko_hun": "밤",
         "ko_eum": "야"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -6568,6 +6800,7 @@
         "ko_hun": "들",
         "ko_eum": "야"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -6596,6 +6829,7 @@
         "ko_hun": "벗",
         "ko_eum": "우"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -6624,6 +6858,7 @@
         "ko_hun": "쓸",
         "ko_eum": "용"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -6652,6 +6887,7 @@
         "ko_hun": "빛날",
         "ko_eum": "요"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -6681,6 +6917,7 @@
         "ko_hun": "올",
         "ko_eum": "래"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -6709,6 +6946,7 @@
         "ko_hun": "마을",
         "ko_eum": "리"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -6737,6 +6975,7 @@
         "ko_hun": "다스릴",
         "ko_eum": "리"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -6766,6 +7005,7 @@
         "ko_hun": "말씀",
         "ko_eum": "화"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -6794,6 +7034,7 @@
         "ko_hun": "악할",
         "ko_eum": "악"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -6822,6 +7063,7 @@
         "ko_hun": "편안할",
         "ko_eum": "안"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -6850,6 +7092,7 @@
         "ko_hun": "어두울",
         "ko_eum": "암"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -6878,6 +7121,7 @@
         "ko_hun": "의원",
         "ko_eum": "의"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -6907,6 +7151,7 @@
         "ko_hun": "맡길",
         "ko_eum": "위"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -6936,6 +7181,7 @@
         "ko_hun": "뜻",
         "ko_eum": "의"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -6965,6 +7211,7 @@
         "ko_hun": "기를",
         "ko_eum": "육"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -7002,6 +7249,7 @@
         "ko_hun": "인원",
         "ko_eum": "원"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -7031,6 +7279,7 @@
         "ko_hun": "집",
         "ko_eum": "원"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -7060,6 +7309,7 @@
         "ko_hun": "마실",
         "ko_eum": "음"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -7097,6 +7347,7 @@
         "ko_hun": "옮길",
         "ko_eum": "운"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -7134,6 +7385,7 @@
         "ko_hun": "헤엄칠",
         "ko_eum": "영"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -7171,6 +7423,7 @@
         "ko_hun": "역",
         "ko_eum": "역"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -7200,6 +7453,7 @@
         "ko_hun": "가운데",
         "ko_eum": "앙"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -7229,6 +7483,7 @@
         "ko_hun": "가로",
         "ko_eum": "횡"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -7266,6 +7521,7 @@
         "ko_hun": "집",
         "ko_eum": "옥"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -7303,6 +7559,7 @@
         "ko_hun": "따뜻할",
         "ko_eum": "온"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -7331,6 +7588,7 @@
         "ko_hun": "변할",
         "ko_eum": "화"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -7359,6 +7617,7 @@
         "ko_hun": "멜",
         "ko_eum": "하"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -7387,6 +7646,7 @@
         "ko_hun": "지경",
         "ko_eum": "계"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -7416,6 +7676,7 @@
         "ko_hun": "열",
         "ko_eum": "개"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -7453,6 +7714,7 @@
         "ko_hun": "섬돌",
         "ko_eum": "계"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -7482,6 +7744,7 @@
         "ko_hun": "찰",
         "ko_eum": "한"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -7510,6 +7773,7 @@
         "ko_hun": "느낄",
         "ko_eum": "감"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -7539,6 +7803,7 @@
         "ko_hun": "한나라",
         "ko_eum": "한"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -7568,6 +7833,7 @@
         "ko_hun": "집",
         "ko_eum": "관"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -7597,6 +7863,7 @@
         "ko_hun": "언덕",
         "ko_eum": "안"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -7634,6 +7901,7 @@
         "ko_hun": "일어날",
         "ko_eum": "기"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -7671,6 +7939,7 @@
         "ko_hun": "기약할",
         "ko_eum": "기"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -7700,6 +7969,7 @@
         "ko_hun": "손",
         "ko_eum": "객"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -7729,6 +7999,7 @@
         "ko_hun": "연구할",
         "ko_eum": "구"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -7758,6 +8029,7 @@
         "ko_hun": "급할",
         "ko_eum": "급"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -7795,6 +8067,7 @@
         "ko_hun": "등급",
         "ko_eum": "급"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -7824,6 +8097,7 @@
         "ko_hun": "궁",
         "ko_eum": "궁"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -7861,6 +8135,7 @@
         "ko_hun": "구",
         "ko_eum": "구"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -7898,6 +8173,7 @@
         "ko_hun": "갈",
         "ko_eum": "거"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -7935,6 +8211,7 @@
         "ko_hun": "다리",
         "ko_eum": "교"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -7972,6 +8249,7 @@
         "ko_hun": "업",
         "ko_eum": "업"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -8008,6 +8286,7 @@
         "ko_hun": "굽을",
         "ko_eum": "곡"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -8045,6 +8324,7 @@
         "ko_hun": "판",
         "ko_eum": "국"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -8074,6 +8354,7 @@
         "ko_hun": "은",
         "ko_eum": "은"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -8103,6 +8384,7 @@
         "ko_hun": "구역",
         "ko_eum": "구"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -8132,6 +8414,7 @@
         "ko_hun": "괴로울",
         "ko_eum": "고"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -8169,6 +8452,7 @@
         "ko_hun": "갖출",
         "ko_eum": "구"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -8198,6 +8482,7 @@
         "ko_hun": "임금",
         "ko_eum": "군"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -8235,6 +8520,7 @@
         "ko_hun": "맬",
         "ko_eum": "계"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -8272,6 +8558,7 @@
         "ko_hun": "가벼울",
         "ko_eum": "경"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -8309,6 +8596,7 @@
         "ko_hun": "피",
         "ko_eum": "혈"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -8346,6 +8634,7 @@
         "ko_hun": "결정할",
         "ko_eum": "결"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -8383,6 +8672,7 @@
         "ko_hun": "갈",
         "ko_eum": "연"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -8412,6 +8702,7 @@
         "ko_hun": "고을",
         "ko_eum": "현"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -8441,6 +8732,7 @@
         "ko_hun": "곳집",
         "ko_eum": "고"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -8470,6 +8762,7 @@
         "ko_hun": "호수",
         "ko_eum": "호"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -8507,6 +8800,7 @@
         "ko_hun": "향할",
         "ko_eum": "향"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -8544,6 +8838,7 @@
         "ko_hun": "다행",
         "ko_eum": "행"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -8581,6 +8876,7 @@
         "ko_hun": "항구",
         "ko_eum": "항"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -8618,6 +8914,7 @@
         "ko_hun": "부르짖을",
         "ko_eum": "호"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -8647,6 +8944,7 @@
         "ko_hun": "뿌리",
         "ko_eum": "근"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -8684,6 +8982,7 @@
         "ko_hun": "제사",
         "ko_eum": "제"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -8721,6 +9020,7 @@
         "ko_hun": "접시",
         "ko_eum": "명"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -8750,6 +9050,7 @@
         "ko_hun": "섬길",
         "ko_eum": "사"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -8787,6 +9088,7 @@
         "ko_hun": "죽을",
         "ko_eum": "사"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -8824,6 +9126,7 @@
         "ko_hun": "부릴",
         "ko_eum": "사"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -8861,6 +9164,7 @@
         "ko_hun": "비로소",
         "ko_eum": "시"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -8898,6 +9202,7 @@
         "ko_hun": "가리킬",
         "ko_eum": "지"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -8926,6 +9231,7 @@
         "ko_hun": "이",
         "ko_eum": "치"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -8954,6 +9260,7 @@
         "ko_hun": "시",
         "ko_eum": "시"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -8983,6 +9290,7 @@
         "ko_hun": "버금",
         "ko_eum": "차"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -9011,6 +9319,7 @@
         "ko_hun": "일",
         "ko_eum": "사"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -9039,6 +9348,7 @@
         "ko_hun": "가질",
         "ko_eum": "지"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -9067,6 +9377,7 @@
         "ko_hun": "법식",
         "ko_eum": "식"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -9096,6 +9407,7 @@
         "ko_hun": "열매",
         "ko_eum": "실"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -9124,6 +9436,7 @@
         "ko_hun": "베낄",
         "ko_eum": "사"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -9152,6 +9465,7 @@
         "ko_hun": "놈",
         "ko_eum": "자"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -9181,6 +9495,7 @@
         "ko_hun": "주인",
         "ko_eum": "주"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -9209,6 +9524,7 @@
         "ko_hun": "지킬",
         "ko_eum": "수"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -9237,6 +9553,7 @@
         "ko_hun": "가질",
         "ko_eum": "취"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -9265,6 +9582,7 @@
         "ko_hun": "술",
         "ko_eum": "주"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -9293,6 +9611,7 @@
         "ko_hun": "받을",
         "ko_eum": "수"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -9321,6 +9640,7 @@
         "ko_hun": "고을",
         "ko_eum": "주"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -9350,6 +9670,7 @@
         "ko_hun": "줍다",
         "ko_eum": "집"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -9378,6 +9699,7 @@
         "ko_hun": "마치다",
         "ko_eum": "종"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -9406,6 +9728,7 @@
         "ko_hun": "익히다",
         "ko_eum": "습"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -9434,6 +9757,7 @@
         "ko_hun": "모으다",
         "ko_eum": "집"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -9462,6 +9786,7 @@
         "ko_hun": "살다",
         "ko_eum": "주"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -9490,6 +9815,7 @@
         "ko_hun": "무겁다",
         "ko_eum": "중"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -9518,6 +9844,7 @@
         "ko_hun": "묵다",
         "ko_eum": "숙"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -9546,6 +9873,7 @@
         "ko_hun": "곳",
         "ko_eum": "소"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -9574,6 +9902,7 @@
         "ko_hun": "덥다",
         "ko_eum": "서"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -9602,6 +9931,7 @@
         "ko_hun": "돕다",
         "ko_eum": "조"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -9630,6 +9960,7 @@
         "ko_hun": "밝다",
         "ko_eum": "소"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -9658,6 +9989,7 @@
         "ko_hun": "끄다",
         "ko_eum": "소"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -9686,6 +10018,7 @@
         "ko_hun": "장사하다",
         "ko_eum": "상"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -9714,6 +10047,7 @@
         "ko_hun": "글",
         "ko_eum": "장"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -9743,6 +10077,7 @@
         "ko_hun": "이기다",
         "ko_eum": "승"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -9771,6 +10106,7 @@
         "ko_hun": "타다",
         "ko_eum": "승"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -9799,6 +10135,7 @@
         "ko_hun": "심을",
         "ko_eum": "식"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -9828,6 +10165,7 @@
         "ko_hun": "아뢸",
         "ko_eum": "신"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -9857,6 +10195,7 @@
         "ko_hun": "몸",
         "ko_eum": "신"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -9886,6 +10225,7 @@
         "ko_hun": "귀신",
         "ko_eum": "신"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -9915,6 +10255,7 @@
         "ko_hun": "참",
         "ko_eum": "진"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -9944,6 +10285,7 @@
         "ko_hun": "깊을",
         "ko_eum": "심"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -9973,6 +10315,7 @@
         "ko_hun": "나아갈",
         "ko_eum": "진"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -10002,6 +10345,7 @@
         "ko_hun": "세상",
         "ko_eum": "세"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -10031,6 +10375,7 @@
         "ko_hun": "가지런할",
         "ko_eum": "정"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -10060,6 +10405,7 @@
         "ko_hun": "옛",
         "ko_eum": "석"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -10089,6 +10435,7 @@
         "ko_hun": "온전할",
         "ko_eum": "전"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -10118,6 +10465,7 @@
         "ko_hun": "서로",
         "ko_eum": "상"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -10147,6 +10495,7 @@
         "ko_hun": "보낼",
         "ko_eum": "송"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -10176,6 +10525,7 @@
         "ko_hun": "생각할",
         "ko_eum": "상"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -10205,6 +10555,7 @@
         "ko_hun": "쉴",
         "ko_eum": "식"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -10234,6 +10585,7 @@
         "ko_hun": "빠를",
         "ko_eum": "속"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -10263,6 +10615,7 @@
         "ko_hun": "겨레",
         "ko_eum": "족"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -10292,6 +10645,7 @@
         "ko_hun": "다를",
         "ko_eum": "타"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -10321,6 +10675,7 @@
         "ko_hun": "칠",
         "ko_eum": "타"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -10358,6 +10713,7 @@
         "ko_hun": "대할",
         "ko_eum": "대"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -10387,6 +10743,7 @@
         "ko_hun": "기다릴",
         "ko_eum": "대"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -10424,6 +10781,7 @@
         "ko_hun": "대신할",
         "ko_eum": "대"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -10461,6 +10819,7 @@
         "ko_hun": "차례",
         "ko_eum": "제"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -10490,6 +10849,7 @@
         "ko_hun": "제목",
         "ko_eum": "제"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -10519,6 +10879,7 @@
         "ko_hun": "숯",
         "ko_eum": "탄"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -10556,6 +10917,7 @@
         "ko_hun": "짧을",
         "ko_eum": "단"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -10593,6 +10955,7 @@
         "ko_hun": "말씀",
         "ko_eum": "담"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -10622,6 +10985,7 @@
         "ko_hun": "붙을",
         "ko_eum": "착"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -10666,6 +11030,7 @@
         "ko_hun": "부을",
         "ko_eum": "주"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -10703,6 +11068,7 @@
         "ko_hun": "기둥",
         "ko_eum": "주"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -10740,6 +11106,7 @@
         "ko_hun": "고무래",
         "ko_eum": "정"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -10769,6 +11136,7 @@
         "ko_hun": "장막",
         "ko_eum": "장"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -10798,6 +11166,7 @@
         "ko_hun": "고를",
         "ko_eum": "조"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -10826,6 +11195,7 @@
         "ko_hun": "쫓을",
         "ko_eum": "추"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -10854,6 +11224,7 @@
         "ko_hun": "정할",
         "ko_eum": "정"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -10882,6 +11253,7 @@
         "ko_hun": "뜰",
         "ko_eum": "정"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -10910,6 +11282,7 @@
         "ko_hun": "피리",
         "ko_eum": "적"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -10938,6 +11311,7 @@
         "ko_hun": "쇠",
         "ko_eum": "철"
       },
+      "story": {},
       "readings": {
         "on": [
           {
@@ -10966,6 +11340,7 @@
         "ko_hun": "구를",
         "ko_eum": "전"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -10994,6 +11369,7 @@
         "ko_hun": "도읍",
         "ko_eum": "도"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -11022,6 +11398,7 @@
         "ko_hun": "법도",
         "ko_eum": "도"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -11050,6 +11427,7 @@
         "ko_hun": "던질",
         "ko_eum": "투"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -11078,6 +11456,7 @@
         "ko_hun": "콩",
         "ko_eum": "두"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -11106,6 +11485,7 @@
         "ko_hun": "섬",
         "ko_eum": "도"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -11134,6 +11514,7 @@
         "ko_hun": "끓일",
         "ko_eum": "탕"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -11162,6 +11543,7 @@
         "ko_hun": "오를",
         "ko_eum": "등"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -11190,6 +11572,7 @@
         "ko_hun": "무리",
         "ko_eum": "등"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -11218,6 +11601,7 @@
         "ko_hun": "움직일",
         "ko_eum": "동"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -11246,6 +11630,7 @@
         "ko_hun": "아이",
         "ko_eum": "동"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -11274,6 +11659,7 @@
         "ko_hun": "농사",
         "ko_eum": "농"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -11303,6 +11689,7 @@
         "ko_hun": "물결",
         "ko_eum": "파"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -11331,6 +11718,7 @@
         "ko_hun": "나누다",
         "ko_eum": "배"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -11359,6 +11747,7 @@
         "ko_hun": "두 배",
         "ko_eum": "배"
       },
+      "story": {},
       "readings": {
         "on": [
           {
@@ -11387,6 +11776,7 @@
         "ko_hun": "상자",
         "ko_eum": "상"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -11415,6 +11805,7 @@
         "ko_hun": "밭",
         "ko_eum": "전"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -11443,6 +11834,7 @@
         "ko_hun": "출발",
         "ko_eum": "발"
       },
+      "story": {},
       "readings": {
         "on": [
           {
@@ -11471,6 +11863,7 @@
         "ko_hun": "반대",
         "ko_eum": "반"
       },
+      "story": {},
       "readings": {
         "on": [
           {
@@ -11499,6 +11892,7 @@
         "ko_hun": "비탈길",
         "ko_eum": "판"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -11527,6 +11921,7 @@
         "ko_hun": "판자",
         "ko_eum": "판"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -11555,6 +11950,7 @@
         "ko_hun": "가죽",
         "ko_eum": "피"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -11583,6 +11979,7 @@
         "ko_hun": "슬프다",
         "ko_eum": "비"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -11611,6 +12008,7 @@
         "ko_hun": "아름답다",
         "ko_eum": "미"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -11639,6 +12037,7 @@
         "ko_hun": "코",
         "ko_eum": "비"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -11667,6 +12066,7 @@
         "ko_hun": "붓",
         "ko_eum": "필"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -11695,6 +12095,7 @@
         "ko_hun": "얼음",
         "ko_eum": "빙"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -11723,6 +12124,7 @@
         "ko_hun": "겉",
         "ko_eum": "표"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -11751,6 +12153,7 @@
         "ko_hun": "초",
         "ko_eum": "초"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -11780,6 +12183,7 @@
         "ko_hun": "병",
         "ko_eum": "병"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -11817,6 +12221,7 @@
         "ko_hun": "물건",
         "ko_eum": "품"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -11854,6 +12259,7 @@
         "ko_hun": "질",
         "ko_eum": "부"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -11891,6 +12297,7 @@
         "ko_hun": "떼",
         "ko_eum": "부"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -11920,6 +12327,7 @@
         "ko_hun": "옷",
         "ko_eum": "복"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -11949,6 +12357,7 @@
         "ko_hun": "복",
         "ko_eum": "복"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -11978,6 +12387,7 @@
         "ko_hun": "물건",
         "ko_eum": "물"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -12015,6 +12425,7 @@
         "ko_hun": "평평할",
         "ko_eum": "평"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -12052,6 +12463,7 @@
         "ko_hun": "돌려줄",
         "ko_eum": "반"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -12089,6 +12501,7 @@
         "ko_hun": "힘쓸",
         "ko_eum": "면"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -12118,6 +12531,7 @@
         "ko_hun": "놓을",
         "ko_eum": "방"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -12155,6 +12569,7 @@
         "ko_hun": "맛",
         "ko_eum": "미"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -12192,6 +12607,7 @@
         "ko_hun": "목숨",
         "ko_eum": "명"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -12229,6 +12645,7 @@
         "ko_hun": "얼굴",
         "ko_eum": "면"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -12266,6 +12683,7 @@
         "ko_hun": "물음",
         "ko_eum": "문"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -12295,6 +12713,7 @@
         "ko_hun": "맡을",
         "ko_eum": "역"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -12324,6 +12743,7 @@
         "ko_hun": "약",
         "ko_eum": "약"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -12361,6 +12781,7 @@
         "ko_hun": "말미암을",
         "ko_eum": "유"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -12390,6 +12811,7 @@
         "ko_hun": "기름",
         "ko_eum": "유"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -12427,6 +12849,7 @@
         "ko_hun": "있을",
         "ko_eum": "유"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -12464,6 +12887,7 @@
         "ko_hun": "놀",
         "ko_eum": "유"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -12501,6 +12925,7 @@
         "ko_hun": "미리",
         "ko_eum": "예"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -12530,6 +12955,7 @@
         "ko_hun": "양",
         "ko_eum": "양"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -12567,6 +12993,7 @@
         "ko_hun": "바다",
         "ko_eum": "양"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -12596,6 +13023,7 @@
         "ko_hun": "잎",
         "ko_eum": "엽"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -12633,6 +13061,7 @@
         "ko_hun": "햇빛",
         "ko_eum": "양"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -12662,6 +13091,7 @@
         "ko_hun": "모양",
         "ko_eum": "양"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -12699,6 +13129,7 @@
         "ko_hun": "떨어질",
         "ko_eum": "락"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -12736,6 +13167,7 @@
         "ko_hun": "흐를",
         "ko_eum": "류"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -12773,6 +13205,7 @@
         "ko_hun": "여행",
         "ko_eum": "려"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -12801,6 +13234,7 @@
         "ko_hun": "양",
         "ko_eum": "량"
       },
+      "story": {},
       "readings": {
         "on": [
           {
@@ -12829,6 +13263,7 @@
         "ko_hun": "푸를",
         "ko_eum": "록"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -12857,6 +13292,7 @@
         "ko_hun": "예",
         "ko_eum": "례"
       },
+      "story": {},
       "readings": {
         "on": [
           {
@@ -12885,6 +13321,7 @@
         "ko_hun": "벌일",
         "ko_eum": "열"
       },
+      "story": {},
       "readings": {
         "on": [
           {
@@ -12913,6 +13350,7 @@
         "ko_hun": "익힐",
         "ko_eum": "련"
       },
+      "story": {},
       "readings": {
         "on": [
           {
@@ -12941,6 +13379,7 @@
         "ko_hun": "길",
         "ko_eum": "로"
       },
+      "story": {},
       "readings": {
         "on": [
           {
@@ -12969,6 +13408,7 @@
         "ko_hun": "화할",
         "ko_eum": "화"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -12997,6 +13437,7 @@
         "ko_hun": "사랑",
         "ko_eum": "애"
       },
+      "story": {},
       "readings": {
         "on": [
           {
@@ -13025,6 +13466,7 @@
         "ko_hun": "책",
         "ko_eum": "안"
       },
+      "story": {},
       "readings": {
         "on": [
           {
@@ -13053,6 +13495,7 @@
         "ko_hun": "써",
         "ko_eum": "이"
       },
+      "story": {},
       "readings": {
         "on": [
           {
@@ -13081,6 +13524,7 @@
         "ko_hun": "옷",
         "ko_eum": "의"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -13109,6 +13553,7 @@
         "ko_hun": "자리",
         "ko_eum": "위"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -13137,6 +13582,7 @@
         "ko_hun": "가시나무",
         "ko_eum": "자"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -13165,6 +13611,7 @@
         "ko_hun": "도장",
         "ko_eum": "인"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -13193,6 +13640,7 @@
         "ko_hun": "꽃부리",
         "ko_eum": "영"
       },
+      "story": {},
       "readings": {
         "on": [
           {
@@ -13221,6 +13669,7 @@
         "ko_hun": "영화",
         "ko_eum": "영"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -13250,6 +13699,7 @@
         "ko_hun": "아름다운 여자",
         "ko_eum": "원"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -13279,6 +13729,7 @@
         "ko_hun": "소금",
         "ko_eum": "염"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -13308,6 +13759,7 @@
         "ko_hun": "언덕",
         "ko_eum": "강"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -13337,6 +13789,7 @@
         "ko_hun": "억",
         "ko_eum": "억"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -13366,6 +13819,7 @@
         "ko_hun": "더할",
         "ko_eum": "가"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -13395,6 +13849,7 @@
         "ko_hun": "과실",
         "ko_eum": "과"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -13424,6 +13879,7 @@
         "ko_hun": "화물",
         "ko_eum": "화"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -13453,6 +13909,7 @@
         "ko_hun": "과목",
         "ko_eum": "과"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -13482,6 +13939,7 @@
         "ko_hun": "싹",
         "ko_eum": "아"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -13511,6 +13969,7 @@
         "ko_hun": "축하",
         "ko_eum": "하"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -13540,6 +13999,7 @@
         "ko_hun": "고칠",
         "ko_eum": "개"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -13569,6 +14029,7 @@
         "ko_hun": "기계",
         "ko_eum": "계"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -13598,6 +14059,7 @@
         "ko_hun": "해칠",
         "ko_eum": "해"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -13627,6 +14089,7 @@
         "ko_hun": "거리",
         "ko_eum": "가"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -13656,6 +14119,7 @@
         "ko_hun": "각각",
         "ko_eum": "각"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -13685,6 +14149,7 @@
         "ko_hun": "깨달을",
         "ko_eum": "각"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -13714,6 +14179,7 @@
         "ko_hun": "개펄",
         "ko_eum": "석"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -13743,6 +14209,7 @@
         "ko_hun": "완전할",
         "ko_eum": "완"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -13772,6 +14239,7 @@
         "ko_hun": "벼슬",
         "ko_eum": "관"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -13801,6 +14269,7 @@
         "ko_hun": "대롱",
         "ko_eum": "관"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -13830,6 +14299,7 @@
         "ko_hun": "관계할",
         "ko_eum": "관"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -13867,6 +14337,7 @@
         "ko_hun": "볼",
         "ko_eum": "관"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -13896,6 +14367,7 @@
         "ko_hun": "원할",
         "ko_eum": "원"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -13933,6 +14405,7 @@
         "ko_hun": "갈림길",
         "ko_eum": "기"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -13962,6 +14435,7 @@
         "ko_hun": "바랄",
         "ko_eum": "희"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -13991,6 +14465,7 @@
         "ko_hun": "계절",
         "ko_eum": "계"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -14020,6 +14495,7 @@
         "ko_hun": "깃발",
         "ko_eum": "기"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -14057,6 +14533,7 @@
         "ko_hun": "그릇",
         "ko_eum": "기"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -14094,6 +14571,7 @@
         "ko_hun": "틀",
         "ko_eum": "기"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -14123,6 +14601,7 @@
         "ko_hun": "의논할",
         "ko_eum": "의"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -14152,6 +14631,7 @@
         "ko_hun": "구할",
         "ko_eum": "구"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -14189,6 +14669,7 @@
         "ko_hun": "울",
         "ko_eum": "읍"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -14217,6 +14698,7 @@
         "ko_hun": "줄",
         "ko_eum": "급"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -14246,6 +14728,7 @@
         "ko_hun": "들",
         "ko_eum": "거"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -14274,6 +14757,7 @@
         "ko_hun": "고기잡을",
         "ko_eum": "어"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -14303,6 +14787,7 @@
         "ko_hun": "함께",
         "ko_eum": "공"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -14331,6 +14816,7 @@
         "ko_hun": "화합할",
         "ko_eum": "협"
       },
+      "story": {},
       "readings": {
         "on": [
           {
@@ -14359,6 +14845,7 @@
         "ko_hun": "거울",
         "ko_eum": "경"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -14387,6 +14874,7 @@
         "ko_hun": "다툴",
         "ko_eum": "경"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -14415,6 +14903,7 @@
         "ko_hun": "극진할",
         "ko_eum": "극"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -14443,6 +14932,7 @@
         "ko_hun": "곰",
         "ko_eum": "웅"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -14471,6 +14961,7 @@
         "ko_hun": "가르칠",
         "ko_eum": "훈"
       },
+      "story": {},
       "readings": {
         "on": [
           {
@@ -14499,6 +14990,7 @@
         "ko_hun": "군사",
         "ko_eum": "군"
       },
+      "story": {},
       "readings": {
         "on": [
           {
@@ -14527,6 +15019,7 @@
         "ko_hun": "고을",
         "ko_eum": "군"
       },
+      "story": {},
       "readings": {
         "on": [
           {
@@ -14555,6 +15048,7 @@
         "ko_hun": "무리",
         "ko_eum": "군"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -14583,6 +15077,7 @@
         "ko_hun": "지름길",
         "ko_eum": "경"
       },
+      "story": {},
       "readings": {
         "on": [
           {
@@ -14611,6 +15106,7 @@
         "ko_hun": "볕",
         "ko_eum": "경"
       },
+      "story": {},
       "readings": {
         "on": [
           {
@@ -14639,6 +15135,7 @@
         "ko_hun": "예술",
         "ko_eum": "예"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -14668,6 +15165,7 @@
         "ko_hun": "결핍",
         "ko_eum": "결"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -14697,6 +15195,7 @@
         "ko_hun": "결합",
         "ko_eum": "결"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -14726,6 +15225,7 @@
         "ko_hun": "건설",
         "ko_eum": "건"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -14755,6 +15255,7 @@
         "ko_hun": "건강",
         "ko_eum": "건"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -14784,6 +15285,7 @@
         "ko_hun": "시험",
         "ko_eum": "험"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": []
@@ -14805,6 +15307,7 @@
         "ko_hun": "견고",
         "ko_eum": "고"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -14834,6 +15337,7 @@
         "ko_hun": "공로",
         "ko_eum": "공"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": []
@@ -14855,6 +15359,7 @@
         "ko_hun": "좋아하다",
         "ko_eum": "호"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -14884,6 +15389,7 @@
         "ko_hun": "향기",
         "ko_eum": "향"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -14913,6 +15419,7 @@
         "ko_hun": "기후",
         "ko_eum": "후"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": []
@@ -14934,6 +15441,7 @@
         "ko_hun": "건강",
         "ko_eum": "강"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": []
@@ -14955,6 +15463,7 @@
         "ko_hun": "도움",
         "ko_eum": "좌"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": []
@@ -14976,6 +15485,7 @@
         "ko_hun": "차이",
         "ko_eum": "차"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -15005,6 +15515,7 @@
         "ko_hun": "채소",
         "ko_eum": "채"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -15034,6 +15545,7 @@
         "ko_hun": "최고",
         "ko_eum": "최"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -15063,6 +15575,7 @@
         "ko_hun": "곶",
         "ko_eum": "기"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -15092,6 +15605,7 @@
         "ko_hun": "재료",
         "ko_eum": "재"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -15121,6 +15635,7 @@
         "ko_hun": "곶",
         "ko_eum": "기"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -15158,6 +15673,7 @@
         "ko_hun": "어제",
         "ko_eum": "작"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -15187,6 +15703,7 @@
         "ko_hun": "편지",
         "ko_eum": "찰"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -15224,6 +15741,7 @@
         "ko_hun": "인쇄",
         "ko_eum": "쇄"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -15261,6 +15779,7 @@
         "ko_hun": "살피다",
         "ko_eum": "찰"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -15290,6 +15809,7 @@
         "ko_hun": "가다",
         "ko_eum": "참"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -15327,6 +15847,7 @@
         "ko_hun": "낳다",
         "ko_eum": "산"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -15364,6 +15885,7 @@
         "ko_hun": "흩어지다",
         "ko_eum": "산"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -15401,6 +15923,7 @@
         "ko_hun": "남다",
         "ko_eum": "잔"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -15438,6 +15961,7 @@
         "ko_hun": "성",
         "ko_eum": "씨"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -15467,6 +15991,7 @@
         "ko_hun": "주관하다",
         "ko_eum": "사"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -15496,6 +16021,7 @@
         "ko_hun": "시험하다",
         "ko_eum": "시"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -15533,6 +16059,7 @@
         "ko_hun": "아이",
         "ko_eum": "아"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -15562,6 +16089,7 @@
         "ko_hun": "다스리다",
         "ko_eum": "치"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -15606,6 +16134,7 @@
         "ko_hun": "자",
         "ko_eum": "滋"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -15634,6 +16163,7 @@
         "ko_hun": "말씀",
         "ko_eum": "사"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -15662,6 +16192,7 @@
         "ko_hun": "사슴",
         "ko_eum": "록"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -15690,6 +16221,7 @@
         "ko_hun": "잃을",
         "ko_eum": "실"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -15718,6 +16250,7 @@
         "ko_hun": "빌릴",
         "ko_eum": "차"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -15746,6 +16279,7 @@
         "ko_hun": "씨",
         "ko_eum": "종"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -15774,6 +16308,7 @@
         "ko_hun": "두루",
         "ko_eum": "주"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -15802,6 +16337,7 @@
         "ko_hun": "빌",
         "ko_eum": "축"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -15830,6 +16366,7 @@
         "ko_hun": "순",
         "ko_eum": "순"
       },
+      "story": {},
       "readings": {
         "kun": []
       }
@@ -15850,6 +16387,7 @@
         "ko_hun": "처음",
         "ko_eum": "초"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -15878,6 +16416,7 @@
         "ko_hun": "소나무",
         "ko_eum": "송"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -15906,6 +16445,7 @@
         "ko_hun": "웃을",
         "ko_eum": "소"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -15934,6 +16474,7 @@
         "ko_hun": "부를",
         "ko_eum": "창"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -15962,6 +16503,7 @@
         "ko_hun": "불사를",
         "ko_eum": "소"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -15990,6 +16532,7 @@
         "ko_hun": "비칠",
         "ko_eum": "조"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -16018,6 +16561,7 @@
         "ko_hun": "성",
         "ko_eum": "성"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -16046,6 +16590,7 @@
         "ko_hun": "밧줄",
         "ko_eum": "승"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -16074,6 +16619,7 @@
         "ko_hun": "신하",
         "ko_eum": "신"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -16103,6 +16649,7 @@
         "ko_hun": "믿다",
         "ko_eum": "신"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -16132,6 +16679,7 @@
         "ko_hun": "우물",
         "ko_eum": "정"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -16160,6 +16708,7 @@
         "ko_hun": "이루다",
         "ko_eum": "성"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -16188,6 +16737,7 @@
         "ko_hun": "덜다",
         "ko_eum": "성/생"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -16216,6 +16766,7 @@
         "ko_hun": "맑다",
         "ko_eum": "청"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -16244,6 +16795,7 @@
         "ko_hun": "고요하다",
         "ko_eum": "정"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -16272,6 +16824,7 @@
         "ko_hun": "자리",
         "ko_eum": "석"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -16301,6 +16854,7 @@
         "ko_hun": "쌓다",
         "ko_eum": "적"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -16329,6 +16883,7 @@
         "ko_hun": "꺾다",
         "ko_eum": "절"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -16357,6 +16912,7 @@
         "ko_hun": "마디",
         "ko_eum": "절"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -16386,6 +16942,7 @@
         "ko_hun": "말하다",
         "ko_eum": "설"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -16415,6 +16972,7 @@
         "ko_hun": "얕다",
         "ko_eum": "천"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -16443,6 +17001,7 @@
         "ko_hun": "싸우다",
         "ko_eum": "전"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -16471,6 +17030,7 @@
         "ko_hun": "고르다",
         "ko_eum": "선"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -16499,6 +17059,7 @@
         "ko_hun": "그럴",
         "ko_eum": "연"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -16527,6 +17088,7 @@
         "ko_hun": "다툴",
         "ko_eum": "쟁"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -16555,6 +17117,7 @@
         "ko_hun": "곳집",
         "ko_eum": "창"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -16583,6 +17146,7 @@
         "ko_hun": "새집",
         "ko_eum": "소"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -16611,6 +17175,7 @@
         "ko_hun": "묶을",
         "ko_eum": "속"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -16639,6 +17204,7 @@
         "ko_hun": "곁",
         "ko_eum": "측"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -16667,6 +17233,7 @@
         "ko_hun": "이을",
         "ko_eum": "속"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -16695,6 +17262,7 @@
         "ko_hun": "군사",
         "ko_eum": "졸"
       },
+      "story": {},
       "readings": {
         "on": [
           {
@@ -16723,6 +17291,7 @@
         "ko_hun": "손자",
         "ko_eum": "손"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -16751,6 +17320,7 @@
         "ko_hun": "띠",
         "ko_eum": "대"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -16779,6 +17349,7 @@
         "ko_hun": "무리",
         "ko_eum": "대"
       },
+      "story": {},
       "readings": {
         "on": [
           {
@@ -16807,6 +17378,7 @@
         "ko_hun": "통달할",
         "ko_eum": "달"
       },
+      "story": {},
       "readings": {
         "on": [
           {
@@ -16835,6 +17407,7 @@
         "ko_hun": "홑",
         "ko_eum": "단"
       },
+      "story": {},
       "readings": {
         "on": [
           {
@@ -16863,6 +17436,7 @@
         "ko_hun": "둘",
         "ko_eum": "치"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -16891,6 +17465,7 @@
         "ko_hun": "버금",
         "ko_eum": "중"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -16919,6 +17494,7 @@
         "ko_hun": "성",
         "ko_eum": "충"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -16947,6 +17523,7 @@
         "ko_hun": "조",
         "ko_eum": "조"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -16975,6 +17552,7 @@
         "ko_hun": "낮을",
         "ko_eum": "저"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -17003,6 +17581,7 @@
         "ko_hun": "밑",
         "ko_eum": "저"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -17031,6 +17610,7 @@
         "ko_hun": "과녁",
         "ko_eum": "적"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -17059,6 +17639,7 @@
         "ko_hun": "법",
         "ko_eum": "전"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -17088,6 +17669,7 @@
         "ko_hun": "전할",
         "ko_eum": "전"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -17125,6 +17707,7 @@
         "ko_hun": "무리",
         "ko_eum": "도"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -17154,6 +17737,7 @@
         "ko_hun": "힘쓸",
         "ko_eum": "노"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -17191,6 +17775,7 @@
         "ko_hun": "등불",
         "ko_eum": "등"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -17228,6 +17813,7 @@
         "ko_hun": "일할",
         "ko_eum": "동"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -17265,6 +17851,7 @@
         "ko_hun": "특별할",
         "ko_eum": "특"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -17294,6 +17881,7 @@
         "ko_hun": "덕",
         "ko_eum": "덕"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -17323,6 +17911,7 @@
         "ko_hun": "나무이름",
         "ko_eum": "이"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": []
@@ -17344,6 +17933,7 @@
         "ko_hun": "어찌",
         "ko_eum": "나"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -17373,6 +17963,7 @@
         "ko_hun": "배",
         "ko_eum": "리"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -17402,6 +17993,7 @@
         "ko_hun": "더울",
         "ko_eum": "열"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -17439,6 +18031,7 @@
         "ko_hun": "생각",
         "ko_eum": "념"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -17476,6 +18069,7 @@
         "ko_hun": "패배할",
         "ko_eum": "패"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -17513,6 +18107,7 @@
         "ko_hun": "매화",
         "ko_eum": "매"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -17550,6 +18145,7 @@
         "ko_hun": "넓을",
         "ko_eum": "박"
       },
+      "story": {},
       "readings": {
         "on": [
           {
@@ -17585,6 +18181,7 @@
         "ko_hun": "언덕",
         "ko_eum": "판"
       },
+      "story": {},
       "readings": {
         "on": [
           {
@@ -17613,6 +18210,7 @@
         "ko_hun": "밥",
         "ko_eum": "반"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -17650,6 +18248,7 @@
         "ko_hun": "날다",
         "ko_eum": "비"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -17694,6 +18293,7 @@
         "ko_hun": "반드시",
         "ko_eum": "필"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -17731,6 +18331,7 @@
         "ko_hun": "표",
         "ko_eum": "표"
       },
+      "story": {},
       "readings": {
         "on": [
           {
@@ -17759,6 +18360,7 @@
         "ko_hun": "표",
         "ko_eum": "표"
       },
+      "story": {},
       "readings": {
         "on": [
           {
@@ -17787,6 +18389,7 @@
         "ko_hun": "아닐",
         "ko_eum": "부"
       },
+      "story": {},
       "readings": {
         "on": [
           {
@@ -17822,6 +18425,7 @@
         "ko_hun": "지아비",
         "ko_eum": "부"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -17866,6 +18470,7 @@
         "ko_hun": "붙을",
         "ko_eum": "부"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -17903,6 +18508,7 @@
         "ko_hun": "마을",
         "ko_eum": "부"
       },
+      "story": {},
       "readings": {
         "on": [
           {
@@ -17931,6 +18537,7 @@
         "ko_hun": "언덕",
         "ko_eum": "부"
       },
+      "story": {},
       "readings": {
         "on": [
           {
@@ -17959,6 +18566,7 @@
         "ko_hun": "부자",
         "ko_eum": "부"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -17996,6 +18604,7 @@
         "ko_hun": "버금",
         "ko_eum": "부"
       },
+      "story": {},
       "readings": {
         "on": [
           {
@@ -18024,6 +18633,7 @@
         "ko_hun": "군사",
         "ko_eum": "병"
       },
+      "story": {},
       "readings": {
         "on": [
           {
@@ -18052,6 +18662,7 @@
         "ko_hun": "다를",
         "ko_eum": "별"
       },
+      "story": {},
       "readings": {
         "on": [
           {
@@ -18080,6 +18691,7 @@
         "ko_hun": "가",
         "ko_eum": "변"
       },
+      "story": {},
       "readings": {
         "on": [
           {
@@ -18108,6 +18720,7 @@
         "ko_hun": "변할",
         "ko_eum": "변"
       },
+      "story": {},
       "readings": {
         "on": [
           {
@@ -18136,6 +18749,7 @@
         "ko_hun": "편할",
         "ko_eum": "편"
       },
+      "story": {},
       "readings": {
         "on": [
           {
@@ -18164,6 +18778,7 @@
         "ko_hun": "쌀",
         "ko_eum": "포"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -18192,6 +18807,7 @@
         "ko_hun": "법",
         "ko_eum": "법"
       },
+      "story": {},
       "readings": {
         "on": [
           {
@@ -18220,6 +18836,7 @@
         "ko_hun": "바랄",
         "ko_eum": "망"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -18248,6 +18865,7 @@
         "ko_hun": "칠",
         "ko_eum": "목"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -18276,6 +18894,7 @@
         "ko_hun": "끝",
         "ko_eum": "말"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -18304,6 +18923,7 @@
         "ko_hun": "찰",
         "ko_eum": "만"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -18332,6 +18952,7 @@
         "ko_hun": "아닐",
         "ko_eum": "미"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -18360,6 +18981,7 @@
         "ko_hun": "백성",
         "ko_eum": "민"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -18388,6 +19010,7 @@
         "ko_hun": "없을",
         "ko_eum": "무"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -18416,6 +19039,7 @@
         "ko_hun": "맺을",
         "ko_eum": "약"
       },
+      "story": {},
       "readings": {
         "on": [
           {
@@ -18444,6 +19068,7 @@
         "ko_hun": "날",
         "ko_eum": "용"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -18472,6 +19097,7 @@
         "ko_hun": "중요할",
         "ko_eum": "요"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -18500,6 +19126,7 @@
         "ko_hun": "기를",
         "ko_eum": "양"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -18528,6 +19155,7 @@
         "ko_hun": "목욕할",
         "ko_eum": "욕"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -18556,6 +19184,7 @@
         "ko_hun": "이로울",
         "ko_eum": "리"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -18584,6 +19213,7 @@
         "ko_hun": "뭍",
         "ko_eum": "륙"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -18612,6 +19242,7 @@
         "ko_hun": "어질",
         "ko_eum": "량"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -18640,6 +19271,7 @@
         "ko_hun": "헤아릴",
         "ko_eum": "료"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -18669,6 +19301,7 @@
         "ko_hun": "헤아릴",
         "ko_eum": "량"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -18697,6 +19330,7 @@
         "ko_hun": "바퀴",
         "ko_eum": "륜"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -18725,6 +19359,7 @@
         "ko_hun": "무리",
         "ko_eum": "류"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -18754,6 +19389,7 @@
         "ko_hun": "명령할",
         "ko_eum": "령"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -18783,6 +19419,7 @@
         "ko_hun": "찰",
         "ko_eum": "냉"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -18811,6 +19448,7 @@
         "ko_hun": "법식",
         "ko_eum": "례"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -18839,6 +19477,7 @@
         "ko_hun": "잇닿을",
         "ko_eum": "련"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -18867,6 +19506,7 @@
         "ko_hun": "늙을",
         "ko_eum": "로"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -18895,6 +19535,7 @@
         "ko_hun": "일할",
         "ko_eum": "로"
       },
+      "story": {},
       "readings": {
         "on": [
           {
@@ -18923,6 +19564,7 @@
         "ko_hun": "기록할",
         "ko_eum": "록"
       },
+      "story": {},
       "readings": {
         "on": [
           {
@@ -18951,6 +19593,7 @@
         "ko_hun": "누를",
         "ko_eum": "압"
       },
+      "story": {},
       "readings": {
         "on": [
           {
@@ -18979,6 +19622,7 @@
         "ko_hun": "둘러쌀",
         "ko_eum": "위"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -19007,6 +19651,7 @@
         "ko_hun": "옮길",
         "ko_eum": "이"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -19035,6 +19680,7 @@
         "ko_hun": "인할",
         "ko_eum": "인"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -19063,6 +19709,7 @@
         "ko_hun": "길",
         "ko_eum": "영"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -19091,6 +19738,7 @@
         "ko_hun": "경영할",
         "ko_eum": "영"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -19119,6 +19767,7 @@
         "ko_hun": "지킬",
         "ko_eum": "위"
       },
+      "story": {},
       "readings": {
         "on": [
           {
@@ -19147,6 +19796,7 @@
         "ko_hun": "쉬울",
         "ko_eum": "역"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -19175,6 +19825,7 @@
         "ko_hun": "더할",
         "ko_eum": "익"
       },
+      "story": {},
       "readings": {
         "on": [
           {
@@ -19203,6 +19854,7 @@
         "ko_hun": "진",
         "ko_eum": "액"
       },
+      "story": {},
       "readings": {
         "on": [
           {
@@ -19231,6 +19883,7 @@
         "ko_hun": "펼",
         "ko_eum": "연"
       },
+      "story": {},
       "readings": {
         "on": [
           {
@@ -19259,6 +19912,7 @@
         "ko_hun": "응할",
         "ko_eum": "응"
       },
+      "story": {},
       "readings": {
         "on": [
           {
@@ -19287,6 +19941,7 @@
         "ko_hun": "갈",
         "ko_eum": "왕"
       },
+      "story": {},
       "readings": {
         "on": [
           {
@@ -19315,6 +19970,7 @@
         "ko_hun": "앵두나무",
         "ko_eum": "앵"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -19343,6 +19999,7 @@
         "ko_hun": "옳을",
         "ko_eum": "가"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -19372,6 +20029,7 @@
         "ko_hun": "거짓",
         "ko_eum": "가"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -19409,6 +20067,7 @@
         "ko_hun": "값",
         "ko_eum": "가"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -19438,6 +20097,7 @@
         "ko_hun": "물",
         "ko_eum": "하"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -19475,6 +20135,7 @@
         "ko_hun": "지날",
         "ko_eum": "과"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -19512,6 +20173,7 @@
         "ko_hun": "쾌할",
         "ko_eum": "쾌"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -19549,6 +20211,7 @@
         "ko_hun": "풀",
         "ko_eum": "해"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -19586,6 +20249,7 @@
         "ko_hun": "격식",
         "ko_eum": "격"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -19615,6 +20279,7 @@
         "ko_hun": "굳을",
         "ko_eum": "확"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -19652,6 +20317,7 @@
         "ko_hun": "이마",
         "ko_eum": "액"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -19689,6 +20355,7 @@
         "ko_hun": "새길",
         "ko_eum": "간"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -19718,6 +20385,7 @@
         "ko_hun": "줄기",
         "ko_eum": "간"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -19755,6 +20423,7 @@
         "ko_hun": "익힐",
         "ko_eum": "관"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -19792,6 +20461,7 @@
         "ko_hun": "눈",
         "ko_eum": "안"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -19829,6 +20499,7 @@
         "ko_hun": "벼리",
         "ko_eum": "기"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -19858,6 +20529,7 @@
         "ko_hun": "터",
         "ko_eum": "기"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -19895,6 +20567,7 @@
         "ko_hun": "부칠",
         "ko_eum": "기"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -19923,6 +20596,7 @@
         "ko_hun": "법",
         "ko_eum": "규"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -19952,6 +20626,7 @@
         "ko_hun": "기쁠",
         "ko_eum": "희"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -19980,6 +20655,7 @@
         "ko_hun": "재주",
         "ko_eum": "기"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -20008,6 +20684,7 @@
         "ko_hun": "옳을",
         "ko_eum": "의"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -20037,6 +20714,7 @@
         "ko_hun": "거스를",
         "ko_eum": "역"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -20065,6 +20743,7 @@
         "ko_hun": "오랠",
         "ko_eum": "구"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -20093,6 +20772,7 @@
         "ko_hun": "예",
         "ko_eum": "구"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -20122,6 +20802,7 @@
         "ko_hun": "구원할",
         "ko_eum": "구"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -20150,6 +20831,7 @@
         "ko_hun": "있을",
         "ko_eum": "거"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -20178,6 +20860,7 @@
         "ko_hun": "허락할",
         "ko_eum": "허"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -20206,6 +20889,7 @@
         "ko_hun": "지경",
         "ko_eum": "경"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -20234,6 +20918,7 @@
         "ko_hun": "고를",
         "ko_eum": "균"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -20263,6 +20948,7 @@
         "ko_hun": "금할",
         "ko_eum": "금"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -20292,6 +20978,7 @@
         "ko_hun": "글귀",
         "ko_eum": "구"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -20321,6 +21008,7 @@
         "ko_hun": "모형",
         "ko_eum": "형"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -20349,6 +21037,7 @@
         "ko_hun": "다스릴",
         "ko_eum": "경"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -20386,6 +21075,7 @@
         "ko_hun": "깨끗할",
         "ko_eum": "결"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -20423,6 +21113,7 @@
         "ko_hun": "사건",
         "ko_eum": "건"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -20452,6 +21143,7 @@
         "ko_hun": "험할",
         "ko_eum": "험"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -20489,6 +21181,7 @@
         "ko_hun": "검사할",
         "ko_eum": "검"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -20518,6 +21211,7 @@
         "ko_hun": "한할",
         "ko_eum": "한"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -20555,6 +21249,7 @@
         "ko_hun": "나타날",
         "ko_eum": "현"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -20592,6 +21287,7 @@
         "ko_hun": "덜",
         "ko_eum": "감"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -20629,6 +21325,7 @@
         "ko_hun": "고할",
         "ko_eum": "고"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -20658,6 +21355,7 @@
         "ko_hun": "낱",
         "ko_eum": "개"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -20687,6 +21385,7 @@
         "ko_hun": "돕다",
         "ko_eum": "호"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -20716,6 +21415,7 @@
         "ko_hun": "효과",
         "ko_eum": "효"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -20753,6 +21453,7 @@
         "ko_hun": "두터울",
         "ko_eum": "후"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -20790,6 +21491,7 @@
         "ko_hun": "밭 갈",
         "ko_eum": "경"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -20827,6 +21529,7 @@
         "ko_hun": "배",
         "ko_eum": "항"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -20856,6 +21559,7 @@
         "ko_hun": "쇳돌",
         "ko_eum": "광"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -20885,6 +21589,7 @@
         "ko_hun": "얽을",
         "ko_eum": "구"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -20914,6 +21619,7 @@
         "ko_hun": "일어날",
         "ko_eum": "흥"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -20943,6 +21649,7 @@
         "ko_hun": "외울",
         "ko_eum": "강"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": []
@@ -20964,6 +21671,7 @@
         "ko_hun": "고할",
         "ko_eum": "고"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -20993,6 +21701,7 @@
         "ko_hun": "섞을",
         "ko_eum": "혼"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -21022,6 +21731,7 @@
         "ko_hun": "조사할",
         "ko_eum": "사"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": []
@@ -21043,6 +21753,7 @@
         "ko_hun": "두",
         "ko_eum": "재"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -21072,6 +21783,7 @@
         "ko_hun": "재앙",
         "ko_eum": "재"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -21101,6 +21813,7 @@
         "ko_hun": "아내",
         "ko_eum": "처"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -21130,6 +21843,7 @@
         "ko_hun": "캘",
         "ko_eum": "채"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -21159,6 +21873,7 @@
         "ko_hun": "즈음",
         "ko_eum": "제"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -21188,6 +21903,7 @@
         "ko_hun": "있을",
         "ko_eum": "재"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -21217,6 +21933,7 @@
         "ko_hun": "재물",
         "ko_eum": "재"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": []
@@ -21238,6 +21955,7 @@
         "ko_hun": "허물",
         "ko_eum": "죄"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -21267,6 +21985,7 @@
         "ko_hun": "죽일",
         "ko_eum": "살"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -21296,6 +22015,7 @@
         "ko_hun": "섞일",
         "ko_eum": "잡"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": []
@@ -21317,6 +22037,7 @@
         "ko_hun": "실",
         "ko_eum": "산"
       },
+      "story": {},
       "readings": {
         "on": [
           {
@@ -21345,6 +22066,7 @@
         "ko_hun": "찬",
         "ko_eum": "찬"
       },
+      "story": {},
       "readings": {
         "on": [
           {
@@ -21373,6 +22095,7 @@
         "ko_hun": "선비",
         "ko_eum": "사"
       },
+      "story": {},
       "readings": {
         "on": [
           {
@@ -21401,6 +22124,7 @@
         "ko_hun": "지탱할",
         "ko_eum": "지"
       },
+      "story": {},
       "readings": {
         "on": [
           {
@@ -21429,6 +22153,7 @@
         "ko_hun": "사기",
         "ko_eum": "사"
       },
+      "story": {},
       "readings": {
         "on": [
           {
@@ -21457,6 +22182,7 @@
         "ko_hun": "뜻",
         "ko_eum": "지"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -21485,6 +22211,7 @@
         "ko_hun": "가지",
         "ko_eum": "지"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -21513,6 +22240,7 @@
         "ko_hun": "스승",
         "ko_eum": "사"
       },
+      "story": {},
       "readings": {
         "on": [
           {
@@ -21541,6 +22269,7 @@
         "ko_hun": "재물",
         "ko_eum": "자"
       },
+      "story": {},
       "readings": {
         "on": [
           {
@@ -21569,6 +22298,7 @@
         "ko_hun": "기를",
         "ko_eum": "사"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -21597,6 +22327,7 @@
         "ko_hun": "보일",
         "ko_eum": "시"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -21625,6 +22356,7 @@
         "ko_hun": "닮을",
         "ko_eum": "사"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -21653,6 +22385,7 @@
         "ko_hun": "알",
         "ko_eum": "식"
       },
+      "story": {},
       "readings": {
         "on": [
           {
@@ -21681,6 +22414,7 @@
         "ko_hun": "바탕",
         "ko_eum": "질"
       },
+      "story": {},
       "readings": {
         "on": [
           {
@@ -21709,6 +22443,7 @@
         "ko_hun": "집",
         "ko_eum": "사"
       },
+      "story": {},
       "readings": {
         "on": [
           {
@@ -21737,6 +22472,7 @@
         "ko_hun": "사례",
         "ko_eum": "사"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -21765,6 +22501,7 @@
         "ko_hun": "줄",
         "ko_eum": "수"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -21793,6 +22530,7 @@
         "ko_hun": "닦을",
         "ko_eum": "수"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -21821,6 +22559,7 @@
         "ko_hun": "펼",
         "ko_eum": "술"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -21849,6 +22588,7 @@
         "ko_hun": "재주",
         "ko_eum": "술"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -21877,6 +22617,7 @@
         "ko_hun": "준할",
         "ko_eum": "준"
       },
+      "story": {},
       "readings": {
         "on": [
           {
@@ -21905,6 +22646,7 @@
         "ko_hun": "차례",
         "ko_eum": "서"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -21933,6 +22675,7 @@
         "ko_hun": "부를",
         "ko_eum": "초"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -21961,6 +22704,7 @@
         "ko_hun": "증거",
         "ko_eum": "증"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -21989,6 +22733,7 @@
         "ko_hun": "코끼리",
         "ko_eum": "상"
       },
+      "story": {},
       "readings": {
         "on": [
           {
@@ -22017,6 +22762,7 @@
         "ko_hun": "상줄",
         "ko_eum": "상"
       },
+      "story": {},
       "readings": {
         "on": [
           {
@@ -22045,6 +22791,7 @@
         "ko_hun": "가지",
         "ko_eum": "조"
       },
+      "story": {},
       "readings": {
         "on": [
           {
@@ -22073,6 +22820,7 @@
         "ko_hun": "형상",
         "ko_eum": "상"
       },
+      "story": {},
       "readings": {
         "on": [
           {
@@ -22101,6 +22849,7 @@
         "ko_hun": "항상",
         "ko_eum": "상"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -22129,6 +22878,7 @@
         "ko_hun": "뜻",
         "ko_eum": "정"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -22157,6 +22907,7 @@
         "ko_hun": "짤",
         "ko_eum": "직"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -22185,6 +22936,7 @@
         "ko_hun": "직업",
         "ko_eum": "직"
       },
+      "story": {},
       "readings": {
         "on": [
           {
@@ -22213,6 +22965,7 @@
         "ko_hun": "제도",
         "ko_eum": "제"
       },
+      "story": {},
       "readings": {
         "on": [
           {
@@ -22241,6 +22994,7 @@
         "ko_hun": "성질",
         "ko_eum": "성"
       },
+      "story": {},
       "readings": {
         "on": [
           {
@@ -22269,6 +23023,7 @@
         "ko_hun": "정치",
         "ko_eum": "정"
       },
+      "story": {},
       "readings": {
         "on": [
           {
@@ -22297,6 +23052,7 @@
         "ko_hun": "기세",
         "ko_eum": "세"
       },
+      "story": {},
       "readings": {
         "on": [
           {
@@ -22325,6 +23081,7 @@
         "ko_hun": "정밀",
         "ko_eum": "정"
       },
+      "story": {},
       "readings": {
         "on": [
           {
@@ -22353,6 +23110,7 @@
         "ko_hun": "제작",
         "ko_eum": "제"
       },
+      "story": {},
       "readings": {
         "on": [
           {
@@ -22381,6 +23139,7 @@
         "ko_hun": "세금",
         "ko_eum": "세"
       },
+      "story": {},
       "readings": {
         "on": [
           {
@@ -22409,6 +23168,7 @@
         "ko_hun": "책임",
         "ko_eum": "책"
       },
+      "story": {},
       "readings": {
         "on": [
           {
@@ -22437,6 +23197,7 @@
         "ko_hun": "성과",
         "ko_eum": "적"
       },
+      "story": {},
       "readings": {
         "on": [
           {
@@ -22465,6 +23226,7 @@
         "ko_hun": "접촉",
         "ko_eum": "접"
       },
+      "story": {},
       "readings": {
         "on": [
           {
@@ -22493,6 +23255,7 @@
         "ko_hun": "설치",
         "ko_eum": "설"
       },
+      "story": {},
       "readings": {
         "on": [
           {
@@ -22521,6 +23284,7 @@
         "ko_hun": "절단",
         "ko_eum": "절"
       },
+      "story": {},
       "readings": {
         "on": [
           {
@@ -22549,6 +23313,7 @@
         "ko_hun": "조상",
         "ko_eum": "조"
       },
+      "story": {},
       "readings": {
         "on": [
           {
@@ -22577,6 +23342,7 @@
         "ko_hun": "소박",
         "ko_eum": "소"
       },
+      "story": {},
       "readings": {
         "on": [
           {
@@ -22605,6 +23371,7 @@
         "ko_hun": "총합",
         "ko_eum": "총"
       },
+      "story": {},
       "readings": {
         "on": [
           {
@@ -22633,6 +23400,7 @@
         "ko_hun": "제작",
         "ko_eum": "조"
       },
+      "story": {},
       "readings": {
         "on": [
           {
@@ -22661,6 +23429,7 @@
         "ko_hun": "모양",
         "ko_eum": "상"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -22690,6 +23459,7 @@
         "ko_hun": "더하다",
         "ko_eum": "증"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -22727,6 +23497,7 @@
         "ko_hun": "법칙",
         "ko_eum": "칙"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -22756,6 +23527,7 @@
         "ko_hun": "헤아리다",
         "ko_eum": "측"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -22793,6 +23565,7 @@
         "ko_hun": "붙다",
         "ko_eum": "속"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -22822,6 +23595,7 @@
         "ko_hun": "거느리다",
         "ko_eum": "률"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -22851,6 +23625,7 @@
         "ko_hun": "덜다",
         "ko_eum": "손"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -22888,6 +23663,7 @@
         "ko_hun": "빌려주다",
         "ko_eum": "대"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -22925,6 +23701,7 @@
         "ko_hun": "모양",
         "ko_eum": "태"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -22954,6 +23731,7 @@
         "ko_hun": "모이다",
         "ko_eum": "단"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -22983,6 +23761,7 @@
         "ko_hun": "끊다",
         "ko_eum": "단"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -23020,6 +23799,7 @@
         "ko_hun": "쌓다",
         "ko_eum": "축"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -23057,6 +23837,7 @@
         "ko_hun": "모으다",
         "ko_eum": "저"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -23086,6 +23867,7 @@
         "ko_hun": "펼치다",
         "ko_eum": "장"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -23123,6 +23905,7 @@
         "ko_hun": "머무르다",
         "ko_eum": "정"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -23152,6 +23935,7 @@
         "ko_hun": "끌다",
         "ko_eum": "제"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -23181,6 +23965,7 @@
         "ko_hun": "한도",
         "ko_eum": "정"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -23210,6 +23995,7 @@
         "ko_hun": "맞을",
         "ko_eum": "적"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -23239,6 +24025,7 @@
         "ko_hun": "거느릴",
         "ko_eum": "통"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -23268,6 +24055,7 @@
         "ko_hun": "집",
         "ko_eum": "당"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": []
@@ -23289,6 +24077,7 @@
         "ko_hun": "구리",
         "ko_eum": "동"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": []
@@ -23310,6 +24099,7 @@
         "ko_hun": "인도할",
         "ko_eum": "도"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -23339,6 +24129,7 @@
         "ko_hun": "얻을",
         "ko_eum": "득"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -23368,6 +24159,7 @@
         "ko_hun": "독",
         "ko_eum": "독"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": []
@@ -23389,6 +24181,7 @@
         "ko_hun": "홀로",
         "ko_eum": "독"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": []
@@ -23410,6 +24203,7 @@
         "ko_hun": "맡길",
         "ko_eum": "임"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -23439,6 +24233,7 @@
         "ko_hun": "탈",
         "ko_eum": "연"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -23468,6 +24263,7 @@
         "ko_hun": "능할",
         "ko_eum": "능"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": []
@@ -23489,6 +24285,7 @@
         "ko_hun": "깨뜨릴",
         "ko_eum": "파"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -23518,6 +24315,7 @@
         "ko_hun": "범할",
         "ko_eum": "범"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -23547,6 +24345,7 @@
         "ko_hun": "판단할",
         "ko_eum": "판"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": []
@@ -23568,6 +24367,7 @@
         "ko_hun": "판목",
         "ko_eum": "판"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": []
@@ -23589,6 +24389,7 @@
         "ko_hun": "비교할",
         "ko_eum": "비"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -23617,6 +24418,7 @@
         "ko_hun": "살찔",
         "ko_eum": "비"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -23645,6 +24447,7 @@
         "ko_hun": "아닐",
         "ko_eum": "비"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -23674,6 +24477,7 @@
         "ko_hun": "쓸",
         "ko_eum": "비"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -23702,6 +24506,7 @@
         "ko_hun": "갖출",
         "ko_eum": "비"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -23730,6 +24535,7 @@
         "ko_hun": "평할",
         "ko_eum": "평"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -23759,6 +24565,7 @@
         "ko_hun": "가난할",
         "ko_eum": "빈"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -23787,6 +24594,7 @@
         "ko_hun": "베",
         "ko_eum": "포"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -23815,6 +24623,7 @@
         "ko_hun": "며느리",
         "ko_eum": "부"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -23844,6 +24653,7 @@
         "ko_hun": "호반",
         "ko_eum": "무"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -23873,6 +24683,7 @@
         "ko_hun": "회복할",
         "ko_eum": "복"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -23902,6 +24713,7 @@
         "ko_hun": "겹칠",
         "ko_eum": "복"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -23931,6 +24743,7 @@
         "ko_hun": "부처",
         "ko_eum": "불"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -23959,6 +24772,7 @@
         "ko_hun": "가루",
         "ko_eum": "분"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -23987,6 +24801,7 @@
         "ko_hun": "엮을",
         "ko_eum": "편"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -24016,6 +24831,7 @@
         "ko_hun": "말씀",
         "ko_eum": "변"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -24045,6 +24861,7 @@
         "ko_hun": "지킬",
         "ko_eum": "보"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -24074,6 +24891,7 @@
         "ko_hun": "무덤",
         "ko_eum": "묘"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -24103,6 +24921,7 @@
         "ko_hun": "갚을",
         "ko_eum": "보"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -24132,6 +24951,7 @@
         "ko_hun": "풍부할",
         "ko_eum": "풍"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -24161,6 +24981,7 @@
         "ko_hun": "막을",
         "ko_eum": "방"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -24190,6 +25011,7 @@
         "ko_hun": "무역할",
         "ko_eum": "무"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": []
@@ -24211,6 +25033,7 @@
         "ko_hun": "사나울",
         "ko_eum": "폭"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -24240,6 +25063,7 @@
         "ko_hun": "줄기",
         "ko_eum": "맥"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": []
@@ -24261,6 +25085,7 @@
         "ko_hun": "힘쓸",
         "ko_eum": "무"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -24290,6 +25115,7 @@
         "ko_hun": "꿈",
         "ko_eum": "몽"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -24319,6 +25145,7 @@
         "ko_hun": "미혹할",
         "ko_eum": "미"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -24348,6 +25175,7 @@
         "ko_hun": "솜",
         "ko_eum": "면"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -24377,6 +25205,7 @@
         "ko_hun": "보낼",
         "ko_eum": "수"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": []
@@ -24398,6 +25227,7 @@
         "ko_hun": "남을",
         "ko_eum": "여"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -24427,6 +25257,7 @@
         "ko_hun": "얼굴",
         "ko_eum": "용"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": []
@@ -24448,6 +25279,7 @@
         "ko_hun": "간략할",
         "ko_eum": "략"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": []
@@ -24469,6 +25301,7 @@
         "ko_hun": "머무를",
         "ko_eum": "류"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -24498,6 +25331,7 @@
         "ko_hun": "거느릴",
         "ko_eum": "령"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -24527,6 +25361,7 @@
         "ko_hun": "지낼",
         "ko_eum": "력"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -24556,6 +25391,7 @@
         "ko_hun": "밥통",
         "ko_eum": "위"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -24585,6 +25421,7 @@
         "ko_hun": "다를",
         "ko_eum": "이"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -24614,6 +25451,7 @@
         "ko_hun": "남길",
         "ko_eum": "유"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -24643,6 +25481,7 @@
         "ko_hun": "지경",
         "ko_eum": "역"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -24672,6 +25511,7 @@
         "ko_hun": "집",
         "ko_eum": "우"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -24701,6 +25541,7 @@
         "ko_hun": "비칠",
         "ko_eum": "영"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -24730,6 +25571,7 @@
         "ko_hun": "늘일",
         "ko_eum": "연"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -24759,6 +25601,7 @@
         "ko_hun": "따를",
         "ko_eum": "연"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -24788,6 +25631,7 @@
         "ko_hun": "은혜",
         "ko_eum": "은"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -24817,6 +25661,7 @@
         "ko_hun": "나",
         "ko_eum": "아"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -24846,6 +25691,7 @@
         "ko_hun": "재",
         "ko_eum": "회"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -24875,6 +25721,7 @@
         "ko_hun": "넓힐",
         "ko_eum": "확"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -24904,6 +25751,7 @@
         "ko_hun": "가죽",
         "ko_eum": "혁"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -24933,6 +25781,7 @@
         "ko_hun": "집",
         "ko_eum": "각"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -24962,6 +25811,7 @@
         "ko_hun": "나누다",
         "ko_eum": "할"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -24999,6 +25849,7 @@
         "ko_hun": "그루",
         "ko_eum": "주"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -25028,6 +25879,7 @@
         "ko_hun": "방패",
         "ko_eum": "간"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -25072,6 +25924,7 @@
         "ko_hun": "책",
         "ko_eum": "권"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -25116,6 +25969,7 @@
         "ko_hun": "보다",
         "ko_eum": "간"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -25145,6 +25999,7 @@
         "ko_hun": "대쪽",
         "ko_eum": "간"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -25174,6 +26029,7 @@
         "ko_hun": "위태롭다",
         "ko_eum": "위"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -25218,6 +26074,7 @@
         "ko_hun": "책상",
         "ko_eum": "궤"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -25255,6 +26112,7 @@
         "ko_hun": "휘두르다",
         "ko_eum": "휘"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -25284,6 +26142,7 @@
         "ko_hun": "귀하다",
         "ko_eum": "귀"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -25328,6 +26187,7 @@
         "ko_hun": "의심하다",
         "ko_eum": "의"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -25365,6 +26225,7 @@
         "ko_hun": "마시다",
         "ko_eum": "흡"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -25402,6 +26263,7 @@
         "ko_hun": "바치다",
         "ko_eum": "공"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -25446,6 +26308,7 @@
         "ko_hun": "가슴",
         "ko_eum": "흉"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -25483,6 +26346,7 @@
         "ko_hun": "마을",
         "ko_eum": "향"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -25519,6 +26383,7 @@
         "ko_hun": "부지런할",
         "ko_eum": "근"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -25548,6 +26413,7 @@
         "ko_hun": "힘줄",
         "ko_eum": "근"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -25577,6 +26443,7 @@
         "ko_hun": "계통",
         "ko_eum": "계"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": []
@@ -25598,6 +26465,7 @@
         "ko_hun": "공경할",
         "ko_eum": "경"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -25627,6 +26495,7 @@
         "ko_hun": "경계할",
         "ko_eum": "경"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": []
@@ -25648,6 +26517,7 @@
         "ko_hun": "심할",
         "ko_eum": "극"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": []
@@ -25669,6 +26539,7 @@
         "ko_hun": "격할",
         "ko_eum": "격"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -25698,6 +26569,7 @@
         "ko_hun": "구멍",
         "ko_eum": "혈"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -25727,6 +26599,7 @@
         "ko_hun": "문서",
         "ko_eum": "권"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": []
@@ -25748,6 +26621,7 @@
         "ko_hun": "비단",
         "ko_eum": "견"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -25777,6 +26651,7 @@
         "ko_hun": "권세",
         "ko_eum": "권"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": []
@@ -25798,6 +26673,7 @@
         "ko_hun": "법",
         "ko_eum": "헌"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": []
@@ -25819,6 +26695,7 @@
         "ko_hun": "근원",
         "ko_eum": "원"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -25848,6 +26725,7 @@
         "ko_hun": "엄할",
         "ko_eum": "엄"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -25877,6 +26755,7 @@
         "ko_hun": "몸",
         "ko_eum": "기"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -25906,6 +26785,7 @@
         "ko_hun": "부를",
         "ko_eum": "호"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -25935,6 +26815,7 @@
         "ko_hun": "그릇",
         "ko_eum": "오"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -25963,6 +26844,7 @@
         "ko_hun": "임금의 아내",
         "ko_eum": "후"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -25991,6 +26873,7 @@
         "ko_hun": "효도",
         "ko_eum": "효"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -26020,6 +26903,7 @@
         "ko_hun": "임금",
         "ko_eum": "황"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -26049,6 +26933,7 @@
         "ko_hun": "붉다",
         "ko_eum": "홍"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -26077,6 +26962,7 @@
         "ko_hun": "내리다",
         "ko_eum": "강"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -26105,6 +26991,7 @@
         "ko_hun": "강철",
         "ko_eum": "강"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -26133,6 +27020,7 @@
         "ko_hun": "새기다",
         "ko_eum": "각"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -26161,6 +27049,7 @@
         "ko_hun": "곡식",
         "ko_eum": "곡"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -26190,6 +27079,7 @@
         "ko_hun": "뼈",
         "ko_eum": "골"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -26218,6 +27108,7 @@
         "ko_hun": "곤란",
         "ko_eum": "곤"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -26246,6 +27137,7 @@
         "ko_hun": "모래",
         "ko_eum": "사"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -26274,6 +27166,7 @@
         "ko_hun": "자리",
         "ko_eum": "좌"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -26302,6 +27195,7 @@
         "ko_hun": "끝나다",
         "ko_eum": "제"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -26330,6 +27224,7 @@
         "ko_hun": "재단하다",
         "ko_eum": "재"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -26358,6 +27253,7 @@
         "ko_hun": "꾀하다",
         "ko_eum": "책"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -26387,6 +27283,7 @@
         "ko_hun": "책",
         "ko_eum": "책"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -26416,6 +27313,7 @@
         "ko_hun": "누에",
         "ko_eum": "잠"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -26453,6 +27351,7 @@
         "ko_hun": "이를",
         "ko_eum": "지"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -26490,6 +27389,7 @@
         "ko_hun": "사사롭다",
         "ko_eum": "사"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -26527,6 +27427,7 @@
         "ko_hun": "모양",
         "ko_eum": "자"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -26564,6 +27465,7 @@
         "ko_hun": "볼",
         "ko_eum": "시"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -26593,6 +27495,7 @@
         "ko_hun": "말",
         "ko_eum": "사"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -26622,6 +27525,7 @@
         "ko_hun": "기록할",
         "ko_eum": "지"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -26651,6 +27555,7 @@
         "ko_hun": "자석",
         "ko_eum": "자"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -26680,6 +27585,7 @@
         "ko_hun": "쏠",
         "ko_eum": "사"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -26717,6 +27623,7 @@
         "ko_hun": "버릴",
         "ko_eum": "사"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -26761,6 +27668,7 @@
         "ko_hun": "자",
         "ko_eum": "척"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -26790,6 +27698,7 @@
         "ko_hun": "같을",
         "ko_eum": "약"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -26827,6 +27736,7 @@
         "ko_hun": "나무",
         "ko_eum": "수"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -26856,6 +27766,7 @@
         "ko_hun": "거둘",
         "ko_eum": "수"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -26900,6 +27811,7 @@
         "ko_hun": "종교",
         "ko_eum": "종"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -26936,6 +27848,7 @@
         "ko_hun": "나아갈",
         "ko_eum": "취"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -26964,6 +27877,7 @@
         "ko_hun": "무리",
         "ko_eum": "중"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -26993,6 +27907,7 @@
         "ko_hun": "좇을",
         "ko_eum": "종"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -27021,6 +27936,7 @@
         "ko_hun": "세로",
         "ko_eum": "종"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -27049,6 +27965,7 @@
         "ko_hun": "줄일",
         "ko_eum": "축"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -27077,6 +27994,7 @@
         "ko_hun": "익을",
         "ko_eum": "숙"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -27105,6 +28023,7 @@
         "ko_hun": "순수할",
         "ko_eum": "순"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -27134,6 +28053,7 @@
         "ko_hun": "곳",
         "ko_eum": "처"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -27162,6 +28082,7 @@
         "ko_hun": "마을",
         "ko_eum": "서"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -27191,6 +28112,7 @@
         "ko_hun": "모두",
         "ko_eum": "제"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -27220,6 +28142,7 @@
         "ko_hun": "덜",
         "ko_eum": "제"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -27248,6 +28171,7 @@
         "ko_hun": "받을",
         "ko_eum": "승"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -27276,6 +28200,7 @@
         "ko_hun": "장차",
         "ko_eum": "장"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -27305,6 +28230,7 @@
         "ko_hun": "다칠",
         "ko_eum": "상"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -27333,6 +28259,7 @@
         "ko_hun": "막을",
         "ko_eum": "장"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -27361,6 +28288,7 @@
         "ko_hun": "찔",
         "ko_eum": "증"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -27389,6 +28317,7 @@
         "ko_hun": "바늘",
         "ko_eum": "침"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -27418,6 +28347,7 @@
         "ko_hun": "어질",
         "ko_eum": "인"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -27447,6 +28377,7 @@
         "ko_hun": "드리울",
         "ko_eum": "수"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -27476,6 +28407,7 @@
         "ko_hun": "밀",
         "ko_eum": "추"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -27505,6 +28437,7 @@
         "ko_hun": "마디",
         "ko_eum": "촌"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -27534,6 +28467,7 @@
         "ko_hun": "성할",
         "ko_eum": "성"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -27563,6 +28497,7 @@
         "ko_hun": "성인",
         "ko_eum": "성"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -27592,6 +28527,7 @@
         "ko_hun": "정성",
         "ko_eum": "성"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -27621,6 +28557,7 @@
         "ko_hun": "혀",
         "ko_eum": "설"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -27650,6 +28587,7 @@
         "ko_hun": "베풀",
         "ko_eum": "선"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -27679,6 +28617,7 @@
         "ko_hun": "오로지",
         "ko_eum": "전"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -27708,6 +28647,7 @@
         "ko_hun": "샘",
         "ko_eum": "천"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -27737,6 +28677,7 @@
         "ko_hun": "씻을",
         "ko_eum": "세"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -27766,6 +28707,7 @@
         "ko_hun": "물들일",
         "ko_eum": "염"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -27795,6 +28737,7 @@
         "ko_hun": "돈",
         "ko_eum": "전"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -27824,6 +28767,7 @@
         "ko_hun": "착할",
         "ko_eum": "선"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -27853,6 +28797,7 @@
         "ko_hun": "연주할",
         "ko_eum": "주"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -27881,6 +28826,7 @@
         "ko_hun": "창문",
         "ko_eum": "창"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -27909,6 +28855,7 @@
         "ko_hun": "창조할",
         "ko_eum": "창"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -27937,6 +28884,7 @@
         "ko_hun": "꾸밀",
         "ko_eum": "장"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -27965,6 +28913,7 @@
         "ko_hun": "층",
         "ko_eum": "층"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -27994,6 +28943,7 @@
         "ko_hun": "다룰",
         "ko_eum": "조"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -28022,6 +28972,7 @@
         "ko_hun": "감출",
         "ko_eum": "장"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -28050,6 +29001,7 @@
         "ko_hun": "내장",
         "ko_eum": "장"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -28079,6 +29031,7 @@
         "ko_hun": "있을",
         "ko_eum": "존"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -28108,6 +29061,7 @@
         "ko_hun": "높을",
         "ko_eum": "존"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -28136,6 +29090,7 @@
         "ko_hun": "물러날",
         "ko_eum": "퇴"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -28164,6 +29119,7 @@
         "ko_hun": "집",
         "ko_eum": "택"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -28193,6 +29149,7 @@
         "ko_hun": "멜",
         "ko_eum": "담"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -28221,6 +29178,7 @@
         "ko_hun": "찾을",
         "ko_eum": "탐"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -28249,6 +29207,7 @@
         "ko_hun": "태어날",
         "ko_eum": "탄"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -28278,6 +29237,7 @@
         "ko_hun": "계단",
         "ko_eum": "단"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -28307,6 +29267,7 @@
         "ko_hun": "따뜻할",
         "ko_eum": "난"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -28335,6 +29296,7 @@
         "ko_hun": "값",
         "ko_eum": "치"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -28363,6 +29325,7 @@
         "ko_hun": "빌",
         "ko_eum": "주"
       },
+      "story": {},
       "readings": {
         "on": [
           {
@@ -28391,6 +29354,7 @@
         "ko_hun": "충성",
         "ko_eum": "충"
       },
+      "story": {},
       "readings": {
         "on": [
           {
@@ -28419,6 +29383,7 @@
         "ko_hun": "나타날",
         "ko_eum": "저"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -28447,6 +29412,7 @@
         "ko_hun": "관청",
         "ko_eum": "청"
       },
+      "story": {},
       "readings": {
         "on": [
           {
@@ -28475,6 +29441,7 @@
         "ko_hun": "정수리",
         "ko_eum": "정"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -28503,6 +29470,7 @@
         "ko_hun": "창자",
         "ko_eum": "장"
       },
+      "story": {},
       "readings": {
         "on": [
           {
@@ -28531,6 +29499,7 @@
         "ko_hun": "밀물",
         "ko_eum": "조"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -28559,6 +29528,7 @@
         "ko_hun": "품삯",
         "ko_eum": "임"
       },
+      "story": {},
       "readings": {
         "on": [
           {
@@ -28587,6 +29557,7 @@
         "ko_hun": "아플",
         "ko_eum": "통"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -28615,6 +29586,7 @@
         "ko_hun": "원수",
         "ko_eum": "적"
       },
+      "story": {},
       "readings": {
         "on": [
           {
@@ -28643,6 +29615,7 @@
         "ko_hun": "펼칠",
         "ko_eum": "전"
       },
+      "story": {},
       "readings": {
         "on": [
           {
@@ -28671,6 +29644,7 @@
         "ko_hun": "칠",
         "ko_eum": "토"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -28708,6 +29682,7 @@
         "ko_hun": "무리",
         "ko_eum": "당"
       },
+      "story": {},
       "readings": {
         "on": [
           {
@@ -28736,6 +29711,7 @@
         "ko_hun": "엿",
         "ko_eum": "당"
       },
+      "story": {},
       "readings": {
         "on": [
           {
@@ -28764,6 +29740,7 @@
         "ko_hun": "이르다",
         "ko_eum": "도"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -28792,6 +29769,7 @@
         "ko_hun": "어렵다",
         "ko_eum": "난"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -28820,6 +29798,7 @@
         "ko_hun": "젖",
         "ko_eum": "유"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -28848,6 +29827,7 @@
         "ko_hun": "알다",
         "ko_eum": "인"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -28876,6 +29856,7 @@
         "ko_hun": "바치다",
         "ko_eum": "납"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -28904,6 +29885,7 @@
         "ko_hun": "머리",
         "ko_eum": "뇌"
       },
+      "story": {},
       "readings": {
         "on": [
           {
@@ -28932,6 +29914,7 @@
         "ko_hun": "갈래",
         "ko_eum": "파"
       },
+      "story": {},
       "readings": {
         "on": [
           {
@@ -28960,6 +29943,7 @@
         "ko_hun": "절하다",
         "ko_eum": "배"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -28988,6 +29972,7 @@
         "ko_hun": "등",
         "ko_eum": "배"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -29016,6 +30001,7 @@
         "ko_hun": "허파",
         "ko_eum": "폐"
       },
+      "story": {},
       "readings": {
         "on": [
           {
@@ -29044,6 +30030,7 @@
         "ko_hun": "배우",
         "ko_eum": "배"
       },
+      "story": {},
       "readings": {
         "on": [
           {
@@ -29072,6 +30059,7 @@
         "ko_hun": "무리",
         "ko_eum": "반"
       },
+      "story": {},
       "readings": {
         "on": [
           {
@@ -29100,6 +30088,7 @@
         "ko_hun": "저녁",
         "ko_eum": "만"
       },
+      "story": {},
       "readings": {
         "on": [
           {
@@ -29128,6 +30117,7 @@
         "ko_hun": "아니다",
         "ko_eum": "부"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -29165,6 +30155,7 @@
         "ko_hun": "비판",
         "ko_eum": "비"
       },
+      "story": {},
       "readings": {
         "on": [
           {
@@ -29193,6 +30184,7 @@
         "ko_hun": "비밀",
         "ko_eum": "비"
       },
+      "story": {},
       "readings": {
         "on": [
           {
@@ -29221,6 +30213,7 @@
         "ko_hun": "멜",
         "ko_eum": "표"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -29249,6 +30242,7 @@
         "ko_hun": "배",
         "ko_eum": "복"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -29277,6 +30271,7 @@
         "ko_hun": "떨",
         "ko_eum": "분"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -29305,6 +30300,7 @@
         "ko_hun": "나란히",
         "ko_eum": "병"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -29333,6 +30329,7 @@
         "ko_hun": "섬돌",
         "ko_eum": "폐"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -29362,6 +30359,7 @@
         "ko_hun": "닫을",
         "ko_eum": "폐"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -29390,6 +30388,7 @@
         "ko_hun": "조각",
         "ko_eum": "편"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -29418,6 +30417,7 @@
         "ko_hun": "도울",
         "ko_eum": "보"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -29446,6 +30446,7 @@
         "ko_hun": "저물",
         "ko_eum": "모"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -29474,6 +30475,7 @@
         "ko_hun": "보배",
         "ko_eum": "보"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -29502,6 +30504,7 @@
         "ko_hun": "찾을",
         "ko_eum": "방"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -29530,6 +30533,7 @@
         "ko_hun": "망할",
         "ko_eum": "망"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -29558,6 +30562,7 @@
         "ko_hun": "잊을",
         "ko_eum": "망"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -29586,6 +30591,7 @@
         "ko_hun": "몽둥이",
         "ko_eum": "봉"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -29615,6 +30621,7 @@
         "ko_hun": "낱",
         "ko_eum": "매"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -29644,6 +30651,7 @@
         "ko_hun": "장막",
         "ko_eum": "막"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -29673,6 +30681,7 @@
         "ko_hun": "빽빽할",
         "ko_eum": "밀"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -29710,6 +30719,7 @@
         "ko_hun": "맹세할",
         "ko_eum": "맹"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -29739,6 +30749,7 @@
         "ko_hun": "본뜰",
         "ko_eum": "모"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -29768,6 +30779,7 @@
         "ko_hun": "통변할",
         "ko_eum": "역"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -29805,6 +30817,7 @@
         "ko_hun": "우편",
         "ko_eum": "우"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -29834,6 +30847,7 @@
         "ko_hun": "넉넉할",
         "ko_eum": "우"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -29871,6 +30885,7 @@
         "ko_hun": "맡길",
         "ko_eum": "예"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -29908,6 +30923,7 @@
         "ko_hun": "어릴",
         "ko_eum": "유"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -29945,6 +30961,7 @@
         "ko_hun": "하고자 할",
         "ko_eum": "욕"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -29989,6 +31006,7 @@
         "ko_hun": "다음",
         "ko_eum": "익"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -30018,6 +31036,7 @@
         "ko_hun": "어지러울",
         "ko_eum": "란"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -30055,6 +31074,7 @@
         "ko_hun": "알",
         "ko_eum": "란"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -30084,6 +31104,7 @@
         "ko_hun": "볼",
         "ko_eum": "람"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -30113,6 +31134,7 @@
         "ko_hun": "속",
         "ko_eum": "리"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -30142,6 +31164,7 @@
         "ko_hun": "법",
         "ko_eum": "률"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [
@@ -30171,6 +31194,7 @@
         "ko_hun": "임할",
         "ko_eum": "임"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -30208,6 +31232,7 @@
         "ko_hun": "밝을",
         "ko_eum": "랑"
       },
+      "story": {},
       "readings": {
         "kun": [
           {
@@ -30237,6 +31262,7 @@
         "ko_hun": "논할",
         "ko_eum": "논"
       },
+      "story": {},
       "readings": {
         "kun": [],
         "on": [

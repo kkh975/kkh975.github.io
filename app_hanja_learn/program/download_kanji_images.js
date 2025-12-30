@@ -9,7 +9,7 @@ const jsonFilePath = path.join(
   "../ref",
   "kanji_merge_grade_meta_reading_scraped.json"
 );
-const imagesDir = path.join(__dirname, "../ref/kanji_images");
+const imagesDir = path.join(__dirname, "../data/kanji_images");
 
 // 이미지 디렉토리가 없으면 생성
 if (!fs.existsSync(imagesDir)) {

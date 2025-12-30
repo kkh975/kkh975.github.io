@@ -1,66 +1,83 @@
 {
   "id": 1,
-  "char": "水",
-  "visual_data": {
-    "type": "emoji",
-    "value": "💧"
+  "kanji": "亜",
+  "level": {
+    "grade": 0,
+    "gradeOrder": 0,
+    "kanken": 2
   },
-  "tags": {
-    "jlpt": "N5",
-    "grade": 1
+  "radical": {
+    "id": "7",
+    "kanji": "二",
+    "name": "に"
+  },
+  "refUrl": "https://nihongokanji.com/1539",
+  "image": "https://blog.kakaocdn.net/dna/cvhodr/btsFmjF10im/AAAAAAAAAAAAAAAAAAAAADriq2LmF_i_Qm4MgEvFiaudynE4UADyYXgEhnySzS_C/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1767193199&allow_ip=&allow_referer=&signature=28XgxiUJBNvTDs27Npyz2sZPLMo%3D",
+  "visualData": {
+    "type": "emoji",
+    "value": "🥈"
+  },
+  "shapeDescription": {
+    "image": "",
+    "text": {
+      "ko": "亜는 본래 \"고대의 중형 저택의 구조\"를 본따 그린 글자입니다. \"(대형 저택보다는 작은) 중형 저택의 구조\" -> \"버금, 두 번째\"라는 의미입니다."
+    }
   },
   "meanings": {
-    "en": "Water",
-    "ko_hun": "물",
-    "ko_eum": "수"
+    "ko_hun": "버금",
+    "ko_eum": "아",
+    "ko": ["버금", "아~(외국어의 음역에 쓰임; \"아시아\" 등)"],
+    "en": ["sub-", "Asia"]
   },
-  "story": {
-    "en": "",
-    "ko": ""
-  },
-  "readings": {
-    "kun": [
+  "onyomi": {
+    "readings": [
       {
-        "kana": "みず",
-        "romaji": "mizu",
-        "is_primary": true,
-        "sounds": "1_char_mizu.mp3",
+        "kana": "ア",
         "examples": [
           {
-            "word": "水",
-            "reading": "みず",
-            "meanings": { "ko": "물", "en": "Water" },
-            "sounds": "1_word_mizu.mp3",
-            "sentences": [
-              {
-                "text": "水を一杯ください。",
-                "tokens": [
-                  {
-                    "text": "水",
-                    "furigana": "みず",
-                    "is_target": true
-                  },
-                  {
-                    "text": "を"
-                  },
-                  {
-                    "text": "一杯",
-                    "furigana": "いっぱい"
-                  },
-                  {
-                    "text": "ください。"
-                  }
-                ],
-                "meanings": {
-                  "ko": "물 한 잔 주세요.",
-                  "en": "Please give me a glass of water."
-                },
-                "sounds": "1_example_mizu_01.mp3"
-              }
-            ]
+            "word": "亜鉛",
+            "meaning": {
+              "ko": "아연",
+              "en": "zinc"
+            }
+          },
+          {
+            "word": "亜麻",
+            "meaning": {
+              "ko": "아마",
+              "en": "flax"
+            }
+          },
+          {
+            "word": "亜流",
+            "meaning": {
+              "ko": "아류",
+              "en": "epigone"
+            }
+          },
+          {
+            "word": "東亜",
+            "meaning": {
+              "ko": "동아시아",
+              "en": "East Asia"
+            }
+          },
+          {
+            "word": "亜熱帯",
+            "meaning": {
+              "ko": "아열대",
+              "en": "subtropics"
+            }
           }
-        ]
+        ],
+        "romaji": "a",
+        "isPrimary": true
       }
-    ]
+    ],
+    "description": ""
+  },
+  "kunyomi": {
+    "readings": [],
+    "description": ""
   }
 }

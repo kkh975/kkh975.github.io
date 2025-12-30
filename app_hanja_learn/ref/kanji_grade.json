@@ -1,0 +1,5132 @@
+[
+  {
+    "kanji": "一",
+    "grade": 1,
+    "gradeOrder": 1
+  },
+  {
+    "kanji": "右",
+    "grade": 1,
+    "gradeOrder": 2
+  },
+  {
+    "kanji": "雨",
+    "grade": 1,
+    "gradeOrder": 3
+  },
+  {
+    "kanji": "円",
+    "grade": 1,
+    "gradeOrder": 4
+  },
+  {
+    "kanji": "王",
+    "grade": 1,
+    "gradeOrder": 5
+  },
+  {
+    "kanji": "音",
+    "grade": 1,
+    "gradeOrder": 6
+  },
+  {
+    "kanji": "下",
+    "grade": 1,
+    "gradeOrder": 7
+  },
+  {
+    "kanji": "火",
+    "grade": 1,
+    "gradeOrder": 8
+  },
+  {
+    "kanji": "花",
+    "grade": 1,
+    "gradeOrder": 9
+  },
+  {
+    "kanji": "貝",
+    "grade": 1,
+    "gradeOrder": 10
+  },
+  {
+    "kanji": "学",
+    "grade": 1,
+    "gradeOrder": 11
+  },
+  {
+    "kanji": "気",
+    "grade": 1,
+    "gradeOrder": 12
+  },
+  {
+    "kanji": "九",
+    "grade": 1,
+    "gradeOrder": 13
+  },
+  {
+    "kanji": "休",
+    "grade": 1,
+    "gradeOrder": 14
+  },
+  {
+    "kanji": "玉",
+    "grade": 1,
+    "gradeOrder": 15
+  },
+  {
+    "kanji": "金",
+    "grade": 1,
+    "gradeOrder": 16
+  },
+  {
+    "kanji": "空",
+    "grade": 1,
+    "gradeOrder": 17
+  },
+  {
+    "kanji": "月",
+    "grade": 1,
+    "gradeOrder": 18
+  },
+  {
+    "kanji": "犬",
+    "grade": 1,
+    "gradeOrder": 19
+  },
+  {
+    "kanji": "見",
+    "grade": 1,
+    "gradeOrder": 20
+  },
+  {
+    "kanji": "五",
+    "grade": 1,
+    "gradeOrder": 21
+  },
+  {
+    "kanji": "口",
+    "grade": 1,
+    "gradeOrder": 22
+  },
+  {
+    "kanji": "校",
+    "grade": 1,
+    "gradeOrder": 23
+  },
+  {
+    "kanji": "左",
+    "grade": 1,
+    "gradeOrder": 24
+  },
+  {
+    "kanji": "三",
+    "grade": 1,
+    "gradeOrder": 25
+  },
+  {
+    "kanji": "山",
+    "grade": 1,
+    "gradeOrder": 26
+  },
+  {
+    "kanji": "子",
+    "grade": 1,
+    "gradeOrder": 27
+  },
+  {
+    "kanji": "四",
+    "grade": 1,
+    "gradeOrder": 28
+  },
+  {
+    "kanji": "糸",
+    "grade": 1,
+    "gradeOrder": 29
+  },
+  {
+    "kanji": "字",
+    "grade": 1,
+    "gradeOrder": 30
+  },
+  {
+    "kanji": "耳",
+    "grade": 1,
+    "gradeOrder": 31
+  },
+  {
+    "kanji": "七",
+    "grade": 1,
+    "gradeOrder": 32
+  },
+  {
+    "kanji": "車",
+    "grade": 1,
+    "gradeOrder": 33
+  },
+  {
+    "kanji": "手",
+    "grade": 1,
+    "gradeOrder": 34
+  },
+  {
+    "kanji": "十",
+    "grade": 1,
+    "gradeOrder": 35
+  },
+  {
+    "kanji": "出",
+    "grade": 1,
+    "gradeOrder": 36
+  },
+  {
+    "kanji": "女",
+    "grade": 1,
+    "gradeOrder": 37
+  },
+  {
+    "kanji": "小",
+    "grade": 1,
+    "gradeOrder": 38
+  },
+  {
+    "kanji": "上",
+    "grade": 1,
+    "gradeOrder": 39
+  },
+  {
+    "kanji": "森",
+    "grade": 1,
+    "gradeOrder": 40
+  },
+  {
+    "kanji": "人",
+    "grade": 1,
+    "gradeOrder": 41
+  },
+  {
+    "kanji": "水",
+    "grade": 1,
+    "gradeOrder": 42
+  },
+  {
+    "kanji": "正",
+    "grade": 1,
+    "gradeOrder": 43
+  },
+  {
+    "kanji": "生",
+    "grade": 1,
+    "gradeOrder": 44
+  },
+  {
+    "kanji": "青",
+    "grade": 1,
+    "gradeOrder": 45
+  },
+  {
+    "kanji": "夕",
+    "grade": 1,
+    "gradeOrder": 46
+  },
+  {
+    "kanji": "石",
+    "grade": 1,
+    "gradeOrder": 47
+  },
+  {
+    "kanji": "赤",
+    "grade": 1,
+    "gradeOrder": 48
+  },
+  {
+    "kanji": "千",
+    "grade": 1,
+    "gradeOrder": 49
+  },
+  {
+    "kanji": "川",
+    "grade": 1,
+    "gradeOrder": 50
+  },
+  {
+    "kanji": "先",
+    "grade": 1,
+    "gradeOrder": 51
+  },
+  {
+    "kanji": "早",
+    "grade": 1,
+    "gradeOrder": 52
+  },
+  {
+    "kanji": "草",
+    "grade": 1,
+    "gradeOrder": 53
+  },
+  {
+    "kanji": "足",
+    "grade": 1,
+    "gradeOrder": 54
+  },
+  {
+    "kanji": "村",
+    "grade": 1,
+    "gradeOrder": 55
+  },
+  {
+    "kanji": "大",
+    "grade": 1,
+    "gradeOrder": 56
+  },
+  {
+    "kanji": "男",
+    "grade": 1,
+    "gradeOrder": 57
+  },
+  {
+    "kanji": "竹",
+    "grade": 1,
+    "gradeOrder": 58
+  },
+  {
+    "kanji": "中",
+    "grade": 1,
+    "gradeOrder": 59
+  },
+  {
+    "kanji": "虫",
+    "grade": 1,
+    "gradeOrder": 60
+  },
+  {
+    "kanji": "町",
+    "grade": 1,
+    "gradeOrder": 61
+  },
+  {
+    "kanji": "天",
+    "grade": 1,
+    "gradeOrder": 62
+  },
+  {
+    "kanji": "田",
+    "grade": 1,
+    "gradeOrder": 63
+  },
+  {
+    "kanji": "土",
+    "grade": 1,
+    "gradeOrder": 64
+  },
+  {
+    "kanji": "二",
+    "grade": 1,
+    "gradeOrder": 65
+  },
+  {
+    "kanji": "日",
+    "grade": 1,
+    "gradeOrder": 66
+  },
+  {
+    "kanji": "入",
+    "grade": 1,
+    "gradeOrder": 67
+  },
+  {
+    "kanji": "年",
+    "grade": 1,
+    "gradeOrder": 68
+  },
+  {
+    "kanji": "白",
+    "grade": 1,
+    "gradeOrder": 69
+  },
+  {
+    "kanji": "八",
+    "grade": 1,
+    "gradeOrder": 70
+  },
+  {
+    "kanji": "百",
+    "grade": 1,
+    "gradeOrder": 71
+  },
+  {
+    "kanji": "文",
+    "grade": 1,
+    "gradeOrder": 72
+  },
+  {
+    "kanji": "木",
+    "grade": 1,
+    "gradeOrder": 73
+  },
+  {
+    "kanji": "本",
+    "grade": 1,
+    "gradeOrder": 74
+  },
+  {
+    "kanji": "名",
+    "grade": 1,
+    "gradeOrder": 75
+  },
+  {
+    "kanji": "目",
+    "grade": 1,
+    "gradeOrder": 76
+  },
+  {
+    "kanji": "立",
+    "grade": 1,
+    "gradeOrder": 77
+  },
+  {
+    "kanji": "力",
+    "grade": 1,
+    "gradeOrder": 78
+  },
+  {
+    "kanji": "林",
+    "grade": 1,
+    "gradeOrder": 79
+  },
+  {
+    "kanji": "六",
+    "grade": 1,
+    "gradeOrder": 80
+  },
+  {
+    "kanji": "引",
+    "grade": 2,
+    "gradeOrder": 1
+  },
+  {
+    "kanji": "羽",
+    "grade": 2,
+    "gradeOrder": 2
+  },
+  {
+    "kanji": "雲",
+    "grade": 2,
+    "gradeOrder": 3
+  },
+  {
+    "kanji": "園",
+    "grade": 2,
+    "gradeOrder": 4
+  },
+  {
+    "kanji": "遠",
+    "grade": 2,
+    "gradeOrder": 5
+  },
+  {
+    "kanji": "何",
+    "grade": 2,
+    "gradeOrder": 6
+  },
+  {
+    "kanji": "科",
+    "grade": 2,
+    "gradeOrder": 7
+  },
+  {
+    "kanji": "夏",
+    "grade": 2,
+    "gradeOrder": 8
+  },
+  {
+    "kanji": "家",
+    "grade": 2,
+    "gradeOrder": 9
+  },
+  {
+    "kanji": "歌",
+    "grade": 2,
+    "gradeOrder": 10
+  },
+  {
+    "kanji": "画",
+    "grade": 2,
+    "gradeOrder": 11
+  },
+  {
+    "kanji": "回",
+    "grade": 2,
+    "gradeOrder": 12
+  },
+  {
+    "kanji": "会",
+    "grade": 2,
+    "gradeOrder": 13
+  },
+  {
+    "kanji": "海",
+    "grade": 2,
+    "gradeOrder": 14
+  },
+  {
+    "kanji": "絵",
+    "grade": 2,
+    "gradeOrder": 15
+  },
+  {
+    "kanji": "外",
+    "grade": 2,
+    "gradeOrder": 16
+  },
+  {
+    "kanji": "角",
+    "grade": 2,
+    "gradeOrder": 17
+  },
+  {
+    "kanji": "楽",
+    "grade": 2,
+    "gradeOrder": 18
+  },
+  {
+    "kanji": "活",
+    "grade": 2,
+    "gradeOrder": 19
+  },
+  {
+    "kanji": "間",
+    "grade": 2,
+    "gradeOrder": 20
+  },
+  {
+    "kanji": "丸",
+    "grade": 2,
+    "gradeOrder": 21
+  },
+  {
+    "kanji": "岩",
+    "grade": 2,
+    "gradeOrder": 22
+  },
+  {
+    "kanji": "顔",
+    "grade": 2,
+    "gradeOrder": 23
+  },
+  {
+    "kanji": "汽",
+    "grade": 2,
+    "gradeOrder": 24
+  },
+  {
+    "kanji": "記",
+    "grade": 2,
+    "gradeOrder": 25
+  },
+  {
+    "kanji": "帰",
+    "grade": 2,
+    "gradeOrder": 26
+  },
+  {
+    "kanji": "弓",
+    "grade": 2,
+    "gradeOrder": 27
+  },
+  {
+    "kanji": "牛",
+    "grade": 2,
+    "gradeOrder": 28
+  },
+  {
+    "kanji": "魚",
+    "grade": 2,
+    "gradeOrder": 29
+  },
+  {
+    "kanji": "京",
+    "grade": 2,
+    "gradeOrder": 30
+  },
+  {
+    "kanji": "強",
+    "grade": 2,
+    "gradeOrder": 31
+  },
+  {
+    "kanji": "教",
+    "grade": 2,
+    "gradeOrder": 32
+  },
+  {
+    "kanji": "近",
+    "grade": 2,
+    "gradeOrder": 33
+  },
+  {
+    "kanji": "兄",
+    "grade": 2,
+    "gradeOrder": 34
+  },
+  {
+    "kanji": "形",
+    "grade": 2,
+    "gradeOrder": 35
+  },
+  {
+    "kanji": "計",
+    "grade": 2,
+    "gradeOrder": 36
+  },
+  {
+    "kanji": "元",
+    "grade": 2,
+    "gradeOrder": 37
+  },
+  {
+    "kanji": "言",
+    "grade": 2,
+    "gradeOrder": 38
+  },
+  {
+    "kanji": "原",
+    "grade": 2,
+    "gradeOrder": 39
+  },
+  {
+    "kanji": "戸",
+    "grade": 2,
+    "gradeOrder": 40
+  },
+  {
+    "kanji": "古",
+    "grade": 2,
+    "gradeOrder": 41
+  },
+  {
+    "kanji": "午",
+    "grade": 2,
+    "gradeOrder": 42
+  },
+  {
+    "kanji": "後",
+    "grade": 2,
+    "gradeOrder": 43
+  },
+  {
+    "kanji": "語",
+    "grade": 2,
+    "gradeOrder": 44
+  },
+  {
+    "kanji": "工",
+    "grade": 2,
+    "gradeOrder": 45
+  },
+  {
+    "kanji": "公",
+    "grade": 2,
+    "gradeOrder": 46
+  },
+  {
+    "kanji": "広",
+    "grade": 2,
+    "gradeOrder": 47
+  },
+  {
+    "kanji": "交",
+    "grade": 2,
+    "gradeOrder": 48
+  },
+  {
+    "kanji": "光",
+    "grade": 2,
+    "gradeOrder": 49
+  },
+  {
+    "kanji": "考",
+    "grade": 2,
+    "gradeOrder": 50
+  },
+  {
+    "kanji": "行",
+    "grade": 2,
+    "gradeOrder": 51
+  },
+  {
+    "kanji": "高",
+    "grade": 2,
+    "gradeOrder": 52
+  },
+  {
+    "kanji": "黄",
+    "grade": 2,
+    "gradeOrder": 53
+  },
+  {
+    "kanji": "合",
+    "grade": 2,
+    "gradeOrder": 54
+  },
+  {
+    "kanji": "谷",
+    "grade": 2,
+    "gradeOrder": 55
+  },
+  {
+    "kanji": "国",
+    "grade": 2,
+    "gradeOrder": 56
+  },
+  {
+    "kanji": "黒",
+    "grade": 2,
+    "gradeOrder": 57
+  },
+  {
+    "kanji": "今",
+    "grade": 2,
+    "gradeOrder": 58
+  },
+  {
+    "kanji": "才",
+    "grade": 2,
+    "gradeOrder": 59
+  },
+  {
+    "kanji": "細",
+    "grade": 2,
+    "gradeOrder": 60
+  },
+  {
+    "kanji": "作",
+    "grade": 2,
+    "gradeOrder": 61
+  },
+  {
+    "kanji": "算",
+    "grade": 2,
+    "gradeOrder": 62
+  },
+  {
+    "kanji": "止",
+    "grade": 2,
+    "gradeOrder": 63
+  },
+  {
+    "kanji": "市",
+    "grade": 2,
+    "gradeOrder": 64
+  },
+  {
+    "kanji": "矢",
+    "grade": 2,
+    "gradeOrder": 65
+  },
+  {
+    "kanji": "姉",
+    "grade": 2,
+    "gradeOrder": 66
+  },
+  {
+    "kanji": "思",
+    "grade": 2,
+    "gradeOrder": 67
+  },
+  {
+    "kanji": "紙",
+    "grade": 2,
+    "gradeOrder": 68
+  },
+  {
+    "kanji": "寺",
+    "grade": 2,
+    "gradeOrder": 69
+  },
+  {
+    "kanji": "自",
+    "grade": 2,
+    "gradeOrder": 70
+  },
+  {
+    "kanji": "時",
+    "grade": 2,
+    "gradeOrder": 71
+  },
+  {
+    "kanji": "室",
+    "grade": 2,
+    "gradeOrder": 72
+  },
+  {
+    "kanji": "社",
+    "grade": 2,
+    "gradeOrder": 73
+  },
+  {
+    "kanji": "弱",
+    "grade": 2,
+    "gradeOrder": 74
+  },
+  {
+    "kanji": "首",
+    "grade": 2,
+    "gradeOrder": 75
+  },
+  {
+    "kanji": "秋",
+    "grade": 2,
+    "gradeOrder": 76
+  },
+  {
+    "kanji": "週",
+    "grade": 2,
+    "gradeOrder": 77
+  },
+  {
+    "kanji": "春",
+    "grade": 2,
+    "gradeOrder": 78
+  },
+  {
+    "kanji": "書",
+    "grade": 2,
+    "gradeOrder": 79
+  },
+  {
+    "kanji": "少",
+    "grade": 2,
+    "gradeOrder": 80
+  },
+  {
+    "kanji": "場",
+    "grade": 2,
+    "gradeOrder": 81
+  },
+  {
+    "kanji": "色",
+    "grade": 2,
+    "gradeOrder": 82
+  },
+  {
+    "kanji": "食",
+    "grade": 2,
+    "gradeOrder": 83
+  },
+  {
+    "kanji": "心",
+    "grade": 2,
+    "gradeOrder": 84
+  },
+  {
+    "kanji": "新",
+    "grade": 2,
+    "gradeOrder": 85
+  },
+  {
+    "kanji": "親",
+    "grade": 2,
+    "gradeOrder": 86
+  },
+  {
+    "kanji": "図",
+    "grade": 2,
+    "gradeOrder": 87
+  },
+  {
+    "kanji": "数",
+    "grade": 2,
+    "gradeOrder": 88
+  },
+  {
+    "kanji": "西",
+    "grade": 2,
+    "gradeOrder": 89
+  },
+  {
+    "kanji": "声",
+    "grade": 2,
+    "gradeOrder": 90
+  },
+  {
+    "kanji": "星",
+    "grade": 2,
+    "gradeOrder": 91
+  },
+  {
+    "kanji": "晴",
+    "grade": 2,
+    "gradeOrder": 92
+  },
+  {
+    "kanji": "切",
+    "grade": 2,
+    "gradeOrder": 93
+  },
+  {
+    "kanji": "雪",
+    "grade": 2,
+    "gradeOrder": 94
+  },
+  {
+    "kanji": "船",
+    "grade": 2,
+    "gradeOrder": 95
+  },
+  {
+    "kanji": "線",
+    "grade": 2,
+    "gradeOrder": 96
+  },
+  {
+    "kanji": "前",
+    "grade": 2,
+    "gradeOrder": 97
+  },
+  {
+    "kanji": "組",
+    "grade": 2,
+    "gradeOrder": 98
+  },
+  {
+    "kanji": "走",
+    "grade": 2,
+    "gradeOrder": 99
+  },
+  {
+    "kanji": "多",
+    "grade": 2,
+    "gradeOrder": 100
+  },
+  {
+    "kanji": "太",
+    "grade": 2,
+    "gradeOrder": 101
+  },
+  {
+    "kanji": "体",
+    "grade": 2,
+    "gradeOrder": 102
+  },
+  {
+    "kanji": "台",
+    "grade": 2,
+    "gradeOrder": 103
+  },
+  {
+    "kanji": "地",
+    "grade": 2,
+    "gradeOrder": 104
+  },
+  {
+    "kanji": "池",
+    "grade": 2,
+    "gradeOrder": 105
+  },
+  {
+    "kanji": "知",
+    "grade": 2,
+    "gradeOrder": 106
+  },
+  {
+    "kanji": "茶",
+    "grade": 2,
+    "gradeOrder": 107
+  },
+  {
+    "kanji": "昼",
+    "grade": 2,
+    "gradeOrder": 108
+  },
+  {
+    "kanji": "長",
+    "grade": 2,
+    "gradeOrder": 109
+  },
+  {
+    "kanji": "鳥",
+    "grade": 2,
+    "gradeOrder": 110
+  },
+  {
+    "kanji": "朝",
+    "grade": 2,
+    "gradeOrder": 111
+  },
+  {
+    "kanji": "直",
+    "grade": 2,
+    "gradeOrder": 112
+  },
+  {
+    "kanji": "通",
+    "grade": 2,
+    "gradeOrder": 113
+  },
+  {
+    "kanji": "弟",
+    "grade": 2,
+    "gradeOrder": 114
+  },
+  {
+    "kanji": "店",
+    "grade": 2,
+    "gradeOrder": 115
+  },
+  {
+    "kanji": "点",
+    "grade": 2,
+    "gradeOrder": 116
+  },
+  {
+    "kanji": "電",
+    "grade": 2,
+    "gradeOrder": 117
+  },
+  {
+    "kanji": "刀",
+    "grade": 2,
+    "gradeOrder": 118
+  },
+  {
+    "kanji": "冬",
+    "grade": 2,
+    "gradeOrder": 119
+  },
+  {
+    "kanji": "当",
+    "grade": 2,
+    "gradeOrder": 120
+  },
+  {
+    "kanji": "東",
+    "grade": 2,
+    "gradeOrder": 121
+  },
+  {
+    "kanji": "答",
+    "grade": 2,
+    "gradeOrder": 122
+  },
+  {
+    "kanji": "頭",
+    "grade": 2,
+    "gradeOrder": 123
+  },
+  {
+    "kanji": "同",
+    "grade": 2,
+    "gradeOrder": 124
+  },
+  {
+    "kanji": "道",
+    "grade": 2,
+    "gradeOrder": 125
+  },
+  {
+    "kanji": "読",
+    "grade": 2,
+    "gradeOrder": 126
+  },
+  {
+    "kanji": "内",
+    "grade": 2,
+    "gradeOrder": 127
+  },
+  {
+    "kanji": "南",
+    "grade": 2,
+    "gradeOrder": 128
+  },
+  {
+    "kanji": "肉",
+    "grade": 2,
+    "gradeOrder": 129
+  },
+  {
+    "kanji": "馬",
+    "grade": 2,
+    "gradeOrder": 130
+  },
+  {
+    "kanji": "売",
+    "grade": 2,
+    "gradeOrder": 131
+  },
+  {
+    "kanji": "買",
+    "grade": 2,
+    "gradeOrder": 132
+  },
+  {
+    "kanji": "麦",
+    "grade": 2,
+    "gradeOrder": 133
+  },
+  {
+    "kanji": "半",
+    "grade": 2,
+    "gradeOrder": 134
+  },
+  {
+    "kanji": "番",
+    "grade": 2,
+    "gradeOrder": 135
+  },
+  {
+    "kanji": "父",
+    "grade": 2,
+    "gradeOrder": 136
+  },
+  {
+    "kanji": "風",
+    "grade": 2,
+    "gradeOrder": 137
+  },
+  {
+    "kanji": "分",
+    "grade": 2,
+    "gradeOrder": 138
+  },
+  {
+    "kanji": "聞",
+    "grade": 2,
+    "gradeOrder": 139
+  },
+  {
+    "kanji": "米",
+    "grade": 2,
+    "gradeOrder": 140
+  },
+  {
+    "kanji": "歩",
+    "grade": 2,
+    "gradeOrder": 141
+  },
+  {
+    "kanji": "母",
+    "grade": 2,
+    "gradeOrder": 142
+  },
+  {
+    "kanji": "方",
+    "grade": 2,
+    "gradeOrder": 143
+  },
+  {
+    "kanji": "北",
+    "grade": 2,
+    "gradeOrder": 144
+  },
+  {
+    "kanji": "毎",
+    "grade": 2,
+    "gradeOrder": 145
+  },
+  {
+    "kanji": "妹",
+    "grade": 2,
+    "gradeOrder": 146
+  },
+  {
+    "kanji": "万",
+    "grade": 2,
+    "gradeOrder": 147
+  },
+  {
+    "kanji": "明",
+    "grade": 2,
+    "gradeOrder": 148
+  },
+  {
+    "kanji": "鳴",
+    "grade": 2,
+    "gradeOrder": 149
+  },
+  {
+    "kanji": "毛",
+    "grade": 2,
+    "gradeOrder": 150
+  },
+  {
+    "kanji": "門",
+    "grade": 2,
+    "gradeOrder": 151
+  },
+  {
+    "kanji": "夜",
+    "grade": 2,
+    "gradeOrder": 152
+  },
+  {
+    "kanji": "野",
+    "grade": 2,
+    "gradeOrder": 153
+  },
+  {
+    "kanji": "友",
+    "grade": 2,
+    "gradeOrder": 154
+  },
+  {
+    "kanji": "用",
+    "grade": 2,
+    "gradeOrder": 155
+  },
+  {
+    "kanji": "曜",
+    "grade": 2,
+    "gradeOrder": 156
+  },
+  {
+    "kanji": "来",
+    "grade": 2,
+    "gradeOrder": 157
+  },
+  {
+    "kanji": "里",
+    "grade": 2,
+    "gradeOrder": 158
+  },
+  {
+    "kanji": "理",
+    "grade": 2,
+    "gradeOrder": 159
+  },
+  {
+    "kanji": "話",
+    "grade": 2,
+    "gradeOrder": 160
+  },
+  {
+    "kanji": "悪",
+    "grade": 3,
+    "gradeOrder": 1
+  },
+  {
+    "kanji": "安",
+    "grade": 3,
+    "gradeOrder": 2
+  },
+  {
+    "kanji": "暗",
+    "grade": 3,
+    "gradeOrder": 3
+  },
+  {
+    "kanji": "医",
+    "grade": 3,
+    "gradeOrder": 4
+  },
+  {
+    "kanji": "委",
+    "grade": 3,
+    "gradeOrder": 5
+  },
+  {
+    "kanji": "意",
+    "grade": 3,
+    "gradeOrder": 6
+  },
+  {
+    "kanji": "育",
+    "grade": 3,
+    "gradeOrder": 7
+  },
+  {
+    "kanji": "員",
+    "grade": 3,
+    "gradeOrder": 8
+  },
+  {
+    "kanji": "院",
+    "grade": 3,
+    "gradeOrder": 9
+  },
+  {
+    "kanji": "飲",
+    "grade": 3,
+    "gradeOrder": 10
+  },
+  {
+    "kanji": "運",
+    "grade": 3,
+    "gradeOrder": 11
+  },
+  {
+    "kanji": "泳",
+    "grade": 3,
+    "gradeOrder": 12
+  },
+  {
+    "kanji": "駅",
+    "grade": 3,
+    "gradeOrder": 13
+  },
+  {
+    "kanji": "央",
+    "grade": 3,
+    "gradeOrder": 14
+  },
+  {
+    "kanji": "横",
+    "grade": 3,
+    "gradeOrder": 15
+  },
+  {
+    "kanji": "屋",
+    "grade": 3,
+    "gradeOrder": 16
+  },
+  {
+    "kanji": "温",
+    "grade": 3,
+    "gradeOrder": 17
+  },
+  {
+    "kanji": "化",
+    "grade": 3,
+    "gradeOrder": 18
+  },
+  {
+    "kanji": "荷",
+    "grade": 3,
+    "gradeOrder": 19
+  },
+  {
+    "kanji": "界",
+    "grade": 3,
+    "gradeOrder": 20
+  },
+  {
+    "kanji": "開",
+    "grade": 3,
+    "gradeOrder": 21
+  },
+  {
+    "kanji": "階",
+    "grade": 3,
+    "gradeOrder": 22
+  },
+  {
+    "kanji": "寒",
+    "grade": 3,
+    "gradeOrder": 23
+  },
+  {
+    "kanji": "感",
+    "grade": 3,
+    "gradeOrder": 24
+  },
+  {
+    "kanji": "漢",
+    "grade": 3,
+    "gradeOrder": 25
+  },
+  {
+    "kanji": "館",
+    "grade": 3,
+    "gradeOrder": 26
+  },
+  {
+    "kanji": "岸",
+    "grade": 3,
+    "gradeOrder": 27
+  },
+  {
+    "kanji": "起",
+    "grade": 3,
+    "gradeOrder": 28
+  },
+  {
+    "kanji": "期",
+    "grade": 3,
+    "gradeOrder": 29
+  },
+  {
+    "kanji": "客",
+    "grade": 3,
+    "gradeOrder": 30
+  },
+  {
+    "kanji": "究",
+    "grade": 3,
+    "gradeOrder": 31
+  },
+  {
+    "kanji": "急",
+    "grade": 3,
+    "gradeOrder": 32
+  },
+  {
+    "kanji": "級",
+    "grade": 3,
+    "gradeOrder": 33
+  },
+  {
+    "kanji": "宮",
+    "grade": 3,
+    "gradeOrder": 34
+  },
+  {
+    "kanji": "球",
+    "grade": 3,
+    "gradeOrder": 35
+  },
+  {
+    "kanji": "去",
+    "grade": 3,
+    "gradeOrder": 36
+  },
+  {
+    "kanji": "橋",
+    "grade": 3,
+    "gradeOrder": 37
+  },
+  {
+    "kanji": "業",
+    "grade": 3,
+    "gradeOrder": 38
+  },
+  {
+    "kanji": "曲",
+    "grade": 3,
+    "gradeOrder": 39
+  },
+  {
+    "kanji": "局",
+    "grade": 3,
+    "gradeOrder": 40
+  },
+  {
+    "kanji": "銀",
+    "grade": 3,
+    "gradeOrder": 41
+  },
+  {
+    "kanji": "区",
+    "grade": 3,
+    "gradeOrder": 42
+  },
+  {
+    "kanji": "苦",
+    "grade": 3,
+    "gradeOrder": 43
+  },
+  {
+    "kanji": "具",
+    "grade": 3,
+    "gradeOrder": 44
+  },
+  {
+    "kanji": "君",
+    "grade": 3,
+    "gradeOrder": 45
+  },
+  {
+    "kanji": "係",
+    "grade": 3,
+    "gradeOrder": 46
+  },
+  {
+    "kanji": "軽",
+    "grade": 3,
+    "gradeOrder": 47
+  },
+  {
+    "kanji": "血",
+    "grade": 3,
+    "gradeOrder": 48
+  },
+  {
+    "kanji": "決",
+    "grade": 3,
+    "gradeOrder": 49
+  },
+  {
+    "kanji": "研",
+    "grade": 3,
+    "gradeOrder": 50
+  },
+  {
+    "kanji": "県",
+    "grade": 3,
+    "gradeOrder": 51
+  },
+  {
+    "kanji": "庫",
+    "grade": 3,
+    "gradeOrder": 52
+  },
+  {
+    "kanji": "湖",
+    "grade": 3,
+    "gradeOrder": 53
+  },
+  {
+    "kanji": "向",
+    "grade": 3,
+    "gradeOrder": 54
+  },
+  {
+    "kanji": "幸",
+    "grade": 3,
+    "gradeOrder": 55
+  },
+  {
+    "kanji": "港",
+    "grade": 3,
+    "gradeOrder": 56
+  },
+  {
+    "kanji": "号",
+    "grade": 3,
+    "gradeOrder": 57
+  },
+  {
+    "kanji": "根",
+    "grade": 3,
+    "gradeOrder": 58
+  },
+  {
+    "kanji": "祭",
+    "grade": 3,
+    "gradeOrder": 59
+  },
+  {
+    "kanji": "皿",
+    "grade": 3,
+    "gradeOrder": 60
+  },
+  {
+    "kanji": "仕",
+    "grade": 3,
+    "gradeOrder": 61
+  },
+  {
+    "kanji": "死",
+    "grade": 3,
+    "gradeOrder": 62
+  },
+  {
+    "kanji": "使",
+    "grade": 3,
+    "gradeOrder": 63
+  },
+  {
+    "kanji": "始",
+    "grade": 3,
+    "gradeOrder": 64
+  },
+  {
+    "kanji": "指",
+    "grade": 3,
+    "gradeOrder": 65
+  },
+  {
+    "kanji": "歯",
+    "grade": 3,
+    "gradeOrder": 66
+  },
+  {
+    "kanji": "詩",
+    "grade": 3,
+    "gradeOrder": 67
+  },
+  {
+    "kanji": "次",
+    "grade": 3,
+    "gradeOrder": 68
+  },
+  {
+    "kanji": "事",
+    "grade": 3,
+    "gradeOrder": 69
+  },
+  {
+    "kanji": "持",
+    "grade": 3,
+    "gradeOrder": 70
+  },
+  {
+    "kanji": "式",
+    "grade": 3,
+    "gradeOrder": 71
+  },
+  {
+    "kanji": "実",
+    "grade": 3,
+    "gradeOrder": 72
+  },
+  {
+    "kanji": "写",
+    "grade": 3,
+    "gradeOrder": 73
+  },
+  {
+    "kanji": "者",
+    "grade": 3,
+    "gradeOrder": 74
+  },
+  {
+    "kanji": "主",
+    "grade": 3,
+    "gradeOrder": 75
+  },
+  {
+    "kanji": "守",
+    "grade": 3,
+    "gradeOrder": 76
+  },
+  {
+    "kanji": "取",
+    "grade": 3,
+    "gradeOrder": 77
+  },
+  {
+    "kanji": "酒",
+    "grade": 3,
+    "gradeOrder": 78
+  },
+  {
+    "kanji": "受",
+    "grade": 3,
+    "gradeOrder": 79
+  },
+  {
+    "kanji": "州",
+    "grade": 3,
+    "gradeOrder": 80
+  },
+  {
+    "kanji": "拾",
+    "grade": 3,
+    "gradeOrder": 81
+  },
+  {
+    "kanji": "終",
+    "grade": 3,
+    "gradeOrder": 82
+  },
+  {
+    "kanji": "習",
+    "grade": 3,
+    "gradeOrder": 83
+  },
+  {
+    "kanji": "集",
+    "grade": 3,
+    "gradeOrder": 84
+  },
+  {
+    "kanji": "住",
+    "grade": 3,
+    "gradeOrder": 85
+  },
+  {
+    "kanji": "重",
+    "grade": 3,
+    "gradeOrder": 86
+  },
+  {
+    "kanji": "宿",
+    "grade": 3,
+    "gradeOrder": 87
+  },
+  {
+    "kanji": "所",
+    "grade": 3,
+    "gradeOrder": 88
+  },
+  {
+    "kanji": "暑",
+    "grade": 3,
+    "gradeOrder": 89
+  },
+  {
+    "kanji": "助",
+    "grade": 3,
+    "gradeOrder": 90
+  },
+  {
+    "kanji": "昭",
+    "grade": 3,
+    "gradeOrder": 91
+  },
+  {
+    "kanji": "消",
+    "grade": 3,
+    "gradeOrder": 92
+  },
+  {
+    "kanji": "商",
+    "grade": 3,
+    "gradeOrder": 93
+  },
+  {
+    "kanji": "章",
+    "grade": 3,
+    "gradeOrder": 94
+  },
+  {
+    "kanji": "勝",
+    "grade": 3,
+    "gradeOrder": 95
+  },
+  {
+    "kanji": "乗",
+    "grade": 3,
+    "gradeOrder": 96
+  },
+  {
+    "kanji": "植",
+    "grade": 3,
+    "gradeOrder": 97
+  },
+  {
+    "kanji": "申",
+    "grade": 3,
+    "gradeOrder": 98
+  },
+  {
+    "kanji": "身",
+    "grade": 3,
+    "gradeOrder": 99
+  },
+  {
+    "kanji": "神",
+    "grade": 3,
+    "gradeOrder": 100
+  },
+  {
+    "kanji": "真",
+    "grade": 3,
+    "gradeOrder": 101
+  },
+  {
+    "kanji": "深",
+    "grade": 3,
+    "gradeOrder": 102
+  },
+  {
+    "kanji": "進",
+    "grade": 3,
+    "gradeOrder": 103
+  },
+  {
+    "kanji": "世",
+    "grade": 3,
+    "gradeOrder": 104
+  },
+  {
+    "kanji": "整",
+    "grade": 3,
+    "gradeOrder": 105
+  },
+  {
+    "kanji": "昔",
+    "grade": 3,
+    "gradeOrder": 106
+  },
+  {
+    "kanji": "全",
+    "grade": 3,
+    "gradeOrder": 107
+  },
+  {
+    "kanji": "相",
+    "grade": 3,
+    "gradeOrder": 108
+  },
+  {
+    "kanji": "送",
+    "grade": 3,
+    "gradeOrder": 109
+  },
+  {
+    "kanji": "想",
+    "grade": 3,
+    "gradeOrder": 110
+  },
+  {
+    "kanji": "息",
+    "grade": 3,
+    "gradeOrder": 111
+  },
+  {
+    "kanji": "速",
+    "grade": 3,
+    "gradeOrder": 112
+  },
+  {
+    "kanji": "族",
+    "grade": 3,
+    "gradeOrder": 113
+  },
+  {
+    "kanji": "他",
+    "grade": 3,
+    "gradeOrder": 114
+  },
+  {
+    "kanji": "打",
+    "grade": 3,
+    "gradeOrder": 115
+  },
+  {
+    "kanji": "対",
+    "grade": 3,
+    "gradeOrder": 116
+  },
+  {
+    "kanji": "待",
+    "grade": 3,
+    "gradeOrder": 117
+  },
+  {
+    "kanji": "代",
+    "grade": 3,
+    "gradeOrder": 118
+  },
+  {
+    "kanji": "第",
+    "grade": 3,
+    "gradeOrder": 119
+  },
+  {
+    "kanji": "題",
+    "grade": 3,
+    "gradeOrder": 120
+  },
+  {
+    "kanji": "炭",
+    "grade": 3,
+    "gradeOrder": 121
+  },
+  {
+    "kanji": "短",
+    "grade": 3,
+    "gradeOrder": 122
+  },
+  {
+    "kanji": "談",
+    "grade": 3,
+    "gradeOrder": 123
+  },
+  {
+    "kanji": "着",
+    "grade": 3,
+    "gradeOrder": 124
+  },
+  {
+    "kanji": "注",
+    "grade": 3,
+    "gradeOrder": 125
+  },
+  {
+    "kanji": "柱",
+    "grade": 3,
+    "gradeOrder": 126
+  },
+  {
+    "kanji": "丁",
+    "grade": 3,
+    "gradeOrder": 127
+  },
+  {
+    "kanji": "帳",
+    "grade": 3,
+    "gradeOrder": 128
+  },
+  {
+    "kanji": "調",
+    "grade": 3,
+    "gradeOrder": 129
+  },
+  {
+    "kanji": "追",
+    "grade": 3,
+    "gradeOrder": 130
+  },
+  {
+    "kanji": "定",
+    "grade": 3,
+    "gradeOrder": 131
+  },
+  {
+    "kanji": "庭",
+    "grade": 3,
+    "gradeOrder": 132
+  },
+  {
+    "kanji": "笛",
+    "grade": 3,
+    "gradeOrder": 133
+  },
+  {
+    "kanji": "鉄",
+    "grade": 3,
+    "gradeOrder": 134
+  },
+  {
+    "kanji": "転",
+    "grade": 3,
+    "gradeOrder": 135
+  },
+  {
+    "kanji": "都",
+    "grade": 3,
+    "gradeOrder": 136
+  },
+  {
+    "kanji": "度",
+    "grade": 3,
+    "gradeOrder": 137
+  },
+  {
+    "kanji": "投",
+    "grade": 3,
+    "gradeOrder": 138
+  },
+  {
+    "kanji": "豆",
+    "grade": 3,
+    "gradeOrder": 139
+  },
+  {
+    "kanji": "島",
+    "grade": 3,
+    "gradeOrder": 140
+  },
+  {
+    "kanji": "湯",
+    "grade": 3,
+    "gradeOrder": 141
+  },
+  {
+    "kanji": "登",
+    "grade": 3,
+    "gradeOrder": 142
+  },
+  {
+    "kanji": "等",
+    "grade": 3,
+    "gradeOrder": 143
+  },
+  {
+    "kanji": "動",
+    "grade": 3,
+    "gradeOrder": 144
+  },
+  {
+    "kanji": "童",
+    "grade": 3,
+    "gradeOrder": 145
+  },
+  {
+    "kanji": "農",
+    "grade": 3,
+    "gradeOrder": 146
+  },
+  {
+    "kanji": "波",
+    "grade": 3,
+    "gradeOrder": 147
+  },
+  {
+    "kanji": "配",
+    "grade": 3,
+    "gradeOrder": 148
+  },
+  {
+    "kanji": "倍",
+    "grade": 3,
+    "gradeOrder": 149
+  },
+  {
+    "kanji": "箱",
+    "grade": 3,
+    "gradeOrder": 150
+  },
+  {
+    "kanji": "畑",
+    "grade": 3,
+    "gradeOrder": 151
+  },
+  {
+    "kanji": "発",
+    "grade": 3,
+    "gradeOrder": 152
+  },
+  {
+    "kanji": "反",
+    "grade": 3,
+    "gradeOrder": 153
+  },
+  {
+    "kanji": "坂",
+    "grade": 3,
+    "gradeOrder": 154
+  },
+  {
+    "kanji": "板",
+    "grade": 3,
+    "gradeOrder": 155
+  },
+  {
+    "kanji": "皮",
+    "grade": 3,
+    "gradeOrder": 156
+  },
+  {
+    "kanji": "悲",
+    "grade": 3,
+    "gradeOrder": 157
+  },
+  {
+    "kanji": "美",
+    "grade": 3,
+    "gradeOrder": 158
+  },
+  {
+    "kanji": "鼻",
+    "grade": 3,
+    "gradeOrder": 159
+  },
+  {
+    "kanji": "筆",
+    "grade": 3,
+    "gradeOrder": 160
+  },
+  {
+    "kanji": "氷",
+    "grade": 3,
+    "gradeOrder": 161
+  },
+  {
+    "kanji": "表",
+    "grade": 3,
+    "gradeOrder": 162
+  },
+  {
+    "kanji": "秒",
+    "grade": 3,
+    "gradeOrder": 163
+  },
+  {
+    "kanji": "病",
+    "grade": 3,
+    "gradeOrder": 164
+  },
+  {
+    "kanji": "品",
+    "grade": 3,
+    "gradeOrder": 165
+  },
+  {
+    "kanji": "負",
+    "grade": 3,
+    "gradeOrder": 166
+  },
+  {
+    "kanji": "部",
+    "grade": 3,
+    "gradeOrder": 167
+  },
+  {
+    "kanji": "服",
+    "grade": 3,
+    "gradeOrder": 168
+  },
+  {
+    "kanji": "福",
+    "grade": 3,
+    "gradeOrder": 169
+  },
+  {
+    "kanji": "物",
+    "grade": 3,
+    "gradeOrder": 170
+  },
+  {
+    "kanji": "平",
+    "grade": 3,
+    "gradeOrder": 171
+  },
+  {
+    "kanji": "返",
+    "grade": 3,
+    "gradeOrder": 172
+  },
+  {
+    "kanji": "勉",
+    "grade": 3,
+    "gradeOrder": 173
+  },
+  {
+    "kanji": "放",
+    "grade": 3,
+    "gradeOrder": 174
+  },
+  {
+    "kanji": "味",
+    "grade": 3,
+    "gradeOrder": 175
+  },
+  {
+    "kanji": "命",
+    "grade": 3,
+    "gradeOrder": 176
+  },
+  {
+    "kanji": "面",
+    "grade": 3,
+    "gradeOrder": 177
+  },
+  {
+    "kanji": "問",
+    "grade": 3,
+    "gradeOrder": 178
+  },
+  {
+    "kanji": "役",
+    "grade": 3,
+    "gradeOrder": 179
+  },
+  {
+    "kanji": "薬",
+    "grade": 3,
+    "gradeOrder": 180
+  },
+  {
+    "kanji": "由",
+    "grade": 3,
+    "gradeOrder": 181
+  },
+  {
+    "kanji": "油",
+    "grade": 3,
+    "gradeOrder": 182
+  },
+  {
+    "kanji": "有",
+    "grade": 3,
+    "gradeOrder": 183
+  },
+  {
+    "kanji": "遊",
+    "grade": 3,
+    "gradeOrder": 184
+  },
+  {
+    "kanji": "予",
+    "grade": 3,
+    "gradeOrder": 185
+  },
+  {
+    "kanji": "羊",
+    "grade": 3,
+    "gradeOrder": 186
+  },
+  {
+    "kanji": "洋",
+    "grade": 3,
+    "gradeOrder": 187
+  },
+  {
+    "kanji": "葉",
+    "grade": 3,
+    "gradeOrder": 188
+  },
+  {
+    "kanji": "陽",
+    "grade": 3,
+    "gradeOrder": 189
+  },
+  {
+    "kanji": "様",
+    "grade": 3,
+    "gradeOrder": 190
+  },
+  {
+    "kanji": "落",
+    "grade": 3,
+    "gradeOrder": 191
+  },
+  {
+    "kanji": "流",
+    "grade": 3,
+    "gradeOrder": 192
+  },
+  {
+    "kanji": "旅",
+    "grade": 3,
+    "gradeOrder": 193
+  },
+  {
+    "kanji": "両",
+    "grade": 3,
+    "gradeOrder": 194
+  },
+  {
+    "kanji": "緑",
+    "grade": 3,
+    "gradeOrder": 195
+  },
+  {
+    "kanji": "礼",
+    "grade": 3,
+    "gradeOrder": 196
+  },
+  {
+    "kanji": "列",
+    "grade": 3,
+    "gradeOrder": 197
+  },
+  {
+    "kanji": "練",
+    "grade": 3,
+    "gradeOrder": 198
+  },
+  {
+    "kanji": "路",
+    "grade": 3,
+    "gradeOrder": 199
+  },
+  {
+    "kanji": "和",
+    "grade": 3,
+    "gradeOrder": 200
+  },
+  {
+    "kanji": "愛",
+    "grade": 4,
+    "gradeOrder": 1
+  },
+  {
+    "kanji": "案",
+    "grade": 4,
+    "gradeOrder": 2
+  },
+  {
+    "kanji": "以",
+    "grade": 4,
+    "gradeOrder": 3
+  },
+  {
+    "kanji": "衣",
+    "grade": 4,
+    "gradeOrder": 4
+  },
+  {
+    "kanji": "位",
+    "grade": 4,
+    "gradeOrder": 5
+  },
+  {
+    "kanji": "茨",
+    "grade": 4,
+    "gradeOrder": 6
+  },
+  {
+    "kanji": "印",
+    "grade": 4,
+    "gradeOrder": 7
+  },
+  {
+    "kanji": "英",
+    "grade": 4,
+    "gradeOrder": 8
+  },
+  {
+    "kanji": "栄",
+    "grade": 4,
+    "gradeOrder": 9
+  },
+  {
+    "kanji": "媛",
+    "grade": 4,
+    "gradeOrder": 10
+  },
+  {
+    "kanji": "塩",
+    "grade": 4,
+    "gradeOrder": 11
+  },
+  {
+    "kanji": "岡",
+    "grade": 4,
+    "gradeOrder": 12
+  },
+  {
+    "kanji": "億",
+    "grade": 4,
+    "gradeOrder": 13
+  },
+  {
+    "kanji": "加",
+    "grade": 4,
+    "gradeOrder": 14
+  },
+  {
+    "kanji": "果",
+    "grade": 4,
+    "gradeOrder": 15
+  },
+  {
+    "kanji": "貨",
+    "grade": 4,
+    "gradeOrder": 16
+  },
+  {
+    "kanji": "課",
+    "grade": 4,
+    "gradeOrder": 17
+  },
+  {
+    "kanji": "芽",
+    "grade": 4,
+    "gradeOrder": 18
+  },
+  {
+    "kanji": "賀",
+    "grade": 4,
+    "gradeOrder": 19
+  },
+  {
+    "kanji": "改",
+    "grade": 4,
+    "gradeOrder": 20
+  },
+  {
+    "kanji": "械",
+    "grade": 4,
+    "gradeOrder": 21
+  },
+  {
+    "kanji": "害",
+    "grade": 4,
+    "gradeOrder": 22
+  },
+  {
+    "kanji": "街",
+    "grade": 4,
+    "gradeOrder": 23
+  },
+  {
+    "kanji": "各",
+    "grade": 4,
+    "gradeOrder": 24
+  },
+  {
+    "kanji": "覚",
+    "grade": 4,
+    "gradeOrder": 25
+  },
+  {
+    "kanji": "潟",
+    "grade": 4,
+    "gradeOrder": 26
+  },
+  {
+    "kanji": "完",
+    "grade": 4,
+    "gradeOrder": 27
+  },
+  {
+    "kanji": "官",
+    "grade": 4,
+    "gradeOrder": 28
+  },
+  {
+    "kanji": "管",
+    "grade": 4,
+    "gradeOrder": 29
+  },
+  {
+    "kanji": "関",
+    "grade": 4,
+    "gradeOrder": 30
+  },
+  {
+    "kanji": "観",
+    "grade": 4,
+    "gradeOrder": 31
+  },
+  {
+    "kanji": "願",
+    "grade": 4,
+    "gradeOrder": 32
+  },
+  {
+    "kanji": "岐",
+    "grade": 4,
+    "gradeOrder": 33
+  },
+  {
+    "kanji": "希",
+    "grade": 4,
+    "gradeOrder": 34
+  },
+  {
+    "kanji": "季",
+    "grade": 4,
+    "gradeOrder": 35
+  },
+  {
+    "kanji": "旗",
+    "grade": 4,
+    "gradeOrder": 36
+  },
+  {
+    "kanji": "器",
+    "grade": 4,
+    "gradeOrder": 37
+  },
+  {
+    "kanji": "機",
+    "grade": 4,
+    "gradeOrder": 38
+  },
+  {
+    "kanji": "議",
+    "grade": 4,
+    "gradeOrder": 39
+  },
+  {
+    "kanji": "求",
+    "grade": 4,
+    "gradeOrder": 40
+  },
+  {
+    "kanji": "泣",
+    "grade": 4,
+    "gradeOrder": 41
+  },
+  {
+    "kanji": "給",
+    "grade": 4,
+    "gradeOrder": 42
+  },
+  {
+    "kanji": "挙",
+    "grade": 4,
+    "gradeOrder": 43
+  },
+  {
+    "kanji": "漁",
+    "grade": 4,
+    "gradeOrder": 44
+  },
+  {
+    "kanji": "共",
+    "grade": 4,
+    "gradeOrder": 45
+  },
+  {
+    "kanji": "協",
+    "grade": 4,
+    "gradeOrder": 46
+  },
+  {
+    "kanji": "鏡",
+    "grade": 4,
+    "gradeOrder": 47
+  },
+  {
+    "kanji": "競",
+    "grade": 4,
+    "gradeOrder": 48
+  },
+  {
+    "kanji": "極",
+    "grade": 4,
+    "gradeOrder": 49
+  },
+  {
+    "kanji": "熊",
+    "grade": 4,
+    "gradeOrder": 50
+  },
+  {
+    "kanji": "訓",
+    "grade": 4,
+    "gradeOrder": 51
+  },
+  {
+    "kanji": "軍",
+    "grade": 4,
+    "gradeOrder": 52
+  },
+  {
+    "kanji": "郡",
+    "grade": 4,
+    "gradeOrder": 53
+  },
+  {
+    "kanji": "群",
+    "grade": 4,
+    "gradeOrder": 54
+  },
+  {
+    "kanji": "径",
+    "grade": 4,
+    "gradeOrder": 55
+  },
+  {
+    "kanji": "景",
+    "grade": 4,
+    "gradeOrder": 56
+  },
+  {
+    "kanji": "芸",
+    "grade": 4,
+    "gradeOrder": 57
+  },
+  {
+    "kanji": "欠",
+    "grade": 4,
+    "gradeOrder": 58
+  },
+  {
+    "kanji": "結",
+    "grade": 4,
+    "gradeOrder": 59
+  },
+  {
+    "kanji": "建",
+    "grade": 4,
+    "gradeOrder": 60
+  },
+  {
+    "kanji": "健",
+    "grade": 4,
+    "gradeOrder": 61
+  },
+  {
+    "kanji": "験",
+    "grade": 4,
+    "gradeOrder": 62
+  },
+  {
+    "kanji": "固",
+    "grade": 4,
+    "gradeOrder": 63
+  },
+  {
+    "kanji": "功",
+    "grade": 4,
+    "gradeOrder": 64
+  },
+  {
+    "kanji": "好",
+    "grade": 4,
+    "gradeOrder": 65
+  },
+  {
+    "kanji": "香",
+    "grade": 4,
+    "gradeOrder": 66
+  },
+  {
+    "kanji": "候",
+    "grade": 4,
+    "gradeOrder": 67
+  },
+  {
+    "kanji": "康",
+    "grade": 4,
+    "gradeOrder": 68
+  },
+  {
+    "kanji": "佐",
+    "grade": 4,
+    "gradeOrder": 69
+  },
+  {
+    "kanji": "差",
+    "grade": 4,
+    "gradeOrder": 70
+  },
+  {
+    "kanji": "菜",
+    "grade": 4,
+    "gradeOrder": 71
+  },
+  {
+    "kanji": "最",
+    "grade": 4,
+    "gradeOrder": 72
+  },
+  {
+    "kanji": "埼",
+    "grade": 4,
+    "gradeOrder": 73
+  },
+  {
+    "kanji": "材",
+    "grade": 4,
+    "gradeOrder": 74
+  },
+  {
+    "kanji": "崎",
+    "grade": 4,
+    "gradeOrder": 75
+  },
+  {
+    "kanji": "昨",
+    "grade": 4,
+    "gradeOrder": 76
+  },
+  {
+    "kanji": "札",
+    "grade": 4,
+    "gradeOrder": 77
+  },
+  {
+    "kanji": "刷",
+    "grade": 4,
+    "gradeOrder": 78
+  },
+  {
+    "kanji": "察",
+    "grade": 4,
+    "gradeOrder": 79
+  },
+  {
+    "kanji": "参",
+    "grade": 4,
+    "gradeOrder": 80
+  },
+  {
+    "kanji": "産",
+    "grade": 4,
+    "gradeOrder": 81
+  },
+  {
+    "kanji": "散",
+    "grade": 4,
+    "gradeOrder": 82
+  },
+  {
+    "kanji": "残",
+    "grade": 4,
+    "gradeOrder": 83
+  },
+  {
+    "kanji": "氏",
+    "grade": 4,
+    "gradeOrder": 84
+  },
+  {
+    "kanji": "司",
+    "grade": 4,
+    "gradeOrder": 85
+  },
+  {
+    "kanji": "試",
+    "grade": 4,
+    "gradeOrder": 86
+  },
+  {
+    "kanji": "児",
+    "grade": 4,
+    "gradeOrder": 87
+  },
+  {
+    "kanji": "治",
+    "grade": 4,
+    "gradeOrder": 88
+  },
+  {
+    "kanji": "滋",
+    "grade": 4,
+    "gradeOrder": 89
+  },
+  {
+    "kanji": "辞",
+    "grade": 4,
+    "gradeOrder": 90
+  },
+  {
+    "kanji": "鹿",
+    "grade": 4,
+    "gradeOrder": 91
+  },
+  {
+    "kanji": "失",
+    "grade": 4,
+    "gradeOrder": 92
+  },
+  {
+    "kanji": "借",
+    "grade": 4,
+    "gradeOrder": 93
+  },
+  {
+    "kanji": "種",
+    "grade": 4,
+    "gradeOrder": 94
+  },
+  {
+    "kanji": "周",
+    "grade": 4,
+    "gradeOrder": 95
+  },
+  {
+    "kanji": "祝",
+    "grade": 4,
+    "gradeOrder": 96
+  },
+  {
+    "kanji": "順",
+    "grade": 4,
+    "gradeOrder": 97
+  },
+  {
+    "kanji": "初",
+    "grade": 4,
+    "gradeOrder": 98
+  },
+  {
+    "kanji": "松",
+    "grade": 4,
+    "gradeOrder": 99
+  },
+  {
+    "kanji": "笑",
+    "grade": 4,
+    "gradeOrder": 100
+  },
+  {
+    "kanji": "唱",
+    "grade": 4,
+    "gradeOrder": 101
+  },
+  {
+    "kanji": "焼",
+    "grade": 4,
+    "gradeOrder": 102
+  },
+  {
+    "kanji": "照",
+    "grade": 4,
+    "gradeOrder": 103
+  },
+  {
+    "kanji": "城",
+    "grade": 4,
+    "gradeOrder": 104
+  },
+  {
+    "kanji": "縄",
+    "grade": 4,
+    "gradeOrder": 105
+  },
+  {
+    "kanji": "臣",
+    "grade": 4,
+    "gradeOrder": 106
+  },
+  {
+    "kanji": "信",
+    "grade": 4,
+    "gradeOrder": 107
+  },
+  {
+    "kanji": "井",
+    "grade": 4,
+    "gradeOrder": 108
+  },
+  {
+    "kanji": "成",
+    "grade": 4,
+    "gradeOrder": 109
+  },
+  {
+    "kanji": "省",
+    "grade": 4,
+    "gradeOrder": 110
+  },
+  {
+    "kanji": "清",
+    "grade": 4,
+    "gradeOrder": 111
+  },
+  {
+    "kanji": "静",
+    "grade": 4,
+    "gradeOrder": 112
+  },
+  {
+    "kanji": "席",
+    "grade": 4,
+    "gradeOrder": 113
+  },
+  {
+    "kanji": "積",
+    "grade": 4,
+    "gradeOrder": 114
+  },
+  {
+    "kanji": "折",
+    "grade": 4,
+    "gradeOrder": 115
+  },
+  {
+    "kanji": "節",
+    "grade": 4,
+    "gradeOrder": 116
+  },
+  {
+    "kanji": "説",
+    "grade": 4,
+    "gradeOrder": 117
+  },
+  {
+    "kanji": "浅",
+    "grade": 4,
+    "gradeOrder": 118
+  },
+  {
+    "kanji": "戦",
+    "grade": 4,
+    "gradeOrder": 119
+  },
+  {
+    "kanji": "選",
+    "grade": 4,
+    "gradeOrder": 120
+  },
+  {
+    "kanji": "然",
+    "grade": 4,
+    "gradeOrder": 121
+  },
+  {
+    "kanji": "争",
+    "grade": 4,
+    "gradeOrder": 122
+  },
+  {
+    "kanji": "倉",
+    "grade": 4,
+    "gradeOrder": 123
+  },
+  {
+    "kanji": "巣",
+    "grade": 4,
+    "gradeOrder": 124
+  },
+  {
+    "kanji": "束",
+    "grade": 4,
+    "gradeOrder": 125
+  },
+  {
+    "kanji": "側",
+    "grade": 4,
+    "gradeOrder": 126
+  },
+  {
+    "kanji": "続",
+    "grade": 4,
+    "gradeOrder": 127
+  },
+  {
+    "kanji": "卒",
+    "grade": 4,
+    "gradeOrder": 128
+  },
+  {
+    "kanji": "孫",
+    "grade": 4,
+    "gradeOrder": 129
+  },
+  {
+    "kanji": "帯",
+    "grade": 4,
+    "gradeOrder": 130
+  },
+  {
+    "kanji": "隊",
+    "grade": 4,
+    "gradeOrder": 131
+  },
+  {
+    "kanji": "達",
+    "grade": 4,
+    "gradeOrder": 132
+  },
+  {
+    "kanji": "単",
+    "grade": 4,
+    "gradeOrder": 133
+  },
+  {
+    "kanji": "置",
+    "grade": 4,
+    "gradeOrder": 134
+  },
+  {
+    "kanji": "仲",
+    "grade": 4,
+    "gradeOrder": 135
+  },
+  {
+    "kanji": "沖",
+    "grade": 4,
+    "gradeOrder": 136
+  },
+  {
+    "kanji": "兆",
+    "grade": 4,
+    "gradeOrder": 137
+  },
+  {
+    "kanji": "低",
+    "grade": 4,
+    "gradeOrder": 138
+  },
+  {
+    "kanji": "底",
+    "grade": 4,
+    "gradeOrder": 139
+  },
+  {
+    "kanji": "的",
+    "grade": 4,
+    "gradeOrder": 140
+  },
+  {
+    "kanji": "典",
+    "grade": 4,
+    "gradeOrder": 141
+  },
+  {
+    "kanji": "伝",
+    "grade": 4,
+    "gradeOrder": 142
+  },
+  {
+    "kanji": "徒",
+    "grade": 4,
+    "gradeOrder": 143
+  },
+  {
+    "kanji": "努",
+    "grade": 4,
+    "gradeOrder": 144
+  },
+  {
+    "kanji": "灯",
+    "grade": 4,
+    "gradeOrder": 145
+  },
+  {
+    "kanji": "働",
+    "grade": 4,
+    "gradeOrder": 146
+  },
+  {
+    "kanji": "特",
+    "grade": 4,
+    "gradeOrder": 147
+  },
+  {
+    "kanji": "徳",
+    "grade": 4,
+    "gradeOrder": 148
+  },
+  {
+    "kanji": "栃",
+    "grade": 4,
+    "gradeOrder": 149
+  },
+  {
+    "kanji": "奈",
+    "grade": 4,
+    "gradeOrder": 150
+  },
+  {
+    "kanji": "梨",
+    "grade": 4,
+    "gradeOrder": 151
+  },
+  {
+    "kanji": "熱",
+    "grade": 4,
+    "gradeOrder": 152
+  },
+  {
+    "kanji": "念",
+    "grade": 4,
+    "gradeOrder": 153
+  },
+  {
+    "kanji": "敗",
+    "grade": 4,
+    "gradeOrder": 154
+  },
+  {
+    "kanji": "梅",
+    "grade": 4,
+    "gradeOrder": 155
+  },
+  {
+    "kanji": "博",
+    "grade": 4,
+    "gradeOrder": 156
+  },
+  {
+    "kanji": "阪",
+    "grade": 4,
+    "gradeOrder": 157
+  },
+  {
+    "kanji": "飯",
+    "grade": 4,
+    "gradeOrder": 158
+  },
+  {
+    "kanji": "飛",
+    "grade": 4,
+    "gradeOrder": 159
+  },
+  {
+    "kanji": "必",
+    "grade": 4,
+    "gradeOrder": 160
+  },
+  {
+    "kanji": "票",
+    "grade": 4,
+    "gradeOrder": 161
+  },
+  {
+    "kanji": "標",
+    "grade": 4,
+    "gradeOrder": 162
+  },
+  {
+    "kanji": "不",
+    "grade": 4,
+    "gradeOrder": 163
+  },
+  {
+    "kanji": "夫",
+    "grade": 4,
+    "gradeOrder": 164
+  },
+  {
+    "kanji": "付",
+    "grade": 4,
+    "gradeOrder": 165
+  },
+  {
+    "kanji": "府",
+    "grade": 4,
+    "gradeOrder": 166
+  },
+  {
+    "kanji": "阜",
+    "grade": 4,
+    "gradeOrder": 167
+  },
+  {
+    "kanji": "富",
+    "grade": 4,
+    "gradeOrder": 168
+  },
+  {
+    "kanji": "副",
+    "grade": 4,
+    "gradeOrder": 169
+  },
+  {
+    "kanji": "兵",
+    "grade": 4,
+    "gradeOrder": 170
+  },
+  {
+    "kanji": "別",
+    "grade": 4,
+    "gradeOrder": 171
+  },
+  {
+    "kanji": "辺",
+    "grade": 4,
+    "gradeOrder": 172
+  },
+  {
+    "kanji": "変",
+    "grade": 4,
+    "gradeOrder": 173
+  },
+  {
+    "kanji": "便",
+    "grade": 4,
+    "gradeOrder": 174
+  },
+  {
+    "kanji": "包",
+    "grade": 4,
+    "gradeOrder": 175
+  },
+  {
+    "kanji": "法",
+    "grade": 4,
+    "gradeOrder": 176
+  },
+  {
+    "kanji": "望",
+    "grade": 4,
+    "gradeOrder": 177
+  },
+  {
+    "kanji": "牧",
+    "grade": 4,
+    "gradeOrder": 178
+  },
+  {
+    "kanji": "末",
+    "grade": 4,
+    "gradeOrder": 179
+  },
+  {
+    "kanji": "満",
+    "grade": 4,
+    "gradeOrder": 180
+  },
+  {
+    "kanji": "未",
+    "grade": 4,
+    "gradeOrder": 181
+  },
+  {
+    "kanji": "民",
+    "grade": 4,
+    "gradeOrder": 182
+  },
+  {
+    "kanji": "無",
+    "grade": 4,
+    "gradeOrder": 183
+  },
+  {
+    "kanji": "約",
+    "grade": 4,
+    "gradeOrder": 184
+  },
+  {
+    "kanji": "勇",
+    "grade": 4,
+    "gradeOrder": 185
+  },
+  {
+    "kanji": "要",
+    "grade": 4,
+    "gradeOrder": 186
+  },
+  {
+    "kanji": "養",
+    "grade": 4,
+    "gradeOrder": 187
+  },
+  {
+    "kanji": "浴",
+    "grade": 4,
+    "gradeOrder": 188
+  },
+  {
+    "kanji": "利",
+    "grade": 4,
+    "gradeOrder": 189
+  },
+  {
+    "kanji": "陸",
+    "grade": 4,
+    "gradeOrder": 190
+  },
+  {
+    "kanji": "良",
+    "grade": 4,
+    "gradeOrder": 191
+  },
+  {
+    "kanji": "料",
+    "grade": 4,
+    "gradeOrder": 192
+  },
+  {
+    "kanji": "量",
+    "grade": 4,
+    "gradeOrder": 193
+  },
+  {
+    "kanji": "輪",
+    "grade": 4,
+    "gradeOrder": 194
+  },
+  {
+    "kanji": "類",
+    "grade": 4,
+    "gradeOrder": 195
+  },
+  {
+    "kanji": "令",
+    "grade": 4,
+    "gradeOrder": 196
+  },
+  {
+    "kanji": "冷",
+    "grade": 4,
+    "gradeOrder": 197
+  },
+  {
+    "kanji": "例",
+    "grade": 4,
+    "gradeOrder": 198
+  },
+  {
+    "kanji": "連",
+    "grade": 4,
+    "gradeOrder": 199
+  },
+  {
+    "kanji": "老",
+    "grade": 4,
+    "gradeOrder": 200
+  },
+  {
+    "kanji": "労",
+    "grade": 4,
+    "gradeOrder": 201
+  },
+  {
+    "kanji": "録",
+    "grade": 4,
+    "gradeOrder": 202
+  },
+  {
+    "kanji": "圧",
+    "grade": 5,
+    "gradeOrder": 1
+  },
+  {
+    "kanji": "囲",
+    "grade": 5,
+    "gradeOrder": 2
+  },
+  {
+    "kanji": "移",
+    "grade": 5,
+    "gradeOrder": 3
+  },
+  {
+    "kanji": "因",
+    "grade": 5,
+    "gradeOrder": 4
+  },
+  {
+    "kanji": "永",
+    "grade": 5,
+    "gradeOrder": 5
+  },
+  {
+    "kanji": "営",
+    "grade": 5,
+    "gradeOrder": 6
+  },
+  {
+    "kanji": "衛",
+    "grade": 5,
+    "gradeOrder": 7
+  },
+  {
+    "kanji": "易",
+    "grade": 5,
+    "gradeOrder": 8
+  },
+  {
+    "kanji": "益",
+    "grade": 5,
+    "gradeOrder": 9
+  },
+  {
+    "kanji": "液",
+    "grade": 5,
+    "gradeOrder": 10
+  },
+  {
+    "kanji": "演",
+    "grade": 5,
+    "gradeOrder": 11
+  },
+  {
+    "kanji": "応",
+    "grade": 5,
+    "gradeOrder": 12
+  },
+  {
+    "kanji": "往",
+    "grade": 5,
+    "gradeOrder": 13
+  },
+  {
+    "kanji": "桜",
+    "grade": 5,
+    "gradeOrder": 14
+  },
+  {
+    "kanji": "可",
+    "grade": 5,
+    "gradeOrder": 15
+  },
+  {
+    "kanji": "仮",
+    "grade": 5,
+    "gradeOrder": 16
+  },
+  {
+    "kanji": "価",
+    "grade": 5,
+    "gradeOrder": 17
+  },
+  {
+    "kanji": "河",
+    "grade": 5,
+    "gradeOrder": 18
+  },
+  {
+    "kanji": "過",
+    "grade": 5,
+    "gradeOrder": 19
+  },
+  {
+    "kanji": "快",
+    "grade": 5,
+    "gradeOrder": 20
+  },
+  {
+    "kanji": "解",
+    "grade": 5,
+    "gradeOrder": 21
+  },
+  {
+    "kanji": "格",
+    "grade": 5,
+    "gradeOrder": 22
+  },
+  {
+    "kanji": "確",
+    "grade": 5,
+    "gradeOrder": 23
+  },
+  {
+    "kanji": "額",
+    "grade": 5,
+    "gradeOrder": 24
+  },
+  {
+    "kanji": "刊",
+    "grade": 5,
+    "gradeOrder": 25
+  },
+  {
+    "kanji": "幹",
+    "grade": 5,
+    "gradeOrder": 26
+  },
+  {
+    "kanji": "慣",
+    "grade": 5,
+    "gradeOrder": 27
+  },
+  {
+    "kanji": "眼",
+    "grade": 5,
+    "gradeOrder": 28
+  },
+  {
+    "kanji": "紀",
+    "grade": 5,
+    "gradeOrder": 29
+  },
+  {
+    "kanji": "基",
+    "grade": 5,
+    "gradeOrder": 30
+  },
+  {
+    "kanji": "寄",
+    "grade": 5,
+    "gradeOrder": 31
+  },
+  {
+    "kanji": "規",
+    "grade": 5,
+    "gradeOrder": 32
+  },
+  {
+    "kanji": "喜",
+    "grade": 5,
+    "gradeOrder": 33
+  },
+  {
+    "kanji": "技",
+    "grade": 5,
+    "gradeOrder": 34
+  },
+  {
+    "kanji": "義",
+    "grade": 5,
+    "gradeOrder": 35
+  },
+  {
+    "kanji": "逆",
+    "grade": 5,
+    "gradeOrder": 36
+  },
+  {
+    "kanji": "久",
+    "grade": 5,
+    "gradeOrder": 37
+  },
+  {
+    "kanji": "旧",
+    "grade": 5,
+    "gradeOrder": 38
+  },
+  {
+    "kanji": "救",
+    "grade": 5,
+    "gradeOrder": 39
+  },
+  {
+    "kanji": "居",
+    "grade": 5,
+    "gradeOrder": 40
+  },
+  {
+    "kanji": "許",
+    "grade": 5,
+    "gradeOrder": 41
+  },
+  {
+    "kanji": "境",
+    "grade": 5,
+    "gradeOrder": 42
+  },
+  {
+    "kanji": "均",
+    "grade": 5,
+    "gradeOrder": 43
+  },
+  {
+    "kanji": "禁",
+    "grade": 5,
+    "gradeOrder": 44
+  },
+  {
+    "kanji": "句",
+    "grade": 5,
+    "gradeOrder": 45
+  },
+  {
+    "kanji": "型",
+    "grade": 5,
+    "gradeOrder": 46
+  },
+  {
+    "kanji": "経",
+    "grade": 5,
+    "gradeOrder": 47
+  },
+  {
+    "kanji": "潔",
+    "grade": 5,
+    "gradeOrder": 48
+  },
+  {
+    "kanji": "件",
+    "grade": 5,
+    "gradeOrder": 49
+  },
+  {
+    "kanji": "険",
+    "grade": 5,
+    "gradeOrder": 50
+  },
+  {
+    "kanji": "検",
+    "grade": 5,
+    "gradeOrder": 51
+  },
+  {
+    "kanji": "限",
+    "grade": 5,
+    "gradeOrder": 52
+  },
+  {
+    "kanji": "現",
+    "grade": 5,
+    "gradeOrder": 53
+  },
+  {
+    "kanji": "減",
+    "grade": 5,
+    "gradeOrder": 54
+  },
+  {
+    "kanji": "故",
+    "grade": 5,
+    "gradeOrder": 55
+  },
+  {
+    "kanji": "個",
+    "grade": 5,
+    "gradeOrder": 56
+  },
+  {
+    "kanji": "護",
+    "grade": 5,
+    "gradeOrder": 57
+  },
+  {
+    "kanji": "効",
+    "grade": 5,
+    "gradeOrder": 58
+  },
+  {
+    "kanji": "厚",
+    "grade": 5,
+    "gradeOrder": 59
+  },
+  {
+    "kanji": "耕",
+    "grade": 5,
+    "gradeOrder": 60
+  },
+  {
+    "kanji": "航",
+    "grade": 5,
+    "gradeOrder": 61
+  },
+  {
+    "kanji": "鉱",
+    "grade": 5,
+    "gradeOrder": 62
+  },
+  {
+    "kanji": "構",
+    "grade": 5,
+    "gradeOrder": 63
+  },
+  {
+    "kanji": "興",
+    "grade": 5,
+    "gradeOrder": 64
+  },
+  {
+    "kanji": "講",
+    "grade": 5,
+    "gradeOrder": 65
+  },
+  {
+    "kanji": "告",
+    "grade": 5,
+    "gradeOrder": 66
+  },
+  {
+    "kanji": "混",
+    "grade": 5,
+    "gradeOrder": 67
+  },
+  {
+    "kanji": "査",
+    "grade": 5,
+    "gradeOrder": 68
+  },
+  {
+    "kanji": "再",
+    "grade": 5,
+    "gradeOrder": 69
+  },
+  {
+    "kanji": "災",
+    "grade": 5,
+    "gradeOrder": 70
+  },
+  {
+    "kanji": "妻",
+    "grade": 5,
+    "gradeOrder": 71
+  },
+  {
+    "kanji": "採",
+    "grade": 5,
+    "gradeOrder": 72
+  },
+  {
+    "kanji": "際",
+    "grade": 5,
+    "gradeOrder": 73
+  },
+  {
+    "kanji": "在",
+    "grade": 5,
+    "gradeOrder": 74
+  },
+  {
+    "kanji": "財",
+    "grade": 5,
+    "gradeOrder": 75
+  },
+  {
+    "kanji": "罪",
+    "grade": 5,
+    "gradeOrder": 76
+  },
+  {
+    "kanji": "殺",
+    "grade": 5,
+    "gradeOrder": 77
+  },
+  {
+    "kanji": "雑",
+    "grade": 5,
+    "gradeOrder": 78
+  },
+  {
+    "kanji": "酸",
+    "grade": 5,
+    "gradeOrder": 79
+  },
+  {
+    "kanji": "賛",
+    "grade": 5,
+    "gradeOrder": 80
+  },
+  {
+    "kanji": "士",
+    "grade": 5,
+    "gradeOrder": 81
+  },
+  {
+    "kanji": "支",
+    "grade": 5,
+    "gradeOrder": 82
+  },
+  {
+    "kanji": "史",
+    "grade": 5,
+    "gradeOrder": 83
+  },
+  {
+    "kanji": "志",
+    "grade": 5,
+    "gradeOrder": 84
+  },
+  {
+    "kanji": "枝",
+    "grade": 5,
+    "gradeOrder": 85
+  },
+  {
+    "kanji": "師",
+    "grade": 5,
+    "gradeOrder": 86
+  },
+  {
+    "kanji": "資",
+    "grade": 5,
+    "gradeOrder": 87
+  },
+  {
+    "kanji": "飼",
+    "grade": 5,
+    "gradeOrder": 88
+  },
+  {
+    "kanji": "示",
+    "grade": 5,
+    "gradeOrder": 89
+  },
+  {
+    "kanji": "似",
+    "grade": 5,
+    "gradeOrder": 90
+  },
+  {
+    "kanji": "識",
+    "grade": 5,
+    "gradeOrder": 91
+  },
+  {
+    "kanji": "質",
+    "grade": 5,
+    "gradeOrder": 92
+  },
+  {
+    "kanji": "舎",
+    "grade": 5,
+    "gradeOrder": 93
+  },
+  {
+    "kanji": "謝",
+    "grade": 5,
+    "gradeOrder": 94
+  },
+  {
+    "kanji": "授",
+    "grade": 5,
+    "gradeOrder": 95
+  },
+  {
+    "kanji": "修",
+    "grade": 5,
+    "gradeOrder": 96
+  },
+  {
+    "kanji": "述",
+    "grade": 5,
+    "gradeOrder": 97
+  },
+  {
+    "kanji": "術",
+    "grade": 5,
+    "gradeOrder": 98
+  },
+  {
+    "kanji": "準",
+    "grade": 5,
+    "gradeOrder": 99
+  },
+  {
+    "kanji": "序",
+    "grade": 5,
+    "gradeOrder": 100
+  },
+  {
+    "kanji": "招",
+    "grade": 5,
+    "gradeOrder": 101
+  },
+  {
+    "kanji": "証",
+    "grade": 5,
+    "gradeOrder": 102
+  },
+  {
+    "kanji": "象",
+    "grade": 5,
+    "gradeOrder": 103
+  },
+  {
+    "kanji": "賞",
+    "grade": 5,
+    "gradeOrder": 104
+  },
+  {
+    "kanji": "条",
+    "grade": 5,
+    "gradeOrder": 105
+  },
+  {
+    "kanji": "状",
+    "grade": 5,
+    "gradeOrder": 106
+  },
+  {
+    "kanji": "常",
+    "grade": 5,
+    "gradeOrder": 107
+  },
+  {
+    "kanji": "情",
+    "grade": 5,
+    "gradeOrder": 108
+  },
+  {
+    "kanji": "織",
+    "grade": 5,
+    "gradeOrder": 109
+  },
+  {
+    "kanji": "職",
+    "grade": 5,
+    "gradeOrder": 110
+  },
+  {
+    "kanji": "制",
+    "grade": 5,
+    "gradeOrder": 111
+  },
+  {
+    "kanji": "性",
+    "grade": 5,
+    "gradeOrder": 112
+  },
+  {
+    "kanji": "政",
+    "grade": 5,
+    "gradeOrder": 113
+  },
+  {
+    "kanji": "勢",
+    "grade": 5,
+    "gradeOrder": 114
+  },
+  {
+    "kanji": "精",
+    "grade": 5,
+    "gradeOrder": 115
+  },
+  {
+    "kanji": "製",
+    "grade": 5,
+    "gradeOrder": 116
+  },
+  {
+    "kanji": "税",
+    "grade": 5,
+    "gradeOrder": 117
+  },
+  {
+    "kanji": "責",
+    "grade": 5,
+    "gradeOrder": 118
+  },
+  {
+    "kanji": "績",
+    "grade": 5,
+    "gradeOrder": 119
+  },
+  {
+    "kanji": "接",
+    "grade": 5,
+    "gradeOrder": 120
+  },
+  {
+    "kanji": "設",
+    "grade": 5,
+    "gradeOrder": 121
+  },
+  {
+    "kanji": "絶",
+    "grade": 5,
+    "gradeOrder": 122
+  },
+  {
+    "kanji": "祖",
+    "grade": 5,
+    "gradeOrder": 123
+  },
+  {
+    "kanji": "素",
+    "grade": 5,
+    "gradeOrder": 124
+  },
+  {
+    "kanji": "総",
+    "grade": 5,
+    "gradeOrder": 125
+  },
+  {
+    "kanji": "造",
+    "grade": 5,
+    "gradeOrder": 126
+  },
+  {
+    "kanji": "像",
+    "grade": 5,
+    "gradeOrder": 127
+  },
+  {
+    "kanji": "増",
+    "grade": 5,
+    "gradeOrder": 128
+  },
+  {
+    "kanji": "則",
+    "grade": 5,
+    "gradeOrder": 129
+  },
+  {
+    "kanji": "測",
+    "grade": 5,
+    "gradeOrder": 130
+  },
+  {
+    "kanji": "属",
+    "grade": 5,
+    "gradeOrder": 131
+  },
+  {
+    "kanji": "率",
+    "grade": 5,
+    "gradeOrder": 132
+  },
+  {
+    "kanji": "損",
+    "grade": 5,
+    "gradeOrder": 133
+  },
+  {
+    "kanji": "貸",
+    "grade": 5,
+    "gradeOrder": 134
+  },
+  {
+    "kanji": "態",
+    "grade": 5,
+    "gradeOrder": 135
+  },
+  {
+    "kanji": "団",
+    "grade": 5,
+    "gradeOrder": 136
+  },
+  {
+    "kanji": "断",
+    "grade": 5,
+    "gradeOrder": 137
+  },
+  {
+    "kanji": "築",
+    "grade": 5,
+    "gradeOrder": 138
+  },
+  {
+    "kanji": "貯",
+    "grade": 5,
+    "gradeOrder": 139
+  },
+  {
+    "kanji": "張",
+    "grade": 5,
+    "gradeOrder": 140
+  },
+  {
+    "kanji": "停",
+    "grade": 5,
+    "gradeOrder": 141
+  },
+  {
+    "kanji": "提",
+    "grade": 5,
+    "gradeOrder": 142
+  },
+  {
+    "kanji": "程",
+    "grade": 5,
+    "gradeOrder": 143
+  },
+  {
+    "kanji": "適",
+    "grade": 5,
+    "gradeOrder": 144
+  },
+  {
+    "kanji": "統",
+    "grade": 5,
+    "gradeOrder": 145
+  },
+  {
+    "kanji": "堂",
+    "grade": 5,
+    "gradeOrder": 146
+  },
+  {
+    "kanji": "銅",
+    "grade": 5,
+    "gradeOrder": 147
+  },
+  {
+    "kanji": "導",
+    "grade": 5,
+    "gradeOrder": 148
+  },
+  {
+    "kanji": "得",
+    "grade": 5,
+    "gradeOrder": 149
+  },
+  {
+    "kanji": "毒",
+    "grade": 5,
+    "gradeOrder": 150
+  },
+  {
+    "kanji": "独",
+    "grade": 5,
+    "gradeOrder": 151
+  },
+  {
+    "kanji": "任",
+    "grade": 5,
+    "gradeOrder": 152
+  },
+  {
+    "kanji": "燃",
+    "grade": 5,
+    "gradeOrder": 153
+  },
+  {
+    "kanji": "能",
+    "grade": 5,
+    "gradeOrder": 154
+  },
+  {
+    "kanji": "破",
+    "grade": 5,
+    "gradeOrder": 155
+  },
+  {
+    "kanji": "犯",
+    "grade": 5,
+    "gradeOrder": 156
+  },
+  {
+    "kanji": "判",
+    "grade": 5,
+    "gradeOrder": 157
+  },
+  {
+    "kanji": "版",
+    "grade": 5,
+    "gradeOrder": 158
+  },
+  {
+    "kanji": "比",
+    "grade": 5,
+    "gradeOrder": 159
+  },
+  {
+    "kanji": "肥",
+    "grade": 5,
+    "gradeOrder": 160
+  },
+  {
+    "kanji": "非",
+    "grade": 5,
+    "gradeOrder": 161
+  },
+  {
+    "kanji": "費",
+    "grade": 5,
+    "gradeOrder": 162
+  },
+  {
+    "kanji": "備",
+    "grade": 5,
+    "gradeOrder": 163
+  },
+  {
+    "kanji": "評",
+    "grade": 5,
+    "gradeOrder": 164
+  },
+  {
+    "kanji": "貧",
+    "grade": 5,
+    "gradeOrder": 165
+  },
+  {
+    "kanji": "布",
+    "grade": 5,
+    "gradeOrder": 166
+  },
+  {
+    "kanji": "婦",
+    "grade": 5,
+    "gradeOrder": 167
+  },
+  {
+    "kanji": "武",
+    "grade": 5,
+    "gradeOrder": 168
+  },
+  {
+    "kanji": "復",
+    "grade": 5,
+    "gradeOrder": 169
+  },
+  {
+    "kanji": "複",
+    "grade": 5,
+    "gradeOrder": 170
+  },
+  {
+    "kanji": "仏",
+    "grade": 5,
+    "gradeOrder": 171
+  },
+  {
+    "kanji": "粉",
+    "grade": 5,
+    "gradeOrder": 172
+  },
+  {
+    "kanji": "編",
+    "grade": 5,
+    "gradeOrder": 173
+  },
+  {
+    "kanji": "弁",
+    "grade": 5,
+    "gradeOrder": 174
+  },
+  {
+    "kanji": "保",
+    "grade": 5,
+    "gradeOrder": 175
+  },
+  {
+    "kanji": "墓",
+    "grade": 5,
+    "gradeOrder": 176
+  },
+  {
+    "kanji": "報",
+    "grade": 5,
+    "gradeOrder": 177
+  },
+  {
+    "kanji": "豊",
+    "grade": 5,
+    "gradeOrder": 178
+  },
+  {
+    "kanji": "防",
+    "grade": 5,
+    "gradeOrder": 179
+  },
+  {
+    "kanji": "貿",
+    "grade": 5,
+    "gradeOrder": 180
+  },
+  {
+    "kanji": "暴",
+    "grade": 5,
+    "gradeOrder": 181
+  },
+  {
+    "kanji": "脈",
+    "grade": 5,
+    "gradeOrder": 182
+  },
+  {
+    "kanji": "務",
+    "grade": 5,
+    "gradeOrder": 183
+  },
+  {
+    "kanji": "夢",
+    "grade": 5,
+    "gradeOrder": 184
+  },
+  {
+    "kanji": "迷",
+    "grade": 5,
+    "gradeOrder": 185
+  },
+  {
+    "kanji": "綿",
+    "grade": 5,
+    "gradeOrder": 186
+  },
+  {
+    "kanji": "輸",
+    "grade": 5,
+    "gradeOrder": 187
+  },
+  {
+    "kanji": "余",
+    "grade": 5,
+    "gradeOrder": 188
+  },
+  {
+    "kanji": "容",
+    "grade": 5,
+    "gradeOrder": 189
+  },
+  {
+    "kanji": "略",
+    "grade": 5,
+    "gradeOrder": 190
+  },
+  {
+    "kanji": "留",
+    "grade": 5,
+    "gradeOrder": 191
+  },
+  {
+    "kanji": "領",
+    "grade": 5,
+    "gradeOrder": 192
+  },
+  {
+    "kanji": "歴",
+    "grade": 5,
+    "gradeOrder": 193
+  },
+  {
+    "kanji": "胃",
+    "grade": 6,
+    "gradeOrder": 1
+  },
+  {
+    "kanji": "異",
+    "grade": 6,
+    "gradeOrder": 2
+  },
+  {
+    "kanji": "遺",
+    "grade": 6,
+    "gradeOrder": 3
+  },
+  {
+    "kanji": "域",
+    "grade": 6,
+    "gradeOrder": 4
+  },
+  {
+    "kanji": "宇",
+    "grade": 6,
+    "gradeOrder": 5
+  },
+  {
+    "kanji": "映",
+    "grade": 6,
+    "gradeOrder": 6
+  },
+  {
+    "kanji": "延",
+    "grade": 6,
+    "gradeOrder": 7
+  },
+  {
+    "kanji": "沿",
+    "grade": 6,
+    "gradeOrder": 8
+  },
+  {
+    "kanji": "恩",
+    "grade": 6,
+    "gradeOrder": 9
+  },
+  {
+    "kanji": "我",
+    "grade": 6,
+    "gradeOrder": 10
+  },
+  {
+    "kanji": "灰",
+    "grade": 6,
+    "gradeOrder": 11
+  },
+  {
+    "kanji": "拡",
+    "grade": 6,
+    "gradeOrder": 12
+  },
+  {
+    "kanji": "革",
+    "grade": 6,
+    "gradeOrder": 13
+  },
+  {
+    "kanji": "閣",
+    "grade": 6,
+    "gradeOrder": 14
+  },
+  {
+    "kanji": "割",
+    "grade": 6,
+    "gradeOrder": 15
+  },
+  {
+    "kanji": "株",
+    "grade": 6,
+    "gradeOrder": 16
+  },
+  {
+    "kanji": "干",
+    "grade": 6,
+    "gradeOrder": 17
+  },
+  {
+    "kanji": "巻",
+    "grade": 6,
+    "gradeOrder": 18
+  },
+  {
+    "kanji": "看",
+    "grade": 6,
+    "gradeOrder": 19
+  },
+  {
+    "kanji": "簡",
+    "grade": 6,
+    "gradeOrder": 20
+  },
+  {
+    "kanji": "危",
+    "grade": 6,
+    "gradeOrder": 21
+  },
+  {
+    "kanji": "机",
+    "grade": 6,
+    "gradeOrder": 22
+  },
+  {
+    "kanji": "揮",
+    "grade": 6,
+    "gradeOrder": 23
+  },
+  {
+    "kanji": "貴",
+    "grade": 6,
+    "gradeOrder": 24
+  },
+  {
+    "kanji": "疑",
+    "grade": 6,
+    "gradeOrder": 25
+  },
+  {
+    "kanji": "吸",
+    "grade": 6,
+    "gradeOrder": 26
+  },
+  {
+    "kanji": "供",
+    "grade": 6,
+    "gradeOrder": 27
+  },
+  {
+    "kanji": "胸",
+    "grade": 6,
+    "gradeOrder": 28
+  },
+  {
+    "kanji": "郷",
+    "grade": 6,
+    "gradeOrder": 29
+  },
+  {
+    "kanji": "勤",
+    "grade": 6,
+    "gradeOrder": 30
+  },
+  {
+    "kanji": "筋",
+    "grade": 6,
+    "gradeOrder": 31
+  },
+  {
+    "kanji": "系",
+    "grade": 6,
+    "gradeOrder": 32
+  },
+  {
+    "kanji": "敬",
+    "grade": 6,
+    "gradeOrder": 33
+  },
+  {
+    "kanji": "警",
+    "grade": 6,
+    "gradeOrder": 34
+  },
+  {
+    "kanji": "劇",
+    "grade": 6,
+    "gradeOrder": 35
+  },
+  {
+    "kanji": "激",
+    "grade": 6,
+    "gradeOrder": 36
+  },
+  {
+    "kanji": "穴",
+    "grade": 6,
+    "gradeOrder": 37
+  },
+  {
+    "kanji": "券",
+    "grade": 6,
+    "gradeOrder": 38
+  },
+  {
+    "kanji": "絹",
+    "grade": 6,
+    "gradeOrder": 39
+  },
+  {
+    "kanji": "権",
+    "grade": 6,
+    "gradeOrder": 40
+  },
+  {
+    "kanji": "憲",
+    "grade": 6,
+    "gradeOrder": 41
+  },
+  {
+    "kanji": "源",
+    "grade": 6,
+    "gradeOrder": 42
+  },
+  {
+    "kanji": "厳",
+    "grade": 6,
+    "gradeOrder": 43
+  },
+  {
+    "kanji": "己",
+    "grade": 6,
+    "gradeOrder": 44
+  },
+  {
+    "kanji": "呼",
+    "grade": 6,
+    "gradeOrder": 45
+  },
+  {
+    "kanji": "誤",
+    "grade": 6,
+    "gradeOrder": 46
+  },
+  {
+    "kanji": "后",
+    "grade": 6,
+    "gradeOrder": 47
+  },
+  {
+    "kanji": "孝",
+    "grade": 6,
+    "gradeOrder": 48
+  },
+  {
+    "kanji": "皇",
+    "grade": 6,
+    "gradeOrder": 49
+  },
+  {
+    "kanji": "紅",
+    "grade": 6,
+    "gradeOrder": 50
+  },
+  {
+    "kanji": "降",
+    "grade": 6,
+    "gradeOrder": 51
+  },
+  {
+    "kanji": "鋼",
+    "grade": 6,
+    "gradeOrder": 52
+  },
+  {
+    "kanji": "刻",
+    "grade": 6,
+    "gradeOrder": 53
+  },
+  {
+    "kanji": "穀",
+    "grade": 6,
+    "gradeOrder": 54
+  },
+  {
+    "kanji": "骨",
+    "grade": 6,
+    "gradeOrder": 55
+  },
+  {
+    "kanji": "困",
+    "grade": 6,
+    "gradeOrder": 56
+  },
+  {
+    "kanji": "砂",
+    "grade": 6,
+    "gradeOrder": 57
+  },
+  {
+    "kanji": "座",
+    "grade": 6,
+    "gradeOrder": 58
+  },
+  {
+    "kanji": "済",
+    "grade": 6,
+    "gradeOrder": 59
+  },
+  {
+    "kanji": "裁",
+    "grade": 6,
+    "gradeOrder": 60
+  },
+  {
+    "kanji": "策",
+    "grade": 6,
+    "gradeOrder": 61
+  },
+  {
+    "kanji": "冊",
+    "grade": 6,
+    "gradeOrder": 62
+  },
+  {
+    "kanji": "蚕",
+    "grade": 6,
+    "gradeOrder": 63
+  },
+  {
+    "kanji": "至",
+    "grade": 6,
+    "gradeOrder": 64
+  },
+  {
+    "kanji": "私",
+    "grade": 6,
+    "gradeOrder": 65
+  },
+  {
+    "kanji": "姿",
+    "grade": 6,
+    "gradeOrder": 66
+  },
+  {
+    "kanji": "視",
+    "grade": 6,
+    "gradeOrder": 67
+  },
+  {
+    "kanji": "詞",
+    "grade": 6,
+    "gradeOrder": 68
+  },
+  {
+    "kanji": "誌",
+    "grade": 6,
+    "gradeOrder": 69
+  },
+  {
+    "kanji": "磁",
+    "grade": 6,
+    "gradeOrder": 70
+  },
+  {
+    "kanji": "射",
+    "grade": 6,
+    "gradeOrder": 71
+  },
+  {
+    "kanji": "捨",
+    "grade": 6,
+    "gradeOrder": 72
+  },
+  {
+    "kanji": "尺",
+    "grade": 6,
+    "gradeOrder": 73
+  },
+  {
+    "kanji": "若",
+    "grade": 6,
+    "gradeOrder": 74
+  },
+  {
+    "kanji": "樹",
+    "grade": 6,
+    "gradeOrder": 75
+  },
+  {
+    "kanji": "収",
+    "grade": 6,
+    "gradeOrder": 76
+  },
+  {
+    "kanji": "宗",
+    "grade": 6,
+    "gradeOrder": 77
+  },
+  {
+    "kanji": "就",
+    "grade": 6,
+    "gradeOrder": 78
+  },
+  {
+    "kanji": "衆",
+    "grade": 6,
+    "gradeOrder": 79
+  },
+  {
+    "kanji": "従",
+    "grade": 6,
+    "gradeOrder": 80
+  },
+  {
+    "kanji": "縦",
+    "grade": 6,
+    "gradeOrder": 81
+  },
+  {
+    "kanji": "縮",
+    "grade": 6,
+    "gradeOrder": 82
+  },
+  {
+    "kanji": "熟",
+    "grade": 6,
+    "gradeOrder": 83
+  },
+  {
+    "kanji": "純",
+    "grade": 6,
+    "gradeOrder": 84
+  },
+  {
+    "kanji": "処",
+    "grade": 6,
+    "gradeOrder": 85
+  },
+  {
+    "kanji": "署",
+    "grade": 6,
+    "gradeOrder": 86
+  },
+  {
+    "kanji": "諸",
+    "grade": 6,
+    "gradeOrder": 87
+  },
+  {
+    "kanji": "除",
+    "grade": 6,
+    "gradeOrder": 88
+  },
+  {
+    "kanji": "承",
+    "grade": 6,
+    "gradeOrder": 89
+  },
+  {
+    "kanji": "将",
+    "grade": 6,
+    "gradeOrder": 90
+  },
+  {
+    "kanji": "傷",
+    "grade": 6,
+    "gradeOrder": 91
+  },
+  {
+    "kanji": "障",
+    "grade": 6,
+    "gradeOrder": 92
+  },
+  {
+    "kanji": "蒸",
+    "grade": 6,
+    "gradeOrder": 93
+  },
+  {
+    "kanji": "針",
+    "grade": 6,
+    "gradeOrder": 94
+  },
+  {
+    "kanji": "仁",
+    "grade": 6,
+    "gradeOrder": 95
+  },
+  {
+    "kanji": "垂",
+    "grade": 6,
+    "gradeOrder": 96
+  },
+  {
+    "kanji": "推",
+    "grade": 6,
+    "gradeOrder": 97
+  },
+  {
+    "kanji": "寸",
+    "grade": 6,
+    "gradeOrder": 98
+  },
+  {
+    "kanji": "盛",
+    "grade": 6,
+    "gradeOrder": 99
+  },
+  {
+    "kanji": "聖",
+    "grade": 6,
+    "gradeOrder": 100
+  },
+  {
+    "kanji": "誠",
+    "grade": 6,
+    "gradeOrder": 101
+  },
+  {
+    "kanji": "舌",
+    "grade": 6,
+    "gradeOrder": 102
+  },
+  {
+    "kanji": "宣",
+    "grade": 6,
+    "gradeOrder": 103
+  },
+  {
+    "kanji": "専",
+    "grade": 6,
+    "gradeOrder": 104
+  },
+  {
+    "kanji": "泉",
+    "grade": 6,
+    "gradeOrder": 105
+  },
+  {
+    "kanji": "洗",
+    "grade": 6,
+    "gradeOrder": 106
+  },
+  {
+    "kanji": "染",
+    "grade": 6,
+    "gradeOrder": 107
+  },
+  {
+    "kanji": "銭",
+    "grade": 6,
+    "gradeOrder": 108
+  },
+  {
+    "kanji": "善",
+    "grade": 6,
+    "gradeOrder": 109
+  },
+  {
+    "kanji": "奏",
+    "grade": 6,
+    "gradeOrder": 110
+  },
+  {
+    "kanji": "窓",
+    "grade": 6,
+    "gradeOrder": 111
+  },
+  {
+    "kanji": "創",
+    "grade": 6,
+    "gradeOrder": 112
+  },
+  {
+    "kanji": "装",
+    "grade": 6,
+    "gradeOrder": 113
+  },
+  {
+    "kanji": "層",
+    "grade": 6,
+    "gradeOrder": 114
+  },
+  {
+    "kanji": "操",
+    "grade": 6,
+    "gradeOrder": 115
+  },
+  {
+    "kanji": "蔵",
+    "grade": 6,
+    "gradeOrder": 116
+  },
+  {
+    "kanji": "臓",
+    "grade": 6,
+    "gradeOrder": 117
+  },
+  {
+    "kanji": "存",
+    "grade": 6,
+    "gradeOrder": 118
+  },
+  {
+    "kanji": "尊",
+    "grade": 6,
+    "gradeOrder": 119
+  },
+  {
+    "kanji": "退",
+    "grade": 6,
+    "gradeOrder": 120
+  },
+  {
+    "kanji": "宅",
+    "grade": 6,
+    "gradeOrder": 121
+  },
+  {
+    "kanji": "担",
+    "grade": 6,
+    "gradeOrder": 122
+  },
+  {
+    "kanji": "探",
+    "grade": 6,
+    "gradeOrder": 123
+  },
+  {
+    "kanji": "誕",
+    "grade": 6,
+    "gradeOrder": 124
+  },
+  {
+    "kanji": "段",
+    "grade": 6,
+    "gradeOrder": 125
+  },
+  {
+    "kanji": "暖",
+    "grade": 6,
+    "gradeOrder": 126
+  },
+  {
+    "kanji": "値",
+    "grade": 6,
+    "gradeOrder": 127
+  },
+  {
+    "kanji": "宙",
+    "grade": 6,
+    "gradeOrder": 128
+  },
+  {
+    "kanji": "忠",
+    "grade": 6,
+    "gradeOrder": 129
+  },
+  {
+    "kanji": "著",
+    "grade": 6,
+    "gradeOrder": 130
+  },
+  {
+    "kanji": "庁",
+    "grade": 6,
+    "gradeOrder": 131
+  },
+  {
+    "kanji": "頂",
+    "grade": 6,
+    "gradeOrder": 132
+  },
+  {
+    "kanji": "腸",
+    "grade": 6,
+    "gradeOrder": 133
+  },
+  {
+    "kanji": "潮",
+    "grade": 6,
+    "gradeOrder": 134
+  },
+  {
+    "kanji": "賃",
+    "grade": 6,
+    "gradeOrder": 135
+  },
+  {
+    "kanji": "痛",
+    "grade": 6,
+    "gradeOrder": 136
+  },
+  {
+    "kanji": "敵",
+    "grade": 6,
+    "gradeOrder": 137
+  },
+  {
+    "kanji": "展",
+    "grade": 6,
+    "gradeOrder": 138
+  },
+  {
+    "kanji": "討",
+    "grade": 6,
+    "gradeOrder": 139
+  },
+  {
+    "kanji": "党",
+    "grade": 6,
+    "gradeOrder": 140
+  },
+  {
+    "kanji": "糖",
+    "grade": 6,
+    "gradeOrder": 141
+  },
+  {
+    "kanji": "届",
+    "grade": 6,
+    "gradeOrder": 142
+  },
+  {
+    "kanji": "難",
+    "grade": 6,
+    "gradeOrder": 143
+  },
+  {
+    "kanji": "乳",
+    "grade": 6,
+    "gradeOrder": 144
+  },
+  {
+    "kanji": "認",
+    "grade": 6,
+    "gradeOrder": 145
+  },
+  {
+    "kanji": "納",
+    "grade": 6,
+    "gradeOrder": 146
+  },
+  {
+    "kanji": "脳",
+    "grade": 6,
+    "gradeOrder": 147
+  },
+  {
+    "kanji": "派",
+    "grade": 6,
+    "gradeOrder": 148
+  },
+  {
+    "kanji": "拝",
+    "grade": 6,
+    "gradeOrder": 149
+  },
+  {
+    "kanji": "背",
+    "grade": 6,
+    "gradeOrder": 150
+  },
+  {
+    "kanji": "肺",
+    "grade": 6,
+    "gradeOrder": 151
+  },
+  {
+    "kanji": "俳",
+    "grade": 6,
+    "gradeOrder": 152
+  },
+  {
+    "kanji": "班",
+    "grade": 6,
+    "gradeOrder": 153
+  },
+  {
+    "kanji": "晩",
+    "grade": 6,
+    "gradeOrder": 154
+  },
+  {
+    "kanji": "否",
+    "grade": 6,
+    "gradeOrder": 155
+  },
+  {
+    "kanji": "批",
+    "grade": 6,
+    "gradeOrder": 156
+  },
+  {
+    "kanji": "秘",
+    "grade": 6,
+    "gradeOrder": 157
+  },
+  {
+    "kanji": "俵",
+    "grade": 6,
+    "gradeOrder": 158
+  },
+  {
+    "kanji": "腹",
+    "grade": 6,
+    "gradeOrder": 159
+  },
+  {
+    "kanji": "奮",
+    "grade": 6,
+    "gradeOrder": 160
+  },
+  {
+    "kanji": "並",
+    "grade": 6,
+    "gradeOrder": 161
+  },
+  {
+    "kanji": "陛",
+    "grade": 6,
+    "gradeOrder": 162
+  },
+  {
+    "kanji": "閉",
+    "grade": 6,
+    "gradeOrder": 163
+  },
+  {
+    "kanji": "片",
+    "grade": 6,
+    "gradeOrder": 164
+  },
+  {
+    "kanji": "補",
+    "grade": 6,
+    "gradeOrder": 165
+  },
+  {
+    "kanji": "暮",
+    "grade": 6,
+    "gradeOrder": 166
+  },
+  {
+    "kanji": "宝",
+    "grade": 6,
+    "gradeOrder": 167
+  },
+  {
+    "kanji": "訪",
+    "grade": 6,
+    "gradeOrder": 168
+  },
+  {
+    "kanji": "亡",
+    "grade": 6,
+    "gradeOrder": 169
+  },
+  {
+    "kanji": "忘",
+    "grade": 6,
+    "gradeOrder": 170
+  },
+  {
+    "kanji": "棒",
+    "grade": 6,
+    "gradeOrder": 171
+  },
+  {
+    "kanji": "枚",
+    "grade": 6,
+    "gradeOrder": 172
+  },
+  {
+    "kanji": "幕",
+    "grade": 6,
+    "gradeOrder": 173
+  },
+  {
+    "kanji": "密",
+    "grade": 6,
+    "gradeOrder": 174
+  },
+  {
+    "kanji": "盟",
+    "grade": 6,
+    "gradeOrder": 175
+  },
+  {
+    "kanji": "模",
+    "grade": 6,
+    "gradeOrder": 176
+  },
+  {
+    "kanji": "訳",
+    "grade": 6,
+    "gradeOrder": 177
+  },
+  {
+    "kanji": "郵",
+    "grade": 6,
+    "gradeOrder": 178
+  },
+  {
+    "kanji": "優",
+    "grade": 6,
+    "gradeOrder": 179
+  },
+  {
+    "kanji": "預",
+    "grade": 6,
+    "gradeOrder": 180
+  },
+  {
+    "kanji": "幼",
+    "grade": 6,
+    "gradeOrder": 181
+  },
+  {
+    "kanji": "欲",
+    "grade": 6,
+    "gradeOrder": 182
+  },
+  {
+    "kanji": "翌",
+    "grade": 6,
+    "gradeOrder": 183
+  },
+  {
+    "kanji": "乱",
+    "grade": 6,
+    "gradeOrder": 184
+  },
+  {
+    "kanji": "卵",
+    "grade": 6,
+    "gradeOrder": 185
+  },
+  {
+    "kanji": "覧",
+    "grade": 6,
+    "gradeOrder": 186
+  },
+  {
+    "kanji": "裏",
+    "grade": 6,
+    "gradeOrder": 187
+  },
+  {
+    "kanji": "律",
+    "grade": 6,
+    "gradeOrder": 188
+  },
+  {
+    "kanji": "臨",
+    "grade": 6,
+    "gradeOrder": 189
+  },
+  {
+    "kanji": "朗",
+    "grade": 6,
+    "gradeOrder": 190
+  },
+  {
+    "kanji": "論",
+    "grade": 6,
+    "gradeOrder": 191
+  }
+]

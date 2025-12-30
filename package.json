@@ -8,6 +8,11 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "@google/genai": "^1.0.0",
+    "dotenv": "^16.4.5",
+    "puppeteer": "^24.34.0",
+    "wanakana": "^5.3.1"
+  }
 }
-

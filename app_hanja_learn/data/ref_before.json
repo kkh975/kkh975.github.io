@@ -1,0 +1,66 @@
+{
+  "id": 1,
+  "char": "水",
+  "visual_data": {
+    "type": "emoji",
+    "value": "💧"
+  },
+  "tags": {
+    "jlpt": "N5",
+    "grade": 1
+  },
+  "meanings": {
+    "en": "Water",
+    "ko_hun": "물",
+    "ko_eum": "수"
+  },
+  "story": {
+    "en": "",
+    "ko": ""
+  },
+  "readings": {
+    "kun": [
+      {
+        "kana": "みず",
+        "romaji": "mizu",
+        "is_primary": true,
+        "sounds": "1_char_mizu.mp3",
+        "examples": [
+          {
+            "word": "水",
+            "reading": "みず",
+            "meanings": { "ko": "물", "en": "Water" },
+            "sounds": "1_word_mizu.mp3",
+            "sentences": [
+              {
+                "text": "水を一杯ください。",
+                "tokens": [
+                  {
+                    "text": "水",
+                    "furigana": "みず",
+                    "is_target": true
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "一杯",
+                    "furigana": "いっぱい"
+                  },
+                  {
+                    "text": "ください。"
+                  }
+                ],
+                "meanings": {
+                  "ko": "물 한 잔 주세요.",
+                  "en": "Please give me a glass of water."
+                },
+                "sounds": "1_example_mizu_01.mp3"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

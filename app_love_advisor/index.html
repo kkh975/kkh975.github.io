@@ -1,0 +1,427 @@
+<!DOCTYPE html>
+<html lang="ko">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>AI 연애 코칭 - 상황별 맞춤 대응 전략</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+      tailwind.config = {
+        theme: {
+          extend: {
+            colors: {
+              "love-primary": "#ec4899",
+              "love-dark": "#0f172a",
+              "love-gray": "#475569",
+              "love-accent": "#f43f5e",
+            },
+          },
+        },
+      };
+    </script>
+    <style>
+      @import url("https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300;400;500;600;700;800&display=swap");
+      body {
+        font-family: "Noto Sans KR", sans-serif;
+      }
+    </style>
+  </head>
+  <body class="bg-slate-50">
+    <!-- Hero Section -->
+    <section
+      id="hero-section"
+      class="bg-gradient-to-b from-white to-slate-50 py-12 px-4 md:py-20 md:px-8"
+    >
+      <div class="max-w-5xl mx-auto text-center">
+        <p class="text-sm md:text-base font-semibold text-love-accent mb-4">
+          AI 기반 연애 코칭 · 실전 대응 전략
+        </p>
+        <h1
+          id="hero-title"
+          class="text-5xl md:text-6xl lg:text-7xl font-bold text-love-dark mb-8 leading-tight"
+        >
+          상황별 맞춤 대응 전략,<br />
+          <span class="text-love-primary">AI와 함께 완성하기</span>
+        </h1>
+        <p class="text-lg md:text-xl text-love-gray mb-4">
+          연애 상황에서 어떻게 대응해야 할지 막막하셨나요?
+        </p>
+        <p class="text-base md:text-lg text-love-gray mb-10">
+          대화 맥락을 분석해 즉시 코칭부터 AI 시뮬레이션까지, 실전에 바로 써먹을
+          수 있는 연애 전략을 제공합니다.
+        </p>
+
+        <div
+          id="hero-description-card"
+          class="bg-slate-100 rounded-2xl p-8 md:p-10 mb-10 max-w-3xl mx-auto border-2 border-slate-200"
+        >
+          <div
+            class="text-love-gray text-sm md:text-base leading-relaxed text-center space-y-3"
+          >
+            <p>
+              단순 조언이 아닌, 페르소나 분석·맥락 파악·맞춤형 문장 추천으로
+              상황에 딱 맞는 대응법을 제시합니다.
+            </p>
+          </div>
+        </div>
+
+        <div class="flex flex-col items-center gap-3">
+          <button
+            id="cta-start-hero"
+            class="bg-love-primary text-white px-8 py-3.5 rounded-lg font-semibold text-base hover:bg-pink-600 transition-all duration-200 flex items-center shadow-lg hover:shadow-xl"
+          >
+            지금 시작하기
+            <svg
+              class="w-5 h-5 ml-2"
+              fill="none"
+              stroke="currentColor"
+              viewBox="0 0 24 24"
+            >
+              <path
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                stroke-width="2"
+                d="M9 5l7 7-7 7"
+              ></path>
+            </svg>
+          </button>
+        </div>
+      </div>
+    </section>
+
+    <!-- How it Works Section -->
+    <section
+      id="how-it-works-section"
+      class="bg-white py-16 px-4 md:py-24 md:px-8"
+    >
+      <div class="max-w-6xl mx-auto">
+        <div class="text-center mb-16">
+          <h2
+            id="how-title"
+            class="text-4xl md:text-5xl font-bold text-love-dark mb-4"
+          >
+            How it Works
+          </h2>
+        </div>
+
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-6 md:gap-8">
+          <!-- Step 1 -->
+          <div
+            id="how-step-1"
+            class="bg-white rounded-2xl shadow-lg p-8 hover:shadow-xl transition-shadow duration-200 border border-slate-200"
+          >
+            <div class="flex items-start justify-start gap-3 mb-6">
+              <div
+                class="w-14 h-14 bg-pink-50 rounded-xl flex items-center justify-center"
+              >
+                <svg
+                  class="w-7 h-7 text-love-primary"
+                  fill="none"
+                  stroke="currentColor"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                    stroke-width="2"
+                    d="M16 7a4 4 0 11-8 0 4 4 0 018 0zM12 14a7 7 0 00-7 7h14a7 7 0 00-7-7z"
+                  ></path>
+                </svg>
+              </div>
+              <span
+                class="text-3xl leading-none font-extrabold text-love-primary"
+                >01</span
+              >
+            </div>
+            <h3 class="text-2xl font-bold text-love-dark mb-3">
+              페르소나 생성 및 워크스페이스 설정
+            </h3>
+            <p class="text-sm text-love-gray leading-relaxed">
+              상대방의 특성과 대화 스타일을 분석해 페르소나를 생성하고, 각
+              인물별로 워크스페이스를 만들어 관리합니다. 자동으로 페르소나를
+              생성할 수도 있습니다.
+            </p>
+          </div>
+
+          <!-- Step 2 -->
+          <div
+            id="how-step-2"
+            class="bg-white rounded-2xl shadow-lg p-8 hover:shadow-xl transition-shadow duration-200 border border-slate-200"
+          >
+            <div class="flex items-start justify-start gap-3 mb-6">
+              <div
+                class="w-14 h-14 bg-pink-50 rounded-xl flex items-center justify-center"
+              >
+                <svg
+                  class="w-7 h-7 text-love-primary"
+                  fill="none"
+                  stroke="currentColor"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                    stroke-width="2"
+                    d="M9.663 17h4.673M12 3v1m6.364 1.636l-.707.707M21 12h-1M4 12H3m3.343-5.657l-.707-.707m2.828 9.9a5 5 0 117.072 0l-.548.547A3.374 3.374 0 0014 18.469V19a2 2 0 11-4 0v-.531c0-.895-.356-1.754-.988-2.386l-.548-.547z"
+                  ></path>
+                </svg>
+              </div>
+              <span
+                class="text-3xl leading-none font-extrabold text-love-primary"
+                >02</span
+              >
+            </div>
+            <h3 class="text-2xl font-bold text-love-dark mb-3">
+              즉시 코칭 → 실전 대응 전략 확인
+            </h3>
+            <p class="text-sm text-love-gray leading-relaxed">
+              상황을 입력하면, AI가 목표에 맞는 대응 전략과 추천 문장을 즉시
+              제시합니다.
+            </p>
+          </div>
+
+          <!-- Step 3 -->
+          <div
+            id="how-step-3"
+            class="bg-white rounded-2xl shadow-lg p-8 hover:shadow-xl transition-shadow duration-200 border border-slate-200"
+          >
+            <div class="flex items-start justify-start gap-3 mb-6">
+              <div
+                class="w-14 h-14 bg-pink-50 rounded-xl flex items-center justify-center"
+              >
+                <svg
+                  class="w-7 h-7 text-love-primary"
+                  fill="none"
+                  stroke="currentColor"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                    stroke-width="2"
+                    d="M8 12h.01M12 12h.01M16 12h.01M21 12c0 4.418-4.03 8-9 8a9.863 9.863 0 01-4.255-.949L3 20l1.395-3.72C3.512 15.042 3 13.574 3 12c0-4.418 4.03-8 9-8s9 3.582 9 8z"
+                  ></path>
+                </svg>
+              </div>
+              <span
+                class="text-3xl leading-none font-extrabold text-love-primary"
+                >03</span
+              >
+            </div>
+            <h3 class="text-2xl font-bold text-love-dark mb-3">
+              AI 시뮬레이션으로 사전 연습
+            </h3>
+            <p class="text-sm text-love-gray leading-relaxed">
+              실제 대화 맥락을 입력하면 AI가 마지막 대화부터 이어받아
+              시뮬레이션을 시작합니다. 종료 후 리포트를 통해 대화 패턴을
+              분석하고 개선점을 확인할 수 있습니다.
+            </p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Features Section -->
+    <section
+      id="features-section"
+      class="bg-slate-50 py-16 px-4 md:py-24 md:px-8"
+    >
+      <div class="max-w-6xl mx-auto">
+        <div class="text-center mb-16">
+          <h2
+            id="features-title"
+            class="text-4xl md:text-5xl font-bold text-love-dark mb-4"
+          >
+            Features
+          </h2>
+        </div>
+
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-6 max-w-6xl mx-auto">
+          <!-- Feature 1 -->
+          <div
+            id="feature-1"
+            class="bg-white rounded-2xl shadow-lg p-8 hover:shadow-xl transition-shadow duration-200 border border-slate-200"
+          >
+            <div class="flex items-center justify-start mb-6">
+              <div
+                class="w-14 h-14 bg-pink-50 rounded-xl flex items-center justify-center relative"
+              >
+                <svg
+                  class="w-8 h-8 text-love-primary"
+                  fill="none"
+                  stroke="currentColor"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                    stroke-width="2"
+                    d="M9.663 17h4.673M12 3v1m6.364 1.636l-.707.707M21 12h-1M4 12H3m3.343-5.657l-.707-.707m2.828 9.9a5 5 0 117.072 0l-.548.547A3.374 3.374 0 0014 18.469V19a2 2 0 11-4 0v-.531c0-.895-.356-1.754-.988-2.386l-.548-.547z"
+                  ></path>
+                </svg>
+              </div>
+            </div>
+            <h3 class="text-2xl font-bold text-love-dark mb-3">
+              🎯 즉시 코칭 (Quick Advice)
+            </h3>
+            <p class="text-base md:text-lg text-love-gray leading-relaxed">
+              상황을 입력하면, 목표에 맞는 대응 전략과 구체적인 추천 문장을 바로
+              확인할 수 있습니다.
+            </p>
+          </div>
+
+          <!-- Feature 2 -->
+          <div
+            id="feature-2"
+            class="bg-white rounded-2xl shadow-lg p-8 hover:shadow-xl transition-shadow duration-200 border border-slate-200"
+          >
+            <div class="flex items-center justify-start mb-6">
+              <div
+                class="w-14 h-14 bg-pink-50 rounded-xl flex items-center justify-center relative"
+              >
+                <svg
+                  class="w-8 h-8 text-love-primary"
+                  fill="none"
+                  stroke="currentColor"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                    stroke-width="2"
+                    d="M9.663 17h4.673M12 3v1m6.364 1.636l-.707.707M21 12h-1M4 12H3m3.343-5.657l-.707-.707m2.828 9.9a5 5 0 117.072 0l-.548.547A3.374 3.374 0 0014 18.469V19a2 2 0 11-4 0v-.531c0-.895-.356-1.754-.988-2.386l-.548-.547z"
+                  ></path>
+                </svg>
+              </div>
+            </div>
+            <h3 class="text-2xl font-bold text-love-dark mb-3">
+              🤖 AI 시뮬레이션
+            </h3>
+            <p class="text-base md:text-lg text-love-gray leading-relaxed">
+              실제 대화 맥락을 이어받아 AI와 연애 상황을 시뮬레이션합니다.
+              맥락을 주입하면 더욱 정확한 대화가 가능하며, 종료 후 리포트로 분석
+              데이터를 확인할 수 있습니다.
+            </p>
+          </div>
+
+          <!-- Feature 3 -->
+          <div
+            id="feature-3"
+            class="bg-white rounded-2xl shadow-lg p-8 hover:shadow-xl transition-shadow duration-200 border border-slate-200"
+          >
+            <div class="flex items-center justify-start mb-6">
+              <div
+                class="w-14 h-14 bg-pink-50 rounded-xl flex items-center justify-center relative"
+              >
+                <svg
+                  class="w-8 h-8 text-love-primary"
+                  fill="none"
+                  stroke="currentColor"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                    stroke-width="2"
+                    d="M16 7a4 4 0 11-8 0 4 4 0 018 0zM12 14a7 7 0 00-7 7h14a7 7 0 00-7-7z"
+                  ></path>
+                </svg>
+              </div>
+            </div>
+            <h3 class="text-2xl font-bold text-love-dark mb-3">
+              👤 페르소나 관리
+            </h3>
+            <p class="text-base md:text-lg text-love-gray leading-relaxed">
+              각 인물의 특성과 대화 스타일을 페르소나로 저장해 관리합니다.
+              자동으로 페르소나를 생성하여 더욱 편리하게 설정할 수 있습니다.
+            </p>
+          </div>
+
+          <!-- Feature 4 -->
+          <div
+            id="feature-4"
+            class="bg-white rounded-2xl shadow-lg p-8 hover:shadow-xl transition-shadow duration-200 border border-slate-200"
+          >
+            <div class="flex items-center justify-start mb-6">
+              <div
+                class="w-14 h-14 bg-pink-50 rounded-xl flex items-center justify-center relative"
+              >
+                <svg
+                  class="w-8 h-8 text-love-primary"
+                  fill="none"
+                  stroke="currentColor"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                    stroke-width="2"
+                    d="M9 19v-6a2 2 0 00-2-2H5a2 2 0 00-2 2v6a2 2 0 002 2h2a2 2 0 002-2zm0 0V9a2 2 0 012-2h2a2 2 0 012 2v10m-6 0a2 2 0 002 2h2a2 2 0 002-2m0 0V5a2 2 0 012-2h2a2 2 0 012 2v14a2 2 0 01-2 2h-2a2 2 0 01-2-2z"
+                  ></path>
+                </svg>
+              </div>
+            </div>
+            <h3 class="text-2xl font-bold text-love-dark mb-3">
+              📊 워크스페이스 시스템
+            </h3>
+            <p class="text-base md:text-lg text-love-gray leading-relaxed">
+              인물별로 워크스페이스를 만들어 코칭 이력과 시뮬레이션 기록을
+              체계적으로 관리합니다.
+            </p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Final Call to Action -->
+    <section
+      id="final-cta-section"
+      class="bg-love-dark py-16 px-4 md:py-24 md:px-8"
+    >
+      <div class="max-w-4xl mx-auto text-center">
+        <h2
+          id="final-cta-title"
+          class="text-3xl md:text-6xl font-bold text-white mb-6 leading-tight"
+        >
+          연애 대응, 감이 아닌<br />
+          <span class="text-pink-200">데이터로 완성하세요</span>
+        </h2>
+        <button
+          id="cta-start-final"
+          class="bg-love-primary text-white px-8 py-3.5 rounded-lg font-semibold text-base hover:bg-pink-600 transition-all duration-200 inline-flex items-center mb-4 shadow-lg hover:shadow-xl"
+        >
+          지금 시작하기
+          <svg
+            class="w-5 h-5 ml-2"
+            fill="none"
+            stroke="currentColor"
+            viewBox="0 0 24 24"
+          >
+            <path
+              stroke-linecap="round"
+              stroke-linejoin="round"
+              stroke-width="2"
+              d="M9 5l7 7-7 7"
+            ></path>
+          </svg>
+        </button>
+      </div>
+    </section>
+
+    <!-- Footer -->
+    <footer
+      id="footer"
+      class="bg-love-dark border-t border-slate-700 py-12 px-4 md:px-8 text-center"
+    >
+      <div class="max-w-4xl mx-auto text-center">
+        <h3 class="text-2xl font-bold text-white mb-2">AI 연애 코칭</h3>
+        <p class="text-slate-400 text-sm mb-6">
+          상황별 맞춤 대응 전략, AI와 함께 완성하기
+        </p>
+        <p class="text-xs text-slate-500">
+          © 2024 AI 연애 코칭. All rights reserved.
+        </p>
+      </div>
+    </footer>
+  </body>
+</html>

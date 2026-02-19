@@ -1,17 +1,17 @@
 {
-  "study_problem_prompt": {
+  "persona_prompt": {
     "version": "0.0.0",
-    "role": "너는 지금부터 ${convStartLng}를 사용하는 학생에게 ${convEndLng}를 가르치는 인공지능 언어 선생님이다. ",
-    "prompt": "학생이 연습할 수 있도록, 정확히 ${len}개의 ${convStartLng}로 된 작문 예시를 생성하라.\n\n조건:\n- 학생은 아래의 ${convEndLng} 문법 목록만 이해할 수 있으므로, 이외의 문법은 사용하지 마라.\n- 각 문장의 ${convEndLng} 문법 난이도와 단어 수준은 문법 목록을 기준으로 제한한다.\n- 출력은 반드시 [{'no': 1, 'question': '${convStartLng} 문장1'}, {'no': 2, 'question': '${convStartLng} 문장2'}, ...] 형식의 JSON 배열 형식만 출력해야 한다.\n  그 외 설명이나 텍스트는 포함하지 마라.\n\n입력 변수:\n${convEndLng} 문법 목록:\n${grammarList}"
+    "systemMessage": "너는 지금부터 ${convStartLng}를 사용하는 학생에게 ${convEndLng}를 가르치는 인공지능 언어 선생님이다. ",
+    "userMessage": "학생이 연습할 수 있도록, 정확히 ${len}개의 ${convStartLng}로 된 작문 예시를 생성하라.\n\n조건:\n- 학생은 아래의 ${convEndLng} 문법 목록만 이해할 수 있으므로, 이외의 문법은 사용하지 마라.\n- 각 문장의 ${convEndLng} 문법 난이도와 단어 수준은 문법 목록을 기준으로 제한한다.\n- 출력은 반드시 [{'no': 1, 'question': '${convStartLng} 문장1'}, {'no': 2, 'question': '${convStartLng} 문장2'}, ...] 형식의 JSON 배열 형식만 출력해야 한다.\n  그 외 설명이나 텍스트는 포함하지 마라.\n\n입력 변수:\n${convEndLng} 문법 목록:\n${grammarList}"
   },
-  "study_correction_prompt": {
+  "goal_prompt": {
     "version": "0.0.0",
-    "role": "너는 지금부터 ${convStartLng}를 사용하는 학생에게 ${convEndLng}를 가르치는 인공지능 언어 선생님이다. ",
-    "prompt": "학생이 ${convEndLng}로 제출한 답안과 ${convStartLng}로 된 문제를 비교하여, 학생이 이해하고 있는 문법 목록의 범위 내에서 올바르게 작성되었는지 첨삭 지도하라.\n\n조건:\n- 문법 판단 기준은 아래의 ${convEndLng} 문법 이해 목록을 기준으로 한다. 목록 외 문법은 고려하지 않는다.\n- 제출 답안이 문법적으로만 맞으면 isCorrect 필드값을 true로 하고, correction 필드에 자연스러운 문장 제안을 제시할 것.\n- 제출 답안이 문법적으로도 틀리면 isCorrect 필드값을 false로 하고 correction 필드에 설명과 함께 정답 문장을 제시할 것.\n\n입력 형식:\n- JSON 배열 형태: [{'no': 1, 'question': '${convStartLng} 문장1', 'answer': '${convEndLng} 답안1'}, ...]\n- 각 항목:\n  - no: 순번 (정수)\n  - question: 문제 문장 (${convStartLng})\n  - answer: 학생의 제출 답안 (${convEndLng}, 빈 문자열 가능)\n\n출력 형식 (반드시 아래 형식만 출력):\n- JSON 배열 형태: [{'no': 1, 'isCorrect': true, 'correction': '${convStartLng} 첨삭 및 제안 문장'}, ...]\n- 각 항목:\n  - no: 입력과 동일한 순번\n  - isCorrect: 문법적으로 맞으면 true, 틀리면 false\n  - correction: 첨삭 또는 제안 문장. 맞다면 빈 문자열로 넣기.\n\n입력 변수:\n${convEndLng} 문법 목록:\n${grammarList}\n\n입력:\n${inputList}"
+    "systemMessage": "너는 지금부터 ${convStartLng}를 사용하는 학생에게 ${convEndLng}를 가르치는 인공지능 언어 선생님이다. ",
+    "userMessage": "학생이 ${convEndLng}로 제출한 답안과 ${convStartLng}로 된 문제를 비교하여, 학생이 이해하고 있는 문법 목록의 범위 내에서 올바르게 작성되었는지 첨삭 지도하라.\n\n조건:\n- 문법 판단 기준은 아래의 ${convEndLng} 문법 이해 목록을 기준으로 한다. 목록 외 문법은 고려하지 않는다.\n- 제출 답안이 문법적으로만 맞으면 isCorrect 필드값을 true로 하고, correction 필드에 자연스러운 문장 제안을 제시할 것.\n- 제출 답안이 문법적으로도 틀리면 isCorrect 필드값을 false로 하고 correction 필드에 설명과 함께 정답 문장을 제시할 것.\n\n입력 형식:\n- JSON 배열 형태: [{'no': 1, 'question': '${convStartLng} 문장1', 'answer': '${convEndLng} 답안1'}, ...]\n- 각 항목:\n  - no: 순번 (정수)\n  - question: 문제 문장 (${convStartLng})\n  - answer: 학생의 제출 답안 (${convEndLng}, 빈 문자열 가능)\n\n출력 형식 (반드시 아래 형식만 출력):\n- JSON 배열 형태: [{'no': 1, 'isCorrect': true, 'correction': '${convStartLng} 첨삭 및 제안 문장'}, ...]\n- 각 항목:\n  - no: 입력과 동일한 순번\n  - isCorrect: 문법적으로 맞으면 true, 틀리면 false\n  - correction: 첨삭 또는 제안 문장. 맞다면 빈 문자열로 넣기.\n\n입력 변수:\n${convEndLng} 문법 목록:\n${grammarList}\n\n입력:\n${inputList}"
   },
-  "study_review_prompt": {
+  "safety_prompt": {
     "version": "0.0.0",
-    "role": "너는 지금부터 ${convStartLng}를 사용하는 학생에게 ${convEndLng}를 가르치는 인공지능 언어 선생님이다.",
-    "prompt": "학생이 ${convEndLng} 언어로 제출한 답안과 ${convStartLng} 언어로 된 문제를 비교하여, \n학생이 이해하고 있는 ${convEndLng} 문법 목록의 범위 내에서 어떤 문법 항목이 약한지 판단하라.\n\n조건:\n- 각 문항에 대해, 아래 문법 목록 중 반복적으로 오류가 발생한 항목이 있다면 해당 항목명을 문자열로 출력하라.\n- 출력은 문법 목록 중 해당하는 항목들을 배열로 나열하라. \n- 단 뚜렷한 약점이 보이지 않으면 빈 배열로 출력하라.\n- question이 비어있으면, 평가하지 말아라.\n\n입력 변수:\n${convEndLng} 문법 목록:\n${grammarList}\n\n입력:\n${inputList}"
+    "systemMessage": "너는 지금부터 ${convStartLng}를 사용하는 학생에게 ${convEndLng}를 가르치는 인공지능 언어 선생님이다.",
+    "userMessage": "학생이 ${convEndLng} 언어로 제출한 답안과 ${convStartLng} 언어로 된 문제를 비교하여, \n학생이 이해하고 있는 ${convEndLng} 문법 목록의 범위 내에서 어떤 문법 항목이 약한지 판단하라.\n\n조건:\n- 각 문항에 대해, 아래 문법 목록 중 반복적으로 오류가 발생한 항목이 있다면 해당 항목명을 문자열로 출력하라.\n- 출력은 문법 목록 중 해당하는 항목들을 배열로 나열하라. \n- 단 뚜렷한 약점이 보이지 않으면 빈 배열로 출력하라.\n- question이 비어있으면, 평가하지 말아라.\n\n입력 변수:\n${convEndLng} 문법 목록:\n${grammarList}\n\n입력:\n${inputList}"
   }
 }

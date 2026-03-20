@@ -1,0 +1,18 @@
+{
+  "name": "program",
+  "version": "1.0.0",
+  "description": "",
+  "main": "convert_meta_ja_to_en.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "dotenv": "^17.3.1",
+    "openai": "^6.32.0",
+    "zod": "^4.3.6"
+  }
+}

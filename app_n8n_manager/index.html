@@ -1,0 +1,564 @@
+<!DOCTYPE html>
+<html lang="ko">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>n8n Admin - 주머니 속 n8n 운영실</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+      tailwind.config = {
+        theme: {
+          extend: {
+            colors: {
+              "n8n-primary": "#EA4B71",
+              "n8n-dark": "#0f172a",
+              "n8n-gray": "#475569",
+              "n8n-accent": "#f43f5e",
+            },
+          },
+        },
+      };
+    </script>
+    <style>
+      @import url("https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300;400;500;600;700;800&display=swap");
+      body {
+        font-family: "Noto Sans KR", sans-serif;
+      }
+    </style>
+  </head>
+  <body class="bg-slate-50">
+    <!-- Hero Section -->
+    <section
+      id="hero-section"
+      class="bg-gradient-to-b from-white to-slate-50 py-12 px-4 md:py-20 md:px-8"
+    >
+      <div class="max-w-5xl mx-auto text-center">
+        <p class="text-sm md:text-base font-semibold text-n8n-accent mb-4">
+          n8n 모바일 관제 · 멀티 계정 운영
+        </p>
+        <h1
+          id="hero-title"
+          class="text-5xl md:text-6xl lg:text-7xl font-bold text-n8n-dark mb-8 leading-tight"
+        >
+          주머니 속 n8n 운영실,<br />
+          <span class="text-n8n-primary">언제 어디서든</span>
+        </h1>
+        <p class="text-lg md:text-xl text-n8n-gray mb-4">
+          워크플로우가 실패했을 때, 노트북을 꺼내지 마세요.
+        </p>
+        <p class="text-base md:text-lg text-n8n-gray mb-10">
+          실행 수·성공률·실패 수를 대시보드 한 장으로 확인하고, 문제가 보이면
+          바로 재시도·중단·전환까지. Cloud와 Self-hosted를 한 앱에서.
+        </p>
+
+        <div
+          id="hero-description-card"
+          class="bg-slate-100 rounded-2xl p-8 md:p-10 mb-10 max-w-3xl mx-auto border-2 border-slate-200"
+        >
+          <div
+            class="text-n8n-gray text-sm md:text-base leading-relaxed text-center space-y-3"
+          >
+            <p>
+              공식 n8n REST API(/api/v1) 위에서 동작하며, 중간 서버 없이 기기와
+              인스턴스가 직접 통신합니다. API Key·비밀번호는 iOS Keychain /
+              Android Keystore에 안전하게 저장됩니다.
+            </p>
+          </div>
+        </div>
+
+        <div class="flex flex-col items-center gap-3">
+          <button
+            id="cta-start-hero"
+            class="bg-n8n-primary text-white px-8 py-3.5 rounded-lg font-semibold text-base hover:bg-pink-600 transition-all duration-200 flex items-center shadow-lg hover:shadow-xl"
+          >
+            지금 시작하기
+            <svg
+              class="w-5 h-5 ml-2"
+              fill="none"
+              stroke="currentColor"
+              viewBox="0 0 24 24"
+            >
+              <path
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                stroke-width="2"
+                d="M9 5l7 7-7 7"
+              ></path>
+            </svg>
+          </button>
+        </div>
+      </div>
+    </section>
+
+    <!-- How it Works Section -->
+    <section
+      id="how-it-works-section"
+      class="bg-white py-16 px-4 md:py-24 md:px-8"
+    >
+      <div class="max-w-6xl mx-auto">
+        <div class="text-center mb-16">
+          <h2
+            id="how-title"
+            class="text-4xl md:text-5xl font-bold text-n8n-dark mb-4"
+          >
+            How it Works
+          </h2>
+        </div>
+
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-6 md:gap-8">
+          <!-- Step 1 -->
+          <div
+            id="how-step-1"
+            class="bg-white rounded-2xl shadow-lg p-8 hover:shadow-xl transition-shadow duration-200 border border-slate-200"
+          >
+            <div class="flex items-start justify-start gap-3 mb-6">
+              <div
+                class="w-14 h-14 bg-pink-50 rounded-xl flex items-center justify-center"
+              >
+                <svg
+                  class="w-7 h-7 text-n8n-primary"
+                  fill="none"
+                  stroke="currentColor"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                    stroke-width="2"
+                    d="M12 15v2m-6 4h12a2 2 0 002-2v-6a2 2 0 00-2-2H6a2 2 0 00-2 2v6a2 2 0 002 2zm10-10V7a4 4 0 00-8 0v4h8z"
+                  ></path>
+                </svg>
+              </div>
+              <span
+                class="text-3xl leading-none font-extrabold text-n8n-primary"
+                >01</span
+              >
+            </div>
+            <h3 class="text-2xl font-bold text-n8n-dark mb-3">
+              계정 등록 (Cloud / Self-hosted)
+            </h3>
+            <p class="text-sm text-n8n-gray leading-relaxed">
+              API Key 또는 Email+Password로 n8n 인스턴스를 연결합니다. URL
+              정규화·연결 테스트·폴백 검증까지 자동으로 수행하며, 시크릿은
+              기기의 Keychain/Keystore에 분리 저장됩니다.
+            </p>
+          </div>
+
+          <!-- Step 2 -->
+          <div
+            id="how-step-2"
+            class="bg-white rounded-2xl shadow-lg p-8 hover:shadow-xl transition-shadow duration-200 border border-slate-200"
+          >
+            <div class="flex items-start justify-start gap-3 mb-6">
+              <div
+                class="w-14 h-14 bg-pink-50 rounded-xl flex items-center justify-center"
+              >
+                <svg
+                  class="w-7 h-7 text-n8n-primary"
+                  fill="none"
+                  stroke="currentColor"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                    stroke-width="2"
+                    d="M9 17v-2a4 4 0 014-4h6m0 0l-3-3m3 3l-3 3M3 7h10a4 4 0 014 4v0"
+                  ></path>
+                </svg>
+              </div>
+              <span
+                class="text-3xl leading-none font-extrabold text-n8n-primary"
+                >02</span
+              >
+            </div>
+            <h3 class="text-2xl font-bold text-n8n-dark mb-3">
+              대시보드에서 상태 3초 진단
+            </h3>
+            <p class="text-sm text-n8n-gray leading-relaxed">
+              앱을 열면 실행 수·성공률·실패 수 3개 카드가 즉시 뜨고, 그 아래에
+              워크플로우 그리드가 펼쳐집니다. "오늘 내 자동화는 잘 돌고 있나?"를
+              3초 안에 답합니다.
+            </p>
+          </div>
+
+          <!-- Step 3 -->
+          <div
+            id="how-step-3"
+            class="bg-white rounded-2xl shadow-lg p-8 hover:shadow-xl transition-shadow duration-200 border border-slate-200"
+          >
+            <div class="flex items-start justify-start gap-3 mb-6">
+              <div
+                class="w-14 h-14 bg-pink-50 rounded-xl flex items-center justify-center"
+              >
+                <svg
+                  class="w-7 h-7 text-n8n-primary"
+                  fill="none"
+                  stroke="currentColor"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                    stroke-width="2"
+                    d="M4 4v5h.582m15.356 2A8.001 8.001 0 004.582 9m0 0H9m11 11v-5h-.581m0 0a8.003 8.003 0 01-15.357-2m15.357 2H15"
+                  ></path>
+                </svg>
+              </div>
+              <span
+                class="text-3xl leading-none font-extrabold text-n8n-primary"
+                >03</span
+              >
+            </div>
+            <h3 class="text-2xl font-bold text-n8n-dark mb-3">
+              실패 실행을 한 탭으로 재시도
+            </h3>
+            <p class="text-sm text-n8n-gray leading-relaxed">
+              실행 탭 → Error 필터 → 실패 건 선택 → 재시도·중단·삭제. 대시보드
+              → 실패 실행 → 복구까지 3탭 이내로 끝냅니다.
+            </p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Features Section -->
+    <section
+      id="features-section"
+      class="bg-slate-50 py-16 px-4 md:py-24 md:px-8"
+    >
+      <div class="max-w-6xl mx-auto">
+        <div class="text-center mb-16">
+          <h2
+            id="features-title"
+            class="text-4xl md:text-5xl font-bold text-n8n-dark mb-4"
+          >
+            Features
+          </h2>
+        </div>
+
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-6 max-w-6xl mx-auto">
+          <!-- Feature 1 -->
+          <div
+            id="feature-1"
+            class="bg-white rounded-2xl shadow-lg p-8 hover:shadow-xl transition-shadow duration-200 border border-slate-200"
+          >
+            <div class="flex items-center justify-start mb-6">
+              <div
+                class="w-14 h-14 bg-pink-50 rounded-xl flex items-center justify-center relative"
+              >
+                <svg
+                  class="w-8 h-8 text-n8n-primary"
+                  fill="none"
+                  stroke="currentColor"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                    stroke-width="2"
+                    d="M9 19v-6a2 2 0 00-2-2H5a2 2 0 00-2 2v6a2 2 0 002 2h2a2 2 0 002-2zm0 0V9a2 2 0 012-2h2a2 2 0 012 2v10m-6 0a2 2 0 002 2h2a2 2 0 002-2m0 0V5a2 2 0 012-2h2a2 2 0 012 2v14a2 2 0 01-2 2h-2a2 2 0 01-2-2z"
+                  ></path>
+                </svg>
+              </div>
+            </div>
+            <h3 class="text-2xl font-bold text-n8n-dark mb-3">
+              📊 Insights 요약 대시보드
+            </h3>
+            <p class="text-base md:text-lg text-n8n-gray leading-relaxed">
+              총 실행 수, 성공률(%), 실패 수를 3개 카드로 즉시 확인. 태그·활성
+              여부·보관·오너 필터와 Pull-to-refresh로 현재 상태를 한눈에
+              파악합니다.
+            </p>
+          </div>
+
+          <!-- Feature 2 -->
+          <div
+            id="feature-2"
+            class="bg-white rounded-2xl shadow-lg p-8 hover:shadow-xl transition-shadow duration-200 border border-slate-200"
+          >
+            <div class="flex items-center justify-start mb-6">
+              <div
+                class="w-14 h-14 bg-pink-50 rounded-xl flex items-center justify-center relative"
+              >
+                <svg
+                  class="w-8 h-8 text-n8n-primary"
+                  fill="none"
+                  stroke="currentColor"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                    stroke-width="2"
+                    d="M17 20h5v-2a3 3 0 00-5.356-1.857M17 20H7m10 0v-2c0-.656-.126-1.283-.356-1.857M7 20H2v-2a3 3 0 015.356-1.857M7 20v-2c0-.656.126-1.283.356-1.857m0 0a5.002 5.002 0 019.288 0M15 7a3 3 0 11-6 0 3 3 0 016 0zm6 3a2 2 0 11-4 0 2 2 0 014 0zM7 10a2 2 0 11-4 0 2 2 0 014 0z"
+                  ></path>
+                </svg>
+              </div>
+            </div>
+            <h3 class="text-2xl font-bold text-n8n-dark mb-3">
+              👥 멀티 계정 원탭 전환
+            </h3>
+            <p class="text-base md:text-lg text-n8n-gray leading-relaxed">
+              Cloud 인스턴스와 Self-hosted 서버를 한 앱에서 동시에 관리.
+              좌상단 계정 칩 한 번으로 활성 계정이 전환되고, API 클라이언트가
+              자동 재바인딩됩니다.
+            </p>
+          </div>
+
+          <!-- Feature 3 -->
+          <div
+            id="feature-3"
+            class="bg-white rounded-2xl shadow-lg p-8 hover:shadow-xl transition-shadow duration-200 border border-slate-200"
+          >
+            <div class="flex items-center justify-start mb-6">
+              <div
+                class="w-14 h-14 bg-pink-50 rounded-xl flex items-center justify-center relative"
+              >
+                <svg
+                  class="w-8 h-8 text-n8n-primary"
+                  fill="none"
+                  stroke="currentColor"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                    stroke-width="2"
+                    d="M13 10V3L4 14h7v7l9-11h-7z"
+                  ></path>
+                </svg>
+              </div>
+            </div>
+            <h3 class="text-2xl font-bold text-n8n-dark mb-3">
+              ⚡ 실행 관리 · 재시도 · 중단
+            </h3>
+            <p class="text-base md:text-lg text-n8n-gray leading-relaxed">
+              All / Success / Error / Running / Waiting 상태 칩 필터와 무한
+              스크롤 페이지네이션. 실행 상세에서 재시도·중단·삭제 액션을 바로
+              수행할 수 있습니다.
+            </p>
+          </div>
+
+          <!-- Feature 4 -->
+          <div
+            id="feature-4"
+            class="bg-white rounded-2xl shadow-lg p-8 hover:shadow-xl transition-shadow duration-200 border border-slate-200"
+          >
+            <div class="flex items-center justify-start mb-6">
+              <div
+                class="w-14 h-14 bg-pink-50 rounded-xl flex items-center justify-center relative"
+              >
+                <svg
+                  class="w-8 h-8 text-n8n-primary"
+                  fill="none"
+                  stroke="currentColor"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                    stroke-width="2"
+                    d="M13 10V3L4 14h7v7l9-11h-7zM21 12a9 9 0 11-18 0 9 9 0 0118 0z"
+                  ></path>
+                </svg>
+              </div>
+            </div>
+            <h3 class="text-2xl font-bold text-n8n-dark mb-3">
+              🧩 노드 그래프 프리뷰
+            </h3>
+            <p class="text-base md:text-lg text-n8n-gray leading-relaxed">
+              워크플로우 상세에서 노드 구조 요약(총 노드·트리거·비활성·엣지
+              수)과 그래프 프리뷰를 확인. 노드 탭 시 해당 노드 하이라이트 +
+              파라미터 요약이 펼쳐집니다.
+            </p>
+          </div>
+
+          <!-- Feature 5 -->
+          <div
+            id="feature-5"
+            class="bg-white rounded-2xl shadow-lg p-8 hover:shadow-xl transition-shadow duration-200 border border-slate-200"
+          >
+            <div class="flex items-center justify-start mb-6">
+              <div
+                class="w-14 h-14 bg-pink-50 rounded-xl flex items-center justify-center relative"
+              >
+                <svg
+                  class="w-8 h-8 text-n8n-primary"
+                  fill="none"
+                  stroke="currentColor"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                    stroke-width="2"
+                    d="M12 15v2m-6 4h12a2 2 0 002-2v-6a2 2 0 00-2-2H6a2 2 0 00-2 2v6a2 2 0 002 2zm10-10V7a4 4 0 00-8 0v4h8z"
+                  ></path>
+                </svg>
+              </div>
+            </div>
+            <h3 class="text-2xl font-bold text-n8n-dark mb-3">
+              🔐 보안 우선 저장 구조
+            </h3>
+            <p class="text-base md:text-lg text-n8n-gray leading-relaxed">
+              API Key·비밀번호·세션 쿠키는 flutter_secure_storage(iOS Keychain
+              / Android Keystore)에 저장. 계정 메타데이터만 SharedPreferences에
+              분리 저장하며, 계정별 네임스페이스로 시크릿을 격리합니다.
+            </p>
+          </div>
+
+          <!-- Feature 6 -->
+          <div
+            id="feature-6"
+            class="bg-white rounded-2xl shadow-lg p-8 hover:shadow-xl transition-shadow duration-200 border border-slate-200"
+          >
+            <div class="flex items-center justify-start mb-6">
+              <div
+                class="w-14 h-14 bg-pink-50 rounded-xl flex items-center justify-center relative"
+              >
+                <svg
+                  class="w-8 h-8 text-n8n-primary"
+                  fill="none"
+                  stroke="currentColor"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                    stroke-width="2"
+                    d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z"
+                  ></path>
+                </svg>
+              </div>
+            </div>
+            <h3 class="text-2xl font-bold text-n8n-dark mb-3">
+              🛡️ 공식 API 기반의 투명성
+            </h3>
+            <p class="text-base md:text-lg text-n8n-gray leading-relaxed">
+              n8n 공식 Public REST API(/api/v1 + X-N8N-API-KEY)만 사용. 중간
+              서버 없이 사용자 기기가 n8n 인스턴스에 직접 요청합니다. 데이터가
+              제3자를 거치지 않습니다.
+            </p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Who For Section -->
+    <section
+      id="persona-section"
+      class="bg-white py-16 px-4 md:py-24 md:px-8"
+    >
+      <div class="max-w-6xl mx-auto">
+        <div class="text-center mb-16">
+          <h2
+            id="persona-title"
+            class="text-4xl md:text-5xl font-bold text-n8n-dark mb-4"
+          >
+            Who is it for?
+          </h2>
+          <p class="text-lg text-n8n-gray mt-4">
+            자동화는 쉬지 않습니다. 당신의 관제 도구도 마찬가지여야 합니다.
+          </p>
+        </div>
+
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-6 max-w-5xl mx-auto">
+          <div class="bg-slate-50 rounded-2xl p-8 border border-slate-200">
+            <h3 class="text-xl font-bold text-n8n-dark mb-3">
+              🖥️ Self-hosted 운영자
+            </h3>
+            <p class="text-base text-n8n-gray leading-relaxed">
+              VPS·사내 서버에 n8n을 띄워두고 야간·주말에도 관제가 필요한
+              DevOps를 위해. PC 없이 실패 실행을 바로 확인하고 재시도하세요.
+            </p>
+          </div>
+
+          <div class="bg-slate-50 rounded-2xl p-8 border border-slate-200">
+            <h3 class="text-xl font-bold text-n8n-dark mb-3">
+              ☁️ n8n Cloud 파워유저
+            </h3>
+            <p class="text-base text-n8n-gray leading-relaxed">
+              여러 팀·프로젝트 워크플로우를 마케팅·영업·데이터에서 동시 운영.
+              계정 전환 한 번으로 모든 인사이트를 요약해서 확인합니다.
+            </p>
+          </div>
+
+          <div class="bg-slate-50 rounded-2xl p-8 border border-slate-200">
+            <h3 class="text-xl font-bold text-n8n-dark mb-3">
+              🧑‍💼 프리랜서·에이전시
+            </h3>
+            <p class="text-base text-n8n-gray leading-relaxed">
+              고객사별로 n8n 인스턴스 2~5개를 번갈아 관리하는 환경에 최적화.
+              멀티 계정 + 빠른 스위칭으로 컨텍스트 전환 비용을 최소화합니다.
+            </p>
+          </div>
+
+          <div class="bg-slate-50 rounded-2xl p-8 border border-slate-200">
+            <h3 class="text-xl font-bold text-n8n-dark mb-3">
+              🛠️ 노코드 빌더·메이커
+            </h3>
+            <p class="text-base text-n8n-gray leading-relaxed">
+              개인 자동화 파이프라인을 24/7 모니터링하고 싶은 1인 개발자를 위한
+              모바일 전용 가벼운 관제 도구.
+            </p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Final Call to Action -->
+    <section
+      id="final-cta-section"
+      class="bg-n8n-dark py-16 px-4 md:py-24 md:px-8"
+    >
+      <div class="max-w-4xl mx-auto text-center">
+        <h2
+          id="final-cta-title"
+          class="text-3xl md:text-6xl font-bold text-white mb-6 leading-tight"
+        >
+          Automation never sleeps.<br />
+          <span class="text-pink-200">Neither does your admin app.</span>
+        </h2>
+        <p class="text-lg text-slate-300 mb-8">
+          대시보드 한 장, 자동화 전체. 지금 n8n Admin을 시작하세요.
+        </p>
+        <button
+          id="cta-start-final"
+          class="bg-n8n-primary text-white px-8 py-3.5 rounded-lg font-semibold text-base hover:bg-pink-600 transition-all duration-200 inline-flex items-center mb-4 shadow-lg hover:shadow-xl"
+        >
+          지금 시작하기
+          <svg
+            class="w-5 h-5 ml-2"
+            fill="none"
+            stroke="currentColor"
+            viewBox="0 0 24 24"
+          >
+            <path
+              stroke-linecap="round"
+              stroke-linejoin="round"
+              stroke-width="2"
+              d="M9 5l7 7-7 7"
+            ></path>
+          </svg>
+        </button>
+      </div>
+    </section>
+
+    <!-- Footer -->
+    <footer
+      id="footer"
+      class="bg-n8n-dark border-t border-slate-700 py-12 px-4 md:px-8 text-center"
+    >
+      <div class="max-w-4xl mx-auto text-center">
+        <h3 class="text-2xl font-bold text-white mb-2">n8n Admin</h3>
+        <p class="text-slate-400 text-sm mb-6">
+          주머니 속 n8n 운영실 — 워크플로우를 언제 어디서든
+        </p>
+        <p class="text-xs text-slate-500">
+          © 2026 n8n Admin. All rights reserved.
+        </p>
+      </div>
+    </footer>
+  </body>
+</html>

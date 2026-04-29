@@ -1,6 +1,6 @@
 Repeta App Privacy Policy
 
-Last updated: 2024-08-10
+Last updated: 2026-04-29
 
 This Privacy Policy applies to the Repeta app (hereinafter referred to as the “Application”), created by the Service Provider as a commercial service.
 The Application is provided "AS IS" for use.
@@ -83,17 +83,33 @@ If a child under 13 has provided personal data, please contact us for immediate 
 
 We take measures to safeguard the confidentiality of your information, including physical, electronic, and procedural safeguards.
 
-8. Paid Services and Subscriptions
+8. Paid Services, Subscriptions, and Payment Data
 
-The Application may offer paid features or subscription plans for enhanced functionality:
+The Application offers a monthly subscription plan for access to premium features. An annual subscription option is planned for future availability.
+
+Subscription Plans
+
+Monthly Subscription: Billed on a recurring monthly basis. The subscription will automatically renew unless cancelled at least 24 hours before the end of the current billing period.
+
+Annual Subscription (Coming Soon): An annual plan will be made available in a future update.
+
+Payment Data
+
+All subscription payments are processed through official app marketplaces (Google Play / App Store). The Service Provider collects and stores certain payment-related information — such as subscription status, purchase history, and transaction identifiers — to manage your account and provide premium services. Direct payment card or billing details (e.g., card numbers, bank information) are handled by the respective marketplace platform and are not accessible to the Service Provider. Collected payment data is retained in accordance with this Privacy Policy and applicable laws, and is not shared with third parties except as required to deliver the service or comply with legal obligations.
+
+Refund Policy
+
+Due to the nature of digital subscription services, payments processed for a subscription period are generally non-refundable once the billing has been confirmed. If you believe a charge was made in error, please contact the respective app marketplace (Google Play or App Store) directly, as refund eligibility is determined solely by their policies. The Service Provider is unable to issue refunds independently.
+
+Premium Features Include
 
 Ad-Free Experience: Remove all ads for uninterrupted usage.
 
-Premium Features: Unlock advanced idiom collections, offline mode, and custom learning tools.
+Advanced Idiom Collections: Access to exclusive idiom sets and study materials.
 
-Subscription Plans: Monthly or annual subscription options are available for continued premium access.
+Offline Mode: Study without an active internet connection.
 
-All payments are handled through official app marketplaces (Google Play / App Store), and no payment data is collected or stored directly by the Service Provider.
+Custom Learning Tools: Personalized flashcards and progress tracking.
 
 9. Changes to This Policy
 

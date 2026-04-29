@@ -1,6 +1,6 @@
 Terms and Conditions for Repeta App
 
-Last updated: 2024-08-10
+Last updated: 2026-04-29
 
 These Terms and Conditions apply to the Repeta app (hereinafter referred to as the “Application”), created by the Service Provider as a commercial service. By downloading or using the Application, you agree to these Terms. Please read them carefully.
 
@@ -76,23 +76,41 @@ Your rights and licenses under these Terms will end.
 
 You must stop using the Application and delete it from your device.
 
-9. Paid Services and Subscriptions
+9. Paid Services, Subscriptions, and Refund Policy
 
-The Application may include paid features and subscription-based services:
+The Application offers a subscription-based premium plan. By subscribing, you agree to the following terms.
+
+Subscription Plans
+
+Monthly Subscription: Access to all premium features, billed on a recurring monthly basis. The subscription automatically renews each month unless cancelled at least 24 hours prior to the end of the current billing period.
+
+Annual Subscription (Coming Soon): A discounted annual plan is planned for a future release and will be subject to updated terms at the time of launch.
+
+Premium Features Include
 
 Ad-Free Access: Remove ads for uninterrupted learning.
 
-Premium Features: Unlock exclusive idiom collections, offline mode, and advanced study tools.
+Exclusive Idiom Collections: Unlock advanced and curated idiom sets not available in the free tier.
 
-Subscription Plans: Monthly or annual subscriptions are available.
+Offline Mode: Study content without requiring an active internet connection.
 
-Payment & Refund Policy
+Advanced Study Tools: Personalized flashcards, progress tracking, and custom learning paths.
 
-All payments are processed via official app marketplaces (Google Play / App Store).
+Payment
 
-The Service Provider does not directly collect or store payment information.
+All payments are processed through official app marketplaces (Google Play / App Store). The Service Provider collects and stores certain payment-related information — including subscription status, purchase history, and transaction identifiers — for the purpose of account management and service delivery. Direct payment card or billing details are managed exclusively by the respective marketplace platform and are not directly accessible to the Service Provider.
 
-Refunds are subject to the policies of Google Play and App Store. Users must contact the respective marketplace for refund requests.
+Refund Policy
+
+All subscription fees are charged at the start of each billing cycle and are non-refundable once payment has been confirmed. By initiating a subscription, you acknowledge and agree that:
+
+No refunds will be issued by the Service Provider for any subscription period that has already commenced.
+
+If you cancel your subscription, you will retain access to premium features until the end of the current paid billing period. No partial refunds will be provided for unused portions of a subscription period.
+
+If you believe a charge was made in error or wish to dispute a payment, you must contact the app marketplace (Google Play or App Store) directly. Refund eligibility under such circumstances is determined solely by the policies of the respective marketplace, and the Service Provider has no authority to override those decisions.
+
+To avoid being charged for the next billing cycle, you must cancel your subscription at least 24 hours before the renewal date through the app marketplace settings.
 
 10. Changes to Terms
 

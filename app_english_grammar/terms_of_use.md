@@ -1,8 +1,8 @@
-# Terms and Conditions for HeartLab App
+# Terms and Conditions for Don't Know Grammar App
 
 **Last updated: 2026-05-06**
 
-These Terms and Conditions apply to the HeartLab app (hereinafter referred to as the "Application"), created by the Service Provider as a commercial service. By downloading or using the Application, you agree to these Terms. Please read them carefully.
+These Terms and Conditions apply to the Don't Know Grammar app (hereinafter referred to as the "Application"), created by the Service Provider as a commercial service. By downloading or using the Application, you agree to these Terms. Please read them carefully.
 
 ---
 
@@ -87,9 +87,9 @@ The Application offers a subscription-based premium plan. By subscribing, you ag
 
 **Premium Features Include**
 
-- **Unlimited Personas:** Create and manage profiles for multiple people.
-- **Unlimited AI Coaching:** Receive as many AI relationship advice sessions as you need.
-- **Unlimited Simulations:** Run unlimited conversation simulations with any persona.
+- **Ad-Free Experience:** Remove all ads for uninterrupted learning.
+- **Unlimited Questions:** Access all sections without daily limits.
+- **All Sections Unlocked:** Study any grammar topic at any time.
 
 **Payment**
 

@@ -1,8 +1,8 @@
-# Terms and Conditions for HeartLab App
+# Terms and Conditions for Habiton App
 
 **Last updated: 2026-05-06**
 
-These Terms and Conditions apply to the HeartLab app (hereinafter referred to as the "Application"), created by the Service Provider as a commercial service. By downloading or using the Application, you agree to these Terms. Please read them carefully.
+These Terms and Conditions apply to the Habiton app (hereinafter referred to as the "Application"), created by the Service Provider as a commercial service. By downloading or using the Application, you agree to these Terms. Please read them carefully.
 
 ---
 
@@ -87,9 +87,10 @@ The Application offers a subscription-based premium plan. By subscribing, you ag
 
 **Premium Features Include**
 
-- **Unlimited Personas:** Create and manage profiles for multiple people.
-- **Unlimited AI Coaching:** Receive as many AI relationship advice sessions as you need.
-- **Unlimited Simulations:** Run unlimited conversation simulations with any persona.
+- **Unlimited Habits:** Register and track an unlimited number of daily habits.
+- **Streak Protection:** Automatically maintain streaks even on missed days.
+- **Google Calendar Integration:** Sync reminders intelligently with your calendar.
+- **Weekly Progress Notifications:** Receive smart reminders to keep family or friends informed.
 
 **Payment**
 

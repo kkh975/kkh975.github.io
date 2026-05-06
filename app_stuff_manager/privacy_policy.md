@@ -1,8 +1,8 @@
-# Hanjabelle App Privacy Policy
+# Zen Cosa App Privacy Policy
 
 **Last updated: 2026-05-06**
 
-This Privacy Policy applies to the Hanjabelle app (hereinafter referred to as the "Application"), created by the Service Provider as a commercial service.
+This Privacy Policy applies to the Zen Cosa app (hereinafter referred to as the "Application"), created by the Service Provider as a commercial service.
 The Application is provided "AS IS" for use.
 
 ---
@@ -105,10 +105,9 @@ Due to the nature of digital subscription services, payments processed for a sub
 
 **Premium Features Include**
 
-- **Ad-Free Experience:** Remove all ads for uninterrupted usage.
-- **Advanced Hanja Collections:** Access to exclusive hanja sets and study materials.
-- **Offline Mode:** Study without an active internet connection.
-- **Custom Learning Tools:** Personalized flashcards and progress tracking.
+- **Natural Language Search:** Find items using conversational queries.
+- **Remote Sync:** Keep your inventory synced across all devices.
+- **Auto Manual Search:** Automatically fetch product manuals for registered items.
 
 ---
 

@@ -1,8 +1,8 @@
-# Hanjabelle App Privacy Policy
+# Habiton App Privacy Policy
 
 **Last updated: 2026-05-06**
 
-This Privacy Policy applies to the Hanjabelle app (hereinafter referred to as the "Application"), created by the Service Provider as a commercial service.
+This Privacy Policy applies to the Habiton app (hereinafter referred to as the "Application"), created by the Service Provider as a commercial service.
 The Application is provided "AS IS" for use.
 
 ---
@@ -105,10 +105,10 @@ Due to the nature of digital subscription services, payments processed for a sub
 
 **Premium Features Include**
 
-- **Ad-Free Experience:** Remove all ads for uninterrupted usage.
-- **Advanced Hanja Collections:** Access to exclusive hanja sets and study materials.
-- **Offline Mode:** Study without an active internet connection.
-- **Custom Learning Tools:** Personalized flashcards and progress tracking.
+- **Unlimited Habits:** Register and track an unlimited number of daily habits.
+- **Streak Protection:** Automatically maintain streaks even on missed days.
+- **Google Calendar Integration:** Sync reminders intelligently with your calendar.
+- **Weekly Progress Notifications:** Receive smart reminders to keep family or friends informed.
 
 ---
 

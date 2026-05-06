@@ -1,8 +1,8 @@
-# Hanjabelle App Privacy Policy
+# Don't Know Grammar App Privacy Policy
 
 **Last updated: 2026-05-06**
 
-This Privacy Policy applies to the Hanjabelle app (hereinafter referred to as the "Application"), created by the Service Provider as a commercial service.
+This Privacy Policy applies to the Don't Know Grammar app (hereinafter referred to as the "Application"), created by the Service Provider as a commercial service.
 The Application is provided "AS IS" for use.
 
 ---
@@ -105,10 +105,9 @@ Due to the nature of digital subscription services, payments processed for a sub
 
 **Premium Features Include**
 
-- **Ad-Free Experience:** Remove all ads for uninterrupted usage.
-- **Advanced Hanja Collections:** Access to exclusive hanja sets and study materials.
-- **Offline Mode:** Study without an active internet connection.
-- **Custom Learning Tools:** Personalized flashcards and progress tracking.
+- **Ad-Free Experience:** Remove all ads for uninterrupted learning.
+- **Unlimited Questions:** Access all sections without daily limits.
+- **All Sections Unlocked:** Study any grammar topic at any time.
 
 ---
 

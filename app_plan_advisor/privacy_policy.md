@@ -1,8 +1,8 @@
-# Hanjabelle App Privacy Policy
+# Doradora App Privacy Policy
 
 **Last updated: 2026-05-06**
 
-This Privacy Policy applies to the Hanjabelle app (hereinafter referred to as the "Application"), created by the Service Provider as a commercial service.
+This Privacy Policy applies to the Doradora app (hereinafter referred to as the "Application"), created by the Service Provider as a commercial service.
 The Application is provided "AS IS" for use.
 
 ---
@@ -105,10 +105,9 @@ Due to the nature of digital subscription services, payments processed for a sub
 
 **Premium Features Include**
 
-- **Ad-Free Experience:** Remove all ads for uninterrupted usage.
-- **Advanced Hanja Collections:** Access to exclusive hanja sets and study materials.
-- **Offline Mode:** Study without an active internet connection.
-- **Custom Learning Tools:** Personalized flashcards and progress tracking.
+- **Ad-Free Experience:** Remove all ads for uninterrupted planning.
+- **AI Natural Language Input:** Automatically classify tasks and schedules from plain-text input.
+- **AI Schedule Analysis:** Receive intelligent task suggestions based on your schedule patterns.
 
 ---
 

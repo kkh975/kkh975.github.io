@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Loading...</title>
+  <script src="./marked.min.js"></script>
+  <style>
+    body {
+      font-family: Georgia, "Times New Roman", serif;
+      font-size: 15px;
+      line-height: 1.7;
+      color: #111;
+      background: #fff;
+      max-width: 760px;
+      margin: 48px auto;
+      padding: 0 24px 64px;
+    }
+    h1 { font-size: 22px; font-weight: bold; border-bottom: 2px solid #111; padding-bottom: 8px; margin-bottom: 4px; }
+    h2 { font-size: 16px; font-weight: bold; margin-top: 32px; margin-bottom: 8px; }
+    h3 { font-size: 14px; font-weight: bold; margin-top: 20px; margin-bottom: 4px; }
+    p  { margin: 8px 0; }
+    ul { margin: 8px 0 8px 24px; padding: 0; }
+    li { margin: 4px 0; }
+    a  { color: #111; }
+    blockquote { border-left: 3px solid #aaa; margin: 12px 0; padding: 4px 16px; color: #444; }
+    pre  { background: #f4f4f4; padding: 12px; overflow-x: auto; font-size: 13px; }
+    code { font-family: monospace; font-size: 13px; background: #f4f4f4; padding: 1px 4px; }
+    pre code { background: none; padding: 0; }
+    table { border-collapse: collapse; width: 100%; margin: 12px 0; font-size: 14px; }
+    th, td { border: 1px solid #bbb; padding: 6px 12px; text-align: left; }
+    th { background: #f0f0f0; font-weight: bold; }
+    .error { color: #c00; font-style: italic; }
+    .parser-badge {
+      font-family: monospace;
+      font-size: 11px;
+      color: #999;
+      text-align: right;
+      margin-top: 48px;
+      border-top: 1px solid #eee;
+      padding-top: 8px;
+    }
+  </style>
+</head>
+<body>
+  <div id="content">Loading...</div>
+  <div id="badge" class="parser-badge"></div>
+
+  <script>
+    // ─── 인라인 파싱 ──────────────────────────────────────────────
+    function inline(text) {
+      return text
+        .replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;')
+        .replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>')
+        .replace(/\*(.+?)\*/g, '<em>$1</em>')
+        .replace(/`(.+?)`/g, '<code>$1</code>')
+        .replace(/\[(.+?)\]\((.+?)\)/g, '<a href="$2">$1</a>')
+        .replace(/([\w.+-]+@[\w.-]+\.[a-z]{2,})/gi, '<a href="mailto:$1">$1</a>');
+    }
+
+    // ─── 미니 파서 ────────────────────────────────────────────────
+    // safe=false: 처리 불가 패턴 만나면 throw
+    // safe=true : 처리 불가 패턴은 plain text로 출력 (최후 fallback용)
+    function miniParse(md, safe = false) {
+      const lines = md.split('\n');
+      let html = '';
+      let inList = false;
+
+      const closeList = () => { if (inList) { html += '</ul>'; inList = false; } };
+
+      for (const line of lines) {
+        // 처리 불가 패턴 감지
+        if (!safe) {
+          if (/^\|/.test(line))             throw new Error('table');
+          if (/^[ \t]+[*-] /.test(line))   throw new Error('nested list');
+          if (/^>/.test(line))              throw new Error('blockquote');
+          if (/^`{3}/.test(line))           throw new Error('code fence');
+          if (/^={3,}$/.test(line))         throw new Error('setext header');
+        }
+
+        if      (line.startsWith('### ')) { closeList(); html += `<h3>${inline(line.slice(4))}</h3>`; }
+        else if (line.startsWith('## '))  { closeList(); html += `<h2>${inline(line.slice(3))}</h2>`; }
+        else if (line.startsWith('# '))   { closeList(); html += `<h1>${inline(line.slice(2))}</h1>`; }
+        else if (/^[*-] /.test(line))     {
+          if (!inList) { html += '<ul>'; inList = true; }
+          html += `<li>${inline(line.slice(2))}</li>`;
+        }
+        else if (line.trim() === '')      { closeList(); }
+        else                              { closeList(); html += `<p>${inline(line)}</p>`; }
+      }
+
+      closeList();
+      return html;
+    }
+
+    // ─── 제목 추출 ────────────────────────────────────────────────
+    function extractTitle(md) {
+      const match = md.match(/^#\s+(.+)/m);
+      return match ? match[1].trim() : 'Document';
+    }
+
+    // ─── 렌더링 (폴백 체인) ───────────────────────────────────────
+    function render(md) {
+      // 1단계: 미니 파서 시도
+      try {
+        const html = miniParse(md, false);
+        return { html, parser: 'mini' };
+      } catch (miniErr) {
+        // 2단계: marked.js 시도
+        try {
+          if (typeof marked === 'undefined') throw new Error('marked not loaded');
+          const html = marked.parse(md);
+          return { html, parser: `marked (이유: ${miniErr.message})` };
+        } catch (markedErr) {
+          // 3단계: 미니 파서 safe 모드 (최후 수단)
+          const html = miniParse(md, true);
+          return { html, parser: `mini/safe (marked 실패: ${markedErr.message})` };
+        }
+      }
+    }
+
+    // ─── 메인 ─────────────────────────────────────────────────────
+    const params = new URLSearchParams(location.search);
+    const file   = params.get('file') || (typeof FILE !== 'undefined' ? FILE : null);
+
+    if (!file) {
+      document.getElementById('content').innerHTML =
+        '<p class="error">파일이 지정되지 않았습니다.<br>' +
+        '사용법: <code>md-viewer.html?file=your_file.md</code></p>';
+    } else {
+      fetch(file)
+        .then(r => {
+          if (!r.ok) throw new Error(`${r.status} ${r.statusText}`);
+          return r.text();
+        })
+        .then(md => {
+          document.title = extractTitle(md);
+          const { html, parser } = render(md);
+          document.getElementById('content').innerHTML = html;
+          document.getElementById('badge').textContent = `parser: ${parser}`;
+        })
+        .catch(e => {
+          document.getElementById('content').innerHTML =
+            `<p class="error">파일을 불러올 수 없습니다: ${e.message}</p>`;
+        });
+    }
+  </script>
+</body>
+</html>

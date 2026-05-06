@@ -53,7 +53,6 @@
   <div id="content">Loading...</div>
 
   <script>
-    // ─── 인라인 파싱 ──────────────────────────────────────────────
     function inline(text) {
       return text
         .replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;')
@@ -64,9 +63,8 @@
         .replace(/([\w.+-]+@[\w.-]+\.[a-z]{2,})/gi, '<a href="mailto:$1">$1</a>');
     }
 
-    // ─── 미니 파서 ────────────────────────────────────────────────
-    // safe=false: 처리 불가 패턴 만나면 throw
-    // safe=true : 처리 불가 패턴은 plain text로 출력 (최후 fallback용)
+    // safe=false: 처리 불가 패턴 만나면 throw → marked로 폴백
+    // safe=true : 처리 불가 패턴은 plain text로 출력 (최후 수단)
     function miniParse(md, safe = false) {
       const lines = md.split('\n');
       let html = '';
@@ -98,7 +96,6 @@
       return html;
     }
 
-    // ─── 렌더링 (폴백 체인) ───────────────────────────────────────
     function render(md) {
       try {
         return miniParse(md, false);
@@ -112,14 +109,20 @@
       }
     }
 
-    // ─── 메인 ─────────────────────────────────────────────────────
+    function extractTitle(md) {
+      const h1 = md.match(/^#\s+(.+)/m);
+      if (h1) return h1[1].trim();
+      const firstLine = md.split('\n').find(l => l.trim());
+      return firstLine ? firstLine.trim() : 'Document';
+    }
+
     const params = new URLSearchParams(location.search);
     const file   = params.get('file') || (typeof FILE !== 'undefined' ? FILE : null);
 
     if (!file) {
       document.getElementById('content').innerHTML =
         '<p class="error">파일이 지정되지 않았습니다.<br>' +
-        '사용법: <code>md-viewer.html?file=your_file.md</code></p>';
+        '사용법: <code>md-viewer.html?file=path/to/file.md</code></p>';
     } else {
       fetch(file)
         .then(r => {
@@ -127,8 +130,7 @@
           return r.text();
         })
         .then(md => {
-          const match = md.match(/^#\s+(.+)/m);
-          if (match) document.title = match[1].trim();
+          document.title = extractTitle(md);
           document.getElementById('content').innerHTML = render(md);
         })
         .catch(e => {

@@ -3,16 +3,17 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Writeet - 매일 쓰는 외국어, 진짜 실력이 되다</title>
+    <title>라이팃 Writeet - 외국어 작문 AI 채점</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <script>
       tailwind.config = {
         theme: {
           extend: {
             colors: {
-              "writeet-purple": "#4F46E5",
-              "writeet-dark": "#0f172a",
-              "writeet-gray": "#475569",
+              "writeet-primary": "#EA7A54",
+              "writeet-dark": "#3D2B1F",
+              "writeet-gray": "#7A6B5D",
+              "writeet-accent": "#8ACBB7",
             },
           },
         },
@@ -25,65 +26,65 @@
       }
     </style>
   </head>
-  <body class="bg-slate-50">
+  <body class="bg-amber-50">
     <!-- Hero Section -->
     <section
       id="hero-section"
-      class="bg-gradient-to-b from-white to-slate-50 py-12 px-4 md:py-20 md:px-8"
+      class="bg-gradient-to-b from-white to-amber-50 py-12 px-4 md:py-20 md:px-8"
     >
-      <div class="max-w-4xl mx-auto text-center">
+      <div class="max-w-5xl mx-auto text-center">
         <h1
           id="hero-title"
-          class="text-5xl md:text-6xl lg:text-7xl font-bold text-writeet-dark mb-10 leading-tight"
+          class="text-5xl md:text-6xl lg:text-7xl font-bold text-writeet-dark mb-8 leading-tight"
         >
-          매일 쓰는 외국어,<br />
-          <span class="text-writeet-purple">진짜 실력이 되다</span>
+          외국어 작문,<br />
+          <span class="text-writeet-primary">AI가 즉시 채점하고 피드백까지</span>
         </h1>
-        <p class="text-lg md:text-xl text-writeet-gray mb-3">
-          외국어 공부, 눈으로만 하셨나요?
+        <p class="text-lg md:text-xl text-writeet-gray mb-4">
+          외국어 작문 실력, 혼자 쓰고 맞는지 몰라서 답답하셨나요?
         </p>
         <p class="text-base md:text-lg text-writeet-gray mb-10">
-          이제는 직접 쓰면서 유창함을 완성할 시간입니다.
+          카테고리별 AI 작문 문제부터 즉각 채점, 복습까지 한 흐름으로 돕는 라이팃과 함께하세요.
         </p>
 
-        <!-- Description Card -->
         <div
           id="hero-description-card"
-          class="bg-slate-100 rounded-2xl p-8 md:p-10 mb-8 max-w-2xl mx-auto border-2 border-slate-200"
+          class="bg-amber-100 rounded-2xl p-8 md:p-10 mb-10 max-w-3xl mx-auto border-2 border-amber-200"
         >
           <div
             class="text-writeet-gray text-sm md:text-base leading-relaxed text-center space-y-3"
           >
             <p>
-              문법책만으로는 부족했다면. <br />
-              학원은 부담스럽고, 매일 꾸준한 체계적인 연습이 필요했다면.
+              단순 번역이 아닌, 내 문장을 AI가 교정하며 실질적인 작문 실력을 키워줍니다.
             </p>
-            <p class="text-base md:text-lg font-bold">
-              <span class="text-writeet-purple">Writeet</span>은 당신의 수준에
-              맞는 문법 문제를 통해, <br />
-              매일 정확하게 쓰는 법을 훈련하는 가장 체계적인 방법입니다.
+            <p class="text-base md:text-lg font-bold text-writeet-dark">
+              구독하면 채점 결과를 광고 없이 즉시 확인하고 무제한 학습할 수 있어요.
             </p>
           </div>
         </div>
-        <button
-          id="cta-start-hero"
-          class="bg-writeet-purple text-white px-8 py-3.5 rounded-lg font-semibold text-base hover:bg-indigo-700 transition-all duration-200 flex items-center mx-auto mt-8 shadow-lg hover:shadow-xl"
-        >
-          무료로 시작하기
-          <svg
-            class="w-5 h-5 ml-2"
-            fill="none"
-            stroke="currentColor"
-            viewBox="0 0 24 24"
+
+        <div class="flex flex-col items-center gap-3">
+          <button
+            id="cta-start-hero"
+            class="bg-writeet-primary text-white px-8 py-3.5 rounded-lg font-semibold text-base hover:bg-orange-600 transition-all duration-200 flex items-center shadow-lg hover:shadow-xl"
           >
-            <path
-              stroke-linecap="round"
-              stroke-linejoin="round"
-              stroke-width="2"
-              d="M9 5l7 7-7 7"
-            ></path>
-          </svg>
-        </button>
+            무료로 시작하기
+            <svg
+              class="w-5 h-5 ml-2"
+              fill="none"
+              stroke="currentColor"
+              viewBox="0 0 24 24"
+            >
+              <path
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                stroke-width="2"
+                d="M9 5l7 7-7 7"
+              ></path>
+            </svg>
+          </button>
+          <p class="text-xs text-amber-700">신용카드 정보가 필요 없습니다.</p>
+        </div>
       </div>
     </section>
 
@@ -101,7 +102,7 @@
             How it Works
           </h2>
           <p class="text-base md:text-lg text-writeet-gray">
-            세 가지 단계로 시작하는 체계적인 문법 학습
+            문제 생성부터 AI 채점, 복습까지 3단계로 완주하는 외국어 작문
           </p>
         </div>
 
@@ -109,57 +110,14 @@
           <!-- Step 1 -->
           <div
             id="how-step-1"
-            class="bg-white rounded-2xl shadow-lg p-8 hover:shadow-xl transition-shadow duration-200 border border-slate-200"
+            class="bg-white rounded-2xl shadow-lg p-8 hover:shadow-xl transition-shadow duration-200 border border-amber-100"
           >
             <div class="flex items-start justify-start gap-3 mb-6">
               <div
-                class="w-14 h-14 bg-indigo-50 rounded-xl flex items-center justify-center"
+                class="w-14 h-14 bg-orange-50 rounded-xl flex items-center justify-center"
               >
                 <svg
-                  class="w-7 h-7 text-writeet-purple"
-                  fill="none"
-                  stroke="currentColor"
-                  viewBox="0 0 24 24"
-                >
-                  <path
-                    stroke-linecap="round"
-                    stroke-linejoin="round"
-                    stroke-width="2"
-                    d="M15 12a3 3 0 11-6 0 3 3 0 016 0z"
-                  ></path>
-                  <path
-                    stroke-linecap="round"
-                    stroke-linejoin="round"
-                    stroke-width="2"
-                    d="M2.458 12C3.732 7.943 7.523 5 12 5c4.478 0 8.268 2.943 9.542 7-1.274 4.057-5.064 7-9.542 7-4.477 0-8.268-2.943-9.542-7z"
-                  ></path>
-                </svg>
-              </div>
-              <span
-                class="text-3xl leading-none font-extrabold text-writeet-purple"
-                >01</span
-              >
-            </div>
-            <h3 class="text-2xl font-bold text-writeet-dark mb-3">
-              내게 맞는 레벨 선택
-            </h3>
-            <p class="text-sm text-writeet-gray leading-relaxed">
-              왕초보부터 고급까지, 현재 나의 실력에 맞는 문법 레벨을 선택하여
-              학습을 시작합니다.
-            </p>
-          </div>
-
-          <!-- Step 2 -->
-          <div
-            id="how-step-2"
-            class="bg-white rounded-2xl shadow-lg p-8 hover:shadow-xl transition-shadow duration-200 border border-slate-200"
-          >
-            <div class="flex items-start justify-start gap-3 mb-6">
-              <div
-                class="w-14 h-14 bg-indigo-50 rounded-xl flex items-center justify-center"
-              >
-                <svg
-                  class="w-7 h-7 text-writeet-purple"
+                  class="w-7 h-7 text-writeet-primary"
                   fill="none"
                   stroke="currentColor"
                   viewBox="0 0 24 24"
@@ -173,30 +131,29 @@
                 </svg>
               </div>
               <span
-                class="text-3xl leading-none font-extrabold text-writeet-purple"
-                >02</span
+                class="text-3xl leading-none font-extrabold text-writeet-primary"
+                >01</span
               >
             </div>
             <h3 class="text-2xl font-bold text-writeet-dark mb-3">
-              매일 새로운 문제 풀이
+              카테고리 생성 & 문제 풀기
             </h3>
             <p class="text-sm text-writeet-gray leading-relaxed">
-              매일 제공되는 오늘의 문법 문제를 풀고 직접 문장을 완성하여
-              제출합니다.
+              언어와 문법 항목을 선택해 카테고리를 만들고, AI가 생성한 작문 문제에 답안을 입력합니다. 이탈해도 답안이 자동 임시저장됩니다.
             </p>
           </div>
 
-          <!-- Step 3 -->
+          <!-- Step 2 -->
           <div
-            id="how-step-3"
-            class="bg-white rounded-2xl shadow-lg p-8 hover:shadow-xl transition-shadow duration-200 border border-slate-200"
+            id="how-step-2"
+            class="bg-white rounded-2xl shadow-lg p-8 hover:shadow-xl transition-shadow duration-200 border border-amber-100"
           >
             <div class="flex items-start justify-start gap-3 mb-6">
               <div
-                class="w-14 h-14 bg-indigo-50 rounded-xl flex items-center justify-center"
+                class="w-14 h-14 bg-orange-50 rounded-xl flex items-center justify-center"
               >
                 <svg
-                  class="w-7 h-7 text-writeet-purple"
+                  class="w-7 h-7 text-writeet-primary"
                   fill="none"
                   stroke="currentColor"
                   viewBox="0 0 24 24"
@@ -205,21 +162,56 @@
                     stroke-linecap="round"
                     stroke-linejoin="round"
                     stroke-width="2"
-                    d="M9 19v-6a2 2 0 00-2-2H5a2 2 0 00-2 2v6a2 2 0 002 2h2a2 2 0 002-2zm0 0V9a2 2 0 012-2h2a2 2 0 012 2v10m-6 0a2 2 0 002 2h2a2 2 0 002-2m0 0V5a2 2 0 012-2h2a2 2 0 012 2v14a2 2 0 01-2 2h-2a2 2 0 01-2-2z"
+                    d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"
                   ></path>
                 </svg>
               </div>
               <span
-                class="text-3xl leading-none font-extrabold text-writeet-purple"
+                class="text-3xl leading-none font-extrabold text-writeet-primary"
+                >02</span
+              >
+            </div>
+            <h3 class="text-2xl font-bold text-writeet-dark mb-3">
+              AI 채점 & 교정 피드백
+            </h3>
+            <p class="text-sm text-writeet-gray leading-relaxed">
+              제출하면 AI가 답안을 분석해 O/X 결과와 교정 문장을 즉시 제공합니다. 어디가 틀렸는지 한눈에 파악할 수 있어요.
+            </p>
+          </div>
+
+          <!-- Step 3 -->
+          <div
+            id="how-step-3"
+            class="bg-white rounded-2xl shadow-lg p-8 hover:shadow-xl transition-shadow duration-200 border border-amber-100"
+          >
+            <div class="flex items-start justify-start gap-3 mb-6">
+              <div
+                class="w-14 h-14 bg-orange-50 rounded-xl flex items-center justify-center"
+              >
+                <svg
+                  class="w-7 h-7 text-writeet-primary"
+                  fill="none"
+                  stroke="currentColor"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                    stroke-width="2"
+                    d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z"
+                  ></path>
+                </svg>
+              </div>
+              <span
+                class="text-3xl leading-none font-extrabold text-writeet-primary"
                 >03</span
               >
             </div>
             <h3 class="text-2xl font-bold text-writeet-dark mb-3">
-              즉시 채점 및 기록 확인
+              복습 & 달력으로 꾸준한 학습
             </h3>
             <p class="text-sm text-writeet-gray leading-relaxed">
-              제출 즉시 채점 결과를 확인하고, 나의 오답과 성장 과정을 한눈에
-              기록으로 관리합니다.
+              어제·주간 복습 알림과 학습 기록 달력으로 놓친 내용을 다시 챙기고 학습 습관을 이어갑니다.
             </p>
           </div>
         </div>
@@ -229,7 +221,7 @@
     <!-- Features Section -->
     <section
       id="features-section"
-      class="bg-slate-50 py-16 px-4 md:py-24 md:px-8"
+      class="bg-amber-50 py-16 px-4 md:py-24 md:px-8"
     >
       <div class="max-w-6xl mx-auto">
         <div class="text-center mb-16">
@@ -240,7 +232,7 @@
             Features
           </h2>
           <p class="text-base md:text-lg text-writeet-gray">
-            정확한 문법 실력을 위한 완벽한 학습 환경
+            AI와 함께 실력을 키우는 외국어 작문 학습 경험
           </p>
         </div>
 
@@ -248,14 +240,14 @@
           <!-- Feature 1 -->
           <div
             id="feature-1"
-            class="bg-white rounded-2xl shadow-lg p-8 hover:shadow-xl transition-shadow duration-200 border border-slate-200"
+            class="bg-white rounded-2xl shadow-lg p-8 hover:shadow-xl transition-shadow duration-200 border border-amber-100"
           >
             <div class="flex items-center justify-start mb-6">
               <div
-                class="w-14 h-14 bg-indigo-50 rounded-xl flex items-center justify-center relative"
+                class="w-14 h-14 bg-orange-50 rounded-xl flex items-center justify-center relative"
               >
                 <svg
-                  class="w-8 h-8 text-writeet-purple"
+                  class="w-8 h-8 text-writeet-primary"
                   fill="none"
                   stroke="currentColor"
                   viewBox="0 0 24 24"
@@ -264,31 +256,94 @@
                     stroke-linecap="round"
                     stroke-linejoin="round"
                     stroke-width="2"
-                    d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.746 0 3.332.477 4.5 1.253v13C19.832 18.477 18.246 18 16.5 18c-1.746 0-3.332.477-4.5 1.253"
+                    d="M9.663 17h4.673M12 3v1m6.364 1.636l-.707.707M21 12h-1M4 12H3m3.343-5.657l-.707-.707m2.828 9.9a5 5 0 117.072 0l-.548.547A3.374 3.374 0 0014 18.469V19a2 2 0 11-4 0v-.531c0-.895-.356-1.754-.988-2.386l-.548-.547z"
                   ></path>
                 </svg>
               </div>
             </div>
             <h3 class="text-2xl font-bold text-writeet-dark mb-3">
-              체계적인 레벨별 문법 학습
+              AI 작문 채점 & 교정
             </h3>
             <p class="text-base md:text-lg text-writeet-gray leading-relaxed">
-              기초부터 고급까지, 나에게 꼭 맞는 난이도로 시작하여 문법의 빈틈을
-              꼼꼼하게 채웁니다.
+              내가 쓴 문장을 AI가 분석해 틀린 부분과 교정 문장을 제공, 실질적인 피드백으로 작문 실력을 키웁니다.
             </p>
           </div>
 
           <!-- Feature 2 -->
           <div
             id="feature-2"
-            class="bg-white rounded-2xl shadow-lg p-8 hover:shadow-xl transition-shadow duration-200 border border-slate-200"
+            class="bg-white rounded-2xl shadow-lg p-8 hover:shadow-xl transition-shadow duration-200 border border-amber-100"
           >
             <div class="flex items-center justify-start mb-6">
               <div
-                class="w-14 h-14 bg-indigo-50 rounded-xl flex items-center justify-center relative"
+                class="w-14 h-14 bg-orange-50 rounded-xl flex items-center justify-center relative"
               >
                 <svg
-                  class="w-8 h-8 text-writeet-purple"
+                  class="w-8 h-8 text-writeet-primary"
+                  fill="none"
+                  stroke="currentColor"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                    stroke-width="2"
+                    d="M3 7v10a2 2 0 002 2h14a2 2 0 002-2V9a2 2 0 00-2-2h-6l-2-2H5a2 2 0 00-2 2z"
+                  ></path>
+                </svg>
+              </div>
+            </div>
+            <h3 class="text-2xl font-bold text-writeet-dark mb-3">
+              카테고리별 맞춤 학습
+            </h3>
+            <p class="text-base md:text-lg text-writeet-gray leading-relaxed">
+              언어와 문법 항목을 직접 선택해 나만의 학습 카테고리를 만들고, 원하는 항목에 집중할 수 있습니다.
+            </p>
+          </div>
+
+          <!-- Feature 3 -->
+          <div
+            id="feature-3"
+            class="bg-white rounded-2xl shadow-lg p-8 hover:shadow-xl transition-shadow duration-200 border border-amber-100"
+          >
+            <div class="flex items-center justify-start mb-6">
+              <div
+                class="w-14 h-14 bg-orange-50 rounded-xl flex items-center justify-center relative"
+              >
+                <svg
+                  class="w-8 h-8 text-writeet-primary"
+                  fill="none"
+                  stroke="currentColor"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                    stroke-width="2"
+                    d="M4 4v5h.582m15.356 2A8.001 8.001 0 004.582 9m0 0H9m11 11v-5h-.581m0 0a8.003 8.003 0 01-15.357-2m15.357 2H15"
+                  ></path>
+                </svg>
+              </div>
+            </div>
+            <h3 class="text-2xl font-bold text-writeet-dark mb-3">
+              자동 복습 & 임시저장
+            </h3>
+            <p class="text-base md:text-lg text-writeet-gray leading-relaxed">
+              작문 중 이탈해도 답안이 자동 저장되고, 복습 필요 시 알림과 함께 이전 학습으로 바로 이어집니다.
+            </p>
+          </div>
+
+          <!-- Feature 4 -->
+          <div
+            id="feature-4"
+            class="bg-white rounded-2xl shadow-lg p-8 hover:shadow-xl transition-shadow duration-200 border border-amber-100"
+          >
+            <div class="flex items-center justify-start mb-6">
+              <div
+                class="w-14 h-14 bg-orange-50 rounded-xl flex items-center justify-center relative"
+              >
+                <svg
+                  class="w-8 h-8 text-writeet-primary"
                   fill="none"
                   stroke="currentColor"
                   viewBox="0 0 24 24"
@@ -303,77 +358,10 @@
               </div>
             </div>
             <h3 class="text-2xl font-bold text-writeet-dark mb-3">
-              매일의 문장 완성 챌린지
+              합리적 구독 모델
             </h3>
             <p class="text-base md:text-lg text-writeet-gray leading-relaxed">
-              하루 한 문제씩, 부담 없는 훈련을 통해 문법 규칙을 자연스럽게
-              체득하고 응용력을 키웁니다.
-            </p>
-          </div>
-
-          <!-- Feature 3 -->
-          <div
-            id="feature-3"
-            class="bg-white rounded-2xl shadow-lg p-8 hover:shadow-xl transition-shadow duration-200 border border-slate-200"
-          >
-            <div class="flex items-center justify-start mb-6">
-              <div
-                class="w-14 h-14 bg-indigo-50 rounded-xl flex items-center justify-center relative"
-              >
-                <svg
-                  class="w-8 h-8 text-writeet-purple"
-                  fill="none"
-                  stroke="currentColor"
-                  viewBox="0 0 24 24"
-                >
-                  <path
-                    stroke-linecap="round"
-                    stroke-linejoin="round"
-                    stroke-width="2"
-                    d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"
-                  ></path>
-                </svg>
-              </div>
-            </div>
-            <h3 class="text-2xl font-bold text-writeet-dark mb-3">
-              즉각적인 피드백과 채점 시스템
-            </h3>
-            <p class="text-base md:text-lg text-writeet-gray leading-relaxed">
-              내가 만든 문장이 맞았는지 바로 확인하고, 정확한 표현을 익히며
-              실력을 빠르게 향상시킵니다.
-            </p>
-          </div>
-
-          <!-- Feature 4 -->
-          <div
-            id="feature-4"
-            class="bg-white rounded-2xl shadow-lg p-8 hover:shadow-xl transition-shadow duration-200 border border-slate-200"
-          >
-            <div class="flex items-center justify-start mb-6">
-              <div
-                class="w-14 h-14 bg-indigo-50 rounded-xl flex items-center justify-center relative"
-              >
-                <svg
-                  class="w-8 h-8 text-writeet-purple"
-                  fill="none"
-                  stroke="currentColor"
-                  viewBox="0 0 24 24"
-                >
-                  <path
-                    stroke-linecap="round"
-                    stroke-linejoin="round"
-                    stroke-width="2"
-                    d="M7 12l3-3 3 3 4-4M8 21l4-4 4 4M3 4h18M4 4h16v12a1 1 0 01-1 1H5a1 1 0 01-1-1V4z"
-                  ></path>
-                </svg>
-              </div>
-            </div>
-            <h3 class="text-2xl font-bold text-writeet-dark mb-3">
-              한눈에 보는 나의 성장 리포트
-            </h3>
-            <p class="text-base md:text-lg text-writeet-gray leading-relaxed">
-              어떤 문법에 강하고 약한지 파악하고, 성취감을 느끼며 학습 동기를
-              유지할 수 있습니다.
+              무료로 시작해 광고 시청 후 채점 확인, 구독 시 즉시 무제한 채점·피드백으로 학습 속도를 높입니다.
             </p>
           </div>
         </div>
@@ -390,15 +378,15 @@
           id="final-cta-title"
           class="text-3xl md:text-6xl font-bold text-white mb-6 leading-tight"
         >
-          이제 감이 아닌<br />
-          <span class="text-indigo-300">정확성으로 문장을 만드세요</span>
+          외국어 작문, 이제<br />
+          <span class="text-orange-300">AI와 함께 빠르게 성장하세요</span>
         </h2>
-        <p class="text-base md:text-lg text-slate-300 mb-10">
-          매일 단 한 문제로 시작하는 외국어 문법 마스터의 여정
+        <p class="text-base md:text-lg text-amber-200 mb-10">
+          채점과 교정으로 동기 부여를 이어가는 외국어 작문 학습 여정
         </p>
         <button
           id="cta-start-final"
-          class="bg-writeet-purple text-white px-8 py-3.5 rounded-lg font-semibold text-base hover:bg-indigo-700 transition-all duration-200 inline-flex items-center mb-4 shadow-lg hover:shadow-xl"
+          class="bg-writeet-primary text-white px-8 py-3.5 rounded-lg font-semibold text-base hover:bg-orange-600 transition-all duration-200 inline-flex items-center mb-4 shadow-lg hover:shadow-xl"
         >
           무료로 시작하기
           <svg
@@ -415,21 +403,21 @@
             ></path>
           </svg>
         </button>
-        <p class="text-sm text-slate-400">신용카드 정보가 필요 없습니다.</p>
+        <p class="text-sm text-amber-300">신용카드 정보가 필요 없습니다.</p>
       </div>
     </section>
 
     <!-- Footer -->
     <footer
       id="footer"
-      class="bg-writeet-dark border-t border-slate-700 py-12 px-4 md:px-8 text-center"
+      class="bg-writeet-dark border-t border-amber-900 py-12 px-4 md:px-8 text-center"
     >
       <div class="max-w-4xl mx-auto text-center">
-        <h3 class="text-2xl font-bold text-white mb-2">Writeet</h3>
-        <p class="text-slate-400 text-sm mb-6">
-          매일 쓰는 외국어, 진짜 실력이 되다
+        <h3 class="text-2xl font-bold text-white mb-2">라이팃 Writeet</h3>
+        <p class="text-amber-300 text-sm mb-6">
+          외국어 작문, AI가 즉시 채점하고 피드백까지
         </p>
-        <p class="text-xs text-slate-500">
+        <p class="text-xs text-amber-500">
           © 2024 Writeet. All rights reserved.
         </p>
       </div>

@@ -1,0 +1,426 @@
+<!DOCTYPE html>
+<html lang="ko">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>해빚온 Habiton - 습관 완주</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+      tailwind.config = {
+        theme: {
+          extend: {
+            colors: {
+              "habiton-primary": "#3D9652",
+              "habiton-dark": "#1A2A1C",
+              "habiton-gray": "#6B7C6D",
+              "habiton-accent": "#D4845A",
+            },
+          },
+        },
+      };
+    </script>
+    <style>
+      @import url("https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300;400;500;600;700;800&display=swap");
+      body {
+        font-family: "Noto Sans KR", sans-serif;
+      }
+    </style>
+  </head>
+  <body class="bg-green-50">
+    <!-- Hero Section -->
+    <section
+      id="hero-section"
+      class="bg-gradient-to-b from-white to-green-50 py-12 px-4 md:py-20 md:px-8"
+    >
+      <div class="max-w-5xl mx-auto text-center">
+        <h1
+          id="hero-title"
+          class="text-5xl md:text-6xl lg:text-7xl font-bold text-habiton-dark mb-8 leading-tight"
+        >
+          습관, 잘 하는 게 아니라<br />
+          <span class="text-habiton-primary">안 무너지게 잡아주는 앱</span>
+        </h1>
+        <p class="text-lg md:text-xl text-habiton-gray mb-4">
+          작심삼일, 이번에도 또 끊겼나요?
+        </p>
+        <p class="text-base md:text-lg text-habiton-gray mb-10">
+          다마고치 캐릭터가 내 습관 달성률을 감성적으로 알려주는 해빚온과 함께 꾸준히 이어가세요.
+        </p>
+
+        <div
+          id="hero-description-card"
+          class="bg-green-100 rounded-2xl p-8 md:p-10 mb-10 max-w-3xl mx-auto border-2 border-green-200"
+        >
+          <div
+            class="text-habiton-gray text-sm md:text-base leading-relaxed text-center space-y-3"
+          >
+            <p>
+              숫자 대신 캐릭터 상태로 체감하고, 쉬어간 날도 실패가 아닌 하루로 기록합니다.
+            </p>
+            <p class="text-base md:text-lg font-bold text-habiton-dark">
+              번아웃이 오기 쉬운 일상에서 무너지지 않게 잡아주는 가장 부담 없는 습관 앱이에요.
+            </p>
+          </div>
+        </div>
+
+        <div class="flex flex-col items-center gap-3">
+          <button
+            id="cta-start-hero"
+            class="bg-habiton-primary text-white px-8 py-3.5 rounded-lg font-semibold text-base hover:bg-green-700 transition-all duration-200 flex items-center shadow-lg hover:shadow-xl"
+          >
+            무료로 시작하기
+            <svg
+              class="w-5 h-5 ml-2"
+              fill="none"
+              stroke="currentColor"
+              viewBox="0 0 24 24"
+            >
+              <path
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                stroke-width="2"
+                d="M9 5l7 7-7 7"
+              ></path>
+            </svg>
+          </button>
+          <p class="text-xs text-green-700">완전 무료, 신용카드 불필요.</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- How it Works Section -->
+    <section
+      id="how-it-works-section"
+      class="bg-white py-16 px-4 md:py-24 md:px-8"
+    >
+      <div class="max-w-6xl mx-auto">
+        <div class="text-center mb-16">
+          <h2
+            id="how-title"
+            class="text-4xl md:text-5xl font-bold text-habiton-dark mb-4"
+          >
+            How it Works
+          </h2>
+          <p class="text-base md:text-lg text-habiton-gray">
+            설정부터 통계까지, 3단계로 완주하는 습관 관리
+          </p>
+        </div>
+
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-6 md:gap-8">
+          <!-- Step 1 -->
+          <div
+            id="how-step-1"
+            class="bg-white rounded-2xl shadow-lg p-8 hover:shadow-xl transition-shadow duration-200 border border-green-100"
+          >
+            <div class="flex items-start justify-start gap-3 mb-6">
+              <div
+                class="w-14 h-14 bg-green-50 rounded-xl flex items-center justify-center"
+              >
+                <svg
+                  class="w-7 h-7 text-habiton-primary"
+                  fill="none"
+                  stroke="currentColor"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                    stroke-width="2"
+                    d="M12 4v16m8-8H4"
+                  ></path>
+                </svg>
+              </div>
+              <span
+                class="text-3xl leading-none font-extrabold text-habiton-primary"
+                >01</span
+              >
+            </div>
+            <h3 class="text-2xl font-bold text-habiton-dark mb-3">
+              습관 추가 & 반복 주기 설정
+            </h3>
+            <p class="text-sm text-habiton-gray leading-relaxed">
+              이모지를 고르고 습관 이름과 반복 주기(매일/평일/주 N회)를 설정합니다. 알림 시간도 함께 등록하면 잊어버릴 걱정 없어요.
+            </p>
+          </div>
+
+          <!-- Step 2 -->
+          <div
+            id="how-step-2"
+            class="bg-white rounded-2xl shadow-lg p-8 hover:shadow-xl transition-shadow duration-200 border border-green-100"
+          >
+            <div class="flex items-start justify-start gap-3 mb-6">
+              <div
+                class="w-14 h-14 bg-green-50 rounded-xl flex items-center justify-center"
+              >
+                <svg
+                  class="w-7 h-7 text-habiton-primary"
+                  fill="none"
+                  stroke="currentColor"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                    stroke-width="2"
+                    d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"
+                  ></path>
+                </svg>
+              </div>
+              <span
+                class="text-3xl leading-none font-extrabold text-habiton-primary"
+                >02</span
+              >
+            </div>
+            <h3 class="text-2xl font-bold text-habiton-dark mb-3">
+              오늘의 습관 체크
+            </h3>
+            <p class="text-sm text-habiton-gray leading-relaxed">
+              홈 화면에서 오늘 해야 할 습관 목록을 확인하고, 완료하면 체크 버튼을 탭합니다. 다마고치 캐릭터가 달성률에 따라 표정을 바꿉니다.
+            </p>
+          </div>
+
+          <!-- Step 3 -->
+          <div
+            id="how-step-3"
+            class="bg-white rounded-2xl shadow-lg p-8 hover:shadow-xl transition-shadow duration-200 border border-green-100"
+          >
+            <div class="flex items-start justify-start gap-3 mb-6">
+              <div
+                class="w-14 h-14 bg-green-50 rounded-xl flex items-center justify-center"
+              >
+                <svg
+                  class="w-7 h-7 text-habiton-primary"
+                  fill="none"
+                  stroke="currentColor"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                    stroke-width="2"
+                    d="M9 19v-6a2 2 0 00-2-2H5a2 2 0 00-2 2v6a2 2 0 002 2h2a2 2 0 002-2zm0 0V9a2 2 0 012-2h2a2 2 0 012 2v10m-6 0a2 2 0 002 2h2a2 2 0 002-2m0 0V5a2 2 0 012-2h2a2 2 0 012 2v14a2 2 0 01-2 2h-2a2 2 0 01-2-2z"
+                  ></path>
+                </svg>
+              </div>
+              <span
+                class="text-3xl leading-none font-extrabold text-habiton-primary"
+                >03</span
+              >
+            </div>
+            <h3 class="text-2xl font-bold text-habiton-dark mb-3">
+              통계 & 달성 기록 확인
+            </h3>
+            <p class="text-sm text-habiton-gray leading-relaxed">
+              잔디밭 뷰로 과거 달성 현황을 한눈에 보고, 개별 습관의 스트릭과 달성률로 성장 과정을 확인합니다.
+            </p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Features Section -->
+    <section
+      id="features-section"
+      class="bg-green-50 py-16 px-4 md:py-24 md:px-8"
+    >
+      <div class="max-w-6xl mx-auto">
+        <div class="text-center mb-16">
+          <h2
+            id="features-title"
+            class="text-4xl md:text-5xl font-bold text-habiton-dark mb-4"
+          >
+            Features
+          </h2>
+          <p class="text-base md:text-lg text-habiton-gray">
+            부담 없이 꾸준히 이어가는 습관 관리 경험
+          </p>
+        </div>
+
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-6 max-w-6xl mx-auto">
+          <!-- Feature 1 -->
+          <div
+            id="feature-1"
+            class="bg-white rounded-2xl shadow-lg p-8 hover:shadow-xl transition-shadow duration-200 border border-green-100"
+          >
+            <div class="flex items-center justify-start mb-6">
+              <div
+                class="w-14 h-14 bg-green-50 rounded-xl flex items-center justify-center relative"
+              >
+                <svg
+                  class="w-8 h-8 text-habiton-primary"
+                  fill="none"
+                  stroke="currentColor"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                    stroke-width="2"
+                    d="M14.828 14.828a4 4 0 01-5.656 0M9 10h.01M15 10h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"
+                  ></path>
+                </svg>
+              </div>
+            </div>
+            <h3 class="text-2xl font-bold text-habiton-dark mb-3">
+              다마고치 감성 보상
+            </h3>
+            <p class="text-base md:text-lg text-habiton-gray leading-relaxed">
+              7일 평균 달성률에 따라 캐릭터가 행복·보통·지침 세 가지 상태로 변해 숫자 없이 내 습관 상태를 직감적으로 알려줍니다.
+            </p>
+          </div>
+
+          <!-- Feature 2 -->
+          <div
+            id="feature-2"
+            class="bg-white rounded-2xl shadow-lg p-8 hover:shadow-xl transition-shadow duration-200 border border-green-100"
+          >
+            <div class="flex items-center justify-start mb-6">
+              <div
+                class="w-14 h-14 bg-green-50 rounded-xl flex items-center justify-center relative"
+              >
+                <svg
+                  class="w-8 h-8 text-habiton-primary"
+                  fill="none"
+                  stroke="currentColor"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                    stroke-width="2"
+                    d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z"
+                  ></path>
+                </svg>
+              </div>
+            </div>
+            <h3 class="text-2xl font-bold text-habiton-dark mb-3">
+              잔디밭 & 스트릭 기록
+            </h3>
+            <p class="text-base md:text-lg text-habiton-gray leading-relaxed">
+              91일 히트맵으로 꾸준함을 시각화하고, 개별 습관의 연속 달성일(스트릭)과 달성률을 추적해 동기를 이어갑니다.
+            </p>
+          </div>
+
+          <!-- Feature 3 -->
+          <div
+            id="feature-3"
+            class="bg-white rounded-2xl shadow-lg p-8 hover:shadow-xl transition-shadow duration-200 border border-green-100"
+          >
+            <div class="flex items-center justify-start mb-6">
+              <div
+                class="w-14 h-14 bg-green-50 rounded-xl flex items-center justify-center relative"
+              >
+                <svg
+                  class="w-8 h-8 text-habiton-primary"
+                  fill="none"
+                  stroke="currentColor"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                    stroke-width="2"
+                    d="M15 17h5l-1.405-1.405A2.032 2.032 0 0118 14.158V11a6.002 6.002 0 00-4-5.659V5a2 2 0 10-4 0v.341C7.67 6.165 6 8.388 6 11v3.159c0 .538-.214 1.055-.595 1.436L4 17h5m6 0v1a3 3 0 11-6 0v-1m6 0H9"
+                  ></path>
+                </svg>
+              </div>
+            </div>
+            <h3 class="text-2xl font-bold text-habiton-dark mb-3">
+              스마트 알림
+            </h3>
+            <p class="text-base md:text-lg text-habiton-gray leading-relaxed">
+              반복 주기와 알림 시간, 방해 금지 시간을 자유롭게 설정해 필요할 때만, 딱 맞는 시간에 알림이 옵니다.
+            </p>
+          </div>
+
+          <!-- Feature 4 -->
+          <div
+            id="feature-4"
+            class="bg-white rounded-2xl shadow-lg p-8 hover:shadow-xl transition-shadow duration-200 border border-green-100"
+          >
+            <div class="flex items-center justify-start mb-6">
+              <div
+                class="w-14 h-14 bg-green-50 rounded-xl flex items-center justify-center relative"
+              >
+                <svg
+                  class="w-8 h-8 text-habiton-primary"
+                  fill="none"
+                  stroke="currentColor"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                    stroke-width="2"
+                    d="M4.318 6.318a4.5 4.5 0 000 6.364L12 20.364l7.682-7.682a4.5 4.5 0 00-6.364-6.364L12 7.636l-1.318-1.318a4.5 4.5 0 00-6.364 0z"
+                  ></path>
+                </svg>
+              </div>
+            </div>
+            <h3 class="text-2xl font-bold text-habiton-dark mb-3">
+              부담 없는 설계
+            </h3>
+            <p class="text-base md:text-lg text-habiton-gray leading-relaxed">
+              최대 5개 습관, 쉬어간 날도 "실패" 아닌 하루로 기록. 비교·경쟁 없이 나만의 페이스로 꾸준히 지속합니다.
+            </p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Final Call to Action -->
+    <section
+      id="final-cta-section"
+      class="bg-habiton-dark py-16 px-4 md:py-24 md:px-8"
+    >
+      <div class="max-w-4xl mx-auto text-center">
+        <h2
+          id="final-cta-title"
+          class="text-3xl md:text-6xl font-bold text-white mb-6 leading-tight"
+        >
+          습관, 이번엔<br />
+          <span class="text-green-300">무너지지 않고 완주하세요</span>
+        </h2>
+        <p class="text-base md:text-lg text-slate-300 mb-10">
+          다마고치와 함께 부담 없이 꾸준히 이어가는 습관 관리 여정
+        </p>
+        <button
+          id="cta-start-final"
+          class="bg-habiton-primary text-white px-8 py-3.5 rounded-lg font-semibold text-base hover:bg-green-700 transition-all duration-200 inline-flex items-center mb-4 shadow-lg hover:shadow-xl"
+        >
+          무료로 시작하기
+          <svg
+            class="w-5 h-5 ml-2"
+            fill="none"
+            stroke="currentColor"
+            viewBox="0 0 24 24"
+          >
+            <path
+              stroke-linecap="round"
+              stroke-linejoin="round"
+              stroke-width="2"
+              d="M9 5l7 7-7 7"
+            ></path>
+          </svg>
+        </button>
+        <p class="text-sm text-slate-400">완전 무료, 신용카드 불필요.</p>
+      </div>
+    </section>
+
+    <!-- Footer -->
+    <footer
+      id="footer"
+      class="bg-habiton-dark border-t border-green-900 py-12 px-4 md:px-8 text-center"
+    >
+      <div class="max-w-4xl mx-auto text-center">
+        <h3 class="text-2xl font-bold text-white mb-2">해빚온 Habiton</h3>
+        <p class="text-green-300 text-sm mb-6">
+          습관, 잘 하는 게 아니라 안 무너지게 잡아주는 앱
+        </p>
+        <p class="text-xs text-green-600">
+          © 2024 Habiton. All rights reserved.
+        </p>
+      </div>
+    </footer>
+  </body>
+</html>

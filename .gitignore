@@ -34,3 +34,6 @@ tmp/
 temp/
 *.tmp
 
+
+# Auto sync runtime files
+.sync-state/

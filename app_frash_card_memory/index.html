@@ -3,16 +3,17 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Repeta - 계획을 넘어, 배움을 기록하다</title>
+    <title>레페타 Repeta - 간격 반복 암기 완주</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <script>
       tailwind.config = {
         theme: {
           extend: {
             colors: {
-              "writeet-purple": "#4F46E5",
-              "writeet-dark": "#0f172a",
-              "writeet-gray": "#475569",
+              "repeta-primary": "#86DEF0",
+              "repeta-dark": "#0c0b0e",
+              "repeta-gray": "#8B9CA0",
+              "repeta-accent": "#97ff91",
             },
           },
         },
@@ -31,59 +32,59 @@
       id="hero-section"
       class="bg-gradient-to-b from-white to-slate-50 py-12 px-4 md:py-20 md:px-8"
     >
-      <div class="max-w-4xl mx-auto text-center">
+      <div class="max-w-5xl mx-auto text-center">
         <h1
           id="hero-title"
-          class="text-5xl md:text-6xl lg:text-7xl font-bold text-writeet-dark mb-10 leading-tight"
+          class="text-5xl md:text-6xl lg:text-7xl font-bold text-repeta-dark mb-8 leading-tight"
         >
-          계획을 넘어,<br />
-          <span class="text-writeet-purple">배움을 기록하다</span>
+          간격 반복 암기,<br />
+          <span class="text-cyan-500">AI가 카드를 만들고 당신이 완주한다</span>
         </h1>
-        <p class="text-lg md:text-xl text-writeet-gray mb-3">
-          계획은 세우지만, 남는 게 없다고 느꼈나요?
+        <p class="text-lg md:text-xl text-repeta-gray mb-4">
+          암기 카드, 만드는 데 시간이 너무 걸려서 포기하셨나요?
         </p>
-        <p class="text-base md:text-lg text-writeet-gray mb-10">
-          모든 노력을 배움으로 기록할 시간입니다.
+        <p class="text-base md:text-lg text-repeta-gray mb-10">
+          AI 자동 생성부터 간격 반복 학습, 복습까지 한 흐름으로 돕는 레페타와 함께하세요.
         </p>
 
-        <!-- Description Card -->
         <div
           id="hero-description-card"
-          class="bg-slate-100 rounded-2xl p-8 md:p-10 mb-8 max-w-2xl mx-auto border-2 border-slate-200"
+          class="bg-slate-100 rounded-2xl p-8 md:p-10 mb-10 max-w-3xl mx-auto border-2 border-slate-200"
         >
           <div
-            class="text-writeet-gray text-sm md:text-base leading-relaxed text-center space-y-3"
+            class="text-repeta-gray text-sm md:text-base leading-relaxed text-center space-y-3"
           >
             <p>
-              계획은 세우지만, 남는 게 없다고 느꼈다면. <br />
-              필기는 흩어지고, 체계적인 복습이 어려웠다면.
+              단순 반복이 아닌, 과학적 간격 반복으로 기억을 효율적으로 굳혀 더 오래 기억합니다.
             </p>
-            <p class="text-base md:text-lg font-bold">
-              <span class="text-writeet-purple">Repeta</span>는 당신의 '일정'을
-              '학습 데이터'로 전환하여, <br />
-              모든 노력을 유의미한 성장으로 기록하는 가장 스마트한 방법입니다.
+            <p class="text-base md:text-lg font-bold text-repeta-dark">
+              구독하면 카드 수 제한 없이 모든 기능을 무제한으로 이용할 수 있어요.
             </p>
           </div>
         </div>
-        <button
-          id="cta-start-hero"
-          class="bg-writeet-purple text-white px-8 py-3.5 rounded-lg font-semibold text-base hover:bg-indigo-700 transition-all duration-200 flex items-center mx-auto mt-8 shadow-lg hover:shadow-xl"
-        >
-          무료로 시작하기
-          <svg
-            class="w-5 h-5 ml-2"
-            fill="none"
-            stroke="currentColor"
-            viewBox="0 0 24 24"
+
+        <div class="flex flex-col items-center gap-3">
+          <button
+            id="cta-start-hero"
+            class="bg-cyan-500 text-white px-8 py-3.5 rounded-lg font-semibold text-base hover:bg-cyan-600 transition-all duration-200 flex items-center shadow-lg hover:shadow-xl"
           >
-            <path
-              stroke-linecap="round"
-              stroke-linejoin="round"
-              stroke-width="2"
-              d="M9 5l7 7-7 7"
-            ></path>
-          </svg>
-        </button>
+            무료로 시작하기
+            <svg
+              class="w-5 h-5 ml-2"
+              fill="none"
+              stroke="currentColor"
+              viewBox="0 0 24 24"
+            >
+              <path
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                stroke-width="2"
+                d="M9 5l7 7-7 7"
+              ></path>
+            </svg>
+          </button>
+          <p class="text-xs text-slate-500">신용카드 정보가 필요 없습니다.</p>
+        </div>
       </div>
     </section>
 
@@ -96,12 +97,12 @@
         <div class="text-center mb-16">
           <h2
             id="how-title"
-            class="text-4xl md:text-5xl font-bold text-writeet-dark mb-4"
+            class="text-4xl md:text-5xl font-bold text-repeta-dark mb-4"
           >
             How it Works
           </h2>
-          <p class="text-base md:text-lg text-writeet-gray">
-            세 가지 단계로 시작하는 스마트 단어 학습
+          <p class="text-base md:text-lg text-repeta-gray">
+            AI 카드 생성부터 간격 반복까지, 3단계로 완주하는 암기 학습
           </p>
         </div>
 
@@ -113,10 +114,10 @@
           >
             <div class="flex items-start justify-start gap-3 mb-6">
               <div
-                class="w-14 h-14 bg-indigo-50 rounded-xl flex items-center justify-center"
+                class="w-14 h-14 bg-cyan-50 rounded-xl flex items-center justify-center"
               >
                 <svg
-                  class="w-7 h-7 text-writeet-purple"
+                  class="w-7 h-7 text-cyan-500"
                   fill="none"
                   stroke="currentColor"
                   viewBox="0 0 24 24"
@@ -125,27 +126,20 @@
                     stroke-linecap="round"
                     stroke-linejoin="round"
                     stroke-width="2"
-                    d="M15 12a3 3 0 11-6 0 3 3 0 016 0z"
-                  ></path>
-                  <path
-                    stroke-linecap="round"
-                    stroke-linejoin="round"
-                    stroke-width="2"
-                    d="M2.458 12C3.732 7.943 7.523 5 12 5c4.478 0 8.268 2.943 9.542 7-1.274 4.057-5.064 7-9.542 7-4.477 0-8.268-2.943-9.542-7z"
+                    d="M9.663 17h4.673M12 3v1m6.364 1.636l-.707.707M21 12h-1M4 12H3m3.343-5.657l-.707-.707m2.828 9.9a5 5 0 117.072 0l-.548.547A3.374 3.374 0 0014 18.469V19a2 2 0 11-4 0v-.531c0-.895-.356-1.754-.988-2.386l-.548-.547z"
                   ></path>
                 </svg>
               </div>
               <span
-                class="text-3xl leading-none font-extrabold text-writeet-purple"
+                class="text-3xl leading-none font-extrabold text-cyan-500"
                 >01</span
               >
             </div>
-            <h3 class="text-2xl font-bold text-writeet-dark mb-3">
-              학습 계획 및 할 일 추가
+            <h3 class="text-2xl font-bold text-repeta-dark mb-3">
+              카테고리 생성 & AI 카드 자동 생성
             </h3>
-            <p class="text-sm text-writeet-gray leading-relaxed">
-              오늘 공부할 분량, 읽어야 할 책, 완료해야 할 업무를 손쉽게
-              등록합니다.
+            <p class="text-sm text-repeta-gray leading-relaxed">
+              학습 카테고리를 만들고 AI로 카드를 자동 생성하거나 직접 추가합니다. AI 번역 보조로 답안 입력도 빠르게 완료됩니다.
             </p>
           </div>
 
@@ -156,10 +150,10 @@
           >
             <div class="flex items-start justify-start gap-3 mb-6">
               <div
-                class="w-14 h-14 bg-indigo-50 rounded-xl flex items-center justify-center"
+                class="w-14 h-14 bg-cyan-50 rounded-xl flex items-center justify-center"
               >
                 <svg
-                  class="w-7 h-7 text-writeet-purple"
+                  class="w-7 h-7 text-cyan-500"
                   fill="none"
                   stroke="currentColor"
                   viewBox="0 0 24 24"
@@ -168,21 +162,20 @@
                     stroke-linecap="round"
                     stroke-linejoin="round"
                     stroke-width="2"
-                    d="M11 5H6a2 2 0 00-2 2v11a2 2 0 002 2h11a2 2 0 002-2v-5m-1.414-9.414a2 2 0 112.828 2.828L11.828 15H9v-2.828l8.586-8.586z"
+                    d="M3 7v10a2 2 0 002 2h14a2 2 0 002-2V9a2 2 0 00-2-2h-6l-2-2H5a2 2 0 00-2 2z"
                   ></path>
                 </svg>
               </div>
               <span
-                class="text-3xl leading-none font-extrabold text-writeet-purple"
+                class="text-3xl leading-none font-extrabold text-cyan-500"
                 >02</span
               >
             </div>
-            <h3 class="text-2xl font-bold text-writeet-dark mb-3">
-              실행 및 즉시 기록
+            <h3 class="text-2xl font-bold text-repeta-dark mb-3">
+              간격 반복 플래시카드 학습
             </h3>
-            <p class="text-sm text-writeet-gray leading-relaxed">
-              계획을 실행하며 새롭게 알게 된 단어, 잊지 말아야 할 개념을 '나만의
-              단어장'에 즉시 저장합니다.
+            <p class="text-sm text-repeta-gray leading-relaxed">
+              카드를 보고 난이도(Again/Hard/Good/Easy 또는 Fail/Pass)를 평가하면, 기억 곡선에 맞는 복습 간격이 자동으로 조정됩니다.
             </p>
           </div>
 
@@ -193,10 +186,10 @@
           >
             <div class="flex items-start justify-start gap-3 mb-6">
               <div
-                class="w-14 h-14 bg-indigo-50 rounded-xl flex items-center justify-center"
+                class="w-14 h-14 bg-cyan-50 rounded-xl flex items-center justify-center"
               >
                 <svg
-                  class="w-7 h-7 text-writeet-purple"
+                  class="w-7 h-7 text-cyan-500"
                   fill="none"
                   stroke="currentColor"
                   viewBox="0 0 24 24"
@@ -210,16 +203,15 @@
                 </svg>
               </div>
               <span
-                class="text-3xl leading-none font-extrabold text-writeet-purple"
+                class="text-3xl leading-none font-extrabold text-cyan-500"
                 >03</span
               >
             </div>
-            <h3 class="text-2xl font-bold text-writeet-dark mb-3">
-              성과 분석 및 자동 복습
+            <h3 class="text-2xl font-bold text-repeta-dark mb-3">
+              꾸준한 복습으로 장기 기억화
             </h3>
-            <p class="text-sm text-writeet-gray leading-relaxed">
-              '학습 대시보드'로 나의 성취도를 확인하고, Repeta가 제안하는 최적
-              주기에 맞춰 복습합니다.
+            <p class="text-sm text-repeta-gray leading-relaxed">
+              설정한 복습 간격에 따라 적절한 시점에 카드가 다시 등장해 기억을 강화하고 장기 보존을 돕습니다.
             </p>
           </div>
         </div>
@@ -235,16 +227,16 @@
         <div class="text-center mb-16">
           <h2
             id="features-title"
-            class="text-4xl md:text-5xl font-bold text-writeet-dark mb-4"
+            class="text-4xl md:text-5xl font-bold text-repeta-dark mb-4"
           >
             Features
           </h2>
-          <p class="text-base md:text-lg text-writeet-gray">
-            성장을 기록하고 이어주는 스마트 학습 플래너의 핵심 기능
+          <p class="text-base md:text-lg text-repeta-gray">
+            AI와 과학적 반복으로 효율적으로 암기하는 학습 경험
           </p>
         </div>
 
-        <div class="grid grid-cols-1 md:grid-cols-3 gap-6 max-w-6xl mx-auto">
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-6 max-w-6xl mx-auto">
           <!-- Feature 1 -->
           <div
             id="feature-1"
@@ -252,10 +244,10 @@
           >
             <div class="flex items-center justify-start mb-6">
               <div
-                class="w-14 h-14 bg-indigo-50 rounded-xl flex items-center justify-center relative"
+                class="w-14 h-14 bg-cyan-50 rounded-xl flex items-center justify-center relative"
               >
                 <svg
-                  class="w-8 h-8 text-writeet-purple"
+                  class="w-8 h-8 text-cyan-500"
                   fill="none"
                   stroke="currentColor"
                   viewBox="0 0 24 24"
@@ -264,17 +256,16 @@
                     stroke-linecap="round"
                     stroke-linejoin="round"
                     stroke-width="2"
-                    d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.746 0 3.332.477 4.5 1.253v13C19.832 18.477 18.246 18 16.5 18c-1.746 0-3.332.477-4.5 1.253"
+                    d="M9.663 17h4.673M12 3v1m6.364 1.636l-.707.707M21 12h-1M4 12H3m3.343-5.657l-.707-.707m2.828 9.9a5 5 0 117.072 0l-.548.547A3.374 3.374 0 0014 18.469V19a2 2 0 11-4 0v-.531c0-.895-.356-1.754-.988-2.386l-.548-.547z"
                   ></path>
                 </svg>
               </div>
             </div>
-            <h3 class="text-2xl font-bold text-writeet-dark mb-3">
-              학습 통계 대시보드
+            <h3 class="text-2xl font-bold text-repeta-dark mb-3">
+              AI 카드 자동 생성 & 번역 보조
             </h3>
-            <p class="text-base md:text-lg text-writeet-gray leading-relaxed">
-              내가 어떤 분야에 시간을 쏟았는지, 목표 달성률은 얼마인지 한눈에
-              파악하세요. 주간/월간 리포트로 성장을 시각화합니다.
+            <p class="text-base md:text-lg text-repeta-gray leading-relaxed">
+              키워드만 입력하면 AI가 카드를 자동으로 생성하고, 뜻도 자동 추천해 카드 제작 시간을 획기적으로 줄여줍니다.
             </p>
           </div>
 
@@ -285,10 +276,74 @@
           >
             <div class="flex items-center justify-start mb-6">
               <div
-                class="w-14 h-14 bg-indigo-50 rounded-xl flex items-center justify-center relative"
+                class="w-14 h-14 bg-cyan-50 rounded-xl flex items-center justify-center relative"
               >
                 <svg
-                  class="w-8 h-8 text-writeet-purple"
+                  class="w-8 h-8 text-cyan-500"
+                  fill="none"
+                  stroke="currentColor"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                    stroke-width="2"
+                    d="M4 4v5h.582m15.356 2A8.001 8.001 0 004.582 9m0 0H9m11 11v-5h-.581m0 0a8.003 8.003 0 01-15.357-2m15.357 2H15"
+                  ></path>
+                </svg>
+              </div>
+            </div>
+            <h3 class="text-2xl font-bold text-repeta-dark mb-3">
+              과학적 간격 반복 학습
+            </h3>
+            <p class="text-base md:text-lg text-repeta-gray leading-relaxed">
+              Normal(4단계)·Easy(2단계) 평가 모드로 기억 상태에 맞게 복습 간격을 자동 조절해 효율적인 장기 기억을 만듭니다.
+            </p>
+          </div>
+
+          <!-- Feature 3 -->
+          <div
+            id="feature-3"
+            class="bg-white rounded-2xl shadow-lg p-8 hover:shadow-xl transition-shadow duration-200 border border-slate-200"
+          >
+            <div class="flex items-center justify-start mb-6">
+              <div
+                class="w-14 h-14 bg-cyan-50 rounded-xl flex items-center justify-center relative"
+              >
+                <svg
+                  class="w-8 h-8 text-cyan-500"
+                  fill="none"
+                  stroke="currentColor"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                    stroke-width="2"
+                    d="M19 11H5m14 0a2 2 0 012 2v6a2 2 0 01-2 2H5a2 2 0 01-2-2v-6a2 2 0 012-2m14 0V9a2 2 0 00-2-2M5 11V9a2 2 0 012-2m0 0V5a2 2 0 012-2h6a2 2 0 012 2v2M7 7h10"
+                  ></path>
+                </svg>
+              </div>
+            </div>
+            <h3 class="text-2xl font-bold text-repeta-dark mb-3">
+              유연한 카드 관리
+            </h3>
+            <p class="text-base md:text-lg text-repeta-gray leading-relaxed">
+              카테고리별 카드 목록 검색, 스와이프 삭제, 보관 기능으로 방대한 암기 카드를 체계적으로 관리합니다.
+            </p>
+          </div>
+
+          <!-- Feature 4 -->
+          <div
+            id="feature-4"
+            class="bg-white rounded-2xl shadow-lg p-8 hover:shadow-xl transition-shadow duration-200 border border-slate-200"
+          >
+            <div class="flex items-center justify-start mb-6">
+              <div
+                class="w-14 h-14 bg-cyan-50 rounded-xl flex items-center justify-center relative"
+              >
+                <svg
+                  class="w-8 h-8 text-cyan-500"
                   fill="none"
                   stroke="currentColor"
                   viewBox="0 0 24 24"
@@ -302,45 +357,11 @@
                 </svg>
               </div>
             </div>
-            <h3 class="text-2xl font-bold text-writeet-dark mb-3">
-              나에게 맞춘 단어장
+            <h3 class="text-2xl font-bold text-repeta-dark mb-3">
+              합리적 구독 모델
             </h3>
-            <p class="text-base md:text-lg text-writeet-gray leading-relaxed">
-              공부하다 발견한 단어, 개념, 코드 조각을 즉시 저장하세요. 잊을
-              만하면 다시 알려주는 스마트 복습 알림을 제공합니다.
-            </p>
-          </div>
-
-          <!-- Feature 3 -->
-          <div
-            id="feature-3"
-            class="bg-white rounded-2xl shadow-lg p-8 hover:shadow-xl transition-shadow duration-200 border border-slate-200"
-          >
-            <div class="flex items-center justify-start mb-6">
-              <div
-                class="w-14 h-14 bg-indigo-50 rounded-xl flex items-center justify-center relative"
-              >
-                <svg
-                  class="w-8 h-8 text-writeet-purple"
-                  fill="none"
-                  stroke="currentColor"
-                  viewBox="0 0 24 24"
-                >
-                  <path
-                    stroke-linecap="round"
-                    stroke-linejoin="round"
-                    stroke-width="2"
-                    d="M7 12l3-3 3 3 4-4M8 21l4-4 4 4M3 4h18M4 4h16v12a1 1 0 01-1 1H5a1 1 0 01-1-1V4z"
-                  ></path>
-                </svg>
-              </div>
-            </div>
-            <h3 class="text-2xl font-bold text-writeet-dark mb-3">
-              목표 중심의 트래킹
-            </h3>
-            <p class="text-base md:text-lg text-writeet-gray leading-relaxed">
-              복잡한 설정은 덜어냈습니다. 꼭 필요한 나만의 학습 데이터베이스를
-              가볍게 구축하세요.
+            <p class="text-base md:text-lg text-repeta-gray leading-relaxed">
+              무료로 시작해 일일 제한 내에서 광고와 함께 체험하고, 구독으로 무제한 카드와 모든 기능을 사용합니다.
             </p>
           </div>
         </div>
@@ -350,24 +371,24 @@
     <!-- Final Call to Action -->
     <section
       id="final-cta-section"
-      class="bg-writeet-dark py-16 px-4 md:py-24 md:px-8"
+      class="bg-repeta-dark py-16 px-4 md:py-24 md:px-8"
     >
       <div class="max-w-4xl mx-auto text-center">
         <h2
           id="final-cta-title"
           class="text-3xl md:text-6xl font-bold text-white mb-6 leading-tight"
         >
-          당신의 노력이 흩어지지 않도록,<br />
-          <span class="text-indigo-300">배움의 조각을 모으세요</span>
+          암기, 이제 반복의 힘으로<br />
+          <span class="text-cyan-300">완주하세요</span>
         </h2>
         <p class="text-base md:text-lg text-slate-300 mb-10">
-          지금 바로 Repeta로 시작하세요.
+          AI와 과학적 간격 반복으로 기억을 오래 유지하는 암기 학습 여정
         </p>
         <button
           id="cta-start-final"
-          class="bg-writeet-purple text-white px-8 py-3.5 rounded-lg font-semibold text-base hover:bg-indigo-700 transition-all duration-200 inline-flex items-center mb-4 shadow-lg hover:shadow-xl"
+          class="bg-cyan-500 text-white px-8 py-3.5 rounded-lg font-semibold text-base hover:bg-cyan-600 transition-all duration-200 inline-flex items-center mb-4 shadow-lg hover:shadow-xl"
         >
-          Repeta 무료로 시작하기
+          무료로 시작하기
           <svg
             class="w-5 h-5 ml-2"
             fill="none"
@@ -389,12 +410,12 @@
     <!-- Footer -->
     <footer
       id="footer"
-      class="bg-writeet-dark border-t border-slate-700 py-12 px-4 md:px-8 text-center"
+      class="bg-repeta-dark border-t border-slate-700 py-12 px-4 md:px-8 text-center"
     >
       <div class="max-w-4xl mx-auto text-center">
-        <h3 class="text-2xl font-bold text-white mb-2">Repeta</h3>
+        <h3 class="text-2xl font-bold text-white mb-2">레페타 Repeta</h3>
         <p class="text-slate-400 text-sm mb-6">
-          뇌가 잊기 직전, 다시 알려주는 스마트 암기 파트너
+          간격 반복 암기, AI가 카드를 만들고 당신이 완주한다
         </p>
         <p class="text-xs text-slate-500">
           © 2024 Repeta. All rights reserved.

@@ -187,7 +187,7 @@
 
       if (!file) {
         document.getElementById("content").innerHTML =
-          '<p class="error">사용법 확인<br>';
+          '<p class="error">사용법 확인</p>';
       } else {
         let fileUrl;
         try {
@@ -213,9 +213,8 @@
               document.getElementById("content").innerHTML = render(md);
             })
             .catch((e) => {
-              document.getElementById("content").innerHTML = (
-                <p class="error">사용법 확인</p>
-              );
+              document.getElementById("content").innerHTML =
+                '<p class="error">사용법 확인</p>';
             });
         }
       }

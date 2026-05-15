@@ -1,0 +1,146 @@
+{
+    "version": "1.0",
+    "data": [
+        {
+            "book": "Grammar Gateway Intermediate(초보를 위한 기초 영문법)",
+            "categories": [
+                {
+                    "title": { "ko": "be동사 & 현재 시제" },
+                    "lessons": [1, 3, 4]
+                },
+                {
+                    "title": { "ko": "현재진행 시제" },
+                    "lessons": [2, 5]
+                },
+                {
+                    "title": { "ko": "과거 단순 시제" },
+                    "lessons": [6]
+                },
+                {
+                    "title": { "ko": "과거진행 시제" },
+                    "lessons": [7, 8]
+                },
+                {
+                    "title": { "ko": "used to" },
+                    "lessons": [9]
+                },
+                {
+                    "title": { "ko": "현재완료 시제" },
+                    "lessons": [10, 11, 12]
+                },
+                {
+                    "title": { "ko": "현재완료 진행 시제" },
+                    "lessons": [13, 14]
+                },
+                {
+                    "title": { "ko": "과거완료 시제" },
+                    "lessons": [15]
+                },
+                {
+                    "title": { "ko": "will / going to" },
+                    "lessons": [16, 17]
+                },
+                {
+                    "title": { "ko": "미래진행 · 미래완료 · 시간절 미래" },
+                    "lessons": [18, 19, 20, 21]
+                },
+                {
+                    "title": { "ko": "can / could" },
+                    "lessons": [22, 23]
+                },
+                {
+                    "title": { "ko": "might / may / must" },
+                    "lessons": [24, 25, 26]
+                },
+                {
+                    "title": { "ko": "should / had better" },
+                    "lessons": [27, 28]
+                },
+                {
+                    "title": { "ko": "의문문 (Yes-No · Wh · 간접 · 부가)" },
+                    "lessons": [29, 30, 31, 32]
+                },
+                {
+                    "title": { "ko": "수동태" },
+                    "lessons": [33, 34, 35]
+                },
+                {
+                    "title": { "ko": "동명사" },
+                    "lessons": [36, 37, 39, 45, 46]
+                },
+                {
+                    "title": { "ko": "to부정사" },
+                    "lessons": [38, 40, 41, 42, 43, 44]
+                },
+                {
+                    "title": { "ko": "there is / have + 명사 형태" },
+                    "lessons": [47, 48, 49, 50]
+                },
+                {
+                    "title": { "ko": "관사 (a / the)" },
+                    "lessons": [51, 52, 53, 54]
+                },
+                {
+                    "title": { "ko": "대명사 (인칭 · 소유 · 재귀 · 대용)" },
+                    "lessons": [55, 56, 57, 58]
+                },
+                {
+                    "title": { "ko": "some / any / no / none" },
+                    "lessons": [59, 60]
+                },
+                {
+                    "title": { "ko": "all / every / each / many / much / both / either" },
+                    "lessons": [61, 62, 63, 64]
+                },
+                {
+                    "title": { "ko": "형용사 (기본 · 분사형)" },
+                    "lessons": [65, 66, 67]
+                },
+                {
+                    "title": { "ko": "부사 (기본 · 형태 · 위치)" },
+                    "lessons": [68, 69, 70, 71]
+                },
+                {
+                    "title": { "ko": "too / enough / so / such" },
+                    "lessons": [72, 73]
+                },
+                {
+                    "title": { "ko": "비교급 · 최상급 · as ~ as" },
+                    "lessons": [74, 75, 76, 77, 78, 79]
+                },
+                {
+                    "title": { "ko": "장소 전치사 (at / in / on)" },
+                    "lessons": [80, 81]
+                },
+                {
+                    "title": { "ko": "시간 전치사 (at / on / in / for / during)" },
+                    "lessons": [82, 83, 84]
+                },
+                {
+                    "title": { "ko": "기타 전치사 및 전치사 관용 표현" },
+                    "lessons": [85, 86, 87, 88, 89, 90]
+                },
+                {
+                    "title": { "ko": "접속사 · 부사절 · 분사구문" },
+                    "lessons": [91, 92, 93, 94, 95]
+                },
+                {
+                    "title": { "ko": "가정법 (현재 · 과거 · 과거완료 · wish)" },
+                    "lessons": [96, 97, 98, 99]
+                },
+                {
+                    "title": { "ko": "관계사 (관계대명사 · 관계부사)" },
+                    "lessons": [100, 101, 102, 103, 104]
+                },
+                {
+                    "title": { "ko": "간접화법 · that절" },
+                    "lessons": [105, 106, 107]
+                },
+                {
+                    "title": { "ko": "기타 구문 (there+be · so/neither · that절 목적어)" },
+                    "lessons": [108, 109, 110]
+                }
+            ]
+        }
+    ]
+}

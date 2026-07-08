@@ -1,0 +1,481 @@
+<!DOCTYPE html>
+<html lang="ko">
+  <head>
+    <!-- Primary Meta -->
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Soejilog — 손목으로 흐르고, 폰에서 정리하는 웨이트 트레이닝 기록</title>
+    <meta
+      name="description"
+      content="애플워치를 blind 컨트롤러로 세트·휴식만 넘기고, 무게·횟수와 종목은 운동이 끝난 뒤 폰의 사후 매칭에서 정리하는 웨이트 트레이닝 기록 앱. 심박은 HealthKit에서 자동 부착."
+    />
+    <meta
+      name="keywords"
+      content="운동기록, 헬스, 웨이트 트레이닝, 애플워치, 세트 기록, 루틴, 운동일지, 심박, workout, apple watch"
+    />
+    <meta name="author" content="Soejilog" />
+    <link rel="canonical" href="#" />
+
+    <!-- Open Graph (SNS 공유) -->
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Soejilog — 손목으로 흐르고, 폰에서 정리한다" />
+    <meta
+      property="og:description"
+      content="애플워치는 세트·휴식만 넘기는 blind 컨트롤러. 무게·횟수와 종목은 운동 후 폰의 사후 매칭에서 한 번에 정리하세요."
+    />
+    <meta property="og:image" content="icon.png" />
+    <meta property="og:url" content="#" />
+    <meta property="og:site_name" content="Soejilog" />
+
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Soejilog — 손목으로 흐르고, 폰에서 정리한다" />
+    <meta
+      name="twitter:description"
+      content="애플워치는 세트·휴식만 넘기는 blind 컨트롤러. 무게·횟수와 종목은 운동 후 폰의 사후 매칭에서 한 번에 정리하세요."
+    />
+    <meta name="twitter:image" content="icon.png" />
+
+    <!-- Schema.org JSON-LD (구조화 데이터) -->
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "SoftwareApplication",
+        "name": "Soejilog",
+        "description": "애플워치를 blind 컨트롤러로 삼아 세트·휴식을 진행하고, 무게·횟수 기록과 종목 정체는 폰의 사후 매칭에서 처리하는 웨이트 트레이닝 기록 앱.",
+        "applicationCategory": "HealthApplication",
+        "operatingSystem": "iOS, watchOS",
+        "offers": { "@type": "Offer", "price": "0", "priceCurrency": "USD" }
+      }
+    </script>
+
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+      tailwind.config = {
+        theme: {
+          extend: {
+            colors: {
+              "soejilog-primary": "#C6F833",
+              "soejilog-dark": "#0B0B0D",
+              "soejilog-gray": "#52525b",
+              "soejilog-accent": "#30D158",
+            },
+          },
+        },
+      };
+    </script>
+    <style>
+      @import url("https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300;400;500;600;700;800&display=swap");
+      body {
+        font-family: "Noto Sans KR", sans-serif;
+      }
+    </style>
+  </head>
+  <body class="bg-slate-50">
+    <!-- Hero Section -->
+    <section
+      id="hero-section"
+      class="bg-gradient-to-b from-white to-slate-50 py-12 px-4 md:py-20 md:px-8"
+    >
+      <div class="max-w-5xl mx-auto text-center">
+        <h1
+          id="hero-title"
+          class="text-5xl md:text-6xl lg:text-7xl font-bold text-soejilog-dark mb-8 leading-tight"
+        >
+          손목으로 흐르고,<br />
+          <span class="text-soejilog-accent">폰에서 정리한다</span>
+        </h1>
+        <p class="text-lg md:text-xl text-soejilog-gray mb-4">
+          운동하다 말고 폰을 꺼내 무게·횟수를 입력하느라 흐름이 끊기셨나요?
+        </p>
+        <p class="text-base md:text-lg text-soejilog-gray mb-10">
+          애플워치는 세트·휴식만 넘기는 blind 컨트롤러로 두고, 기록은 운동이 끝난
+          뒤 폰에서 한 번에 정리하세요.
+        </p>
+
+        <div
+          id="hero-description-card"
+          class="bg-slate-100 rounded-2xl p-8 md:p-10 mb-10 max-w-3xl mx-auto border-2 border-slate-200"
+        >
+          <div
+            class="text-soejilog-gray text-sm md:text-base leading-relaxed text-center space-y-3"
+          >
+            <p>
+              워치는 종목 이름도 숫자도 모릅니다. 익명 슬롯 #1, #2만 순서대로
+              남기고, 무게·횟수와 종목 정체는 세션 종료 후 폰의 사후 매칭에서
+              채웁니다.
+            </p>
+            <p class="text-base md:text-lg font-bold text-soejilog-dark">
+              계획은 강제가 아니라 힌트일 뿐, 진실은 언제나 실제로 든 기록입니다.
+            </p>
+          </div>
+        </div>
+
+        <div class="flex flex-col items-center gap-3">
+          <button
+            id="cta-start-hero"
+            class="bg-soejilog-primary text-soejilog-dark px-8 py-3.5 rounded-lg font-semibold text-base hover:brightness-95 transition-all duration-200 flex items-center shadow-lg hover:shadow-xl"
+          >
+            무료로 시작하기
+            <svg
+              class="w-5 h-5 ml-2"
+              fill="none"
+              stroke="currentColor"
+              viewBox="0 0 24 24"
+            >
+              <path
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                stroke-width="2"
+                d="M9 5l7 7-7 7"
+              ></path>
+            </svg>
+          </button>
+          <p class="text-xs text-slate-500">아이폰과 애플워치만 있으면 됩니다.</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- How it Works Section -->
+    <section
+      id="how-it-works-section"
+      class="bg-white py-16 px-4 md:py-24 md:px-8"
+    >
+      <div class="max-w-6xl mx-auto">
+        <div class="text-center mb-16">
+          <h2
+            id="how-title"
+            class="text-4xl md:text-5xl font-bold text-soejilog-dark mb-4"
+          >
+            How it Works
+          </h2>
+          <p class="text-base md:text-lg text-soejilog-gray">
+            워치로 진행하고 폰에서 정리하는, 3단계 웨이트 트레이닝 기록
+          </p>
+        </div>
+
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-6 md:gap-8">
+          <!-- Step 1 -->
+          <div
+            id="how-step-1"
+            class="bg-white rounded-2xl shadow-lg p-8 hover:shadow-xl transition-shadow duration-200 border border-slate-200"
+          >
+            <div class="flex items-start justify-start gap-3 mb-6">
+              <div
+                class="w-14 h-14 bg-lime-50 rounded-xl flex items-center justify-center"
+              >
+                <svg
+                  class="w-7 h-7 text-soejilog-accent"
+                  fill="none"
+                  stroke="currentColor"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                    stroke-width="2"
+                    d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"
+                  ></path>
+                </svg>
+              </div>
+              <span
+                class="text-3xl leading-none font-extrabold text-soejilog-accent"
+                >01</span
+              >
+            </div>
+            <h3 class="text-2xl font-bold text-soejilog-dark mb-3">
+              워치로 세트–휴식만 넘긴다
+            </h3>
+            <p class="text-sm text-soejilog-gray leading-relaxed">
+              대기 → 세트 시작 → 휴식 시작 → 휴식 종료. 값 입력 없이 버튼 2개로만
+              운동을 진행하고, 종료는 롱프레스로 처리합니다.
+            </p>
+          </div>
+
+          <!-- Step 2 -->
+          <div
+            id="how-step-2"
+            class="bg-white rounded-2xl shadow-lg p-8 hover:shadow-xl transition-shadow duration-200 border border-slate-200"
+          >
+            <div class="flex items-start justify-start gap-3 mb-6">
+              <div
+                class="w-14 h-14 bg-lime-50 rounded-xl flex items-center justify-center"
+              >
+                <svg
+                  class="w-7 h-7 text-soejilog-accent"
+                  fill="none"
+                  stroke="currentColor"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                    stroke-width="2"
+                    d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2m-3 7h3m-3 4h3m-6-4h.01M9 16h.01"
+                  ></path>
+                </svg>
+              </div>
+              <span
+                class="text-3xl leading-none font-extrabold text-soejilog-accent"
+                >02</span
+              >
+            </div>
+            <h3 class="text-2xl font-bold text-soejilog-dark mb-3">
+              운동이 끝나면 폰이 사후 매칭
+            </h3>
+            <p class="text-sm text-soejilog-gray leading-relaxed">
+              워치가 남긴 슬롯을 시간순으로 정리해, 계획을 기본 제안으로 얹고
+              무게·횟수를 직전 실적에서 자동 계승합니다.
+            </p>
+          </div>
+
+          <!-- Step 3 -->
+          <div
+            id="how-step-3"
+            class="bg-white rounded-2xl shadow-lg p-8 hover:shadow-xl transition-shadow duration-200 border border-slate-200"
+          >
+            <div class="flex items-start justify-start gap-3 mb-6">
+              <div
+                class="w-14 h-14 bg-lime-50 rounded-xl flex items-center justify-center"
+              >
+                <svg
+                  class="w-7 h-7 text-soejilog-accent"
+                  fill="none"
+                  stroke="currentColor"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                    stroke-width="2"
+                    d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"
+                  ></path>
+                </svg>
+              </div>
+              <span
+                class="text-3xl leading-none font-extrabold text-soejilog-accent"
+                >03</span
+              >
+            </div>
+            <h3 class="text-2xl font-bold text-soejilog-dark mb-3">
+              틀린 곳만 고치고 확정
+            </h3>
+            <p class="text-sm text-soejilog-gray leading-relaxed">
+              맞으면 확인, 다르면 교체·수정. 확정하면 심박이 자동 부착되어
+              히스토리에 저장됩니다.
+            </p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Features Section -->
+    <section
+      id="features-section"
+      class="bg-slate-50 py-16 px-4 md:py-24 md:px-8"
+    >
+      <div class="max-w-6xl mx-auto">
+        <div class="text-center mb-16">
+          <h2
+            id="features-title"
+            class="text-4xl md:text-5xl font-bold text-soejilog-dark mb-4"
+          >
+            Features
+          </h2>
+          <p class="text-base md:text-lg text-soejilog-gray">
+            운동에 집중하고, 기록은 나중에 한 번에 정리하는 경험
+          </p>
+        </div>
+
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-6 max-w-6xl mx-auto">
+          <!-- Feature 1 -->
+          <div
+            id="feature-1"
+            class="bg-white rounded-2xl shadow-lg p-8 hover:shadow-xl transition-shadow duration-200 border border-slate-200"
+          >
+            <div class="flex items-center justify-start mb-6">
+              <div
+                class="w-14 h-14 bg-lime-50 rounded-xl flex items-center justify-center relative"
+              >
+                <svg
+                  class="w-8 h-8 text-soejilog-accent"
+                  fill="none"
+                  stroke="currentColor"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                    stroke-width="2"
+                    d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"
+                  ></path>
+                </svg>
+              </div>
+            </div>
+            <h3 class="text-2xl font-bold text-soejilog-dark mb-3">
+              워치 blind 컨트롤러
+            </h3>
+            <p class="text-base md:text-lg text-soejilog-gray leading-relaxed">
+              한 화면 버튼 2개, 값 입력 없음. "지금 이 순간"의 세트·휴식 제어에만
+              집중하도록 설계했습니다.
+            </p>
+          </div>
+
+          <!-- Feature 2 -->
+          <div
+            id="feature-2"
+            class="bg-white rounded-2xl shadow-lg p-8 hover:shadow-xl transition-shadow duration-200 border border-slate-200"
+          >
+            <div class="flex items-center justify-start mb-6">
+              <div
+                class="w-14 h-14 bg-lime-50 rounded-xl flex items-center justify-center relative"
+              >
+                <svg
+                  class="w-8 h-8 text-soejilog-accent"
+                  fill="none"
+                  stroke="currentColor"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                    stroke-width="2"
+                    d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"
+                  ></path>
+                </svg>
+              </div>
+            </div>
+            <h3 class="text-2xl font-bold text-soejilog-dark mb-3">
+              사후 매칭 — 앱의 심장
+            </h3>
+            <p class="text-base md:text-lg text-soejilog-gray leading-relaxed">
+              실제(워치 기록)를 진실로 삼고, 계획은 힌트로만. 조작은 "확인"과
+              "교체" 두 가지뿐 — 드래그도 빈칸도 없습니다.
+            </p>
+          </div>
+
+          <!-- Feature 3 -->
+          <div
+            id="feature-3"
+            class="bg-white rounded-2xl shadow-lg p-8 hover:shadow-xl transition-shadow duration-200 border border-slate-200"
+          >
+            <div class="flex items-center justify-start mb-6">
+              <div
+                class="w-14 h-14 bg-lime-50 rounded-xl flex items-center justify-center relative"
+              >
+                <svg
+                  class="w-8 h-8 text-soejilog-accent"
+                  fill="none"
+                  stroke="currentColor"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                    stroke-width="2"
+                    d="M4.318 6.318a4.5 4.5 0 000 6.364L12 20.364l7.682-7.682a4.5 4.5 0 00-6.364-6.364L12 7.636l-1.318-1.318a4.5 4.5 0 00-6.364 0z"
+                  ></path>
+                </svg>
+              </div>
+            </div>
+            <h3 class="text-2xl font-bold text-soejilog-dark mb-3">
+              심박 자동 부착
+            </h3>
+            <p class="text-base md:text-lg text-soejilog-gray leading-relaxed">
+              슬롯 시간대를 기준으로 HealthKit에서 평균·최고 심박을 읽어 자동으로
+              붙입니다. 따로 입력할 필요가 없어요.
+            </p>
+          </div>
+
+          <!-- Feature 4 -->
+          <div
+            id="feature-4"
+            class="bg-white rounded-2xl shadow-lg p-8 hover:shadow-xl transition-shadow duration-200 border border-slate-200"
+          >
+            <div class="flex items-center justify-start mb-6">
+              <div
+                class="w-14 h-14 bg-lime-50 rounded-xl flex items-center justify-center relative"
+              >
+                <svg
+                  class="w-8 h-8 text-soejilog-accent"
+                  fill="none"
+                  stroke="currentColor"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                    stroke-width="2"
+                    d="M9 19v-6a2 2 0 00-2-2H5a2 2 0 00-2 2v6a2 2 0 002 2h2a2 2 0 002-2zm0 0V9a2 2 0 012-2h2a2 2 0 012 2v10m-6 0a2 2 0 002 2h2a2 2 0 002-2m0 0V5a2 2 0 012-2h2a2 2 0 012 2v14a2 2 0 01-2 2h-2a2 2 0 01-2-2z"
+                  ></path>
+                </svg>
+              </div>
+            </div>
+            <h3 class="text-2xl font-bold text-soejilog-dark mb-3">
+              든 그대로 기록
+            </h3>
+            <p class="text-base md:text-lg text-soejilog-gray leading-relaxed">
+              총 볼륨·e1RM 같은 계산 없이 "15kg × 10회" 그대로 남기고 보여줍니다.
+              종목별 최고 기록 추이도 한눈에.
+            </p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Final Call to Action -->
+    <section
+      id="final-cta-section"
+      class="bg-soejilog-dark py-16 px-4 md:py-24 md:px-8"
+    >
+      <div class="max-w-4xl mx-auto text-center">
+        <h2
+          id="final-cta-title"
+          class="text-3xl md:text-6xl font-bold text-white mb-6 leading-tight"
+        >
+          운동에 집중하고,<br />
+          <span class="text-soejilog-primary">기록은 나중에</span>
+        </h2>
+        <p class="text-base md:text-lg text-slate-300 mb-10">
+          워치가 남긴 흐름을 폰에서 한 번에 정리하는 웨이트 트레이닝 기록
+        </p>
+        <button
+          id="cta-start-final"
+          class="bg-soejilog-primary text-soejilog-dark px-8 py-3.5 rounded-lg font-semibold text-base hover:brightness-95 transition-all duration-200 inline-flex items-center mb-4 shadow-lg hover:shadow-xl"
+        >
+          무료로 시작하기
+          <svg
+            class="w-5 h-5 ml-2"
+            fill="none"
+            stroke="currentColor"
+            viewBox="0 0 24 24"
+          >
+            <path
+              stroke-linecap="round"
+              stroke-linejoin="round"
+              stroke-width="2"
+              d="M9 5l7 7-7 7"
+            ></path>
+          </svg>
+        </button>
+        <p class="text-sm text-slate-400">아이폰과 애플워치만 있으면 됩니다.</p>
+      </div>
+    </section>
+
+    <!-- Footer -->
+    <footer
+      id="footer"
+      class="bg-soejilog-dark border-t border-slate-700 py-12 px-4 md:px-8 text-center"
+    >
+      <div class="max-w-4xl mx-auto text-center">
+        <h3 class="text-2xl font-bold text-white mb-2">Soejilog</h3>
+        <p class="text-slate-400 text-sm mb-6">
+          손목으로 흐르고, 폰에서 정리한다
+        </p>
+        <p class="text-xs text-slate-500">
+          © 2026 Soejilog. All rights reserved.
+        </p>
+      </div>
+    </footer>
+  </body>
+</html>

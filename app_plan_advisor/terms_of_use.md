@@ -1,8 +1,8 @@
-# Terms and Conditions for Doradora App
+# Terms and Conditions for Dora App
 
 **Last updated: 2026-05-06**
 
-These Terms and Conditions apply to the Doradora app (hereinafter referred to as the "Application"), created by the Service Provider as a commercial service. By downloading or using the Application, you agree to these Terms. Please read them carefully.
+These Terms and Conditions apply to the Dora app (hereinafter referred to as the "Application"), created by the Service Provider as a commercial service. By downloading or using the Application, you agree to these Terms. Please read them carefully.
 
 ---
 

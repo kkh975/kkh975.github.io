@@ -1,8 +1,8 @@
-# Doradora App Privacy Policy
+# Dora App Privacy Policy
 
 **Last updated: 2026-07-12**
 
-This Privacy Policy applies to the Doradora app (hereinafter referred to as the "Application"), created by the Service Provider as a commercial service.
+This Privacy Policy applies to the Dora app (hereinafter referred to as the "Application"), created by the Service Provider as a commercial service.
 The Application is provided "AS IS" for use.
 
 ---

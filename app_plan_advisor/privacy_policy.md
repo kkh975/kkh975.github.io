@@ -1,6 +1,6 @@
 # Doradora App Privacy Policy
 
-**Last updated: 2026-05-06**
+**Last updated: 2026-07-12**
 
 This Privacy Policy applies to the Doradora app (hereinafter referred to as the "Application"), created by the Service Provider as a commercial service.
 The Application is provided "AS IS" for use.
@@ -16,13 +16,7 @@ The Application collects information when you download and use it. This may incl
 - Time spent on specific pages and overall Application usage time
 - The operating system used on your mobile device
 
-The Application does not gather precise location information but may collect approximate location data.
-
-**Use of Location Data**
-
-- **Geolocation Services:** To provide personalized content, relevant recommendations, and location-based services.
-- **Analytics & Improvements:** Aggregated and anonymized data helps analyze behavior, trends, and improve performance.
-- **Third-Party Services:** Periodic anonymized data sharing with trusted external services for optimization.
+This usage and diagnostic information is collected through Google Analytics for Firebase and Firebase Crashlytics to analyze behavior and trends and to improve the Application's performance and stability. The Application does not collect location data.
 
 ---
 
@@ -43,9 +37,12 @@ The Service Provider may use your information to:
 The Application uses third-party services which have their own Privacy Policies:
 
 - Google Play Services
-- AdMob
 - Google Analytics for Firebase
 - Firebase Crashlytics
+- Firebase Cloud Messaging (push notifications)
+- Google Calendar API (only when you connect Google Calendar; see the "Google User Data" section below)
+- RevenueCat (subscription management)
+- Anthropic Claude API (AI natural-language input; premium feature)
 
 **Information Disclosure**
 
@@ -57,13 +54,33 @@ User data may be disclosed:
 
 ---
 
-## 4. Opt-Out Rights
+## 4. Google User Data (Google Calendar Integration)
+
+Connecting Google Calendar is entirely optional. If you choose to connect it, the Application requests **read-only** access to your Google Calendar using the following scopes:
+
+- `https://www.googleapis.com/auth/calendar.readonly`
+- `https://www.googleapis.com/auth/calendar.events.readonly`
+
+**How this data is used**
+
+- Your Google Calendar events are read solely to display them alongside your own schedules inside the Application.
+- Event data is cached locally on your device for display and performance. It is **not** transmitted to, or stored on, our servers.
+- We do **not** sell or share Google Calendar data, and we do **not** use it for advertising or to develop, improve, or train generalized AI/ML models.
+- You can revoke access at any time from your Google Account permissions page (https://myaccount.google.com/permissions) or by signing out within the Application.
+
+**Limited Use Disclosure**
+
+The Application's use and transfer of information received from Google APIs to any other app will adhere to the [Google API Services User Data Policy](https://developers.google.com/terms/api-services-user-data-policy), including the Limited Use requirements.
+
+---
+
+## 5. Opt-Out Rights
 
 You may stop all information collection by uninstalling the Application. Standard uninstall processes can be used via your device or application marketplace.
 
 ---
 
-## 5. Data Retention Policy
+## 6. Data Retention Policy
 
 User-provided data is retained while you use the Application and for a reasonable time thereafter.
 
@@ -71,7 +88,7 @@ If you wish to delete your data, please contact: reblim737@gmail.com
 
 ---
 
-## 6. Children's Privacy
+## 7. Children's Privacy
 
 The Application does not target users under 13 years old.
 
@@ -80,13 +97,13 @@ The Application does not target users under 13 years old.
 
 ---
 
-## 7. Security
+## 8. Security
 
 We take measures to safeguard the confidentiality of your information, including physical, electronic, and procedural safeguards.
 
 ---
 
-## 8. Paid Services, Subscriptions, and Payment Data
+## 9. Paid Services, Subscriptions, and Payment Data
 
 The Application offers a monthly subscription plan for access to premium features. An annual subscription option is planned for future availability.
 
@@ -111,19 +128,19 @@ Due to the nature of digital subscription services, payments processed for a sub
 
 ---
 
-## 9. Changes to This Policy
+## 10. Changes to This Policy
 
 This Privacy Policy may be updated from time to time. Updates will be posted on this page. Continued use of the Application after changes constitutes acceptance.
 
 ---
 
-## 10. Consent
+## 11. Consent
 
 By using the Application, you consent to the collection and processing of your information as outlined in this Privacy Policy.
 
 ---
 
-## 11. Contact Us
+## 12. Contact Us
 
 If you have questions about privacy, data handling, or service practices, please contact:
 

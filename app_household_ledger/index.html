@@ -1,319 +1,157 @@
 <!DOCTYPE html>
 <html lang="ko">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>서플로 Surflo - 가계부 완전 파악</title>
-    <script src="https://cdn.tailwindcss.com"></script>
-    <script>
-      tailwind.config = {
-        theme: {
-          extend: {
-            colors: {
-              "surflo-primary": "#86DEF0",
-              "surflo-dark": "#0c0b0e",
-              "surflo-gray": "#8B9CA0",
-              "surflo-accent": "#97ff91",
-            },
-          },
-        },
-      };
-    </script>
-    <style>
-      @import url("https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300;400;500;600;700;800&display=swap");
-      body {
-        font-family: "Noto Sans KR", sans-serif;
-      }
-    </style>
-  </head>
-  <body class="bg-slate-50">
-    <!-- Hero Section -->
-    <section
-      id="hero-section"
-      class="bg-gradient-to-b from-white to-slate-50 py-12 px-4 md:py-20 md:px-8"
-    >
-      <div class="max-w-5xl mx-auto text-center">
-        <h1
-          id="hero-title"
-          class="text-5xl md:text-6xl lg:text-7xl font-bold text-surflo-dark mb-8 leading-tight"
-        >
-          지출과 수입,<br />
-          <span class="text-cyan-400">한 화면에서 흐름으로 파악하기</span>
-        </h1>
-        <p class="text-lg md:text-xl text-surflo-gray mb-4">
-          가계부, 매번 입력하다 포기하셨나요?
-        </p>
-        <p class="text-base md:text-lg text-surflo-gray mb-10">
-          지출·수입 내역 관리부터 연말정산 추정, 환율 설정까지 한 앱으로 끝내는 서플로와 함께하세요.
-        </p>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>서플로 | 돈의 흐름을 이해하는 가계부</title>
+<meta name="description" content="지출·수입, 반복 거래, 여행 정산, 연말정산과 다중 화폐를 한곳에서 관리하세요.">
+<link rel="icon" href="assets/surflo-icon.png">
+<link rel="shortcut icon" href="assets/surflo-icon.png">
+<style>
+:root{--ink:#173b35;--green:#0d806c;--mint:#75c9a7;--pale:#eef8f1;--cream:#fffaf3;--coral:#ff6042;--orange:#ffa21a;--line:#dfeae4;--muted:#60736e}
+*{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;background:#fffdf9;color:var(--ink);font-family:Arial,"Apple SD Gothic Neo",sans-serif}a{color:inherit;text-decoration:none}button{font:inherit}.nav{height:82px;max-width:1240px;margin:auto;display:flex;align-items:center;justify-content:space-between;padding:0 28px;position:relative;z-index:10}.brand{display:flex;align-items:center;gap:10px;font:800 22px/1 Arial;letter-spacing:-.6px}.brand img{width:36px;height:36px;border-radius:11px}.navLinks{display:flex;align-items:center;gap:32px;font-size:14px;font-weight:700}.navCta{background:var(--ink);color:#fff;padding:12px 20px;border-radius:99px}.hero{min-height:690px;max-width:1240px;margin:auto;padding:60px 28px 90px;display:grid;grid-template-columns:1fr 1.05fr;gap:54px;align-items:center}.eyebrow{display:flex;align-items:center;gap:9px;font-size:12px;font-weight:800;letter-spacing:2px;color:var(--green)}.eyebrow span{display:inline-block;width:22px;height:2px;background:currentColor}.hero h1{font-size:66px;line-height:1.07;letter-spacing:-4.5px;margin:22px 0;color:var(--ink)}.hero h1 em{color:var(--green);font-style:normal}.heroText{color:var(--muted);font-size:18px;line-height:1.75}.heroActions{display:flex;align-items:center;gap:28px;margin-top:32px}.primaryBtn{display:inline-flex;align-items:center;gap:24px;background:linear-gradient(135deg,var(--coral),#ff7b31);color:white;padding:17px 22px 17px 26px;border-radius:99px;font-weight:800;box-shadow:0 13px 25px #ff633332}.primaryBtn span{font-size:20px}.textBtn{font-size:14px;font-weight:800;border-bottom:1px solid #bdd2ca;padding-bottom:5px}.trustRow{display:flex;gap:18px;margin-top:28px;color:#71827e;font-size:12px}.visual{height:550px;position:relative}.orangeOrb,.mintOrb{position:absolute;border-radius:50%;filter:blur(1px)}.orangeOrb{width:250px;height:250px;background:linear-gradient(135deg,#ffab16,#ff673d);right:-20px;top:0}.mintOrb{width:260px;height:260px;background:linear-gradient(135deg,#0b806b,#a9dfbd);left:0;bottom:-15px}.flowBand{background:var(--ink);color:#fff;min-height:108px;display:flex;justify-content:center;align-items:center;gap:55px;font-size:18px}.flowBand p{margin:0;color:#b7ccc5}.flowBand b{color:#fff}.flowBand>span{color:#6e9187}.section{max-width:1180px;margin:auto;padding:120px 28px}.sectionIntro h2,.centerHead h2{font-size:44px;line-height:1.18;letter-spacing:-2.5px;margin:0}.centerHead{text-align:center}.centerHead .eyebrow{justify-content:center}.centerHead h2{margin-top:20px}.featureGrid{display:grid;grid-template-columns:repeat(4,1fr);margin-top:62px;border-top:1px solid var(--line);border-left:1px solid var(--line)}.featureGrid article{min-height:230px;padding:28px;position:relative;border-right:1px solid var(--line);border-bottom:1px solid var(--line);background:#fff}.featureGrid article.featured{background:var(--ink);color:#fff}.featureIcon{display:grid;place-items:center;width:43px;height:43px;border-radius:13px;background:var(--pale);color:var(--green);font-size:18px;font-weight:800}.featured .featureIcon{background:#2b584f;color:#9be0c7}.featureGrid h3{font-size:17px;margin:28px 0 10px}.featureGrid p{font-size:12px;line-height:1.7;color:var(--muted)}.featured p{color:#acc3bc}.arrow{position:absolute;right:25px;bottom:25px;font-style:normal;color:#91a39d}footer{max-width:1180px;margin:auto;padding:32px 28px;display:grid;grid-template-columns:1fr 1fr 1fr;align-items:center;color:#7a8984;font-size:11px}footer .brand{color:var(--ink)}footer p{text-align:center}footer>span{text-align:right}.legalRow{max-width:1180px;margin:auto;padding:0 28px 40px;display:flex;justify-content:center;gap:18px;color:#8a9792;font-size:11px}.legalRow a{border-bottom:1px solid #dbe4df;padding-bottom:2px}
+@media(max-width:900px){.hero{grid-template-columns:1fr;padding-top:30px}.heroCopy{text-align:center}.hero .eyebrow,.heroActions{justify-content:center}.trustRow{justify-content:center}.visual{max-width:570px;width:100%;margin:auto}.featureGrid{grid-template-columns:repeat(2,1fr)}}
+@media(max-width:600px){.nav{height:68px;padding:0 18px}.navLinks a:not(.navCta){display:none}.brand{font-size:19px}.brand img{width:32px;height:32px}.hero{padding:52px 18px 70px;overflow:hidden}.hero h1{font-size:45px;letter-spacing:-3px}.heroText{font-size:15px}.heroText br{display:none}.heroActions{flex-direction:column;gap:20px}.trustRow{font-size:10px;gap:8px;flex-wrap:wrap}.visual{height:455px;margin-top:15px}.orangeOrb{width:180px;height:180px;right:-70px}.mintOrb{width:180px;height:180px;left:-60px}.flowBand{gap:12px;padding:25px 15px;min-height:auto;font-size:12px}.flowBand>span{display:none}.section{padding:85px 18px}.centerHead h2{font-size:34px}.featureGrid{grid-template-columns:1fr}.featureGrid article{min-height:190px}footer{grid-template-columns:1fr;text-align:center;gap:15px}footer p,footer>span{text-align:center}}
+@media(prefers-reduced-motion:no-preference){.featureGrid article{transition:transform .2s,box-shadow .2s}.featureGrid article:hover{z-index:2;transform:translateY(-4px);box-shadow:0 18px 40px #1d493818}}
 
-        <div
-          id="hero-description-card"
-          class="bg-slate-100 rounded-2xl p-8 md:p-10 mb-10 max-w-3xl mx-auto border-2 border-slate-200"
-        >
-          <div
-            class="text-surflo-gray text-sm md:text-base leading-relaxed text-center space-y-3"
-          >
-            <p>
-              숫자를 나열하는 게 아닌, 내 돈의 흐름이 보이는 가계부입니다.
-            </p>
-            <p class="text-base md:text-lg font-bold text-surflo-dark">
-              다중 화폐와 환율 설정으로 해외 지출도 메인 화폐로 통합 관리합니다.
-            </p>
-          </div>
-        </div>
+/* App-authentic additions */
+:root{--ink:#1d1a16;--green:#3eaa91;--cream:#faf6ee;--coral:#ef694d;--orange:#f68a47;--muted:#77736d}
+.languageBar{height:34px;background:var(--ink);color:#fff}.languageBar>div{max-width:1240px;height:100%;margin:auto;padding:0 28px;display:flex;justify-content:flex-end;align-items:center;gap:9px}.languageBar span{font-size:10px;letter-spacing:1.2px;text-transform:uppercase;color:#aaa49b}.languageBar select{appearance:none;border:0;background:transparent;color:#fff;font:700 12px Arial;padding:3px 20px 3px 6px;background-image:linear-gradient(45deg,transparent 50%,#fff 50%),linear-gradient(135deg,#fff 50%,transparent 50%);background-position:calc(100% - 8px) 8px,calc(100% - 4px) 8px;background-size:4px 4px;background-repeat:no-repeat}.languageBar option{color:#111}.nav{height:76px}.screenshotVisual{perspective:1200px}.phone{position:absolute;z-index:2;background:#111;border:8px solid #151515;border-radius:42px;padding:5px;box-shadow:0 35px 65px #32261d35;overflow:hidden}.phone img,.miniPhone img{display:block;width:100%;height:100%;object-fit:cover}.phone img{border-radius:29px}.mainPhone{width:286px;height:590px;left:70px;top:-25px;transform:rotate(-4deg)}.miniPhone{position:absolute;z-index:3;width:205px;height:422px;right:8px;bottom:-16px;background:#111;border:7px solid #171717;border-radius:34px;padding:4px;box-shadow:0 28px 55px #31251b35;transform:rotate(7deg);overflow:hidden}.miniPhone img{border-radius:24px}.screenshotVisual .orangeOrb{right:10px;top:15px}.screenshotVisual .mintOrb{left:20px;bottom:-10px}.flowBand{gap:45px}.bandItem{display:flex;align-items:center;gap:45px}.bandItem p{color:#eee8de;font-weight:700}.bandItem span{color:#7d7770}
+@media(max-width:900px){.mainPhone{left:22%}.miniPhone{right:10%}}
+@media(max-width:600px){.languageBar>div{padding:0 18px}.navLinks a:not(.navCta){display:none}.screenshotVisual{height:485px}.mainPhone{width:225px;height:466px;left:12%;top:0}.miniPhone{width:155px;height:320px;right:2%;bottom:-5px}.flowBand{gap:14px}.bandItem{gap:14px}.bandItem span{display:none}.bandItem p{font-size:11px}}
+.appStoreButton{display:inline-flex;align-items:center;gap:11px;min-width:194px;padding:9px 18px 9px 15px;border:1px solid #383838;border-radius:12px;background:#050505;color:#fff;box-shadow:0 13px 25px #0002}.appStoreButton>span:last-child{display:flex;flex-direction:column;align-items:flex-start}.appStoreButton small{font-size:10px;line-height:1.05;letter-spacing:.2px}.appStoreButton strong{font-size:23px;line-height:1.05;letter-spacing:-.7px}.appleMark{font:36px/1 -apple-system,BlinkMacSystemFont,"Helvetica Neue",Arial,sans-serif}.features{padding-top:105px;padding-bottom:120px}
+@media(prefers-reduced-motion:no-preference){.appStoreButton{transition:transform .2s,box-shadow .2s}.appStoreButton:hover{transform:translateY(-2px);box-shadow:0 16px 30px #0003}}
+</style>
+</head>
+<body>
+<main>
+  <div class="languageBar"><div><span>Language</span><select id="langSelect"></select></div></div>
 
-        <div class="flex flex-col items-center gap-3">
-          <button
-            id="cta-start-hero"
-            class="bg-cyan-400 text-gray-900 px-8 py-3.5 rounded-lg font-semibold text-base hover:bg-cyan-500 transition-all duration-200 flex items-center shadow-lg hover:shadow-xl"
-          >
-            지금 시작하기
-            <svg
-              class="w-5 h-5 ml-2"
-              fill="none"
-              stroke="currentColor"
-              viewBox="0 0 24 24"
-            >
-              <path
-                stroke-linecap="round"
-                stroke-linejoin="round"
-                stroke-width="2"
-                d="M9 5l7 7-7 7"
-              ></path>
-            </svg>
-          </button>
-          <p class="text-xs text-slate-500">완전 무료, 신용카드 불필요.</p>
-        </div>
+  <nav class="nav">
+    <a class="brand" href="#top"><img src="assets/surflo-icon.png" alt=""><span>Surflo</span></a>
+    <div class="navLinks">
+      <a href="#features" id="navFeatures"></a>
+      <a class="navCta" href="https://apps.apple.com/kr/app/suflo-%EA%B0%80%EA%B3%84%EB%B6%80/id6784573415" target="_blank" rel="noreferrer">App Store</a>
+    </div>
+  </nav>
+
+  <section class="hero" id="top">
+    <div class="heroCopy">
+      <p class="eyebrow"><span></span><i id="heroEyebrow" style="font-style:normal"></i></p>
+      <h1 id="heroTitle"></h1>
+      <p class="heroText" id="heroDesc"></p>
+      <div class="heroActions">
+        <a class="appStoreButton" href="https://apps.apple.com/kr/app/suflo-%EA%B0%80%EA%B3%84%EB%B6%80/id6784573415" target="_blank" rel="noreferrer" aria-label="Download Surflo on the App Store">
+          <span class="appleMark"></span><span><small>Download on the</small><strong>App Store</strong></span>
+        </a>
       </div>
-    </section>
+      <div class="trustRow" id="trustRow"></div>
+    </div>
+    <div class="visual screenshotVisual">
+      <div class="orangeOrb"></div>
+      <div class="mintOrb"></div>
+      <div class="phone mainPhone"><img id="shotMain" src="assets/app/transactions.png" alt=""></div>
+      <div class="miniPhone"><img id="shotMini" src="assets/app/statistics.png" alt=""></div>
+    </div>
+  </section>
 
-    <!-- How it Works Section -->
-    <section
-      id="how-it-works-section"
-      class="bg-white py-16 px-4 md:py-24 md:px-8"
-    >
-      <div class="max-w-6xl mx-auto">
-        <div class="text-center mb-16">
-          <h2
-            id="how-title"
-            class="text-4xl md:text-5xl font-bold text-surflo-dark mb-4"
-          >
-            How it Works
-          </h2>
-          <p class="text-base md:text-lg text-surflo-gray">
-            입력부터 통계, 연말정산까지 3단계로 완전 파악
-          </p>
-        </div>
+  <section class="flowBand" id="flowBand"></section>
 
-        <div class="grid grid-cols-1 md:grid-cols-3 gap-6 md:gap-8">
-          <!-- Step 1 -->
-          <div
-            id="how-step-1"
-            class="bg-white rounded-2xl shadow-lg p-8 hover:shadow-xl transition-shadow duration-200 border border-slate-200"
-          >
-            <div class="flex items-start justify-start gap-3 mb-6">
-              <div
-                class="w-14 h-14 bg-cyan-50 rounded-xl flex items-center justify-center"
-              >
-                <svg
-                  class="w-7 h-7 text-cyan-400"
-                  fill="none"
-                  stroke="currentColor"
-                  viewBox="0 0 24 24"
-                >
-                  <path
-                    stroke-linecap="round"
-                    stroke-linejoin="round"
-                    stroke-width="2"
-                    d="M12 4v16m8-8H4"
-                  ></path>
-                </svg>
-              </div>
-              <span class="text-3xl leading-none font-extrabold text-cyan-400">01</span>
-            </div>
-            <h3 class="text-2xl font-bold text-surflo-dark mb-3">
-              지출·수입 내역 빠르게 입력
-            </h3>
-            <p class="text-sm text-surflo-gray leading-relaxed">
-              날짜·금액·카테고리·메모를 입력하면 즉시 목록에 반영됩니다. 카테고리는 직접 만들어 내 소비 패턴에 맞게 분류할 수 있어요.
-            </p>
-          </div>
+  <section class="section features" id="features">
+    <div class="centerHead">
+      <p class="eyebrow"><span></span>ALL IN ONE</p>
+      <h2 id="featureTitle"></h2>
+    </div>
+    <div class="featureGrid" id="featureGrid"></div>
+  </section>
 
-          <!-- Step 2 -->
-          <div
-            id="how-step-2"
-            class="bg-white rounded-2xl shadow-lg p-8 hover:shadow-xl transition-shadow duration-200 border border-slate-200"
-          >
-            <div class="flex items-start justify-start gap-3 mb-6">
-              <div
-                class="w-14 h-14 bg-cyan-50 rounded-xl flex items-center justify-center"
-              >
-                <svg
-                  class="w-7 h-7 text-cyan-400"
-                  fill="none"
-                  stroke="currentColor"
-                  viewBox="0 0 24 24"
-                >
-                  <path
-                    stroke-linecap="round"
-                    stroke-linejoin="round"
-                    stroke-width="2"
-                    d="M9 19v-6a2 2 0 00-2-2H5a2 2 0 00-2 2v6a2 2 0 002 2h2a2 2 0 002-2zm0 0V9a2 2 0 012-2h2a2 2 0 012 2v10m-6 0a2 2 0 002 2h2a2 2 0 002-2m0 0V5a2 2 0 012-2h2a2 2 0 012 2v14a2 2 0 01-2 2h-2a2 2 0 01-2-2z"
-                  ></path>
-                </svg>
-              </div>
-              <span class="text-3xl leading-none font-extrabold text-cyan-400">02</span>
-            </div>
-            <h3 class="text-2xl font-bold text-surflo-dark mb-3">
-              월간 통계로 소비 패턴 파악
-            </h3>
-            <p class="text-sm text-surflo-gray leading-relaxed">
-              총합·수입·지출과 카테고리 Top5를 한눈에 확인해 어디에 얼마가 나가는지 빠르게 파악합니다.
-            </p>
-          </div>
+  <footer>
+    <a class="brand" href="#top"><img src="assets/surflo-icon.png" alt=""><span>Surflo</span></a>
+    <p id="footerText"></p>
+    <span id="footerMeta"></span>
+  </footer>
+  <div class="legalRow">
+    <a href="https://kkh975.github.io/md-viewer.html?file=https://kkh975.github.io/app_household_ledger/privacy_policy.md">Privacy Policy</a>
+    <a href="https://kkh975.github.io/md-viewer.html?file=https://kkh975.github.io/app_household_ledger/terms_of_use.md">Terms of Use</a>
+  </div>
+</main>
 
-          <!-- Step 3 -->
-          <div
-            id="how-step-3"
-            class="bg-white rounded-2xl shadow-lg p-8 hover:shadow-xl transition-shadow duration-200 border border-slate-200"
-          >
-            <div class="flex items-start justify-start gap-3 mb-6">
-              <div
-                class="w-14 h-14 bg-cyan-50 rounded-xl flex items-center justify-center"
-              >
-                <svg
-                  class="w-7 h-7 text-cyan-400"
-                  fill="none"
-                  stroke="currentColor"
-                  viewBox="0 0 24 24"
-                >
-                  <path
-                    stroke-linecap="round"
-                    stroke-linejoin="round"
-                    stroke-width="2"
-                    d="M9 14l6-6m-5.5.5h.01m4.99 5h.01M19 21V5a2 2 0 00-2-2H7a2 2 0 00-2 2v16l3.5-2 3.5 2 3.5-2 3.5 2z"
-                  ></path>
-                </svg>
-              </div>
-              <span class="text-3xl leading-none font-extrabold text-cyan-400">03</span>
-            </div>
-            <h3 class="text-2xl font-bold text-surflo-dark mb-3">
-              연말정산 추정 & 다중 화폐
-            </h3>
-            <p class="text-sm text-surflo-gray leading-relaxed">
-              공제율이 자동 적용되어 연말정산 예상 금액을 실시간으로 확인하고, 환율 설정으로 해외 지출도 자동 환산합니다.
-            </p>
-          </div>
-        </div>
-      </div>
-    </section>
+<script>
+var names={ko:"한국어",en:"English",es:"Español",fr:"Français",de:"Deutsch",ja:"日本語",zh:"中文"};
+var t={
+ko:{nav:["사용 방법","앱 화면","기능","시작하기"],eye:"복잡한 가계부는 이제 그만",title:["숫자 말고,","돈의 흐름","을 보세요."],desc:"지출과 수입, 반복 거래부터 여행 정산과 환율까지. 내 돈의 모든 흐름을 한 화면에서 파악하세요.",free:"무료로 시작하기",how:"어떻게 작동하나요?",trust:["무료로 시작","카드 연결 없이","언제든 엑셀 백업"],band:["기록은 가볍게","흐름은 선명하게","결정은 똑똑하게"],screens:["거래 내역","반복 거래","이벤트 박스","월간 통계","자산 관리","화폐·환율","엑셀 내보내기","AI 질문"],featureTitle:"필요한 건 모두, 복잡함은 하나도.",features:["지출·수입 관리","반복 거래","이벤트 박스","월간 통계","자산 관리","다중 화폐","AI 챗봇","엑셀 이동"],footer:"돈의 흐름을 이해하는 가장 쉬운 방법."},
+en:{nav:["How it works","App screens","Features","Get started"],eye:"Leave complicated budgeting behind",title:["Don't just see numbers.","See your money flow","."],desc:"Track income, expenses, recurring payments, trips and exchange rates—all in one clear view.",free:"Start for free",how:"How does it work?",trust:["Free to start","No card connection","Excel backup anytime"],band:["Record lightly","See clearly","Decide wisely"],screens:["Transactions","Recurring","Event box","Statistics","Assets","Currency","Excel export","AI assistant"],featureTitle:"Everything you need. None of the clutter.",features:["Income & expenses","Recurring entries","Event boxes","Monthly insights","Asset tracking","Multi-currency","AI assistant","Excel transfer"],footer:"The simplest way to understand your money flow."},
+es:{nav:["Cómo funciona","Pantallas","Funciones","Empezar"],eye:"Adiós a las finanzas complicadas",title:["No veas solo números.","Ve el flujo"," de tu dinero."],desc:"Gestiona ingresos, gastos, pagos recurrentes, viajes y divisas en una sola vista.",free:"Empezar gratis",how:"¿Cómo funciona?",trust:["Inicio gratuito","Sin conectar tarjetas","Copia en Excel"],band:["Registra fácil","Entiende claro","Decide mejor"],screens:["Movimientos","Recurrentes","Eventos","Estadísticas","Activos","Divisas","Exportar Excel","Asistente IA"],featureTitle:"Todo lo necesario, sin complicaciones.",features:["Ingresos y gastos","Operaciones recurrentes","Eventos","Estadísticas","Activos","Varias divisas","Asistente IA","Excel"],footer:"La forma más sencilla de entender tu dinero."},
+fr:{nav:["Fonctionnement","Écrans","Fonctions","Commencer"],eye:"Fini les budgets compliqués",title:["Ne voyez plus des chiffres.","Voyez le flux"," de votre argent."],desc:"Revenus, dépenses, opérations récurrentes, voyages et devises réunis en une seule vue.",free:"Commencer gratuitement",how:"Comment ça marche ?",trust:["Gratuit","Sans connexion bancaire","Sauvegarde Excel"],band:["Saisir facilement","Voir clairement","Décider mieux"],screens:["Opérations","Récurrences","Événements","Statistiques","Actifs","Devises","Export Excel","Assistant IA"],featureTitle:"Tout le nécessaire, sans complexité.",features:["Revenus et dépenses","Récurrences","Événements","Statistiques","Actifs","Multi-devises","Assistant IA","Excel"],footer:"La façon la plus simple de comprendre votre argent."},
+de:{nav:["So geht's","App-Ansichten","Funktionen","Starten"],eye:"Schluss mit komplizierten Haushaltsbüchern",title:["Nicht nur Zahlen.","Sehen Sie den Geldfluss","."],desc:"Einnahmen, Ausgaben, Wiederholungen, Reisen und Währungen in einer klaren Ansicht.",free:"Kostenlos starten",how:"Wie funktioniert es?",trust:["Kostenlos","Ohne Kartenverknüpfung","Excel-Backup"],band:["Einfach erfassen","Klar verstehen","Besser entscheiden"],screens:["Transaktionen","Wiederholungen","Event-Box","Statistik","Vermögen","Währungen","Excel-Export","KI-Assistent"],featureTitle:"Alles Nötige. Ohne Ballast.",features:["Einnahmen & Ausgaben","Wiederholungen","Event-Box","Statistik","Vermögen","Mehrere Währungen","KI-Assistent","Excel"],footer:"Der einfachste Weg, den Geldfluss zu verstehen."},
+ja:{nav:["使い方","アプリ画面","機能","始める"],eye:"複雑な家計簿はもう終わり",title:["数字ではなく、","お金の流れ","を見よう。"],desc:"収支、定期取引、旅行精算、為替まで。お金の流れを一画面で把握できます。",free:"無料で始める",how:"使い方を見る",trust:["無料で開始","カード連携不要","Excelバックアップ"],band:["記録は軽く","流れは明確に","判断は賢く"],screens:["取引履歴","定期取引","イベント","月間統計","資産管理","通貨・為替","Excel出力","AI質問"],featureTitle:"必要なものは全部。複雑さはゼロ。",features:["収支管理","定期取引","イベント","月間統計","資産管理","複数通貨","AIチャット","Excel"],footer:"お金の流れを理解する最も簡単な方法。"},
+zh:{nav:["使用方法","应用画面","功能","开始"],eye:"告别复杂记账",title:["不只看数字，","更要看懂资金流","。"],desc:"收支、周期交易、旅行结算和汇率，在一个画面中统一掌握。",free:"免费开始",how:"如何使用？",trust:["免费开始","无需绑定银行卡","随时备份Excel"],band:["轻松记录","清晰掌握","聪明决策"],screens:["交易记录","周期交易","事件盒子","月度统计","资产管理","货币汇率","Excel导出","AI问答"],featureTitle:"功能齐全，毫不复杂。",features:["收支管理","周期交易","事件盒子","月度统计","资产管理","多币种","AI助手","Excel迁移"],footer:"理解资金流动的最简单方式。"}
+};
+var icons=["↗","↻","□","◒","◇","₩","✦","⇅"];
+var detail=["Date · Amount · Category","Set once · Repeat automatically","Monthly totals · Category insights","Travel · Project · Period"];
 
-    <!-- Features Section -->
-    <section
-      id="features-section"
-      class="bg-slate-50 py-16 px-4 md:py-24 md:px-8"
-    >
-      <div class="max-w-6xl mx-auto">
-        <div class="text-center mb-16">
-          <h2
-            id="features-title"
-            class="text-4xl md:text-5xl font-bold text-surflo-dark mb-4"
-          >
-            Features
-          </h2>
-          <p class="text-base md:text-lg text-surflo-gray">
-            내 돈의 흐름을 완전히 파악하는 가계부 경험
-          </p>
-        </div>
+var sel=document.getElementById("langSelect");
+Object.keys(names).forEach(function(k){
+  var o=document.createElement("option");o.value=k;o.textContent=names[k];sel.appendChild(o);
+});
 
-        <div class="grid grid-cols-1 md:grid-cols-2 gap-6 max-w-6xl mx-auto">
-          <div id="feature-1" class="bg-white rounded-2xl shadow-lg p-8 hover:shadow-xl transition-shadow duration-200 border border-slate-200">
-            <div class="flex items-center justify-start mb-6">
-              <div class="w-14 h-14 bg-cyan-50 rounded-xl flex items-center justify-center relative">
-                <svg class="w-8 h-8 text-cyan-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 9V7a2 2 0 00-2-2H5a2 2 0 00-2 2v6a2 2 0 002 2h2m2 4h10a2 2 0 002-2v-6a2 2 0 00-2-2H9a2 2 0 00-2 2v6a2 2 0 002 2zm7-5a2 2 0 11-4 0 2 2 0 014 0z"></path>
-                </svg>
-              </div>
-            </div>
-            <h3 class="text-2xl font-bold text-surflo-dark mb-3">직관적인 지출·수입 관리</h3>
-            <p class="text-base md:text-lg text-surflo-gray leading-relaxed">
-              생성·수정·삭제·조회가 빠르고, 커스텀 카테고리로 내 소비 패턴에 딱 맞는 가계부를 만들 수 있습니다.
-            </p>
-          </div>
+function el(tag,cls,text){var n=document.createElement(tag);if(cls)n.className=cls;if(text!=null)n.textContent=text;return n;}
 
-          <div id="feature-2" class="bg-white rounded-2xl shadow-lg p-8 hover:shadow-xl transition-shadow duration-200 border border-slate-200">
-            <div class="flex items-center justify-start mb-6">
-              <div class="w-14 h-14 bg-cyan-50 rounded-xl flex items-center justify-center relative">
-                <svg class="w-8 h-8 text-cyan-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M7 12l3-3 3 3 4-4M8 21l4-4 4 4M3 4h18M4 4h16v12a1 1 0 01-1 1H5a1 1 0 01-1-1V4z"></path>
-                </svg>
-              </div>
-            </div>
-            <h3 class="text-2xl font-bold text-surflo-dark mb-3">월간 통계 & 카테고리 분석</h3>
-            <p class="text-base md:text-lg text-surflo-gray leading-relaxed">
-              수입·지출 합계와 카테고리 Top5 차트로 어디에 가장 많이 쓰는지 한눈에 파악합니다.
-            </p>
-          </div>
+function render(lang){
+  var c=t[lang];
+  document.documentElement.lang=lang;
+  sel.value=lang;
+  document.getElementById("navFeatures").textContent=c.nav[2];
+  document.getElementById("heroEyebrow").textContent=c.eye;
 
-          <div id="feature-3" class="bg-white rounded-2xl shadow-lg p-8 hover:shadow-xl transition-shadow duration-200 border border-slate-200">
-            <div class="flex items-center justify-start mb-6">
-              <div class="w-14 h-14 bg-cyan-50 rounded-xl flex items-center justify-center relative">
-                <svg class="w-8 h-8 text-cyan-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 14l6-6m-5.5.5h.01m4.99 5h.01M19 21V5a2 2 0 00-2-2H7a2 2 0 00-2 2v16l3.5-2 3.5 2 3.5-2 3.5 2z"></path>
-                </svg>
-              </div>
-            </div>
-            <h3 class="text-2xl font-bold text-surflo-dark mb-3">연말정산 추정 금액 조회</h3>
-            <p class="text-base md:text-lg text-surflo-gray leading-relaxed">
-              공제 대상 지출에 카테고리별 공제율이 자동 적용되어 올해 예상 환급·납부액을 미리 확인합니다.
-            </p>
-          </div>
+  var h1=document.getElementById("heroTitle");
+  h1.textContent="";
+  h1.appendChild(document.createTextNode(c.title[0]));
+  h1.appendChild(document.createElement("br"));
+  h1.appendChild(el("em",null,c.title[1]));
+  h1.appendChild(document.createTextNode(c.title[2]));
 
-          <div id="feature-4" class="bg-white rounded-2xl shadow-lg p-8 hover:shadow-xl transition-shadow duration-200 border border-slate-200">
-            <div class="flex items-center justify-start mb-6">
-              <div class="w-14 h-14 bg-cyan-50 rounded-xl flex items-center justify-center relative">
-                <svg class="w-8 h-8 text-cyan-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 6l3 1m0 0l-3 9a5.002 5.002 0 006.001 0M6 7l3 9M6 7l6-2m6 2l3-1m-3 1l-3 9a5.002 5.002 0 006.001 0M18 7l3 9m-3-9l-6-2m0-2v2m0 16V5m0 16H9m3 0h3"></path>
-                </svg>
-              </div>
-            </div>
-            <h3 class="text-2xl font-bold text-surflo-dark mb-3">다중 화폐 & 환율 설정</h3>
-            <p class="text-base md:text-lg text-surflo-gray leading-relaxed">
-              메인·보조 화폐와 환율을 직접 설정해 해외 지출도 메인 화폐로 통합 관리합니다.
-            </p>
-          </div>
-        </div>
-      </div>
-    </section>
+  document.getElementById("heroDesc").textContent=c.desc;
+  document.getElementById("shotMain").alt=c.screens[0];
+  document.getElementById("shotMini").alt=c.screens[3];
 
-    <!-- Final Call to Action -->
-    <section id="final-cta-section" class="bg-surflo-dark py-16 px-4 md:py-24 md:px-8">
-      <div class="max-w-4xl mx-auto text-center">
-        <h2 id="final-cta-title" class="text-3xl md:text-6xl font-bold text-white mb-6 leading-tight">
-          돈의 흐름, 이제<br />
-          <span class="text-cyan-300">한 곳에서 완전히 파악하세요</span>
-        </h2>
-        <p class="text-base md:text-lg text-slate-300 mb-10">
-          통계와 연말정산으로 내 재정을 한눈에 보는 가계부 여정
-        </p>
-        <button id="cta-start-final" class="bg-cyan-400 text-gray-900 px-8 py-3.5 rounded-lg font-semibold text-base hover:bg-cyan-500 transition-all duration-200 inline-flex items-center mb-4 shadow-lg hover:shadow-xl">
-          지금 시작하기
-          <svg class="w-5 h-5 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
-          </svg>
-        </button>
-        <p class="text-sm text-slate-400">완전 무료, 신용카드 불필요.</p>
-      </div>
-    </section>
+  var trust=document.getElementById("trustRow");
+  trust.textContent="";
+  c.trust.slice(1).forEach(function(x){trust.appendChild(el("span",null,"✓ "+x));});
 
-    <!-- Footer -->
-    <footer id="footer" class="bg-surflo-dark border-t border-slate-700 py-12 px-4 md:px-8 text-center">
-      <div class="max-w-4xl mx-auto text-center">
-        <h3 class="text-2xl font-bold text-white mb-2">서플로 Surflo</h3>
-        <p class="text-slate-400 text-sm mb-6">지출과 수입, 한 화면에서 흐름으로 파악하기</p>
-        <p class="text-xs text-slate-500">© 2024 Surflo. All rights reserved.</p>
-      </div>
-    </footer>
-  </body>
+  var band=document.getElementById("flowBand");
+  band.textContent="";
+  c.band.forEach(function(x,i){
+    var item=el("div","bandItem");
+    item.appendChild(el("p",null,x));
+    if(i<2)item.appendChild(el("span",null,"→"));
+    band.appendChild(item);
+  });
+
+  document.getElementById("featureTitle").textContent=c.featureTitle;
+  var grid=document.getElementById("featureGrid");
+  grid.textContent="";
+  c.features.forEach(function(f,i){
+    var a=el("article",i===6?"featured":"");
+    a.appendChild(el("span","featureIcon",icons[i]));
+    a.appendChild(el("h3",null,f));
+    a.appendChild(el("p",null,detail[i%4]));
+    a.appendChild(el("i","arrow","↗"));
+    grid.appendChild(a);
+  });
+
+  document.getElementById("footerText").textContent=c.footer;
+  document.getElementById("footerMeta").textContent="© 2026 Surflo · "+names[lang];
+}
+
+var saved=null;
+try{saved=localStorage.getItem("surflo-lang");}catch(e){}
+var initial=(saved&&t[saved])?saved:"ko";
+render(initial);
+sel.addEventListener("change",function(){
+  render(sel.value);
+  try{localStorage.setItem("surflo-lang",sel.value);}catch(e){}
+});
+</script>
+</body>
 </html>
